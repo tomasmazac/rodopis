@@ -7,6 +7,8 @@ surname: 'Míč'
 
 **Josef Míč** byl synem Václava Míče a Anny Laurichové. Narodil se 9. srpna 1894 ve [Studenci](https://cs.wikipedia.org/wiki/Studenec_(okres_Semily)) čp. 164. \[1\] Byl manželem [Anny Šístkové](sistkova-anna-1901.md).
 
+V letech 1906–1908 chodil do 2. a 3. ročníku do měšťanské školy na Husově náměstí v [Benátkách nad Jizerou](https://cs.wikipedia.org/wiki/Ben%C3%A1tky_nad_Jizerou). \[?\]
+
 Zemřel 10. května 1979 v ranních hodinách ve věku 84 let. \[2\]
 
 
@@ -18,7 +20,7 @@ Zemřel 10. května 1979 v ranních hodinách ve věku 84 let. \[2\]
 
 ## Potomci
 
-- Helena Morávková (1925–2008)
+- [Helena Morávková](micova-helena-1925.md) (1925–2008)
 - Olga Mazačová
 
 
