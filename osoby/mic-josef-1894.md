@@ -5,7 +5,7 @@ surname: 'Míč'
 
 # Josef Míč
 
-**Josef Míč** byl synem Václava Míče a Anny Laurichové. Narodil se 9. srpna 1894 ve [Studenci](https://cs.wikipedia.org/wiki/Studenec_(okres_Semily)) čp. 164. \[1\]
+**Josef Míč** byl synem Václava Míče a Anny Laurichové. Narodil se 9. srpna 1894 ve [Studenci](https://cs.wikipedia.org/wiki/Studenec_(okres_Semily)) čp. 164. \[1\] Byl manželem [Anny Šístkové](sistkova-anna-1901.md).
 
 Zemřel 10. května 1979 v ranních hodinách ve věku 84 let. \[2\]
 
