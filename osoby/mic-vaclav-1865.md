@@ -7,7 +7,7 @@ surname: 'Míč'
 
 **Václav Míč** byl nejmladším synem Jana Míče a Kateřiny Frumarové. Narodil se 9. července 1865 v [Brodcích](https://cs.wikipedia.org/wiki/Brodce) čp. 99. \[1\]
 
-2\. května 1891 se oženil s Annou Laurichovou. \[?\]
+2\. května 1891 se oženil s [Annou Laurichovou](laurichova-anna-1870.md). \[?\]
 
 
 ## Rodiče
@@ -18,7 +18,7 @@ surname: 'Míč'
 
 ## Potomci
 
-- [Josef Míč](mic-josef-1894.md)
+- [Josef Míč](mic-josef-1894.md) (1894–1979)
 - Marie Míčová (1896–?)
 - Karel Míč (1897–1897)
 - František Míč (1898–1983)
