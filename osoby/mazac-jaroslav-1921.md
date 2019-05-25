@@ -15,7 +15,7 @@ Zemřel po delší nemoci v pondělí 14. února 2005 ve 20.50. Bylo mu 83 let.
 ## Rodiče
 
 - [Jan Mazač](mazac-jan-1891.md) (1891–1932)
-- [Marie Marková](markova-marie-1887-md) (1887–1975)
+- [Marie Marková](markova-marie-1887.md) (1887–1975)
 
 
 ## Potomci
