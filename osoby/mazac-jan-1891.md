@@ -27,4 +27,4 @@ Dne 4. září 1920 se oženil s [Marií Markovou](markova-marie-1887.md). \[?\]
 
 ## Zdroje
 
-1. Matriční záznam o narození – [SOA Litoměřice, N, I-N • inv. č. 1024 • sig. L17/62 • 1888 - 1896 • Horní Kamenice](http://vademecum.soalitomerice.cz/vademecum/permalink?xid=09ddd7cea03b9b8d:4e496e4e:12216bae987:-79a3&scan=58#scan58)
+1. Matriční záznam o narození – [SOA Litoměřice, inv. č. 1024, sig. L17/62, fol. 57](http://vademecum.soalitomerice.cz/vademecum/permalink?xid=09ddd7cea03b9b8d:4e496e4e:12216bae987:-79a3&scan=58#scan58)
