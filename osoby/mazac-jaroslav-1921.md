@@ -1,6 +1,9 @@
 ---
 title: 'Jaroslav Mazač'
+firstName: 'Jaroslav'
 surname: 'Mazač'
+birth: 1921
+death: 2006
 ---
 
 # Jaroslav Mazač

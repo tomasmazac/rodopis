@@ -1,5 +1,9 @@
 ---
 title: 'Marie Mazačová (roz. Marková)'
+firstName: 'Marie'
+surname: 'Marková'
+birth: 1887
+death: 1975
 ---
 
 # Marie Mazačová (roz. Marková)

@@ -1,6 +1,9 @@
 ---
 title: 'Helena Morávková (roz. Míčová)'
+firstName: 'Helena'
 surname: 'Míčová'
+birth: 1925
+death: 2008
 ---
 
 # Helena Morávková (roz. Míčová)

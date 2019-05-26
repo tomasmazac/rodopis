@@ -1,6 +1,9 @@
 ---
 title: 'Anna Šístková'
+firstName: 'Anna'
 surname: 'Šístková'
+birth: 1901
+death: 1983
 ---
 
 # Anna Míčová (roz. Šístková)

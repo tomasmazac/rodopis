@@ -1,20 +1,9 @@
 ---
 title: 'Josef Mazač'
-birth:
-    date:
-        day: 10
-        month: 8
-        year: 1858
-    place: "Apolinářská 447, Praha 2"
-death:
-    date:
-        day: 9
-        month: 6
-        year: 1936
-    place: undefined
-yHaplogroup: "I-P37"
-mtHaplogroup: undefined
-blood: undefined
+firstName: 'Josef'
+surname: 'Mazač'
+birth: 1858
+death: 1936
 ---
 
 # Josef Mazač

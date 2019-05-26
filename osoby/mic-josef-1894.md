@@ -1,6 +1,9 @@
 ---
 title: 'Josef Míč'
+firstName: 'Josef'
 surname: 'Míč'
+birth: 1894
+death: 1979
 ---
 
 # Josef Míč

@@ -1,5 +1,9 @@
 ---
 title: 'Karel Mazač'
+firstName: 'Karel'
+surname: 'Mazač'
+birth: 1884
+death: 1952
 ---
 
 # Karel Mazač

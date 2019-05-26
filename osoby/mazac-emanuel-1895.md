@@ -1,6 +1,9 @@
 ---
 title: 'Emanuel Mazač'
+firstName: 'Emanuel'
 surname: 'Mazač'
+birth: 1895
+death: 1949
 ---
 
 # Emanuel Mazač

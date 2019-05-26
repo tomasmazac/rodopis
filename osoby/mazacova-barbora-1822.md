@@ -1,5 +1,8 @@
 ---
 title: 'Barbora Mazačová'
+firstName: 'Barbora'
+surname: 'Mazačová'
+birth: 1922
 ---
 
 # Barbora Mazačová

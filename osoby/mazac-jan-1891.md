@@ -1,6 +1,9 @@
 ---
 title: 'Jan Mazač'
+firstName: 'Jan'
 surname: 'Mazač'
+birth: 1891
+death: 1932
 ---
 
 # Jan Mazač

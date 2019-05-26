@@ -1,6 +1,9 @@
 ---
 title: 'Anna Míčová (roz. Laurichová)'
+firstName: 'Anna'
 surname: 'Laurichová'
+birth: 1870
+death: 1950
 ---
 
 # Anna Míčová (roz. Laurichová)

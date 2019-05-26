@@ -1,6 +1,9 @@
 ---
 title: 'Marie Marková (roz. Švermová)'
+firstName: 'Marie'
 surname: 'Švermová'
+birth: 1867
+death: 1937
 ---
 
 # Marie Marková (roz. Švermová)

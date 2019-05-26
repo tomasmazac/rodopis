@@ -1,6 +1,8 @@
 ---
 title: 'Václav Míč'
+firstName: 'Václav'
 surname: 'Míč'
+birth: 1865
 ---
 
 # Václav Míč
