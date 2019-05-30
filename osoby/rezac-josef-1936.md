@@ -10,7 +10,7 @@ death: 2013
 
 **Josef Řezáč** byl nemanželským synem [Boženy Malhausové](rezacova-bozena-1912.md). Narodil se 4. ledna 1936 v [Mladé Boleslavi](https://cs.wikipedia.org/wiki/Mlad%C3%A1_Boleslav). \[?\]
 
-Zemřel 23. prosince 2013 ve věku 77 let. \[?\]
+Zemřel 26. prosince 2013 ve věku 77 let. \[?\]
 
 
 ## Rodiče
@@ -20,5 +20,5 @@ Zemřel 23. prosince 2013 ve věku 77 let. \[?\]
 
 ## Potomci
 
-- Jindřich Řezáč
+- Josef Řezáč (?–2018)
 - Soňa Foitová
