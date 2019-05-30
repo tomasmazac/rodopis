@@ -7,6 +7,10 @@ birth: 1922
 
 # Barbora Mazačová
 
+::: warning NEKOMPLETNÍ INFORMACE
+Chybí matriční záznam o úmrtí nebo úmrtní list.
+:::
+
 **Barbora Mazačová** byla dcera Jana Mazače a Kateřiny Špačkové. Narodila se 12. května 1822 v [Kounicích](https://cs.wikipedia.org/wiki/Kounice). \[1\]
 
 

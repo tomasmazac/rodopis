@@ -8,6 +8,10 @@ death: 2008
 
 # Helena Morávková (roz. Míčová)
 
+::: warning NEKOMPLETNÍ INFORMACE
+Chybí matriční záznam o narození nebo rodný list.
+:::
+
 **Helena Morávková** (rozená **Míčová**) byla dcerou [Josefa Míče](mic-josef-1894.md) a [Anny Šístkové](sistkova-anna-1901.md). Narodila se 12. února 1925. \[?\]
 
 Vystudovala rodinnou školu a učitelskou nástavbu a celý život pracovala jako učitelka. Učila na základních školách v Benátkách nad Jizerou, Všejanech, Poříčanech, Českém Brodě aj. \[1\]

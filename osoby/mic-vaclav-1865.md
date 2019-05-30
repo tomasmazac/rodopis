@@ -7,6 +7,10 @@ birth: 1865
 
 # Václav Míč
 
+::: warning NEKOMPLETNÍ INFORMACE
+Chybí matriční záznam o úmrtí nebo úmrtní list.
+:::
+
 **Václav Míč** byl nejmladším synem Jana Míče a Kateřiny Frumarové. Narodil se 9. července 1865 v [Brodcích](https://cs.wikipedia.org/wiki/Brodce) čp. 99. \[1\]
 
 2\. května 1891 se oženil s [Annou Laurichovou](laurichova-anna-1870.md). \[?\]
