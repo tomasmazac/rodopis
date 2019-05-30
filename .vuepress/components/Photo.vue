@@ -15,10 +15,6 @@ export default {
 </script>
 
 <style>
-figure {
-    margin-left: 0; margin-right: 0
-}
-
 figcaption {
     font-style: italic;
     text-align: center;
