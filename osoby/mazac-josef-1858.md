@@ -29,7 +29,7 @@ Po delší nemoci zemřel 9. června 1936 ve 3 hodiny ráno ve věku 79 let (na 
 
 ## Rodiče
 
-- Barbora Mazačová (1822–?)
+- [Barbora Mazačová](mazacova-barbora-1822.md) (1822–?)
 
 
 ## Potomci
