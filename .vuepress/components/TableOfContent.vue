@@ -9,7 +9,12 @@
       <ul>
         <li v-for="page in categories[letter]">
           <a :href="page.path">{{ page.frontmatter.surname }} {{ page.frontmatter.firstName }}</a>
-          ({{ getBirth(page) }}–{{ getDeath(page) }})
+          <span v-if="getBirth(page) !== '?' || getDeath(page) !== '?'">
+            ({{ getBirth(page) }}–{{ getDeath(page) }})
+          </span>
+          <span v-else>
+            
+          </span>
         </li>
       </ul>
 
@@ -26,7 +31,7 @@ import Vue from 'vue'
 export default {
   data() {
     return {
-      alphabet: ['A', 'B', 'C', 'Č', 'D', 'E', 'F', 'G', 'H', 'Ch', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'Š', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'Ž'],
+      alphabet: ['A', 'B', 'C', 'Č', 'D', 'E', 'F', 'G', 'H', 'Ch', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'Ř', 'S', 'Š', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'Ž'],
       categories: {}
     }
   },
