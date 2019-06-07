@@ -10,7 +10,7 @@ death: 1937
 
 **Marie Marková** (roz. **Švermová**) byla dcerou Jiřího Švermy a Anny Horákové. Narodila se 4. května 1867 v Hrubém Ptýrově čp. 13. \[1\]
 
-V 17 letech se provdala za Antonína Průška, hostinského z [Podhradí](https://cs.wikipedia.org/wiki/Podhrad%C3%AD_(Bakov_nad_Jizerou)) čp. 6. Svatební obřad proběhl 13. února 1885. \[?\] Za pět měsíců se jim narodil syn Antonín, ale už 12. října umírá hostinský Antonín na [tuberkulózu](https://cs.wikipedia.org/wiki/Tuberkul%C3%B3za). \[3\] Mladičkou vdovu si bere za ženu olešnický rolník Jan Marek. \[4\]
+V 17 letech se provdala za Antonína Průška, hostinského z [Podhradí](https://cs.wikipedia.org/wiki/Podhrad%C3%AD_(Bakov_nad_Jizerou)) čp. 6. Svatební obřad proběhl 13. února 1885. \[?\] Za pět měsíců se jim narodil syn Antonín, ale už 12. října umírá hostinský Antonín na [tuberkulózu](https://cs.wikipedia.org/wiki/Tuberkul%C3%B3za). \[3\] Mladičkou vdovu si bere za ženu olešnický rolník [Jan Marek](marek-jan-1860.md). \[4\]
 
 Zemřela 8. srpna 1937 v okresní nemocnici v [Mladé Boleslavi](https://cs.wikipedia.org/wiki/Mlad%C3%A1_Boleslav). \[2\]
 
