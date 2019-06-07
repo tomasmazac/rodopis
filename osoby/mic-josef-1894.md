@@ -8,6 +8,11 @@ death: 1979
 
 # Josef Míč
 
+::: warning NEKOMPLETNÍ INFORMACE
+- Chybí matriční záznam o narození nebo rodný list.
+- Chybí matriční záznam o sňatku nebo oddací list.
+:::
+
 **Josef Míč** byl nejstarším synem [Václava Míče](mic-vaclav-1865.md) a [Anny Laurichové](laurichova-anna-1870.md). Narodil se 9. srpna 1894 ve [Studenci](https://cs.wikipedia.org/wiki/Studenec_(okres_Semily)) čp. 164. \[1\] Byl manželem [Anny Šístkové](sistkova-anna-1901.md).
 
 V letech 1906–1908 chodil do 2. a 3. ročníku do měšťanské školy na Husově náměstí v [Benátkách nad Jizerou](https://cs.wikipedia.org/wiki/Ben%C3%A1tky_nad_Jizerou). \[?\]

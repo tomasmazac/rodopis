@@ -8,6 +8,11 @@ death: 1898
 
 # Marie Mazačová (roz. Škobisová)
 
+::: warning NEKOMPLETNÍ INFORMACE
+- Chybí matriční záznam o sňatku nebo oddací list.
+- Chybí matriční záznam o úmrtí nebo úmrtní list.
+:::
+
 **Marie Mazačová** (roz. **Škobisová**) byla dcerou [Leopolda Škobise](skobis-leopold-1838.md) a [Kateřiny Šinorové](sinorova-katerina-1837.md). Narodila se 8. listopadu 1860 v Pyšelích čp. 56. \[1\]
 
 

@@ -8,6 +8,12 @@ death: 2013
 
 # Božena Malhausová (rozená Řezáčová)
 
+::: warning NEKOMPLETNÍ INFORMACE
+- Chybí matriční záznam o narození nebo rodný list.
+- Chybí matriční záznam o sňatku nebo oddací list.
+- Chybí matriční záznam o úmrtí nebo úmrtní list.
+:::
+
 **Božena Malhausová** (rozená **Řezáčová**) byl dcerou [Josefa Řezáče](rezac-josef-1881.md) a Vilemíny Šimonové. Narodila se 13. ledna 1912 v [Kosmonosích](https://cs.wikipedia.org/wiki/Kosmonosy). \[?\]
 
 Zemřela 21. září 1990 ve věku 78 let. \[?\]

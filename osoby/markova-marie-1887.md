@@ -8,6 +8,11 @@ death: 1975
 
 # Marie Mazačová (roz. Marková)
 
+::: warning NEKOMPLETNÍ INFORMACE
+- Chybí matriční záznam o sňatku nebo oddací list.
+- Chybí matriční záznam o úmrtí nebo úmrtní list.
+:::
+
 **Marie Mazačová** (roz. **Marková**) byla dcera [Jana Marka](marek-jan-1860.md) a [Marie Švermové](svermova-marie-1867.md). Narodila se 25. ledna 1887 v [Podhradí](https://cs.wikipedia.org/wiki/Podhrad%C3%AD_(Bakov_nad_Jizerou)) čp. 6. \[1\]
 
 Dne 4. září 1920 se provdala za [Jana Mazače](mazac-jan-1891.md). \[?\]
