@@ -19,7 +19,7 @@ Chybí matriční záznam o úmrtí nebo úmrtní list.
 
 ### Mládí
 
-Narodil se 18. prosince 1895 v [České Kamenici](https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%A1_Kamenice) čp. 147. \[1\] V Česke Kamenici absolvoval pět tříd [obecné](https://cs.wikipedia.org/wiki/Obecn%C3%A1_%C5%A1kola) a tři třídy měšťanské školy (obdoba dnešního druhého stupně základní školy). Jelikož ve škole dobře prospíval, jeho otec [Josef](mazac-josef-1858.md) si přál, aby šel Emanuel studovat do Prahy. Jelikož měl Emanuel devět sourozenců, z finančních důvodů se toto přání nemohlo splnit a on musel nastoupit do zaměstnání v českokamenických papírnách. Zhruba po roce sklářská firma Czerney z Kamenického Šenova hledala praktikanta pro své prodejny v Turecku. Emanuel se přihlásil, byl vybrán a poslán do [Cařihradu](https://cs.wikipedia.org/wiki/Istanbul). \[8\]
+Narodil se 18. prosince 1895 v [České Kamenici](https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%A1_Kamenice) čp. 147. \[1\] V České Kamenici absolvoval pět tříd [obecné](https://cs.wikipedia.org/wiki/Obecn%C3%A1_%C5%A1kola) a tři třídy měšťanské školy (obdoba dnešního druhého stupně základní školy). Jelikož ve škole dobře prospíval, jeho otec [Josef](mazac-josef-1858.md) si přál, aby šel Emanuel studovat do Prahy. Jelikož měl Emanuel devět sourozenců, z finančních důvodů se toto přání nemohlo splnit a on musel nastoupit do zaměstnání v českokamenických papírnách. Zhruba po roce sklářská firma Czerney z Kamenického Šenova hledala praktikanta pro své prodejny v Turecku. Emanuel se přihlásil, byl vybrán a poslán do [Cařihradu](https://cs.wikipedia.org/wiki/Istanbul). \[8\]
 
 <div style="display: flex">
 
