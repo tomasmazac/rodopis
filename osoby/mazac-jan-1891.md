@@ -8,6 +8,10 @@ death: 1932
 
 # Jan Mazač
 
+::: warning NEKOMPLETNÍ INFORMACE
+- Chybí matriční záznam o sňatku nebo oddací list.
+:::
+
 **Jan Mazač** byl synem [Josefa Mazače](mazac-josef-1858.md) a Marie Škobisové. Narodil se 13. října 1891 v České Kamenici. \[1\]
 
 Dne 4. září 1920 se oženil s [Marií Markovou](markova-marie-1887.md). \[?\]
