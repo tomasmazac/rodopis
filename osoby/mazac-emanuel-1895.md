@@ -8,11 +8,7 @@ death: 1949
 
 # Emanuel Mazač
 
-::: warning NEKOMPLETNÍ INFORMACE
-Chybí matriční záznam o úmrtí nebo úmrtní list.
-:::
-
-**Emanuel Josef Mazač** byl synem [Josefa Mazače](mazac-josef-1858.md) a [Marie Škobisové](skobisova-marie-1860.md).  \[1\]
+**Emanuel Josef Mazač** byl synem [Josefa Mazače](mazac-josef-1858.md) a [Marie Škobisové](skobisova-marie-1860.md). \[1\]
 
 
 ## Život
@@ -38,7 +34,7 @@ První místem, kde byl Emanuel internován, byl rozlehlý kartuziánský kláš
 
 Legie formálně vznikly až 21. dubna 1918. Emanuel byl přiřazen do 31. pěšího pluku \[2\] a s prvními výzvědnými oddíly se zúčastnil [bitvy na Piavě](https://cs.wikipedia.org/wiki/Bitva_na_Piav%C4%9B). \[8\]
 
-Do nově vzniklého Československa se vrátil koncem roku 1918, takřka okamžitě byl ale vyslán do bojů v [Maďarsko-československé válce](https://cs.wikipedia.org/wiki/Ma%C4%8Farsko-%C4%8Deskoslovensk%C3%A1_v%C3%A1lka). Koncem roku 1919 se s 39. plukem vrací do Prahy. Až do března 1923 byl přidělen v zahraničním oddělení presidia ministerstva národní obrany, od dubna nastoupil na ministerstvo zahraničních věcí. \[8\]
+Do nově vzniklého Československa se vrátil koncem roku 1918, takřka okamžitě byl ale vyslán do bojů v [Maďarsko-československé válce](https://cs.wikipedia.org/wiki/Ma%C4%8Farsko-%C4%8Deskoslovensk%C3%A1_v%C3%A1lka). Koncem roku 1919 se s 39. plukem vrací do Prahy. Až do března 1923 byl přidělen v zahraničním oddělení presidia ministerstva národní obrany, od dubna nastoupil na ministerstvo zahraničních věcí (MZV). \[8\]
 
 
 ### Ve službách zamini
@@ -68,7 +64,7 @@ Koncem roku 1947 byl přeložen zpět do ústředí, kde 2. ledna 1948 nastoupil
 
 Jeho posledním trvalým bydlištěm byl byt v prvním patře na [Valdštejnově náměstí 163](https://goo.gl/maps/JFG8uP383vD2) na Praze 1 (tehdy Praha 3).
 
-Dne 7. března 1949 sepsal [svůj životopis](/zdroje/mazac-emanuel/cv.md). \[8\] Za necelý týden, 13. března 1949 zemřel v důsledku otravy oxidem uhličitým (zřejmě tzv. svítiplynem). Bylo mu 53 let. Matriční záznam by měl být zapsán v knize zemřelých farnosti sv. Tomáše v Praze na Malé Straně.
+Dne 7. března 1949 sepsal [svůj životopis](/zdroje/mazac-emanuel/cv.md). \[8\] Za necelý týden, 13. března 1949 zemřel v důsledku otravy oxidem uhličitým (zřejmě tzv. svítiplynem). \[11\] Bylo mu 53 let.
 
 Zemřel svobodný a bezdětný.
 
@@ -91,3 +87,4 @@ Zemřel svobodný a bezdětný.
 8. [Životopis Emanuela Mazače](/zdroje/mazac-emanuel/cv.md)
 9. BAKEŠOVÁ, Ivana. _Legionáři v roli diplomatů: československo-čínské vztahy 1918-1949._ Praha: Filozofická fakulta Univerzity Karlovy, 2013. ISBN 978-80-7308-462-2.
 10. MIŇOVSKÝ Stanislav. _Ministerstvo zahraničních věcí České republiky_ [online]. Praha: Ministerstvo zahraničních věcí České republiky [cit. 2019-06-16]. Dostupné z: [https://www.mzv.cz/jnp/cz/o_ministerstvu/organizacni_struktura/utvary_mzv/specializovany_archiv_mzv/kdo_byl_kdo/minovsky_stanislav.html](https://www.mzv.cz/jnp/cz/o_ministerstvu/organizacni_struktura/utvary_mzv/specializovany_archiv_mzv/kdo_byl_kdo/minovsky_stanislav.html)
+11. Matriční záznam o úmrtí
