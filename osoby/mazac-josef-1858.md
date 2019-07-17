@@ -8,9 +8,24 @@ death: 1936
 
 # Josef Mazač
 
-**Josef Mazač** byl nemanželský syn [Barbory Mazačové](mazacova-barbora-1822.md). Narodil se 10. srpna 1858 v [Praze](https://cs.wikipedia.org/wiki/Praha) v [porodnici u Apolináře](https://cs.wikipedia.org/wiki/Zemsk%C3%A1_porodnice_u_Apolin%C3%A1%C5%99e). \[1\]
+::: warning NEKOMPLETNÍ INFORMACE
+Chybí matriční záznam o úmrtí nebo úmrtní list.
+:::
 
-28\. září 1884 se oženil s Marií Škobisovou. Svatební obřad proběhl v [kostele sv. Mikuláše ve Vršovicích](https://cs.wikipedia.org/wiki/Kostel_svatého_Mikuláše_(Vršovice)). 29. prosince 1884 (tj. čtyři měsíce po svatbě) se jim narodil syn [Karel](mazac-karel-1884.md). \[4\]
+**Josef Mazač** byl nemanželský syn [Barbory Mazačové](mazacova-barbora.md). Narodil se v úterý 10. srpna 1858 v [Praze](https://cs.wikipedia.org/wiki/Praha) v [porodnici u Apolináře](https://cs.wikipedia.org/wiki/Zemsk%C3%A1_porodnice_u_Apolin%C3%A1%C5%99e) přibližně v 9.45. \[1, 9\]
+
+Do nalezince byl dán za osm dní ve středu 18. srpna 1858 a
+
+* téhož dne byl předán pěstounům Františkovi a Josefě Čapouškovým z [Mitrovic](https://cs.wikipedia.org/wiki/Mitrovice_(Mezno)) čp. 31 (okres [Mladá Vožice](https://cs.wikipedia.org/wiki/Mlad%C3%A1_Vo%C5%BEice)), 
+* dne 9. září 1865 byl předán do péče Jaroslava a Kateřiny Spieglových, [Malá Strana čp. 247](https://goo.gl/maps/mx688hKCGqLa4FKU7), 
+* dne 11. června 1866 do péče vdovy Anny Černé z [Kounic](https://en.wikipedia.org/wiki/Kounice) (odkud pocházela i jeho matka Barbora) a 
+* dne 20. října 1866 do péče vdovy Elisabeth Počtové z [Kounic čp. 6](https://goo.gl/maps/DPLfDaVvzMNuSdc7A).
+
+Dne 9. 9. 1869 dosáhl tzv. normálního věku, v tu chvíli končila péče nalezince o dítě a okresním soudem mu byl ustanoven poručníkem František Boháček z Kounic. \[9\]
+
+28\. září 1884 se oženil s [Marií Škobisovou](skobisova-marie-1860.md). Svatební obřad proběhl v [kostele sv. Mikuláše ve Vršovicích](https://cs.wikipedia.org/wiki/Kostel_svatého_Mikuláše_(Vršovice)). 29. prosince 1884 (tj. čtyři měsíce po svatbě) se jim narodil syn [Karel](mazac-karel-1884.md). \[4\]
+
+<Photo src="00000384-00000195.jpg" alt="Pobytová přihláška pražského policejního ředitelství [2]" />
 
 Josef pracoval jako zahradnický dělník. \[4\] Rodina postupně pobývala v domech č. 1516, 1497 a 1459 na [Novém Městě](https://cs.wikipedia.org/wiki/Nov%C3%A9_M%C4%9Bsto_(Praha)). \[2\] Později se však přestěhovala do [České Kamenice](https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%A1_Kamenice), konkrétně do Horní Kamenice čp. 128. V místě nového bydliště byl zaměstnán v papírenské firmě Ignac Fuchs jako zahradník a později jako tovární vrátný. \[5\]
 
@@ -29,7 +44,7 @@ Po delší nemoci zemřel 9. června 1936 ve 3 hodiny ráno ve věku 79 let (na 
 
 ## Rodiče
 
-- [Barbora Mazačová](mazacova-barbora-1822.md) (1822–?)
+- [Barbora Mazačová](mazacova-barbora.md) (?–1858)
 
 
 ## Potomci
@@ -57,3 +72,4 @@ Po delší nemoci zemřel 9. června 1936 ve 3 hodiny ráno ve věku 79 let (na 
 6. POLÁK, Jaroslav. _Česká Kamenice na starých pohlednicích: Böhmisch Kamnitz auf alten Ansichtskarten_. Děčín: PolArt, 2012. ISBN 978-80-87286-16-6.
 7. Matriční záznam o úmrtí Marie Mazačové – [SOA Litoměřice, inv. č. 998, sig. L17/36, fol. 112](http://vademecum.soalitomerice.cz/vademecum/permalink?xid=09ddd7cea03b9b8d:4e496e4e:12216bae987:-79c1&scan=115#scan115)
 8. Matriční záznam o úmrtí Bohumily Mazačové – [SOA Litoměřice, inv. č. 10736, sig. L17/141, fol. 272](http://vademecum.soalitomerice.cz/vademecum/permalink?xid=8d0e01f6cf78fd58:-6ca67971:13f99d54109:-7f5e&scan=277#scan277)
+9. [Rešerše z Národního archivu](../D01_02_Prvopis_verze_3EEA4C20.pdf)
