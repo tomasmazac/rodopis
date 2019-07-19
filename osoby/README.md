@@ -2,4 +2,6 @@
 
 _Pozn.: U vdaných žen je uvedeno pouze jejich rodné příjmení._
 
-<TableOfContent />
+<ClientOnly>
+  <TableOfContent />
+</ClientOnly>
