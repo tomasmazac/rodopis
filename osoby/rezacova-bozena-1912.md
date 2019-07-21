@@ -2,8 +2,8 @@
 title: 'Božena Malhausová (rozená Řezáčová)'
 firstName: 'Božena'
 surname: 'Řezáčová'
-birth: 1936
-death: 2013
+birth: 1912
+death: 1990
 ---
 
 # Božena Malhausová (rozená Řezáčová)
