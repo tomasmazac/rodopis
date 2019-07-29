@@ -141,6 +141,7 @@ export default {
 ul {
   padding: 0;
   list-style: none;
+  text-align: center;
 }
 li {
   display: inline-block;
