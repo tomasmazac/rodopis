@@ -17,7 +17,7 @@ death: 1967
 
 Nejmladší syn Ľudovít jako jediný z dětí Juraje a Marie má v matrice zapisané křestní jméno _Július_, ale nikdy ho tak nenazývali. Jeho potomkové si bohužel nepamatají proč. V minulosti se stávalo, že rodiče nechali pokřtít své dítě jedním křestním jménem, ale celý jeho život ho oslovovali jiným jménem – v tomto případě _Ľudovít_, nebo domácky _Lajoš_. \[2\]
 
-Povoláním byl mlynář. V tomto povolaní se stávalo mnoho pracovních úrazů. Mlynáři nejčastěji spadli z dřevěného mlýnského kola a ruku jim poškodil řemen. To byl Ľudovítův případ – měl trvalé devastační poranění pravé ruky. \[2\]
+Povoláním byl mlynář. V tomto povolání se stávalo mnoho pracovních úrazů. Mlynáři nejčastěji spadli z dřevěného mlýnského kola a ruku jim poškodil řemen. To byl i Ľudovítův případ – měl trvalé devastační poranění pravé ruky. \[2\]
 
 <Photo src="ludovit-reczky.jpg" alt="Ľudovít Recký" size="md" />
 
