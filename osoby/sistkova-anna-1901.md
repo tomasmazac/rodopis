@@ -19,7 +19,7 @@ Zemřela po delší nemoci v sobotu 6. srpna 1983 ve věku 82 let. \[2\]
 
 ## Rodiče
 
-- František Šístek (1872–?)
+- [František Šístek](sistek-frantisek-1872.md) (1872–?)
 - Marie Pavelková (1872–?)
 
 
