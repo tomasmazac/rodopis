@@ -29,7 +29,7 @@ Dne 9. 9. 1869 dosáhl tzv. normálního věku, v tu chvíli končila péče nal
 
 Josef pracoval jako zahradnický dělník. \[4\] Rodina postupně pobývala v domech č. 1516, 1497 a 1459 na [Novém Městě](https://cs.wikipedia.org/wiki/Nov%C3%A9_M%C4%9Bsto_(Praha)). \[2\] Později se však přestěhovala do [České Kamenice](https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%A1_Kamenice), konkrétně do Horní Kamenice čp. 128. V místě nového bydliště byl zaměstnán v papírenské firmě Ignac Fuchs jako zahradník a později jako tovární vrátný. \[5\]
 
-V Horní Kamenici se mu dále narodili děti Josef (umírá ve dvou letech), [Jan]((mazac-jan-1891.md)), Marie, Bohumila, [Emanuel](mazac-emanuel-1895.md), František a druhý Josef (po deseti dnech po narození taktéž umírá).
+V Horní Kamenici se mu dále narodili děti Josef (umírá ve dvou letech), [Jan](mazac-jan-1891.md), Marie, Bohumila, [Emanuel](mazac-emanuel-1895.md), František a druhý Josef (po deseti dnech po narození taktéž umírá).
     
 <Photo src="ceska-kamenice-papirny-veduta.jpg" alt="Česko-kamenické papírny na dobové vedutě [6]" />
 
