@@ -59,7 +59,7 @@ Po delší nemoci zemřel 9. června 1936 ve 3 hodiny ráno ve věku 79 let (na 
 - František Mazač (1897–1909)
 - Josef Mazač (1898–1898)
 - Bohumila Mazačová
-- Alois Mazač
+- Alois Mazač (1906–?)
 
 
 ## Zdroje
