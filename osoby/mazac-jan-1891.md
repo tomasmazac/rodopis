@@ -19,8 +19,8 @@ Dne 4. září 1920 se oženil s [Marií Markovou](markova-marie-1887.md). \[?\]
 
 ## Rodiče
 
-- [Josef Mazač](mazac-josef-1858.md)
-- Marie Škobisová
+- [Josef Mazač](mazac-josef-1858.md) (1858–1936)
+- Marie Škobisová (1860–1898)
 
 
 ## Potomci
