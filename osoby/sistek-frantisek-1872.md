@@ -15,11 +15,11 @@ Chybí matriční záznam o úmrtí nebo úmrtní list.
 
 František se v Praze vyučil uzenářem. V učení byl tři roky – od 15. května 1887 do 20. dubna 1890. \[2\]
 
-Ve středu 25. listopadu 1896 se oženil s Marií Pavelkovou. Svatební obřad proběhl v [kostele Nejsvětější Trojice](https://cs.wikipedia.org/wiki/Kostel_Nejsv%C4%9Bt%C4%9Bj%C5%A1%C3%AD_Trojice_(Praha,_Trojick%C3%A1_ulice)). \[3\] 29. září 1897 se jim narodila dcera Marie.
+Ve středu 25. listopadu 1896 se oženil s Marií Pavelkovou. Svatební obřad proběhl v [kostele Nejsvětější Trojice](https://cs.wikipedia.org/wiki/Kostel_Nejsv%C4%9Bt%C4%9Bj%C5%A1%C3%AD_Trojice_(Praha,_Trojick%C3%A1_ulice)) v [Podskalí](https://cs.wikipedia.org/wiki/Podskal%C3%AD_(Praha)). \[3\] 29. září 1897 se jim narodila dcera Marie.
 
 Rodina se poté přestěhovala do [Říčan](https://cs.wikipedia.org/wiki/%C5%98%C3%AD%C4%8Dany). Zde se poté 12. ledna 1901 narodila dcera [Anna](sistkova-anna-1901.md).
 
-Někdy po roce 1908 (vzhledem k datu narození dcery Aloisie) se rodina stěhuje do Mělníka a z Františka Šístka se stává restauratér.
+Někdy po roce 1908 (vzhledem k datu narození dcery [Aloisie](sistkova-aloisie-1908.md)) se rodina stěhuje do [Mělníka](https://cs.wikipedia.org/wiki/M%C4%9Bln%C3%ADk) a z Františka Šístka se stává restauratér.
 
 <Photo src="sistek-frantisek.jpg" alt="František Šístek" size="md" />
 
@@ -37,7 +37,7 @@ Někdy po roce 1908 (vzhledem k datu narození dcery Aloisie) se rodina stěhuje
 - František Šístek (1902–?)
 - Josef Šístek (1904-?)
 - Ludmila Volštátová (1906–?)
-- Aloisie Šístková (1908–?)
+- [Aloisie Šotolová](sistkova-aloisie-1908.md) (1908–?)
 
 
 ## Jmenovec
