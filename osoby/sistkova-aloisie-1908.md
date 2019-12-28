@@ -21,6 +21,11 @@ birth: 1908
 - Marie Pavelková (1872–?)
 
 
+## Potomci
+
+- Josef Šotola
+
+
 ## Zdroje
 
 1. Matriční záznam o narození – [SOA Praha, Říčany 25, fol. 328](https://ebadatelna.soapraha.cz/d/11414/343)
