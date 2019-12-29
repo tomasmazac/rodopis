@@ -15,6 +15,8 @@ death: 1950
 
 **Anna Míčová** (rozená **Laurichová**) byla nejstarší dcerou Josefa Lauricha a Marie Tauchmanové. Narodila se 16. října 1870 ve [Studenci](https://cs.wikipedia.org/wiki/Studenec_(okres_Semily)) čp. 277. \[1\]
 
+<Photo src="laurichova-anna.jpg" alt="Anna Laurichová" size="md" />
+
 Zemřela 13. února 1950 v Jilemnici. \[1\] Bylo jí 79 let.
 
 
