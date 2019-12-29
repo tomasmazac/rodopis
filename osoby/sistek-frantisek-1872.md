@@ -21,7 +21,9 @@ Rodina se poté přestěhovala do [Říčan](https://cs.wikipedia.org/wiki/%C5%9
 
 Někdy po roce 1908 (vzhledem k datu narození dcery [Aloisie](sistkova-aloisie-1908.md)) se rodina stěhuje do [Mělníka](https://cs.wikipedia.org/wiki/M%C4%9Bln%C3%ADk) a z Františka Šístka se stává restauratér.
 
-<Photo src="sistek-frantisek.jpg" alt="František Šístek" size="md" />
+<Photo src="sistek-frantisek.jpg" alt="František Šístek (nedatováno)" size="md" />
+
+<Photo src="sistek-frantisek-1939.jpg" alt="František Šístek (1939)" size="md" />
 
 
 ## Rodiče
