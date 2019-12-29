@@ -17,6 +17,10 @@ death: 1979
 
 V letech 1906–1908 chodil do 2. a 3. ročníku do měšťanské školy na Husově náměstí v [Benátkách nad Jizerou](https://cs.wikipedia.org/wiki/Ben%C3%A1tky_nad_Jizerou). \[?\]
 
+V sobotu 29. července 1922 se oženil s [Annou Šístkovou](sistkova-anna-1901.md). \[?\]
+
+<Photo src="mic-josef-sistkova-anna-1922.jpg" alt="Svatební fotografie Josefa Míče a Anny Šístkové (29. července 1922)" size="md" />
+
 Zemřel 10. května 1979 v ranních hodinách ve věku 84 let. \[2\]
 
 
