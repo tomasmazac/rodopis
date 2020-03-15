@@ -3,6 +3,7 @@ title:  František Šístek
 firstName: František
 surname: Šístek
 birth: 1872
+death: 1944
 ---
 
 # František Šístek

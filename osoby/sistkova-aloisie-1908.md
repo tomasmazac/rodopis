@@ -17,8 +17,8 @@ birth: 1908
 
 ## Rodiče
 
-- [František Šístek](sistek-frantisek-1872.md) (1872–?)
-- Marie Pavelková (1872–?)
+- [František Šístek](sistek-frantisek-1872.md) (1872–1944)
+- [Marie Pavelková](pavelkova-marie-1872.md) (1872–1947)
 
 
 ## Potomci
