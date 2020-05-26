@@ -13,7 +13,7 @@ death: 1947
 - Chybí matriční záznam o úmrtí nebo úmrtní list.
 :::
 
-**Marie Antonie Šístková** (roz. **Pavelková**) byla dcerou [Josefa Pavelky](pavelka-josef-1843.md) a Aloisie Tomsové. Narodila se 20. března 1872 v&nbsp;[Novém Bydžově](https://cs.wikipedia.org/wiki/Nov%C3%BD_Byd%C5%BEov), křest proběhl následující den. \[1\]
+**Marie Antonie Šístková** (roz. **Pavelková**) byla dcerou [Josefa Pavelky](pavelka-josef-1843.md) a Aloisie Tomsové. Narodila se 20. března 1872 v&nbsp;[Novém Bydžově](https://cs.wikipedia.org/wiki/Nov%C3%BD_Byd%C5%BEov), křest proběhl následující den. \[?\]
 
 <Photo src="Photo1500274.jpg" alt="Marie Pavelková (nedatováno)" size="md" />
 
@@ -21,7 +21,7 @@ Ve svých 24 letech se 25. listopadu 1896 provdala za uzenáře [Františka Ší
 
 <Photo src="Photo1501267.jpg" alt="Marie Šístková (1939)" size="md" />
 
-Zemřela pravděpodobně v roce 1947. \[?\] Spolu se svými rodiči a manželem byla pochována na hřbitově Svatého Václava na Mělníku.
+V roce 1947 byla pochována na hřbitově Svatého Václava na Mělníku, vedle svého manžela a svých rodičů. \[2\] Pravděpodobně zemřela v témže roce.
 
 
 ## Rodiče
@@ -45,7 +45,7 @@ Zemřela pravděpodobně v roce 1947. \[?\] Spolu se svými rodiči a manželem 
 - Haploskupina mtDNA: H1c3
 
 
-
 ## Zdroje
 
 1. Matriční záznam o sňatku – [AMHP, TRP O7, fol. 11](http://katalog.ahmp.cz/pragapublica/permalink?xid=1F1A863F451F4D62890D7A0D83926838&scan=15#scan15)
+2. Informace z telefonického hovoru s mělnickou hřbitovní správou 30. prosince 2019
