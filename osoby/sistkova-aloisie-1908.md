@@ -12,7 +12,7 @@ birth: 1908
 - Chybí matriční záznam o úmrtí nebo úmrtní list.
 :::
 
-**Aloisie Anežka Šotolová** (roz. **Šístková**) byla nejmladší dcerou [Františka Šístka](sistek-frantisek-1872.md) a Marie Pavelkové. Narodil se 17. února 1908 v [Říčanech](https://cs.wikipedia.org/wiki/%C5%98%C3%AD%C4%8Dany) čp. 9. \[1\]
+**Aloisie Anežka Šotolová** (roz. **Šístková**) byla nejmladší dcerou [Františka Šístka](sistek-frantisek-1872.md) a Marie Pavelkové. Narodila se 17. února 1908 v&nbsp;[Říčanech](https://cs.wikipedia.org/wiki/%C5%98%C3%AD%C4%8Dany) čp. 9. \[1\]
 
 
 ## Rodiče
