@@ -33,7 +33,7 @@ V Horní Kamenici se mu dále narodili děti Josef (umírá ve dvou letech), [Ja
     
 <Photo src="ceska-kamenice-papirny-veduta.jpg" alt="Česko-kamenické papírny na dobové vedutě [6]" />
 
-V prosinci 1898 umírá na zápal plic jeho žena Marie. \[7\] 38letý vdovec si ale už 17. dubna 1899 vezme za ženu vdovu Bohumilu Šimůnkovou. Spolu mají postupně ještě děti Bohumilu a Aloise.
+V prosinci 1898 umřela na zápal plic jeho žena Marie. \[7\] 38letý vdovec si ale už 17. dubna 1899 vzal za ženu vdovu Bohumilu Šimůnkovou. Spolu měli postupně ještě děti Bohumilu a [Aloise](mazac-alois-1906.md).
 
 <Photo src="mazac-josef-a-synove.jpg" alt="Josef Mazač (uprostřed) a jeho synové (zleva Jan a Karel, zbylí dva – pravděpodobně Jaroslav a Alois – zatím nejsou identifikováni). " />
 
@@ -59,6 +59,7 @@ Po delší nemoci zemřel 9. června 1936 ve 3 hodiny ráno ve věku 79 let (na 
 - František Mazač (1897–1909)
 - Josef Mazač (1898–1898)
 - Bohumila Mazačová
+- [Alois Mazač](mazac-alois-1906.md) (1906–1983)
 
 
 ## DNA
