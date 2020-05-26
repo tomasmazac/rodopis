@@ -40,6 +40,12 @@ Zemřela pravděpodobně v roce 1947. \[?\] Spolu se svými rodiči a manželem 
 - [Aloisie Šotolová](sistkova-aloisie-1908.md) (1908–?)
 
 
+## DNA
+
+- Haploskupina mtDNA: H1c3
+
+
+
 ## Zdroje
 
 1. Matriční záznam o sňatku – [AMHP, TRP O7, fol. 11](http://katalog.ahmp.cz/pragapublica/permalink?xid=1F1A863F451F4D62890D7A0D83926838&scan=15#scan15)

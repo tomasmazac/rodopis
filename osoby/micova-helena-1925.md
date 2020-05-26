@@ -27,6 +27,12 @@ Zemřela 18. července 2008 ve věku 83 let. \[?\]
 - [Anna Šístková](sistkova-anna-1901.md) (1901–1983)
 
 
+## DNA
+
+- Haploskupina mtDNA: H1c3
+
+
+
 ## Zdroje
 
 1. Vyprávění Olgy Mazačové

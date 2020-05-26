@@ -43,6 +43,12 @@ Pochován byl na Novém hřbitově v Mladé Boleslavi na hřbitovních místech 
 - Miroslava Prokšová
 
 
+## DNA
+
+- Haploskupina Y-DNA: I-P37 (I2a)
+- Haploskupina mtDNA: nezjištěno
+
+
 ## Zdroje
 
 1. Matriční záznam o narození – [AHMP, VRŠ N6, str. 354](http://katalog.ahmp.cz/pragapublica/permalink?xid=FC152E6DB6FF48959C8931B618A21616&scan=354#scan354)

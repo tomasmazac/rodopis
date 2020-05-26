@@ -29,6 +29,11 @@ Zemřela po delší nemoci v sobotu 6. srpna 1983 ve věku 82 let. \[2\]
 - Olga Mazačová
 
 
+## DNA
+
+- Haploskupina mtDNA: H1c3
+
+
 ## Zdroje
 
 1. Matriční záznam o narození – [SOA Praha, Říčany 25, fol. 247](http://ebadatelna.soapraha.cz/d/11414/257)

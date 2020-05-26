@@ -21,6 +21,12 @@ Zemřel po delší nemoci v pondělí 14. února 2005 ve 20.50. Bylo mu 83 let.
 - [Marie Marková](markova-marie-1887.md) (1887–1975)
 
 
+## DNA
+
+- Haploskupina Y-DNA: I-P37 (I2a)
+- Haploskupina mtDNA: nezjištěno
+
+
 ## Potomci
 
 - Jiří Mazač

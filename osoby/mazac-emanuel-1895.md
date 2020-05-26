@@ -75,6 +75,12 @@ Zemřel svobodný a bezdětný.
 - [Marie Škobisová](skobisova-marie-1860.md) (1860–1898)
 
 
+## DNA
+
+- Haploskupina Y-DNA: I-P37 (I2a)
+- Haploskupina mtDNA: nezjištěno
+
+
 ## Zdroje
 
 1. Matriční záznam o narození – [SOA Litoměřice, N, I-N • inv. č. 1024 • sig. L17/62 • 1888–1896 • Horní Kamenice](http://vademecum.soalitomerice.cz/vademecum/permalink?xid=09ddd7cea03b9b8d:4e496e4e:12216bae987:-79a3&scan=133#scan133)
