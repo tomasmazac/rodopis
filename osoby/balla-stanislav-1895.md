@@ -9,7 +9,7 @@ death: 1958
 # Stanislav Balla
 
 ::: warning NEKOMPLETNÍ INFORMACE
-- Chybí matriční záznam o narození nebo křestní list.
+- Chybí matriční záznam o sňatku nebo oddací list.
 :::
 
 **Stanislav Balla** byl synem Jozefa Bally a Márie Lacové. Spolu se svým bratrem Adamem se narodil 7.&nbsp;května&nbsp;1895 na [Malém Lapáši](https://cs.wikipedia.org/wiki/Mal%C3%BD_Lap%C3%A1%C5%A1). \[1\] 7.&nbsp;listopadu&nbsp;1922 se oženil s&nbsp;Veronikou Chromou. \[1\]
