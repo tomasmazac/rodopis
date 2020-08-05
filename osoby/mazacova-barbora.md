@@ -22,7 +22,7 @@ Zemřela v sobotu 18. září 1858. \[1\] V matričních knihách porodnice ale 
 
 ## Rodiče
 
-Původ Barbory Mazačové není jistý. Matričního záznam o narození Josefa Mazače uvádí jako její (již zesnulé) rodiče Jana Mazače a Kateřinu z Kounic. \[2\] V knize ošetřovanek porodnice u sv. Apolináře je ale jako její otec uveden Josef, nádeník z Kounic. \[1\]
+Původ Barbory Mazačové není jistý. Matričního záznam o narození Josefa Mazače uvádí jako její (již zesnulé) rodiče Jana Mazače a Kateřinu z Kounic. \[2\] I matriční záznam o narození [Karla Mazače](mazac-karel-1884.md) zmiňuje, že Barbora byla „dcera Jana Mazače, dělníka z Kounic“. \[4\] V knize ošetřovanek porodnice u sv. Apolináře je ale jako její otec uveden Josef, nádeník z Kounic. \[1\]
 
 Pro „variantu Jan“ hovoří fakt, že v matrikách lze skutečně najít záznam o narození Barbory Mazačové s rodiči Janem Mazačem a Kateřinou Špačkovou. \[3\] Datum narození 12. května 1822 ale neodpovídá věku zapsanému v knize ošetřovanek (tj. 28 let), který její narození posouvá do roku 1830. Podle kounických matrik se ale v tehdejší době žádná Barbora Mazačová nenarodila.
 
@@ -39,3 +39,4 @@ Pro „variantu Jan“ hovoří fakt, že v matrikách lze skutečně najít zá
 1. [Rešerše z Národního archivu](../D01_02_Prvopis_verze_3EEA4C20.pdf)
 2. Matriční záznam o narození Josefa Mazače – [AHMP, AP N30, fol. 142](http://katalog.ahmp.cz/pragapublica/permalink?xid=917418BEABDE4BEEA179DA5A5150DB11&scan=145#scan145)
 3. Matriční záznam o narození Barbory Mazačové – [SOA Praha, Kounice 05, str. 94](http://ebadatelna.soapraha.cz/d/7068/51)
+4. Matriční záznam o narození Karla Mazače – [AHMP, VRŠ N6, fol. 337](http://katalog.ahmp.cz/pragapublica/permalink?xid=FC152E6DB6FF48959C8931B618A21616&scan=354#scan354)

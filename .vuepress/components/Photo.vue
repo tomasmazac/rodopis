@@ -1,10 +1,10 @@
 <template>
-
     <figure>
-        <img :src="require('../../images/' + src)" :alt="alt" :class="size">
+        <img :src="source" :alt="alt" :class="size" 
+        @mouseenter="showColorized = true"
+        @mouseleave="showColorized = false">
         <figcaption>{{ alt }}</figcaption>
     </figure>
-
 </template>
 
 <script>
@@ -23,6 +23,22 @@ export default {
             type: String,
             default: 'lg'
         },
+        colorized: {
+            type: [String, Boolean],
+            default: false
+        }
+    },
+    data () {
+        return {
+            showColorized: false
+        }
+    },
+    computed: {
+        source () {
+            return this.showColorized
+            ? require('../../images/' + this.colorized)
+            : require('../../images/' + this.src)
+        }
     }
 }
 </script>
@@ -45,5 +61,12 @@ img {
 }
 .lg {
     max-width: 100% !important;
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+  opacity: 0;
 }
 </style>
