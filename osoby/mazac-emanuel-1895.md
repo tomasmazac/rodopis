@@ -77,8 +77,7 @@ Zemřel svobodný a bezdětný.
 
 ## DNA
 
-- Haploskupina Y-DNA: I-P37 (I2a)
-- Haploskupina mtDNA: nezjištěno
+- Haploskupina Y-DNA: I2a1b3-L621
 
 
 ## Zdroje

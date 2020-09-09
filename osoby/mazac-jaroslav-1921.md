@@ -23,8 +23,7 @@ Zemřel po delší nemoci v pondělí 14. února 2005 ve 20.50. Bylo mu 83 let.
 
 ## DNA
 
-- Haploskupina Y-DNA: I-P37 (I2a)
-- Haploskupina mtDNA: nezjištěno
+- Haploskupina Y-DNA: I2a1b3-L621
 
 
 ## Potomci

@@ -64,7 +64,7 @@ Po delší nemoci zemřel 9. června 1936 ve 3 hodiny ráno ve věku 79 let (na 
 
 ## DNA
 
-- Haploskupina Y-DNA: I-P37 (I2a)
+- Haploskupina Y-DNA: I2a1b3-L621
 
 
 ## Zdroje
