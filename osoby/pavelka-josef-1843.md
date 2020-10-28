@@ -18,7 +18,7 @@ death: 1929
 
 V&nbsp;roce 1900 Josef žil na mělnickém předměstí na adrese Poděbradová 122. Bydlela s&nbsp;ním samozřejmě i jeho žena Anna a dcera Aloisie, navíc švagr Arnošt Lokaj (povoláním zahradnický příručí) a dočasně asi tříletá vnučka Marie Šístková. \[3\]
 
-V&nbsp;roce 1910 byl už Josef ve výslužbě. Rodina žila na adrese Předměstí II čp. 156 v&nbsp;bytě v&nbsp;prvním poschodí domu, který patřil jeho bratrovi Vavřincovi ((účetnímu cukrovaru v&nbsp;Horkách nad Jizerou). V&nbsp;přízemním bytě bydlely jeho sestry Marie a Teresie. \[4\]
+V&nbsp;roce 1910 byl už Josef ve výslužbě. Rodina žila na adrese Předměstí II čp. 156 v&nbsp;bytě v&nbsp;prvním poschodí domu, který patřil jeho bratrovi Vavřincovi (účetnímu cukrovaru v&nbsp;Horkách nad Jizerou). V&nbsp;přízemním bytě bydlely jeho sestry Marie a Teresie. \[4\]
 
 <Photo src="Photo1500494.jpg" alt="Anna (roz. Lokajová) a Josef Pavelkovi (nedatováno)" size="md" />
 

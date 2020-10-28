@@ -31,7 +31,7 @@ Dne 4. září 1920 se oženil s [Marií Markovou](markova-marie-1887.md). \[?\]
 
 ## DNA
 
-- Haploskupina Y-DNA: I2a1b3-L621
+- Haploskupina Y-DNA: pravděpodobně I-CTS10228
 
 
 ## Zdroje

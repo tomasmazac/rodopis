@@ -32,7 +32,7 @@ Zemřel 7. dubna 1983 v [Liberci](https://cs.wikipedia.org/wiki/Liberec). \[3\] 
 
 ## DNA
 
-- Haploskupina Y-DNA: I2a1b3-L621
+- Haploskupina Y-DNA: pravděpodobně I-CTS10228
 
 
 ## Zdroje

@@ -41,7 +41,7 @@ Ve středu 20.&nbsp;srpna v 16.00 byl po církevních obřadech pochován na Nov
 
 ## DNA
 
-- Haploskupina Y-DNA: I2a1b3-L621
+- Haploskupina Y-DNA: pravděpodobně I-CTS10228
 
 
 ## Zdroje
