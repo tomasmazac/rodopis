@@ -44,20 +44,27 @@ export default {
 </script>
 
 <style>
+figure {
+  margin-left: -1.5rem;
+  margin-right: -1.5rem;
+}
 figcaption {
     font-style: italic;
     text-align: center;
     font-size: smaller;
+    line-height: 1.25;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
 }
 img {
     display: block;
-    margin: 0 auto;
+    margin: 0 auto 0.5rem;
 }
 .sm {
     max-width: 25% !important;
 }
 .md {
-    max-width: 50% !important;
+    max-width: 100% !important;
 }
 .lg {
     max-width: 100% !important;
@@ -68,5 +75,22 @@ img {
 }
 .fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
   opacity: 0;
+}
+
+@media (min-width: 420px) {
+    figure {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    figcaption {
+        font-style: italic;
+        text-align: center;
+        font-size: smaller;
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+    .md {
+        max-width: 50% !important;
+    }
 }
 </style>
