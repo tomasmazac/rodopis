@@ -32,7 +32,7 @@ Zemřel 1.&nbsp;listopadu&nbsp;1958 na Velkém Lapáši v&nbsp;důsledku [bronch
 - Mária Duchoňová (1923–1949)
 - Ján Balla (1925–1985)
 - Katarína Ballová (1928–2017)
-- Júlia Récka (1937–2006)
+- [Júlia Récka](ballova-julia-1937.md) (1937–2006)
 - Jozef Balla
 - Štefan Balla
 - Karol Balla
