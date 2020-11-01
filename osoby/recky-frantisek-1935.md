@@ -18,7 +18,7 @@ death: 1990
 
 ## Rodiče
 
-- [Ľudovíta Reckého](recky-ludovit-1887.md) (1897–1967)
+- [Ľudovít Récky](recky-ludovit-1887.md) (1897–1967)
 - Anna Kiššová (1903–1982)
 
 
