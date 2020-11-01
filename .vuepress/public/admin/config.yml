@@ -1,0 +1,27 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+site_url: https://rodopis.tomasmazac.cz
+locale: 'cs'
+show_preview_links: false
+
+slug:
+  clean_accents: true
+
+collections:
+  - name: osoby
+    label: Osoby
+    label_singular: Osoba
+    create: true
+    folder: osoby
+    slug: "{{surname}}-{{firstName}}-{{birth}}"
+    fields:
+      - {label: Celé jméno, name: title, widget: string}
+      - {label: Křestní jméno, name: firstName, widget: string}
+      - {label: Příjmení, name: surname, widget: string}
+      - {label: Rok narození, name: birth, widget: number, required: false}
+      - {label: Rok úmrtí, name: death, widget: number, required: false}
+      - {label: Text, name: body, widget: markdown}
