@@ -36,6 +36,11 @@ V&nbsp;sobotu 15.&nbsp;listopadu&nbsp;1958 se provdala za [Františka Réckého]
 - Zlatica Ballová
 
 
+## DNA
+
+- Haploskupina mtDNA: W6
+
+
 ## Zdroje
 
 1. [Oznámení o sňatku](../Sken_42.jpeg)
