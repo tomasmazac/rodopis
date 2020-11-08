@@ -1,7 +1,7 @@
 ---
 title: Veronika Ballová (roz. Chromá)
 firstName: Veronika
-surname: Ballová
+surname: Chromá
 birth: 1903
 death: 1981
 ---
