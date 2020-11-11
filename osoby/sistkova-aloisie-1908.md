@@ -1,5 +1,5 @@
 ---
-title:  Aloisie Šístková
+title: Aloisie Šotolová (roz. Šístková)
 firstName: Aloisie
 surname: Šístková
 birth: 1908
