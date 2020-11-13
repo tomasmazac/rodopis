@@ -1,8 +1,8 @@
 ---
-title: 'Barbora Mazačová'
-firstName: 'Barbora'
-surname: 'Mazačová'
-birth: 1922
+title: Barbora Mazačová
+firstName: Barbora
+surname: Mazačová
+birth: 1822
 death: 1858
 ---
 
