@@ -14,7 +14,7 @@ death: 1981
 
 **Veronika Ballová** (rozená **Chromá**) byla dcerou Štefana Chromého a Márie Záhumenické. Narodila se 4. června 1903 na Veľkém Lapáši. \[1–4\] 
 
-Dne 7. listopadu 1922 se na Veľkém Lapáši provdala za [Stanislava Ballu](balla-stanislav-1895.md). \[1–2]\
+Dne 7. listopadu 1922 se na Veľkém Lapáši provdala za [Stanislava Ballu](balla-stanislav-1895.md). [1–2]
 
 
 ## Rodiče
