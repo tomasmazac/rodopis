@@ -25,7 +25,7 @@ Někdy po roce 1908 (vzhledem k datu narození dcery [Aloisie](sistkova-aloisie-
 
 <Photo src="sistek-frantisek-1939.jpg" alt="František Šístek (1939)" size="md" />
 
-<Photo src="IMG_0507.jpg" alt="Restaurace U Cukrovaru (1930)" />
+<Photo src="img_0507.jpg" alt="Restaurace U Cukrovaru (1930)" />
 
 Zemřel pravděpodobně v roce 1944. \[?] Spolu se svou manželkou a jejími rodiči byl pochována na hřbitově Svatého Václava na Mělníku.
 
