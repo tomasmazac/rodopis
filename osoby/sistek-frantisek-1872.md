@@ -15,6 +15,8 @@ Chybí matriční záznam o úmrtí nebo úmrtní list.
 
 František se v Praze vyučil uzenářem. V učení byl tři roky – od 15. května 1887 do 20. dubna 1890. [2]
 
+<Photo src="SCAN0015.jpg" alt="František Šístek (nedatováno, Praha)" size="md" />
+
 Ve středu 25. listopadu 1896 se oženil s&nbsp;[Marií Pavelkovou](pavelkova-marie-1872.md). Svatební obřad proběhl v [kostele Nejsvětější Trojice](https://cs.wikipedia.org/wiki/Kostel_Nejsv%C4%9Bt%C4%9Bj%C5%A1%C3%AD_Trojice_(Praha,_Trojick%C3%A1_ulice)) v&nbsp;[Podskalí](https://cs.wikipedia.org/wiki/Podskal%C3%AD_(Praha)). [3, 6] 29. září 1897 se jim narodila dcera Marie.
 
 Rodina se poté přestěhovala do [Říčan](https://cs.wikipedia.org/wiki/%C5%98%C3%AD%C4%8Dany). Zde se poté 12. ledna 1901 narodila dcera [Anna](sistkova-anna-1901.md).
@@ -23,9 +25,11 @@ Někdy po roce 1908 (vzhledem k datu narození dcery [Aloisie](sistkova-aloisie-
 
 <Photo src="sistek-frantisek.jpg" alt="František Šístek (nedatováno)" size="md" />
 
-<Photo src="sistek-frantisek-1939.jpg" alt="František Šístek (1939)" size="md" />
+Restaurace U Cukrovaru se nacházela v [Rousovicích](https://cs.wikipedia.org/wiki/Rousovice) na adrese s čp. 2079 (dnes [Pražská 2079/59](https://goo.gl/maps/Tt1jALNJgpswHNSB6)), naproti cukrovaru.
 
 <Photo src="img_0507.jpg" alt="Restaurace U Cukrovaru (1930)" />
+
+<Photo src="sistek-frantisek-1939.jpg" alt="František Šístek (1939)" size="md" />
 
 Zemřel pravděpodobně v roce 1944. [?] Spolu se svou manželkou a jejími rodiči byl pochována na hřbitově Svatého Václava na Mělníku.
 
