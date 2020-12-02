@@ -18,7 +18,7 @@ Ve svých 24 letech se 25. listopadu 1896 provdala za uzenáře [Františka Ší
 
 Ovdověla v roce 1944, kdy zemřel její manžel František.
 
-Zemřela náhle na Silvestra 31. prosince 1947 ve svém bytě v Brodích čp. 159 (dnes pravděpodobně Cukrovarská 159). Jako příčina úmrtí bylo uvedeno zkornatění tepen. Bylo jí 75 let. [4–5]
+Zemřela náhle na Silvestra 31. prosince 1947 ve svém bytě v Brodcích čp. 159 (dnes pravděpodobně [Cukrovarská 159](https://goo.gl/maps/Rd7VkBaghnmKvPTS7)). Jako příčina úmrtí bylo uvedeno zkornatění tepen. Bylo jí 75 let. [4–5]
 
 Byla pochována 3. ledna 1948 na hřbitově Svatého Václava na Mělníku, vedle svého manžela a svých rodičů. [3–4]
 
