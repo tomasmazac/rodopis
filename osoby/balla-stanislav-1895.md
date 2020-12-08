@@ -1,24 +1,20 @@
 ---
-title: 'Stanislav Balla'
-firstName: 'Stanislav'
-surname: 'Balla'
+title: Stanislav Balla
+firstName: Stanislav
+surname: Balla
 birth: 1895
 death: 1958
 ---
 
 # Stanislav Balla
 
-::: warning NEKOMPLETNÍ INFORMACE
-- Chybí matriční záznam o sňatku nebo oddací list.
-:::
-
-**Stanislav Balla** byl synem Jozefa Bally a Márie Lacové. Spolu se svým bratrem Adamem se narodil 7.&nbsp;května&nbsp;1895 na [Malém Lapáši](https://cs.wikipedia.org/wiki/Mal%C3%BD_Lap%C3%A1%C5%A1). \[1\] 7.&nbsp;listopadu&nbsp;1922 se oženil s&nbsp;Veronikou Chromou. \[1\]
+**Stanislav Balla** byl synem Jozefa Bally a Márie Lacové. Spolu se svým bratrem Adamem se narodil 7.&nbsp;května&nbsp;1895 na [Malém Lapáši](https://cs.wikipedia.org/wiki/Mal%C3%BD_Lap%C3%A1%C5%A1). [1] 7.&nbsp;listopadu&nbsp;1922 se oženil s&nbsp;[Veronikou Chromou](chroma-veronika-1903.md). [1]
 
 <Photo src="Photo1500569-Enhanced.jpg" alt="Stanislav Balla (nedatováno)" size="md" />
 
 <Photo src="Photo1501363-Enhanced.jpg" alt="Stanislav Balla (nedatováno)" size="md" />
 
-Zemřel 1.&nbsp;listopadu&nbsp;1958 na Velkém Lapáši v&nbsp;důsledku [bronchitidy](https://cs.wikipedia.org/wiki/Bronchitida). \[2\] Je pohřben na hřbitově na Malém Lapáši (hrob č.&nbsp;114) po boku své ženy Veroniky. \[3\]
+Zemřel 1.&nbsp;listopadu&nbsp;1958 na Velkém Lapáši v&nbsp;důsledku [bronchitidy](https://cs.wikipedia.org/wiki/Bronchitida). [2] Je pohřben na hřbitově na Malém Lapáši (hrob č.&nbsp;114) po boku své ženy Veroniky. [3]
 
 
 ## Rodiče
