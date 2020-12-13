@@ -1,7 +1,7 @@
 ---
-title: 'Jan Mazač'
-firstName: 'Jan'
-surname: 'Mazač'
+title: Jan Mazač
+firstName: Jan
+surname: Mazač
 birth: 1891
 death: 1932
 ---
@@ -31,7 +31,7 @@ Dne 4. září 1920 se oženil s [Marií Markovou](markova-marie-1887.md). \[?\]
 
 ## DNA
 
-- Haploskupina Y-DNA: pravděpodobně I-CTS10228
+- Haploskupina Y-DNA: I-BY198275
 
 
 ## Zdroje
