@@ -1,7 +1,7 @@
 ---
-title: 'Josef Mazač'
-firstName: 'Josef'
-surname: 'Mazač'
+title: Josef Mazač
+firstName: Josef
+surname: Mazač
 birth: 1858
 death: 1936
 ---
@@ -64,7 +64,7 @@ Po delší nemoci zemřel 9. června 1936 ve 3 hodiny ráno ve věku 79 let (na 
 
 ## DNA
 
-- Haploskupina Y-DNA: pravděpodobně I-CTS10228
+- Haploskupina Y-DNA: I-BY198275
 
 
 ## Zdroje
