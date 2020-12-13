@@ -1,7 +1,7 @@
 ---
-title: 'Alois Mazač'
-firstName: 'Alois'
-surname: 'Mazač'
+title: Alois Mazač
+firstName: Alois
+surname: Mazač
 birth: 1906
 death: 1983
 ---
@@ -32,7 +32,7 @@ Zemřel 7. dubna 1983 v [Liberci](https://cs.wikipedia.org/wiki/Liberec). \[3\] 
 
 ## DNA
 
-- Haploskupina Y-DNA: pravděpodobně I-CTS10228
+- Haploskupina Y-DNA: I-BY198275
 
 
 ## Zdroje
