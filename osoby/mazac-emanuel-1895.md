@@ -1,7 +1,7 @@
 ---
-title: 'Emanuel Mazač'
-firstName: 'Emanuel'
-surname: 'Mazač'
+title: Emanuel Mazač
+firstName: Emanuel
+surname: Mazač
 birth: 1895
 death: 1949
 ---
@@ -77,7 +77,7 @@ Zemřel svobodný a bezdětný.
 
 ## DNA
 
-- Haploskupina Y-DNA: pravděpodobně I-CTS10228
+- Haploskupina Y-DNA: I-BY198275
 
 
 ## Zdroje
