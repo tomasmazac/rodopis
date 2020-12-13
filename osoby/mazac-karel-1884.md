@@ -1,7 +1,7 @@
 ---
-title: 'Karel Mazač'
-firstName: 'Karel'
-surname: 'Mazač'
+title: Karel Mazač
+firstName: Karel
+surname: Mazač
 birth: 1884
 death: 1952
 ---
@@ -41,7 +41,7 @@ Ve středu 20.&nbsp;srpna v 16.00 byl po církevních obřadech pochován na Nov
 
 ## DNA
 
-- Haploskupina Y-DNA: pravděpodobně I-CTS10228
+- Haploskupina Y-DNA: I-BY198275
 
 
 ## Zdroje
