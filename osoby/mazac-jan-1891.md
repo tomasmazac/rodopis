@@ -12,15 +12,19 @@ death: 1932
 - Chybí matriční záznam o sňatku nebo oddací list.
 :::
 
-**Jan Mazač** byl synem [Josefa Mazače](mazac-josef-1858.md) a Marie Škobisové. Narodil se 13. října 1891 v České Kamenici. \[1\]
+**Jan Mazač** byl synem [Josefa Mazače](mazac-josef-1858.md) a [Marie Škobisové](skobisova-marie-1860.md). Narodil se 13. října 1891 v [České Kamenici](https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%A1_Kamenice) čp. 228. [1]
 
-Dne 4. září 1920 se oženil s [Marií Markovou](markova-marie-1887.md). \[?\]
+Od 30. září 1919 sloužil u sboru finanční stráže, stejně jako jeho bratr [Karel](mazac-karel-1884.md). [2]
+
+Dne 4. září 1920 se oženil s [Marií Markovou](markova-marie-1887.md). [?]
+
+Zemřel ve věku 40 let – dne 22. června 1932 podlehl tuberkulóze plic. [3]
 
 
 ## Rodiče
 
 - [Josef Mazač](mazac-josef-1858.md) (1858–1936)
-- Marie Škobisová (1860–1898)
+- [Marie Škobisová](skobisova-marie-1860.md) (1860–1898)
 
 
 ## Potomci
@@ -36,4 +40,6 @@ Dne 4. září 1920 se oženil s [Marií Markovou](markova-marie-1887.md). \[?\]
 
 ## Zdroje
 
-1. Matriční záznam o narození – [SOA Litoměřice, inv. č. 1024, sig. L17/62, fol. 57](http://vademecum.soalitomerice.cz/vademecum/permalink?xid=09ddd7cea03b9b8d:4e496e4e:12216bae987:-79a3&scan=58#scan58)
+1. Matriční záznam o narození – [SOA Litoměřice, inv. č. 1024, sig. L17/62, fol. 57](http://vademecum.soalitomerice.cz/vademecum/permalink?xid=09ddd7cea03b9b8d:4e496e4e:12216bae987:-79a3&scan=007819bb0e014b7490f5e165f609da49)
+2. Informace ze seznamů zaměstnanců finanční správy, které poskytnul Ing. Jaroslav Beneš \<[mbbb@seznam.cz](mailto:mbbb@seznam.cz)>, mj. správce webu [https://financnistraz.estranky.cz/](https://financnistraz.estranky.cz/)
+3. Úmrtní list
