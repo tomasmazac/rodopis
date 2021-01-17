@@ -45,4 +45,4 @@ Zemřel po delší nemoci v pondělí 14. února 2005 ve 20.50 v Klaudiánově n
 5. Matriční záznam o úmrtí – matriční úřad Mlad Boleslav, okres Mladá Boleslav, svazek 4, ročník 2005, str. 256, poř. č. 95
 6. Úmrtní list
 7. Telegram z nemocnice oznamující úmrtí
-8. Vzpomínka jeho syna, Petra Mazače (17. ledna 2021)
+8. Vzpomínka jeho syna Petra (17. ledna 2021)
