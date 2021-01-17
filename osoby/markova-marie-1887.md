@@ -35,4 +35,4 @@ Zemřela ve večerních hodinách v neděli dne 20. dubna 1975 ve věku 88 let. 
 ## Zdroje
 
 1. Matriční záznam o narození – [SOA Praha, Bakov nad Jizerou, str. 208](http://ebadatelna.soapraha.cz/d/3755/208)
-2. Smuteční oznámení
+2. [Smuteční oznámení](../images/markova-marie-1887-parte.pdf)
