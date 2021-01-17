@@ -14,6 +14,8 @@ Dne 30. srpna 1952 se oženil s Olgou Míčovou. Sňatek proběhl v [kapli Naroz
 
 Byl zaměstnán 11 let [Státní bance československé](https://cs.wikipedia.org/wiki/St%C3%A1tn%C3%AD_banka_%C4%8Deskoslovensk%C3%A1), potom 30 let ve [Strojní a traktorové stanici](https://cs.wikipedia.org/wiki/Strojn%C3%AD_a_traktorov%C3%A1_stanice) v [Kněžmostě](https://cs.wikipedia.org/wiki/Kn%C4%9B%C5%BEmost). Zde pracoval postupně jako provozní účetní, vedoucí účetní, hlavní ekonom a nakonec ekonomický náměstek. Od 1. května 1981 byl v důchodu. \[3–4\]
 
+Někdy krátce po dosažení důchodového věku (asi v 65 letech) prodělal zápal plic, po kterém zcela přestal kouřit. [8]
+
 Zemřel po delší nemoci v pondělí 14. února 2005 ve 20.50 v Klaudiánově nemocnici (tř. Václava Klementa 147/23, Mladá Boleslav II). Bylo mu 83 let. \[5–7\]
 
 
@@ -43,3 +45,4 @@ Zemřel po delší nemoci v pondělí 14. února 2005 ve 20.50 v Klaudiánově n
 5. Matriční záznam o úmrtí – matriční úřad Mlad Boleslav, okres Mladá Boleslav, svazek 4, ročník 2005, str. 256, poř. č. 95
 6. Úmrtní list
 7. Telegram z nemocnice oznamující úmrtí
+8. Vzpomínka jeho syna, Petra Mazače (17. ledna 2021)
