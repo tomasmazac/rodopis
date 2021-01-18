@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "cross-env": "^5.2.1",
-    "vue": "^2.6.11",
-    "vuepress": "^1.5.2"
+    "vue": "^2.6.12",
+    "vuepress": "^1.8.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^0.0.1",
@@ -21,15 +21,15 @@
     "eslint-config-prettier": "^4.1.0",
     "eslint-config-standard": "^14.1.1",
     "eslint-loader": "^2.2.1",
-    "eslint-plugin-import": "^2.22.0",
-    "eslint-plugin-jest": "^23.18.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^23.20.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-nuxt": "^0.5.2",
-    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.1",
+    "eslint-plugin-standard": "^4.1.0",
     "eslint-plugin-vue": "^5.2.3",
-    "nodemon": "^2.0.4",
+    "nodemon": "^2.0.7",
     "prettier": "^1.19.1",
     "tailwindcss": "^0.7.0",
     "typescript": "^2.9.2"
