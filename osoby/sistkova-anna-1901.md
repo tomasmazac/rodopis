@@ -8,10 +8,6 @@ death: 1983
 
 # Anna Míčová (roz. Šístková)
 
-::: warning NEKOMPLETNÍ INFORMACE
-- Chybí matriční záznam o sňatku nebo oddací list.
-:::
-
 **Anna Aloisie Míčová** (rozená **Šístková**) byla dcerou Františka Šístka a Marie Pavelkové. Narodila se 12. ledna 1901 v [Říčanech](https://cs.wikipedia.org/wiki/Studenec_(okres_Semily)) čp. 9. \[1\] Byla manželkou [Josefa Míče](mic-josef-1894.md). [2–3]
 
 Zemřela po delší nemoci v sobotu 6. srpna 1983 ve věku 82 let. [4]
