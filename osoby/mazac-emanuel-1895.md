@@ -41,7 +41,7 @@ Do nově vzniklého Československa se vrátil koncem roku 1918, takřka okamži
 
 V květnu 1924 byl přeložen do vyslanectví v [Káhiře](https://cs.wikipedia.org/wiki/K%C3%A1hira) na pozici [chargé d’affaires](https://cs.wikipedia.org/wiki/Charg%C3%A9_d%E2%80%99affaires), správce kanceláře.
 
-<Photo src="60703779_1066970353503613_8310680976669802496_n.jpg" alt="„President Masaryk na vyslanectví v Kairu ve společnosti ministra Hurbana a jeho choti. V pozadí úřednictvo vyslanectví.“ Emanuel Mazač v horní řadě druhý zleva. Snímek byl pořízený pravděpodobně při příležitosti návštěvy TGM v Egyptě v roce 1927." size="md" />
+<Photo src="60703779_1066970353503613_8310680976669802496_n.jpg" alt="„President Masaryk na vyslanectví v Kairu ve společnosti ministra Hurbana a jeho choti. V pozadí úřednictvo vyslanectví.“ Emanuel Mazač v horní řadě druhý zleva. Snímek byl pořízený při příležitosti návštěvy TGM v Egyptě, pravděpodobně 26. nebo 27. března 1927." size="md" />
 
 Po [nacistické okupaci zbylých částí Československa](https://cs.wikipedia.org/wiki/N%C4%9Bmeck%C3%A1_okupace_%C4%8Cech,_Moravy_a_Slezska) se nedostávalo finančních prostředků, a tak Emanuel k 1. červnu 1939 nastoupil do služeb soukromé suezské společnosti v [Ismalii](https://en.wikipedia.org/wiki/Ismailia). V dubnu 1941 se vrací na předchozí pozici a zároveň byl pověřen správou pobočky generální konzulátu v [Alexandrii](https://cs.wikipedia.org/wiki/Alexandrie).
 
