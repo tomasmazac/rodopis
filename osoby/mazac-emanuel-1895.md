@@ -80,7 +80,7 @@ Zemřel svobodný a bezdětný.
 - Haploskupina Y-DNA: I-PH908
 
 
-# Útržky
+## Útržky
 
 > Období let 1945–1949 do vyhlášení ČLR bylo obdobím nepříliš silných vazeb mezi oběma zeměmi a hospodářská, kulturní a ekonomická spolupráce nebyly více rozvíjeny. V této době však docházelo k upevňování styků obou zemí se Sovětským svazem, což bylo klíčové pro budoucí česko - čínské vztahy. Čína podepsala se SSSR sovětsko-čínskou smlouvu, Československo oslavovalo Sovětský svaz z důvodu jeho zásluh osvoboditele. Vlivem SSSR docházelo v Československu k posílení pozic komunistů. V roce 1946 se konaly poslední svobodné volby, z nichž vzešli komunisté jako vítězná strana. V Číně se také zlepšovala pozice komunistické strany. V občanské válce získávali komunisté navrch a tento obrat způsobil přesídlení kuomintangské vlády z Čunkingu do Nankingu. Mezi tyto zastupitelské úřady patřilo mimo jiné československé velvyslanectví v čele s velvyslancem Stanislavem Miňovským, který byl však později nahrazen novým velvyslancem Josefem Lelkem. Do příjezdu velvyslance Lelka československé velvyslanectví řídil chargé d’affaires Emanuel Mazač. Za jeho působení došlo k prvnímu oficiálnímu kontaktu s ústředním výborem KS Číny, jehož vliv byl stále větší. [12]
 
