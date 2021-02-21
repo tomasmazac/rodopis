@@ -17,7 +17,7 @@ František se v Praze vyučil uzenářem. V učení byl tři roky – od 15. kv�
 
 <Photo src="SCAN0015.jpg" alt="František Šístek (nedatováno, Praha)" size="md" />
 
-Ve středu 25. listopadu 1896 se oženil s&nbsp;[Marií Pavelkovou](pavelkova-marie-1872.md). Svatební obřad proběhl v [kostele Nejsvětější Trojice](https://cs.wikipedia.org/wiki/Kostel_Nejsv%C4%9Bt%C4%9Bj%C5%A1%C3%AD_Trojice_(Praha,_Trojick%C3%A1_ulice)) v&nbsp;[Podskalí](https://cs.wikipedia.org/wiki/Podskal%C3%AD_(Praha)). [3, 6] 29. září 1897 se jim narodila dcera Marie.
+Ve středu 25. listopadu 1896 se oženil s&nbsp;[Marií Pavelkovou](pavelkova-marie-1872.md). Svatební obřad proběhl v [kostele Nejsvětější Trojice](https://cs.wikipedia.org/wiki/Kostel_Nejsv%C4%9Bt%C4%9Bj%C5%A1%C3%AD_Trojice_(Praha,_Trojick%C3%A1_ulice)) v&nbsp;[Podskalí](https://cs.wikipedia.org/wiki/Podskal%C3%AD_(Praha)). [3, 6] 29. září 1897 se jim narodila dcera [Marie](sistkova-marie-1897.md).
 
 Rodina se poté přestěhovala do [Říčan](https://cs.wikipedia.org/wiki/%C5%98%C3%AD%C4%8Dany). Zde se poté 12. ledna 1901 narodila dcera [Anna](sistkova-anna-1901.md).
 
@@ -33,14 +33,16 @@ Restaurace U Cukrovaru se nacházela v [Rousovicích](https://cs.wikipedia.org/w
 
 Zemřel pravděpodobně v roce 1944. [?] Spolu se svou manželkou a jejími rodiči byl pochována na hřbitově Svatého Václava na Mělníku.
 
+
 ## Rodiče
 
 * Jan Šístek (1844–?)
 * Antonie Příhodová (1850–?)
 
+
 ## Potomci
 
-* Marie Konaříková (1897–1949)
+* [Marie Konaříková](sistkova-marie-1897.md) (1897–1949)
 * [Anna Míčová](sistkova-anna-1901.md) (1901–1983)
 * František Šístek (1902–?)
 * Josef Šístek (1904-?)
