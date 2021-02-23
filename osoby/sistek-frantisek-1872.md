@@ -36,7 +36,7 @@ Zemřel pravděpodobně v roce 1944. [?] Spolu se svou manželkou a jejími rodi
 
 ## Rodiče
 
-* Jan Šístek (1844–?)
+* Jan Šístek (1844–1921)
 * Antonie Příhodová (1850–?)
 
 
