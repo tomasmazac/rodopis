@@ -31,7 +31,7 @@ Byla pochována 3. ledna 1948 na hřbitově Svatého Václava na Mělníku, vedl
 
 ## Potomci
 
-- Marie Konaříková (1897–1949)
+- [Marie Konaříková](sistkova-marie-1897.md) (1897–1949)
 - [Anna Míčová](sistkova-anna-1901.md) (1901–1983)
 - František Šístek (1902–?)
 - Josef Šístek (1904-?)
