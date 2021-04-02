@@ -11,7 +11,7 @@ death: 1944
 Chybí matriční záznam o úmrtí nebo úmrtní list.
 :::
 
-**František Šístek** byl synem Jana Šístka a Antonie Příhodové. Narodil se 22. září 1872 v [Tismicích](https://cs.wikipedia.org/wiki/Tismice) čp. 26. Za dva dny (tj. 24. září) proběhl křest. Malý chlapec byl pokřtěn po [Františku z Assisi](https://cs.wikipedia.org/wiki/Franti%C5%A1ek_z_Assisi) jako *František Serafinský*. Za kmotry mu šli František a Anna Hamtákovi (rolník z [Limuz](https://cs.wikipedia.org/wiki/Limuzy) čp. 11 s&nbsp;manželkou) a Anna Šplíchalová (manželka Josefa Šplíchala, starosty z&nbsp;Limuz čp. 2). [1]
+**František Šístek** byl synem Jana Šístka a Antonie Příhodové. Narodil se 22. září 1872 v [Tismicích](https://cs.wikipedia.org/wiki/Tismice) čp. 26. Za dva dny (tj. 24. září) proběhl křest. Malý chlapec byl pokřtěn po [Františku z Assisi](https://cs.wikipedia.org/wiki/Franti%C5%A1ek_z_Assisi) jako *František Serafinský*. Za kmotry mu šli František a Anna Hamtákovi (rolník z [Limuz](https://cs.wikipedia.org/wiki/Limuzy) čp. 11 s&nbsp;manželkou) a Anna Šplíchalová (manželka Josefa Šplíchala, starosty z&nbsp;Limuz čp. 2). [1, 7]
 
 František se v Praze vyučil uzenářem. V učení byl tři roky – od 15. května 1887 do 20. dubna 1890. [2]
 
@@ -31,7 +31,7 @@ Restaurace U Cukrovaru se nacházela v [Rousovicích](https://cs.wikipedia.org/w
 
 <Photo src="sistek-frantisek-1939.jpg" alt="František Šístek (1939)" size="md" />
 
-Zemřel pravděpodobně v roce 1944. [?] Spolu se svou manželkou a jejími rodiči byl pochována na hřbitově Svatého Václava na Mělníku.
+Zemřel 27. ledna 1944 v 71 letech, bez zaopatření svátostmi. Jako příčina úmrtí je uvedena rakovina žaludku. 30. ledna byl pochována na hřbitově Svatého Václava na Mělníku. [7]
 
 
 ## Rodiče
@@ -71,3 +71,4 @@ Potenciální spřízněnost těchto dvou rodů se stejným příjmením z Tismi
 4. Historie dle kroniky: Z historie obce „Chomle“. *Chomle: Oficiální web* \[online]. ČR: Obecní úřad Chomle, 2016 \[cit. 2019-07-28]. Dostupné z: <http://www.chomle.cz/historie-dle-kroniky/ms-1308/p1=1308>
 5. Matriční záznam o narození Františka Šístka z Chomle – [SOA Plzeň, Radnice (RO) 29, fol. 274](http://www.portafontium.eu/iipimage/30067815/radnice-ro-29_2770-n)
 6. Matriční záznam o sňatku – [AMHP, TRP O7, fol. 11](http://katalog.ahmp.cz/pragapublica/permalink?xid=1F1A863F451F4D62890D7A0D83926838&scan=15#scan15)
+7. Matriční záznam o úmrtí
