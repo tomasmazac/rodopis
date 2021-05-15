@@ -5,17 +5,19 @@ surname: Konařík
 birth: 1883
 death: 1949
 ---
-
 # Ludvík Konařík
 
-**Ludvík Josef Konařík** byl nejmladším synem Josefa Konaříka a Terezie Foltýnové. Narodil se 10. července 1883 v&nbsp;[Halenkově](https://cs.wikipedia.org/wiki/Halenkov) čp. 13.
+**Ludvík Josef Konařík** (řádovým jménem **Efrém**) byl nejmladším synem Josefa Konaříka a Terezie Foltýnové. Narodil se 10. července 1883 v [Halenkově](https://cs.wikipedia.org/wiki/Halenkov) čp. 13.
 
-Studoval teologii na [Univerzitě Karlově](https://cs.wikipedia.org/wiki/Univerzita_Karlova) a byl členem řádu [kapucínů](https://cs.wikipedia.org/wiki/%C5%98%C3%A1d_men%C5%A1%C3%ADch_brat%C5%99%C3%AD_kapuc%C3%ADn%C5%AF). V březnu 1919 ale řád opustil, aby se mohl oženit s&nbsp;[Marií Šístkovou](sistkova-marie-1897.md).
+Studoval teologii na [Univerzitě Karlově](https://cs.wikipedia.org/wiki/Univerzita_Karlova) a byl členem řádu [kapucínů](https://cs.wikipedia.org/wiki/%C5%98%C3%A1d_men%C5%A1%C3%ADch_brat%C5%99%C3%AD_kapuc%C3%ADn%C5%AF), ve při řeholních slibech obdržel jméno Efrém.
+
+<Photo src="Photo1500280.jpg" alt="Ludvík Konařík jako kapucín (nedatováno)" size="md" />
+
+V roce 1915 se stává superiorem mělnického hospicu. [4] Hospicem se původně myslel dům pro přespání a rekonvalescenci bratří kazatelů a sběračů almužen na cestách. Postupně se však tímto výrazem začal myslet neformálně zřízený dům, ve kterém není možné zachovávat všechny předpisy řeholní observance a který má maximálně 6 bratří, z nichž nejvýše 4 byli kněžími. [3]
 
 ![Kostel Čtrnácti sv. pomocníků s přilehlým špitálem, dnes muzeem](https://upload.wikimedia.org/wikipedia/commons/2/2b/M%C4%9Bln%C3%ADk_-_n%C3%A1m%C4%9Bst%C3%AD_-_muzeum_a_kostel.JPG)
 
-
-<Photo src="Photo1500280.jpg" alt="Ludvík Konařík jako kapucín (nedatováno)" size="md" />
+V březnu 1919 ale řád opustil, aby se mohl oženit s [Marií Šístkovou](sistkova-marie-1897.md).
 
 <Photo src="Photo1500316.jpg" alt="Ludvík a Marie Konaříkovi (1920)" size="lg" />
 
@@ -44,3 +46,5 @@ Studoval teologii na [Univerzitě Karlově](https://cs.wikipedia.org/wiki/Univer
 
 1. Matriční záznam o narození – [Zemský archiv Opava, N, I-N • inv. č. 2401 • sig. Vs II 9 • 1882 - 1894 • Halenkov](http://digi.archives.cz/da/permalink?xid=be87e238-f13c-102f-8255-0050568c0263&scan=26#scan26)
 2. Kronika Náboženské obce CČSH Úvaly
+3. Srov. _Lexicon Cappuccinum_, sl. 773, heslo _„Hospitia“_
+4. MATĚJKA, Pacifik M. Seznamy představených kapucínských klášterů podřízených provincialátu v Praze (1599–2005). In: _Paginae historiae: Sborník Národního archivu_. Praha: Národní archiv, 2005, s. 204. ISBN 80-86712-31-1. ISSN 1211-9768.
