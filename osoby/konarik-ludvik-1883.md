@@ -9,7 +9,7 @@ death: 1949
 
 **Ludvík Josef Konařík** (řádovým jménem **Efrém**) byl nejmladším synem Josefa Konaříka a Terezie Foltýnové. Narodil se 10. července 1883 v [Halenkově](https://cs.wikipedia.org/wiki/Halenkov) čp. 13.
 
-Studoval teologii na [Univerzitě Karlově](https://cs.wikipedia.org/wiki/Univerzita_Karlova) a byl členem řádu [kapucínů](https://cs.wikipedia.org/wiki/%C5%98%C3%A1d_men%C5%A1%C3%ADch_brat%C5%99%C3%AD_kapuc%C3%ADn%C5%AF), ve při řeholních slibech obdržel jméno Efrém.
+Studoval teologii na [Univerzitě Karlově](https://cs.wikipedia.org/wiki/Univerzita_Karlova) a byl členem řádu [kapucínů](https://cs.wikipedia.org/wiki/%C5%98%C3%A1d_men%C5%A1%C3%ADch_brat%C5%99%C3%AD_kapuc%C3%ADn%C5%AF). Při řeholních slibech obdržel jméno Efrém.
 
 <Photo src="Photo1500280.jpg" alt="Ludvík Konařík jako kapucín (nedatováno)" size="md" />
 
