@@ -10,7 +10,10 @@ death: 1949
 
 **Ludvík Josef Konařík** byl nejmladším synem Josefa Konaříka a Terezie Foltýnové. Narodil se 10. července 1883 v&nbsp;[Halenkově](https://cs.wikipedia.org/wiki/Halenkov) čp. 13.
 
-Studoval teologii na [Univerzitě Karlově](https://cs.wikipedia.org/wiki/Univerzita_Karlova) a byl členem řádu [kapucínů](https://cs.wikipedia.org/wiki/%C5%98%C3%A1d_men%C5%A1%C3%ADch_brat%C5%99%C3%AD_kapuc%C3%ADn%C5%AF). Římskokatolickou církev ale opustil, aby se mohl oženit s&nbsp;[Marií Šístkovou](sistkova-marie-1897.md).
+Studoval teologii na [Univerzitě Karlově](https://cs.wikipedia.org/wiki/Univerzita_Karlova) a byl členem řádu [kapucínů](https://cs.wikipedia.org/wiki/%C5%98%C3%A1d_men%C5%A1%C3%ADch_brat%C5%99%C3%AD_kapuc%C3%ADn%C5%AF). V březnu 1919 ale řád opustil, aby se mohl oženit s&nbsp;[Marií Šístkovou](sistkova-marie-1897.md).
+
+![Kostel Čtrnácti sv. pomocníků s přilehlým špitálem, dnes muzeem](https://upload.wikimedia.org/wikipedia/commons/2/2b/M%C4%9Bln%C3%ADk_-_n%C3%A1m%C4%9Bst%C3%AD_-_muzeum_a_kostel.JPG)
+
 
 <Photo src="Photo1500280.jpg" alt="Ludvík Konařík jako kapucín (nedatováno)" size="md" />
 
