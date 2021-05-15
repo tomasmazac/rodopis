@@ -22,9 +22,11 @@ V roce 1915 se stává superiorem mělnického hospicu. [4] Hospicem se původn�
 
 ![Kostel Čtrnácti sv. pomocníků s přilehlým špitálem, dnes muzeem](https://upload.wikimedia.org/wikipedia/commons/2/2b/M%C4%9Bln%C3%ADk_-_n%C3%A1m%C4%9Bst%C3%AD_-_muzeum_a_kostel.JPG)
 
-V březnu 1919 ale řád opustil, aby se mohl oženit s [Marií Šístkovou](sistkova-marie-1897.md).
+V březnu 1919 ale řád opustil, aby se mohl oženit s [Marií Šístkovou](sistkova-marie-1897.md). 
 
 <Photo src="Photo1500316.jpg" alt="Ludvík a Marie Konaříkovi (1920)" size="lg" />
+
+Dne 11. července 1928 vystoupil z římskokatolické církve a přestoupil k [Církvi československé](https://cs.wikipedia.org/wiki/C%C3%ADrkev_%C4%8Deskoslovensk%C3%A1_husitsk%C3%A1). [1]
 
 > 18\. března 1928
 > 
