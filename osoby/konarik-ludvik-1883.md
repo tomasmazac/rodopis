@@ -12,7 +12,7 @@ death: 1949
 - Chybí matriční záznam o úmrtí nebo úmrtní list.
 :::
 
-**Ludvík Josef Konařík** (řádovým jménem **Efrém**) byl nejmladším synem Josefa Konaříka a Terezie Foltýnové. Narodil se 10. července 1883 v [Halenkově](https://cs.wikipedia.org/wiki/Halenkov) čp. 13.
+**Ludvík Josef Konařík** (řádovým jménem **Efrém**) byl nejmladším synem Josefa Konaříka a Terezie Foltýnové. Narodil se 10. července 1883 v [Halenkově](https://cs.wikipedia.org/wiki/Halenkov) čp. 13. [1]
 
 Studoval teologii na [Univerzitě Karlově](https://cs.wikipedia.org/wiki/Univerzita_Karlova) a byl členem řádu [kapucínů](https://cs.wikipedia.org/wiki/%C5%98%C3%A1d_men%C5%A1%C3%ADch_brat%C5%99%C3%AD_kapuc%C3%ADn%C5%AF). Při řeholních slibech obdržel jméno Efrém.
 
@@ -49,7 +49,7 @@ V březnu 1919 ale řád opustil, aby se mohl oženit s [Marií Šístkovou](sis
 
 ## Zdroje
 
-1. Matriční záznam o narození – [Zemský archiv Opava, N, I-N • inv. č. 2401 • sig. Vs II 9 • 1882 - 1894 • Halenkov](http://digi.archives.cz/da/permalink?xid=be87e238-f13c-102f-8255-0050568c0263&scan=26#scan26)
+1. Matriční záznam o narození – [Zemský archiv Opava, N, I-N • inv. č. 2401 • sig. Vs II 9 • 1882 - 1894 • Halenkov](https://digi.archives.cz/da/permalink?xid=be87e238-f13c-102f-8255-0050568c0263&scan=34b2e4da7a0a456c9078602181a8fd7f)
 2. Kronika Náboženské obce CČSH Úvaly
 3. Srov. _Lexicon Cappuccinum_, sl. 773, heslo _„Hospitia“_
 4. MATĚJKA, Pacifik M. Seznamy představených kapucínských klášterů podřízených provincialátu v Praze (1599–2005). In: _Paginae historiae: Sborník Národního archivu_. Praha: Národní archiv, 2005, s. 204. ISBN 80-86712-31-1. ISSN 1211-9768.
