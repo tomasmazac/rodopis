@@ -9,7 +9,6 @@ death: 1949
 
 ::: warning NEKOMPLETNÍ INFORMACE
 - Chybí matriční záznam o sňatku nebo oddací list.
-- Chybí matriční záznam o úmrtí nebo úmrtní list.
 :::
 
 **Ludvík Josef Konařík** (řádovým jménem **Efrém**) byl nejmladším synem Josefa Konaříka a Terezie Foltýnové. Narodil se 10. července 1883 v [Halenkově](https://cs.wikipedia.org/wiki/Halenkov) čp. 13. [1]
