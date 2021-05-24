@@ -5,12 +5,7 @@ surname: Míč
 birth: 1894
 death: 1979
 ---
-
 # Josef Míč
-
-::: warning NEKOMPLETNÍ INFORMACE
-- Chybí matriční záznam o narození nebo rodný list.
-:::
 
 **Josef Míč** byl nejstarším synem [Václava Míče](mic-vaclav-1865.md) a [Anny Laurichové](laurichova-anna-1870.md). Narodil se 9. srpna 1894 ve [Studenci](https://cs.wikipedia.org/wiki/Studenec_(okres_Semily)) čp. 164. [1]
 
