@@ -5,12 +5,10 @@ surname: Šístková
 birth: 1897
 death: 1949
 ---
-
 # Marie Konaříková (roz. Šístková)
 
 ::: warning NEKOMPLETNÍ INFORMACE
 - Chybí matriční záznam o sňatku nebo oddací list.
-- Chybí matriční záznam o úmrtí nebo úmrtní list.
 :::
 
 **Marie Jana Konaříková** (roz. **Šístková**) byla nejstarší dcerou [Františka Šístka](sistek-frantisek-1872.md) a [Marie Pavelkové](pavelkova-marie-1872.md). Narodila se 29. září 1897 v Praze čp. 1711/II. \[1, 2\]
