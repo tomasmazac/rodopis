@@ -18,4 +18,4 @@ death: 1929
 
 ### Zdroje
 
-1) Matriční záznam o narození – [Zemský archiv Opava, N, I-N • inv. č. 2401 • sig. Vs II 9 • 1882 - 1894 • Halenkov](https://digi.archives.cz/da/permalink?xid=be87dff4-f13c-102f-8255-0050568c0263&scan=b619117dec4a4fa680a0db8f2b3ad7e8)
+1) Matriční záznam o narození – [Zemský archiv Opava, N, I-N • inv. č. 2396 • sig. Vs II 4 • 1856–1881 • Halenkov](https://digi.archives.cz/da/permalink?xid=be87dff4-f13c-102f-8255-0050568c0263&scan=b619117dec4a4fa680a0db8f2b3ad7e8)
