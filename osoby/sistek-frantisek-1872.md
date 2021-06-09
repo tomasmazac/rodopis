@@ -45,7 +45,7 @@ Zemřel 27. ledna 1944 v 71 letech, bez zaopatření svátostmi. Jako příčina
 * [Marie Konaříková](sistkova-marie-1897.md) (1897–1949)
 * [Anna Míčová](sistkova-anna-1901.md) (1901–1983)
 * František Šístek (1902–?)
-* Josef Šístek (1904-?)
+* [Josef Šístek](sistek-josef-1904.md) (1904–?)
 * Ludmila Volštátová (1906–?)
 * [Aloisie Šotolová](sistkova-aloisie-1908.md) (1908–?)
 
