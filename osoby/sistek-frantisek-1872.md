@@ -7,10 +7,6 @@ death: 1944
 ---
 # František Šístek
 
-::: warning NEKOMPLETNÍ INFORMACE
-Chybí matriční záznam o úmrtí nebo úmrtní list.
-:::
-
 **František Šístek** byl synem Jana Šístka a Antonie Příhodové. Narodil se 22. září 1872 v [Tismicích](https://cs.wikipedia.org/wiki/Tismice) čp. 26. Za dva dny (tj. 24. září) proběhl křest. Malý chlapec byl pokřtěn po [Františku z Assisi](https://cs.wikipedia.org/wiki/Franti%C5%A1ek_z_Assisi) jako *František Serafinský*. Za kmotry mu šli František a Anna Hamtákovi (rolník z [Limuz](https://cs.wikipedia.org/wiki/Limuzy) čp. 11 s&nbsp;manželkou) a Anna Šplíchalová (manželka Josefa Šplíchala, starosty z&nbsp;Limuz čp. 2). [1, 7]
 
 František se v Praze vyučil uzenářem. V učení byl tři roky – od 15. května 1887 do 20. dubna 1890. [2]
