@@ -25,4 +25,4 @@ Dne 12. května 1931 v Praze se provdala za Vojtěcha Typlta. [2]
 ## Zdroje
 
 1. Matriční záznam o narození – [SOA Praha, Bakov nad Jizerou 11, fol. 393](https://ebadatelna.soapraha.cz/d/3755/190)
-2. Matriční záznam o s – [AHMP, HOL O10, fol. 27](http://katalog.ahmp.cz/pragapublica/permalink?xid=D0E2BE869E89479E958A7C91EAED132D&scan=32#scan32)
+2. Matriční záznam o sňatku – [AHMP, HOL O10, fol. 27](http://katalog.ahmp.cz/pragapublica/permalink?xid=D0E2BE869E89479E958A7C91EAED132D&scan=32#scan32)
