@@ -6,6 +6,10 @@ birth: 1893
 ---
 # Anna Marková
 
+::: warning NEKOMPLETNÍ INFORMACE
+* Chybí matriční záznam o úmrtí nebo úmrtní list.
+:::
+
 **Anna Marková** byla pátým dítětem, třetí dcerou [Jana Marka](marek-jan-1860.md) a [Marie Švermové](svermova-marie-1867.md). Narodila se 29. listopadu 1893 v [Podhradí](https://cs.wikipedia.org/wiki/Podhrad%C3%AD_(Bakov_nad_Jizerou)) čp. 6. [1]
 
 
