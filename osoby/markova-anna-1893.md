@@ -11,7 +11,7 @@ birth: 1893
 
 ## Rodiče
 
-- [Jan Marek](marie-jan-1860.md) (1860–1934)
+- [Jan Marek](marek-jan-1860.md) (1860–1934)
 - [Marie Švermová](svermova-marie-1867.md) (1867–1937)
 
 
