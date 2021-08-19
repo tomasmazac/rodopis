@@ -13,7 +13,7 @@ death: 1988
 * Chybí matriční záznam o úmrtí nebo úmrtní list.
 :::
 
-**Jan Mazač** byl druhým dítětem, druhým synem [Jana Mazače](mazac-jan-1891.md) a [Marie Markové](markova-marie-1887.md). Narodil se 24. října 1922. [?]
+**Jan Mazač** byl druhým dítětem, druhým synem [Jana Mazače](mazac-jan-1891.md) a [Marie Markové](markova-marie-1887.md). Narodil se 24. října 1922 v Rokytnici nad Jizerou. [?]
 
 Oženil se s Libuší Měšťákovou. Manželství ale skončilo rozvodem. [?]
 
@@ -27,3 +27,8 @@ Oženil se s Libuší Měšťákovou. Manželství ale skončilo rozvodem. [?]
 ## Potomci
 
 - Jan Mazač (1949–2015)
+
+
+## DNA
+
+- Haploskupina Y-DNA: I-BY198275
