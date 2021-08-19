@@ -25,7 +25,7 @@ Zemřel ve věku 40 let – dne 22. června 1932 podlehl tuberkulóze plic. [4]
 ## Potomci
 
 - [Jaroslav Mazač](mazac-jaroslav-1921.md) (1921–2005)
-- Jan Mazač (1922–1988)
+- [Jan Mazač](mazac-jan-1922.md) (1922–1988)
 
 
 ## DNA
