@@ -27,7 +27,7 @@ Zemřela ve večerních hodinách v neděli dne 20. dubna 1975 ve věku 88 let. 
 ## Potomci
 
 - [Jaroslav Mazač](mazac-jaroslav-1921.md) (1921–2005)
-- Jan Mazač (1922–1988)
+- [Jan Mazač](mazac-jan-1922.md) (1922–1988)
 
 
 ## Zdroje
