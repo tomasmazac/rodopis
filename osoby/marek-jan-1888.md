@@ -6,7 +6,7 @@ birth: 1888
 ---
 # Jan Marek
 
-**Jan Antonín Marek** byl druhým dítětem, nejstarším synem [Jana Marka](marek-jan-1860.md) a [Marie Švermové]((svermova-marie-1867.md)). Narodil se 16. dubna 1888 v [Podhrádí](https://cs.wikipedia.org/wiki/Podhrad%C3%AD_(Bakov_nad_Jizerou)) čp. 6. [1]
+**Jan Antonín Marek** byl druhým dítětem, nejstarším synem [Jana Marka](marek-jan-1860.md) a [Marie Švermové](svermova-marie-1867.md). Narodil se 16. dubna 1888 v [Podhrádí](https://cs.wikipedia.org/wiki/Podhrad%C3%AD_(Bakov_nad_Jizerou)) čp. 6. [1]
 
 Živil se jako komisionář (1920) [2], zlatník, rytec (1930). [3]
 
