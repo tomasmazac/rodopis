@@ -6,6 +6,10 @@ birth: 1889
 ---
 # Štěpánka Typltová (roz. Marková)
 
+::: warning NEKOMPLETNÍ INFORMACE
+Chybí matriční záznam o úmrtí nebo úmrtní list.
+:::
+
 **Štěpánka Typltová** (roz. **Marková**) byla třetím dítětem, druhou dcerou [Jana Marka](marek-jan-1860.md) a [Marie Švermové](svermova-marie-1867.md). Narodila se 24. prosince 1889 v [Podhradí](https://cs.wikipedia.org/wiki/Podhrad%C3%AD_(Bakov_nad_Jizerou)) čp. 6. [1]
 
 Dne 12. května 1931 v Praze se provdala za Vojtěcha Typlta. [2]
