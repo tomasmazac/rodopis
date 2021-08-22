@@ -32,7 +32,7 @@ Měl kulatý obličej, modré oči a kaštanové vlasy. [5]
 - [Štěpánka Typltová](markova-stepanka-1889.md) (1889–?)
 - [Josef Marek](marek-josef-1891.md) (1891–?)
 - [Anna Marková](markova-anna-1893.md) (1893–?)
-- Růžena Hašlarová (1897–1979)
+- [Růžena Hašlarová](markova-ruzena-1897.md) (1897–1979)
 - František Marek
 
 
