@@ -5,7 +5,6 @@ surname: Ballová
 birth: 1937
 death: 2006
 ---
-
 # Júlia Récka (roz. Ballová)
 
 ::: warning NEKOMPLETNÍ INFORMACE
@@ -14,9 +13,9 @@ death: 2006
 - Chybí matriční záznam o úmrtí nebo úmrtní list.
 :::
 
-**Júlia Récka** (rozená **Ballová**) byla dcerou [Stanislava Bally](balla-stanislav-1895.md) a [Veroniky Chromé](ballova-veronika-1903.md). Narodila se 30. ledna 1937 na [Malém Lapáši](https://cs.wikipedia.org/wiki/Mal%C3%BD_Lap%C3%A1%C5%A1). \[?\]
+**Júlia Récka** (rozená **Ballová**) byla dcerou [Stanislava Bally](balla-stanislav-1895.md) a [Veroniky Chromé](chroma-veronika-1903.md). Narodila se 30. ledna 1937 na [Malém Lapáši](https://cs.wikipedia.org/wiki/Mal%C3%BD_Lap%C3%A1%C5%A1). [?]
 
-V&nbsp;sobotu 15.&nbsp;listopadu&nbsp;1958 se provdala za [Františka Réckého](recky-frantisek-1935.md). Sňatek se konal v&nbsp;římskokatolickém kostele na Veľkém Lapáši (pravděpodobně farní kostel Nepoškvrneného počatia Panny Márie). \[1\]
+V&nbsp;sobotu 15.&nbsp;listopadu&nbsp;1958 se provdala za [Františka Réckého](recky-frantisek-1935.md). Sňatek se konal v&nbsp;římskokatolickém kostele na Veľkém Lapáši (pravděpodobně farní kostel Nepoškvrneného počatia Panny Márie). [1]
 
 <Photo src="Sken_42.jpeg" alt="Oznámení o sňatku Františka Réckého a Júlie Ballové [1]" size="lg" />
 
@@ -26,7 +25,7 @@ V&nbsp;sobotu 15.&nbsp;listopadu&nbsp;1958 se provdala za [Františka Réckého]
 ## Rodiče
 
 - [Stanislav Balla](balla-stanislav-1895.md) (1895–1958)
-- [Veronika Chromá](ballova-veronika-1903.md) (1903–1981)
+- [Veronika Chromá](chroma-veronika-1903.md) (1903–1981)
 
 
 ## Potomci
