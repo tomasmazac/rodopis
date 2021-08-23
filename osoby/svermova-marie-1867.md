@@ -29,7 +29,7 @@ Zemřela 8. srpna 1937 v okresní nemocnici v [Mladé Boleslavi](https://cs.wiki
 - [Josef Marek](marek-josef-1891.md) (1891–?)
 - [Anna Marková](markova-anna-1893.md) (1893–?)
 - [Růžena Hašlarová](markova-ruzena-1897.md) (1897–1979)
-- František Marek (?–?)
+- [František Marek](marek-frantisek-.md) (?-?)
 
 
 ## Zdroje
