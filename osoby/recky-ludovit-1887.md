@@ -36,13 +36,13 @@ Zemřel 5. března 1967 na plicní embolii. \[1\]
 
 ## Potomci
 
+- Milan Recký (1926–?)
 - Štefan Récky (1928–1993)
 - Jozef Récky (1932–1977)
 - [František Récky](recky-frantisek-1935.md) (1935–1990)
-- Milan Recký
 - Mária Pindešová
-- Vincent Recký
 - Františka Recká
+- Vincent Recký (?-2021)
 
 
 ## Zdroje
