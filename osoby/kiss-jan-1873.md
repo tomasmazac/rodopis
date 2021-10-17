@@ -23,7 +23,7 @@ on zomrel.
 
 ## Rodiče
 
-- Martin Kišš (1841–1927)
+- [Martin Kišš](kiss-martin-1841.md) (1841–1927)
 - Mária Ballová (1849–1934)
 
 
