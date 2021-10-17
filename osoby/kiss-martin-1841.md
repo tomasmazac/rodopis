@@ -13,7 +13,7 @@ death: 1927
 - Chybí matriční záznam o úmrtí nebo úmrtní list.
 :::
 
-**Martin Kišš** byl synem Imricha Kišše a Alžběty Lány. Narodil se 10. listopadu 1841 na Veľkém Lapáši čp. 13. [?]
+**Martin Kišš** byl synem Imricha Kišše a Alžbety Lány. Narodil se 10. listopadu 1841 na Veľkém Lapáši čp. 13. [?]
 
 
 ## Rodiče
