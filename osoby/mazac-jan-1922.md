@@ -31,4 +31,4 @@ Oženil se s Libuší Měšťákovou. Manželství ale skončilo rozvodem. [?]
 
 ## DNA
 
-- Haploskupina Y-DNA: I-BY198275
+- Haploskupina Y-DNA: I-PH908
