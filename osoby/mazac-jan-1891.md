@@ -30,7 +30,7 @@ Zemřel ve věku 40 let – dne 22. června 1932 podlehl tuberkulóze plic. [4]
 
 ## DNA
 
-- Haploskupina Y-DNA: I-BY198275
+- Haploskupina Y-DNA: I-PH908
 
 
 ## Zdroje
