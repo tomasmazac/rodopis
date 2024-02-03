@@ -27,7 +27,7 @@ Zemřel po delší nemoci v pondělí 14. února 2005 ve 20.50 v Klaudiánově n
 
 ## DNA
 
-- Haploskupina Y-DNA: I-PH908
+- Haploskupina Y-DNA: I-FT162921
 
 
 ## Potomci
