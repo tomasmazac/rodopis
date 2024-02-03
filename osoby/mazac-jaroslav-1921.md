@@ -10,9 +10,10 @@ death: 2005
 
 **Jaroslav Mazač** byl synem [Jana Mazače](mazac-jan-1891.md) a [Marie Markové](markova-marie-1887.md). Narodil se 21. dubna 1921 v [Rokytně](https://cs.wikipedia.org/wiki/Rokytno_(Rokytnice_nad_Jizerou)) čp.&nbsp;27.
 
+<div style="display: flex; ">
 <Photo src="img_5037.jpg" alt="Rokytno čp. 27 (únor 2024)" />
-
-<Photo src="img_5038.jpg" alt="Rokytno čp. 27 (únor 2024)" />
+<Photo src="img_5038.jpg" alt="Rokytno čp. 27 (únor 2024)" class="margin-left: 1rem" />
+</div>
 
 Dne 30. srpna 1952 se oženil s Olgou Míčovou. Sňatek proběhl v [kapli Narození Páně](https://cs.wikipedia.org/wiki/Kaple_Narozen%C3%AD_P%C3%A1n%C4%9B_(Horky_nad_Jizerou)) v [Horkách nad Jizerou](https://cs.wikipedia.org/wiki/Horky_nad_Jizerou). \[2–4\]
 
