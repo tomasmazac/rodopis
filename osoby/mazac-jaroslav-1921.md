@@ -30,15 +30,15 @@ Zemřel po delší nemoci v pondělí 14. února 2005 ve 20.50 v Klaudiánově n
 - [Marie Marková](markova-marie-1887.md) (1887–1975)
 
 
-## DNA
-
-- Haploskupina Y-DNA: I-FT162921
-
-
 ## Potomci
 
 - Jiří Mazač
 - Petr Mazač
+
+
+## DNA
+
+- Haploskupina Y-DNA: I-FT162921
 
 
 ## Zdroje
