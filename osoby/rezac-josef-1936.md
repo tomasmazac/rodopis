@@ -1,7 +1,7 @@
 ---
-title: 'Josef Řezáč'
-firstName: 'Josef'
-surname: 'Řezáč'
+title: Josef Řezáč
+firstName: Josef
+surname: Řezáč
 birth: 1936
 death: 2013
 ---
@@ -28,3 +28,8 @@ Zemřel 26. prosince 2013 ve věku 77 let. \[?\]
 
 - Josef Řezáč (?–2018)
 - Soňa Foitová
+
+
+## DNA
+
+- Haploskupina Y-DNA: R-Y2905
