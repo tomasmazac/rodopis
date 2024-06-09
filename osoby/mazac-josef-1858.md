@@ -64,7 +64,12 @@ Po delší nemoci zemřel 9. června 1936 ve 3 hodiny ráno ve věku 79 let (na 
 
 ## DNA
 
-- Haploskupina Y-DNA: I-PH908
+- Haploskupina Y-DNA: I-FT162921
+
+
+## Externí odkazy
+
+- [Josef Mazač](https://www.wikitree.com/wiki/Maza%C4%8D-21) na WikiTree
 
 
 ## Zdroje
