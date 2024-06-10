@@ -69,6 +69,7 @@ Po delší nemoci zemřel 9. června 1936 ve 3 hodiny ráno ve věku 79 let (na 
 
 ## Externí odkazy
 
+- [Josef Mazač](https://www.wikidata.org/wiki/Q126478378) na Wikidata
 - [Josef Mazač](https://www.wikitree.com/wiki/Maza%C4%8D-21) na WikiTree
 
 
