@@ -5,39 +5,35 @@ surname: Chromá
 birth: 1903
 death: 1981
 ---
-
 # Veronika Ballová (roz. Chromá)
 
 ::: warning NEKOMPLETNÍ INFORMACE
-- Chybí matriční záznam o narození nebo rodný list.
-:::
 
-**Veronika Ballová** (rozená **Chromá**) byla dcerou Štefana Chromého a Márie Záhumenické. Narodila se 4. června 1903 na Veľkém Lapáši. \[1–4\] 
+* Chybí matriční záznam o narození nebo rodný list.
+  :::
 
-Dne 7. listopadu 1922 se na Veľkém Lapáši provdala za [Stanislava Ballu](balla-stanislav-1895.md). [1–2]
+**Veronika Ballová** (rozená **Chromá**) byla dcerou Štefana Chromého a Márie Záhumenické. Narodila se 4. června 1903 na Veľkém Lapáši. \[1–4] 
 
+Dne 7. listopadu 1922 se na Veľkém Lapáši provdala za [Stanislava Ballu](balla-stanislav-1895.md). \[1–2]
 
 ## Rodiče
 
-- Štefan Chromý (1862–1921)
-- Mária Záhumenická (1864–1947)
-
+* Štefan Chromý (1862–1921)
+* Mária Záhumenická (1864–1947)
 
 ## Potomci
 
-- Mária Duchoňová (1923–1949)
-- Ján Balla (1925–1985)
-- Katarína Petríková (1928–2017)
-- [Júlia Récka](ballova-julia-1937.md) (1937–2006)
-- Jozef Balla
-- Štefan Balla
-- Karol Balla
-
+* Mária Duchoňová (1923–1949)
+* Ján Balla (1925–1985)
+* Katarína Petríková (1928–2017)
+* [Júlia Récka](ballova-julia-1937.md) (1937–2006)
+* Jozef Balla
+* Štefan Balla
+* Karol Balla
 
 ## DNA
 
-- Haploskupina mtDNA: W6
-
+* Haploskupina mtDNA: W6an
 
 ## Zdroje
 
