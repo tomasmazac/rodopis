@@ -19,7 +19,7 @@ Zemřela po delší nemoci v sobotu 6. srpna 1983 ve věku 82 let. \[4]
 ## Potomci
 
 * [Helena Morávková](micova-helena-1925.md) (1925–2008)
-* Olga Mazačová
+* Olga Mazačová (1929–2025)
 
 ## DNA
 
