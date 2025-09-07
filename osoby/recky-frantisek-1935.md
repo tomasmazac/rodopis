@@ -29,6 +29,10 @@ Zemřel 7. prosince 1990 v 54 letech. \[1] Je pohřben na Městském hřbitově 
 * Oľga Récka (1961–2018)
 * Zlatica Ballová
 
+## DNA
+
+* Haploskupina Y-DNA: R-Y5587
+
 ## Zdroje
 
 [1] Smuteční oznámení
