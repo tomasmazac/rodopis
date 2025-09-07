@@ -45,6 +45,11 @@ Zemřel 5. března 1967 na plicní embolii. \[1\]
 - Vincent Recký (?-2021)
 
 
+## DNA
+
+* Haploskupina Y-DNA: R-Y5587
+
+
 ## Zdroje
 
 1. Úmrtí list
