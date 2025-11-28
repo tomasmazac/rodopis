@@ -20,6 +20,8 @@ Do nalezince byl dán za osm dní ve středu 18.&nbsp;srpna&nbsp;1858 a
 * dne 11. června 1866 do péče vdovy Anny Černé z&nbsp;[Kounic](https://en.wikipedia.org/wiki/Kounice) (odkud pocházela i jeho matka Barbora) a 
 * dne 20. října 1866 do péče vdovy Elisabeth Počtové z&nbsp;[Kounic čp. 6](https://goo.gl/maps/DPLfDaVvzMNuSdc7A).
 
+> Novorozenci zůstávali v nalezinci několik týdnů a potom byly za úplatu (v 1. roce 6 zl., ve 2. 4 zl. a ve 3. až 6. roce péče 3 zlaté měsíčně) dávány do pěstounské péče na venkov (tzv. prážata), nejdéle však na 6 let. Pokud byly pěstouny vráceny do nalezince po dovršení 6ti let, pak byly odesílány do domovských obcí, kde často těžce živořily. \[10]
+
 Dne 9.&nbsp;září&nbsp;1869 dosáhl tzv. normálního věku, v&nbsp;tu chvíli končila péče nalezince o dítě a okresním soudem mu byl ustanoven poručníkem František Boháček z&nbsp;Kounic. \[9]
 
 28.&nbsp;září&nbsp;1884 se oženil s&nbsp;[Marií Škobisovou](skobisova-marie-1860.md). Svatební obřad proběhl v&nbsp;[kostele sv. Mikuláše ve Vršovicích](https://cs.wikipedia.org/wiki/Kostel_svatého_Mikuláše_(Vršovice)). 29.&nbsp;prosince&nbsp;1884 (tj. čtyři měsíce po svatbě) se jim narodil syn [Karel](mazac-karel-1884.md). \[4]
@@ -78,3 +80,4 @@ Po delší nemoci zemřel 9. června 1936 ve 3 hodiny ráno ve věku 79 let (na 
 7. Matriční záznam o úmrtí Marie Mazačové – [SOA Litoměřice, inv. č. 998, sig. L17/36, fol. 112](http://vademecum.soalitomerice.cz/vademecum/permalink?xid=09ddd7cea03b9b8d:4e496e4e:12216bae987:-79c1&scan=115#scan115)
 8. Matriční záznam o úmrtí Bohumily Mazačové – [SOA Litoměřice, inv. č. 10736, sig. L17/141, fol. 272](http://vademecum.soalitomerice.cz/vademecum/permalink?xid=8d0e01f6cf78fd58:-6ca67971:13f99d54109:-7f5e&scan=277#scan277)
 9. [Rešerše z Národního archivu](../D01_02_Prvopis_verze_3EEA4C20.pdf)
+10. _Nalezinec „U Apolináře“_. Online. Fakultní nemocnice v Motole. 2024-10-30. Dostupné z: [https://www.fnmotol.cz/o-nas/historie-a-soucasnost/nalezinec-u-apolinare/](https://www.fnmotol.cz/o-nas/historie-a-soucasnost/nalezinec-u-apolinare/). [cit. 2025-11-28].
