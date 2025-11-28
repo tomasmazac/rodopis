@@ -34,7 +34,7 @@ V&nbsp;Horní Kamenici se mu dále narodili děti Josef (umírá ve dvou letech)
 
 <Photo src="ceska-kamenice-papirny-veduta.jpg" alt="Česko-kamenické papírny na dobové vedutě \[6]" />
 
-V&nbsp;prosinci 1898 umřela na zápal plic jeho žena Marie. \[7] 38letý vdovec si ale už 17.&nbsp;dubna&nbsp;1899 vzal za ženu vdovu Bohumilu Šimůnkovou. Spolu měli postupně ještě děti [Bohumilu](mazacova-bohumila-1904.md) a [Aloise](mazac-alois-1906.md).
+V&nbsp;prosinci 1898 umřela na zápal plic jeho žena Marie. \[7] 38letý vdovec si ale už 17.&nbsp;dubna&nbsp;1899 vzal za ženu vdovu Bohumilu Šimůnkovou. Spolu měli postupně ještě děti [Bohumilu](mazacova-bohumila-1904.md) a [Aloise](mazac-alois-1906.md). [^1]
 
 <Photo src="mazac-josef-a-synove.jpg" alt="Josef Mazač (uprostřed) a jeho synové (zleva Jan a Karel, zbylí dva – pravděpodobně Jaroslav a Alois – zatím nejsou identifikováni). " />
 
@@ -81,3 +81,5 @@ Po delší nemoci zemřel 9. června 1936 ve 3 hodiny ráno ve věku 79 let (na 
 8. Matriční záznam o úmrtí Bohumily Mazačové – [SOA Litoměřice, inv. č. 10736, sig. L17/141, fol. 272](http://vademecum.soalitomerice.cz/vademecum/permalink?xid=8d0e01f6cf78fd58:-6ca67971:13f99d54109:-7f5e&scan=277#scan277)
 9. [Rešerše z Národního archivu](../D01_02_Prvopis_verze_3EEA4C20.pdf)
 10. _Nalezinec „U Apolináře“_. Online. Fakultní nemocnice v Motole. 2024-10-30. Dostupné z: [https://www.fnmotol.cz/o-nas/historie-a-soucasnost/nalezinec-u-apolinare/](https://www.fnmotol.cz/o-nas/historie-a-soucasnost/nalezinec-u-apolinare/). [cit. 2025-11-28].
+
+[^1]: test
