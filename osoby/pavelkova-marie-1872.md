@@ -37,7 +37,7 @@ Byla pochována 3. ledna 1948 na hřbitově Svatého Václava na Mělníku, vedl
 
 ## DNA
 
-* Haploskupina mtDNA: H1c3b
+* Haploskupina mtDNA: H1c3+195
 
 ## Zdroje
 
