@@ -26,7 +26,7 @@ Zemřela 18. července 2008 ve věku 83 let. \[?]
 
 ## DNA
 
-* Haploskupina mtDNA: H1c3b
+* Haploskupina mtDNA: H1c3+195
 
 ## Zdroje
 
