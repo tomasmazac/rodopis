@@ -23,7 +23,7 @@ Zemřela po delší nemoci v sobotu 6. srpna 1983 ve věku 82 let. \[4]
 
 ## DNA
 
-* Haploskupina mtDNA: H1c3b
+* Haploskupina mtDNA: H1c3+195
 
 ## Zdroje
 
