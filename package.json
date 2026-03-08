@@ -4,6 +4,9 @@
   "description": "",
   "author": "Tomáš Mazač &lt;tomas.mazac@gmail.com&gt;",
   "private": true,
+  "engines": {
+    "node": ">=24"
+  },
   "scripts": {
     "dev": "vuepress dev .",
     "build": "vuepress build ."
