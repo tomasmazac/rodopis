@@ -12,7 +12,7 @@ isGenerated: true
 ## Rodiče
 
 - [Ján Balla](balla-jan-1925.md) (1925–1985)
-- [Mária Černá](cerna-maria-1932.md) (1932–?)
+- Mária Černá (1932–?)
 
 ## Potomci
 

@@ -16,5 +16,5 @@ isGenerated: true
 
 ## Potomci
 
-- [Viktor Čanaky](canaky-viktor-1938.md) (1938–?)
+- Viktor Čanaky (1938–?)
 - Čanakyová
