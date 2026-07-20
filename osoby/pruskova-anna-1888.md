@@ -1,0 +1,14 @@
+---
+title: "Anna Průšková"
+firstName: "Anna"
+surname: "Průšková"
+birth: 1888
+isGenerated: true
+---
+
+# Anna Průšková
+
+## Rodiče
+
+- [Václav Průšek](prusek-vaclav-1860.md) (1860–?)
+- [Marie Prskavcová](prskavcova-marie-1861.md) (1861–1904)
