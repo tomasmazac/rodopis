@@ -88,3 +88,4 @@ sw.*
 
 # Better Confluence MCP local cache
 /.better-confluence-mcp/
+.playwright-mcp
