@@ -11,7 +11,7 @@ isGenerated: true
 ## Rodiče
 
 - [Jan Průšek](prusek-jan-1822.md) (1822–?)
-- [Alžběta Cimrová](cimrova-alzbeta.md) (?–?)
+- Alžběta Cimrová (?–?)
 
 ## Potomci
 

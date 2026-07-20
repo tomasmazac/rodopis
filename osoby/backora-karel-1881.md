@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Josef Bačkora](backora-josef.md) (?–?)
-- [Anna Kňákalová](knakalova-anna.md) (?–?)
+- Josef Bačkora (?–?)
+- Anna Kňákalová (?–?)
 
 ## Potomci
 

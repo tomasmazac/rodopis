@@ -10,7 +10,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [Josef Bohuslav](bohuslav-josef.md) (?–?)
+- Josef Bohuslav (?–?)
 
 ## Potomci
 

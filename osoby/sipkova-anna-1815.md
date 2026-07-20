@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Jan Šípek](sipek-jan.md) (?–?)
-- [Alžběta Havlová](havlova-alzbeta.md) (?–?)
+- Jan Šípek (?–?)
+- Alžběta Havlová (?–?)
 
 ## Potomci
 

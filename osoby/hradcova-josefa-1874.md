@@ -10,5 +10,5 @@ isGenerated: true
 
 ## Rodiče
 
-- [Josef Fousek](fousek-josef.md) (?–?)
-- [Alžběta Hradcová](hradcova-alzbeta.md) (?–?)
+- Josef Fousek (?–?)
+- Alžběta Hradcová (?–?)

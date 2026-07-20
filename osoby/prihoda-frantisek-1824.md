@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Jan Příhoda](prihoda-jan.md) (?–1850)
-- [Barbora Poustecká](poustecka-barbora.md) (?–?)
+- Jan Příhoda (?–1850)
+- Barbora Poustecká (?–?)
 
 ## Potomci
 

@@ -10,8 +10,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Václav Vojtěchovský](vojtechovsky-vaclav.md) (?–?)
-- [Alžběta Součková](souckova-alzbeta.md) (?–?)
+- Václav Vojtěchovský (?–?)
+- Alžběta Součková (?–?)
 
 ## Potomci
 

@@ -12,4 +12,4 @@ isGenerated: true
 ## Rodiče
 
 - [Štefan Récky](recky-stefan-1928.md) (1928–1993)
-- [Terézia Bibeňová](bibenova-terezia.md) (?–2015)
+- Terézia Bibeňová (?–2015)

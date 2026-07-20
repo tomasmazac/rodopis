@@ -10,8 +10,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [František Kerner](kerner-frantisek.md) (?–1848)
-- [Františka Šteinerová](steinerova-frantiska.md) (?–?)
+- František Kerner (?–1848)
+- Františka Šteinerová (?–?)
 
 ## Potomci
 

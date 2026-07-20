@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Matěj Škopek](skopek-matej.md) (?–?)
-- [Kateřina Slabá](slaba-katerina.md) (?–?)
+- Matěj Škopek (?–?)
+- Kateřina Slabá (?–?)
 
 ## Potomci
 

@@ -16,5 +16,5 @@ isGenerated: true
 
 ## Potomci
 
-- [Jozef Arvay](arvay-jozef.md) (?–?)
-- [Ladislav Arvay](arvay-ladislav.md) (?–?)
+- Jozef Arvay (?–?)
+- Ladislav Arvay (?–?)

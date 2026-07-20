@@ -10,8 +10,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Václav Salač](salac-vaclav.md) (?–?)
-- [Anna Schneiderová](schneiderova-anna.md) (?–?)
+- Václav Salač (?–?)
+- Anna Schneiderová (?–?)
 
 ## Potomci
 

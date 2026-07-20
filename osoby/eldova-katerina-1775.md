@@ -11,7 +11,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [Jan Elda](elda-jan.md) (?–?)
+- Jan Elda (?–?)
 
 ## Potomci
 

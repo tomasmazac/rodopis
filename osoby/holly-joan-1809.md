@@ -11,4 +11,4 @@ isGenerated: true
 ## Rodiče
 
 - [František Holý](holy-frantisek-1776.md) (1776–1829)
-- [Anna Jedličková](jedlickova-anna.md) (?–?)
+- Anna Jedličková (?–?)

@@ -11,7 +11,7 @@ isGenerated: true
 ## Rodiče
 
 - [Ján Šimon](simon-jan-1793.md) (1793–1865)
-- [Anna Kejzvalová](kejzvalova-anna.md) (?–?)
+- Anna Kejzvalová (?–?)
 
 ## Potomci
 

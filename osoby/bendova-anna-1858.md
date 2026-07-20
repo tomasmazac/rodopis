@@ -10,8 +10,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Štěpán Benda](benda-stepan.md) (?–?)
-- [Magdalena Michalčíková](michalcikova-magdalena.md) (?–?)
+- Štěpán Benda (?–?)
+- Magdalena Michalčíková (?–?)
 
 ## Potomci
 

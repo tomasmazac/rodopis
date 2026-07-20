@@ -18,5 +18,5 @@ isGenerated: true
 
 - [František Řezáč](rezac-frantisek-1802.md) (1802–?)
 - [Josef Řezáč](rezac-josef-1804.md) (1804–1892)
-- [Matěj Řezáč](rezac-matej.md) (?–?)
-- [Matěj Řezáč](rezac-matej.md) (?–?)
+- Matěj Řezáč (?–?)
+- Matěj Řezáč (?–?)

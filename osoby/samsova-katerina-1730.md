@@ -11,7 +11,7 @@ isGenerated: true
 ## Rodiče
 
 - Pavel Sameš
-- [Dorota](dorota-1700.md) (1700–?)
+- Dorota (1700–?)
 
 ## Potomci
 

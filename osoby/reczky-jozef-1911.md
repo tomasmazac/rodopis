@@ -19,5 +19,5 @@ isGenerated: true
 - Anna Reczká
 - Natália Reczká
 - Karol Reczky
-- [Michal Reczky](reczky-michal.md) (?–2020)
+- Michal Reczky (?–2020)
 - Michal Réczky

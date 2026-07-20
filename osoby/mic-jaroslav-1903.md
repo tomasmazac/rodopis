@@ -15,4 +15,4 @@ isGenerated: true
 
 ## Potomci
 
-- [Jaroslav Míč](mic-jaroslav.md) (?–2024)
+- Jaroslav Míč (?–2024)

@@ -12,7 +12,7 @@ isGenerated: true
 ## Rodiče
 
 - [Jiří Sameš](sames-jiri-1653.md) (1653–1715)
-- [Dorota](dorota-1655.md) (1655–1715)
+- Dorota (1655–1715)
 
 ## Potomci
 

@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Jiří Bartoš](bartos-jiri.md) (?–1876)
-- [Barbora G.](g-barbora.md) (?–?)
+- Jiří Bartoš (?–1876)
+- Barbora G. (?–?)
 
 ## Potomci
 

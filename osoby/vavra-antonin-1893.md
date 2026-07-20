@@ -10,8 +10,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Josef Vávra](vavra-josef.md) (?–?)
-- [Antonie Bartošová](bartosova-antonie.md) (?–?)
+- Josef Vávra (?–?)
+- Antonie Bartošová (?–?)
 
 ## Potomci
 

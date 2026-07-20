@@ -10,5 +10,5 @@ isGenerated: true
 
 ## Rodiče
 
-- [Alois Pavelka](pavelka-alois.md) (?–?)
+- Alois Pavelka (?–?)
 - Marie (?–?)

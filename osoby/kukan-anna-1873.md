@@ -20,4 +20,4 @@ isGenerated: true
 - [Michal Rumanovský](rumanovsky-michal-1908.md) (1908–1980)
 - [Július Rumanovský](rumanovsky-julius-1912.md) (1912–1978)
 - Rumanovský
-- [Mária Rumanovská](rumanovska-maria.md) (?–?)
+- Mária Rumanovská (?–?)

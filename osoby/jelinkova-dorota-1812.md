@@ -10,5 +10,5 @@ isGenerated: true
 
 ## Rodiče
 
-- [Josef Jelínek](jelinek-josef.md) (?–?)
-- [Veronika Svatoňová](svatonova-veronika.md) (?–?)
+- Josef Jelínek (?–?)
+- Veronika Svatoňová (?–?)

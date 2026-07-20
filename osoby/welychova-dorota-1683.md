@@ -11,7 +11,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [Karel Welych](welych-karel.md) (?–?)
+- Karel Welych (?–?)
 - Anna (?–?)
 
 ## Potomci

@@ -10,5 +10,5 @@ isGenerated: true
 
 ## Rodiče
 
-- [Josef Frumar](frumar-josef.md) (?–?)
-- [Anna Roeslerová](roeslerova-anna.md) (?–?)
+- Josef Frumar (?–?)
+- Anna Roeslerová (?–?)

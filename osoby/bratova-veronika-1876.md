@@ -10,5 +10,5 @@ isGenerated: true
 
 ## Rodiče
 
-- [Ján Brat](brat-jan.md) (?–?)
-- [Františka Rapavi](rapavi-frantiska.md) (?–?)
+- Ján Brat (?–?)
+- Františka Rapavi (?–?)

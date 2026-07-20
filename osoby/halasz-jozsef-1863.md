@@ -17,7 +17,7 @@ isGenerated: true
 
 - [Jozefin Halász](halasz-jozefin-1895.md) (1895–1971)
 - [Irén Halász](halasz-iren-1909.md) (1909–1989)
-- [Maria Halász](halasz-maria.md) (?–?)
-- [Gizella Halász](halasz-gizella.md) (?–?)
-- [Etela Halász](halasz-etela.md) (?–?)
-- [Gyula Halász](halasz-gyula.md) (?–?)
+- Maria Halász (?–?)
+- Gizella Halász (?–?)
+- Etela Halász (?–?)
+- Gyula Halász (?–?)

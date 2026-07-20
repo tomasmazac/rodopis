@@ -30,4 +30,4 @@ isGenerated: true
 - [Belko Vavrovič](vavrovic-belko-1944.md) (1944–1945)
 - [Monika Vavrovičová](vavrovicova-monika-1946.md) (1946–1951)
 - [Belko Vavrovič](vavrovic-belko-1948.md) (1948–1948)
-- [Vojtech Vavrovič](vavrovic-vojtech.md) (?–1945)
+- Vojtech Vavrovič (?–1945)

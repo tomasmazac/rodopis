@@ -10,5 +10,5 @@ isGenerated: true
 
 ## Rodiče
 
-- [František Šimůnek](simunek-frantisek.md) (?–?)
+- František Šimůnek (?–?)
 - [Bohumila Tomanová](tomanova-bohumila-1868.md) (1868–1922)

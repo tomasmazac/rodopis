@@ -11,7 +11,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [Jakub Nosálek](nosalek-jakub.md) (?–1795)
+- Jakub Nosálek (?–1795)
 
 ## Potomci
 

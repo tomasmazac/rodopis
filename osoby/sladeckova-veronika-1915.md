@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Ján Sládeček](sladecek-jan.md) (?–?)
-- [Terézia Miháliková](mihalikova-terezia.md) (?–?)
+- Ján Sládeček (?–?)
+- Terézia Miháliková (?–?)
 
 ## Potomci
 

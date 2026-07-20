@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Josef Horák](horak-josef.md) (?–?)
-- [Anna Cinková](cinkova-anna.md) (?–?)
+- Josef Horák (?–?)
+- Anna Cinková (?–?)
 
 ## Potomci
 

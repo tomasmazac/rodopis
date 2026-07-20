@@ -10,8 +10,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Jan Novák](novak-jan.md) (?–?)
-- [Kateřina Kundrátová](kundratova-katerina.md) (?–?)
+- Jan Novák (?–?)
+- Kateřina Kundrátová (?–?)
 
 ## Potomci
 

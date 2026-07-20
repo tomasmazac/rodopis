@@ -10,8 +10,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Josef Pokorný](pokorny-josef.md) (?–?)
-- [Marie Holečková](holeckova-marie.md) (?–?)
+- Josef Pokorný (?–?)
+- Marie Holečková (?–?)
 
 ## Potomci
 

@@ -11,10 +11,10 @@ isGenerated: true
 
 ## Rodiče
 
-- [Josef Knespl](knespl-josef.md) (?–?)
-- [Marie Volfová](volfova-marie.md) (?–?)
+- Josef Knespl (?–?)
+- Marie Volfová (?–?)
 
 ## Potomci
 
-- [Zdeněk Mazač](mazac-zdenek.md) (?–?)
+- Zdeněk Mazač (?–?)
 - Miroslava Mazačová

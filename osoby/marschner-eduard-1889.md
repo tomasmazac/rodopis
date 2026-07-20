@@ -11,4 +11,4 @@ isGenerated: true
 ## Rodiče
 
 - [Eduard Marschner](marschner-eduard-1861.md) (1861–1922)
-- [Maria Kreibich](kreibich-maria.md) (?–?)
+- Maria Kreibich (?–?)

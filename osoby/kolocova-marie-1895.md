@@ -10,7 +10,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [Karel Koloc](koloc-karel.md) (?–?)
+- Karel Koloc (?–?)
 - [Marie Průšková](pruskova-marie-1855.md) (1855–?)
 
 ## Potomci

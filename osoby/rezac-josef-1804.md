@@ -12,7 +12,7 @@ isGenerated: true
 ## Rodiče
 
 - [Jan Řezáč](rezac-jan-1759.md) (1759–1806)
-- [Anna Bečková](beckova-anna.md) (?–?)
+- Anna Bečková (?–?)
 
 ## Potomci
 

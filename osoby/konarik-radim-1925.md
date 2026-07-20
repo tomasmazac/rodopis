@@ -12,4 +12,4 @@ isGenerated: true
 ## Rodiče
 
 - [Bedřich Konařík](konarik-bedrich-1878.md) (1878–1944)
-- [Ema Hellmannová](hellmannova-ema.md) (?–?)
+- Ema Hellmannová (?–?)

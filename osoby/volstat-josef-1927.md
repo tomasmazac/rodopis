@@ -11,7 +11,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [Josef Volštát](volstat-josef.md) (?–?)
+- Josef Volštát (?–?)
 - [Ludmila Šístková](sistkova-ludmila-1906.md) (1906–?)
 
 ## Potomci

@@ -10,5 +10,5 @@ isGenerated: true
 
 ## Rodiče
 
-- [Václav Herbst](herbst-vaclav.md) (?–?)
+- Václav Herbst (?–?)
 - [Františka Šlencová](slencova-frantiska-1835.md) (1835–?)

@@ -20,4 +20,4 @@ isGenerated: true
 - [Anna Chromá](chroma-anna-1881.md) (1881–1965)
 - [Mária Chromá](chroma-maria-1884.md) (1884–?)
 - [Štefan Chromý](chromy-stefan-1886.md) (1886–1888)
-- [Ján Chromý](chromy-jan.md) (?–1882)
+- Ján Chromý (?–1882)

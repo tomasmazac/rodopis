@@ -10,5 +10,5 @@ isGenerated: true
 
 ## Rodiče
 
-- [Václav Polák](polak-vaclav.md) (?–?)
+- Václav Polák (?–?)
 - [Anna Frumarová](frumarova-anna-1820.md) (1820–?)

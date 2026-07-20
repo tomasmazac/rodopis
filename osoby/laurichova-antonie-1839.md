@@ -11,7 +11,7 @@ isGenerated: true
 ## Rodiče
 
 - [Ignác Laurich](laurich-ignac-1835.md) (1835–1869)
-- [Anna Suchardová](suchardova-anna.md) (?–?)
+- Anna Suchardová (?–?)
 
 ## Potomci
 

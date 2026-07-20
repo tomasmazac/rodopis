@@ -12,7 +12,7 @@ isGenerated: true
 ## Rodiče
 
 - Václav Hašlar
-- [Marie Čížková](cizkova-marie.md) (?–?)
+- Marie Čížková (?–?)
 
 ## Potomci
 

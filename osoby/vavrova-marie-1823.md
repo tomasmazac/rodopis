@@ -10,7 +10,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [Jiří Vávra](vavra-jiri.md) (?–?)
+- Jiří Vávra (?–?)
 - Anna (?–?)
 
 ## Potomci

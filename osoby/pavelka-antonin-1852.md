@@ -17,4 +17,4 @@ isGenerated: true
 
 - [Julius Pavelka](pavelka-julius-1877.md) (1877–1879)
 - [Eduard Pavelka](pavelka-eduard-1880.md) (1880–?)
-- [Marie Pavelková](pavelkova-marie.md) (?–?)
+- Marie Pavelková (?–?)

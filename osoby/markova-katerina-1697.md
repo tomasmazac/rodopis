@@ -10,5 +10,5 @@ isGenerated: true
 
 ## Rodiče
 
-- [Daniel Marek](marek-daniel.md) (?–?)
-- [Dorota](dorota-1671.md) (1671–1733)
+- Daniel Marek (?–?)
+- Dorota (1671–1733)

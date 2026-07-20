@@ -20,4 +20,4 @@ isGenerated: true
 - [Josef Vítek](vitek-josef-1947.md) (1947–1981)
 - Jan Vítek
 - František Vítek
-- [Jan Vítek](vitek-jan.md) (?–?)
+- Jan Vítek (?–?)

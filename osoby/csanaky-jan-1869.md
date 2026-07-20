@@ -22,4 +22,4 @@ isGenerated: true
 - [Žofia Čanaky](canaky-zofia-1912.md) (1912–1993)
 - [Jozefína Čanakyová](canakyova-jozefina-1915.md) (1915–1998)
 - [Anna Čanakyová](canakyova-anna-1917.md) (1917–?)
-- [Helena Čanakyová](canakyova-helena.md) (?–?)
+- Helena Čanakyová (?–?)

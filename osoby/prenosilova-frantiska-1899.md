@@ -10,5 +10,5 @@ isGenerated: true
 
 ## Rodiče
 
-- [Josef Přenosil](prenosil-josef.md) (?–?)
-- [Františka Jůzlová](juzlova-frantiska.md) (?–?)
+- Josef Přenosil (?–?)
+- Františka Jůzlová (?–?)

@@ -26,4 +26,4 @@ isGenerated: true
 - [Josef Míč](mic-josef-1863.md) (1863–1865)
 - [Václav Míč](mic-vaclav-1865.md) (1865–?)
 - [Josef Míč](mic-josef-1868.md) (1868–?)
-- [Alžběta Míčová](micova-alzbeta.md) (?–1872)
+- Alžběta Míčová (?–1872)

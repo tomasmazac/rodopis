@@ -10,8 +10,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Václav Hradec](hradec-vaclav.md) (?–?)
-- [Alžběta Cimerhaklová](cimerhaklova-alzbeta.md) (?–?)
+- Václav Hradec (?–?)
+- Alžběta Cimerhaklová (?–?)
 
 ## Potomci
 

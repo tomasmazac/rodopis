@@ -16,4 +16,4 @@ isGenerated: true
 
 ## Potomci
 
-- [Pavel Siňor](sinor-pavel.md) (?–?)
+- Pavel Siňor (?–?)

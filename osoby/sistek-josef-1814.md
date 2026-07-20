@@ -10,7 +10,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [Anna Šístková](sistkova-anna.md) (?–?)
+- Anna Šístková (?–?)
 
 ## Potomci
 

@@ -13,4 +13,4 @@ isGenerated: true
 
 - [Karel Česák](cesak-karel-1921.md) (1921–1996)
 - Česáková
-- [Antonín Česák](cesak-antonin.md) (?–?)
+- Antonín Česák (?–?)

@@ -18,6 +18,6 @@ isGenerated: true
 
 - [Marie Řezáčová](rezacova-marie-1905.md) (1905–1977)
 - [Božena Řezáčová](rezacova-bozena-1912.md) (1912–1990)
-- [Kristýna Řezáčová](rezacova-kristyna.md) (?–?)
-- [Jindřich Řezáč](rezac-jindrich.md) (?–?)
-- [Václav Řezáč](rezac-vaclav.md) (?–?)
+- Kristýna Řezáčová (?–?)
+- Jindřich Řezáč (?–?)
+- Václav Řezáč (?–?)

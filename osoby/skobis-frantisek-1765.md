@@ -12,4 +12,4 @@ isGenerated: true
 ## Rodiče
 
 - [František Škobis](skobis-frantisek-1730.md) (1730–1801)
-- [Anna N.](n-anna.md) (?–?)
+- Anna N. (?–?)

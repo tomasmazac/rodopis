@@ -12,7 +12,7 @@ isGenerated: true
 ## Rodiče
 
 - [Václav Čihák](cihak-vaclav-1731.md) (1731–1799)
-- [Magdalena Hochová](hochova-magdalena.md) (?–?)
+- Magdalena Hochová (?–?)
 
 ## Potomci
 

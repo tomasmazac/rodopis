@@ -11,7 +11,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [Bartoloměj Čihák](cihak-bartolomej.md) (?–?)
+- Bartoloměj Čihák (?–?)
 - Ludmila (?–?)
 
 ## Potomci

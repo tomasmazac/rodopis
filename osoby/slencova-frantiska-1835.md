@@ -10,8 +10,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Václav Šlenc](slenc-vaclav.md) (?–?)
-- [Kateřina Bernatová](bernatova-katerina.md) (?–?)
+- Václav Šlenc (?–?)
+- Kateřina Bernatová (?–?)
 
 ## Potomci
 

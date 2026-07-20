@@ -11,5 +11,5 @@ isGenerated: true
 
 ## Rodiče
 
-- [Václav Vrabec](vrabec-vaclav.md) (?–?)
-- [Barbora Hrdinová](hrdinova-barbora.md) (?–?)
+- Václav Vrabec (?–?)
+- Barbora Hrdinová (?–?)

@@ -11,5 +11,5 @@ isGenerated: true
 
 ## Rodiče
 
-- [Josef Hradec](hradec-josef.md) (?–?)
-- [Kateřina Nováková](novakova-katerina.md) (?–?)
+- Josef Hradec (?–?)
+- Kateřina Nováková (?–?)

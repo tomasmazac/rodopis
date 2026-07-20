@@ -11,7 +11,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [JIří Rob](rob-jiri.md) (?–?)
+- JIří Rob (?–?)
 - Helena (?–?)
 
 ## Potomci

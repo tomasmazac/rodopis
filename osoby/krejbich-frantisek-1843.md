@@ -10,4 +10,4 @@ isGenerated: true
 
 ## Rodiče
 
-- [Václav Krejbich](krejbich-vaclav.md) (?–?)
+- Václav Krejbich (?–?)

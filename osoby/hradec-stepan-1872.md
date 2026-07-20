@@ -11,4 +11,4 @@ isGenerated: true
 
 ## Rodiče
 
-- [Alžběta Hradcová](hradcova-alzbeta.md) (?–?)
+- Alžběta Hradcová (?–?)

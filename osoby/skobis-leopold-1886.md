@@ -16,4 +16,4 @@ isGenerated: true
 
 ## Potomci
 
-- [Zdeněk Škobis](skobis-zdenek.md) (?–?)
+- Zdeněk Škobis (?–?)

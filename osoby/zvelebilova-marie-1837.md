@@ -11,4 +11,4 @@ isGenerated: true
 
 ## Rodiče
 
-- [Matěj Zvelebil](zvelebil-matej.md) (?–1861)
+- Matěj Zvelebil (?–1861)

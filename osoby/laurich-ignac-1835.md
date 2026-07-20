@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Ignác Laurich](laurich-ignac.md) (?–?)
-- [Františka Kloudová](kloudova-frantiska.md) (?–?)
+- Ignác Laurich (?–?)
+- Františka Kloudová (?–?)
 
 ## Potomci
 

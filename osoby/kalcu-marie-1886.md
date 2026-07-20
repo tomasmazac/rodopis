@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Martin Kalců](kalcu-martin.md) (?–?)
-- [Anna Klubalová](klubalova-anna.md) (?–?)
+- Martin Kalců (?–?)
+- Anna Klubalová (?–?)
 
 ## Potomci
 

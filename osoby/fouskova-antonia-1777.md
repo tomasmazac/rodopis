@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Václav Fousek](fousek-vaclav.md) (?–?)
-- [Anna](anna-1734.md) (1734–1814)
+- Václav Fousek (?–?)
+- Anna (1734–1814)
 
 ## Potomci
 

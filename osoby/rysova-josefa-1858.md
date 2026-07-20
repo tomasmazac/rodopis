@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [František Rys](rys-frantisek.md) (?–?)
-- [Kateřina Homolková](homolkova-katerina.md) (?–?)
+- František Rys (?–?)
+- Kateřina Homolková (?–?)
 
 ## Potomci
 

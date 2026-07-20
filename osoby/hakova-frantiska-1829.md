@@ -10,7 +10,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [Marie Háková](hakova-marie.md) (?–?)
+- Marie Háková (?–?)
 
 ## Potomci
 

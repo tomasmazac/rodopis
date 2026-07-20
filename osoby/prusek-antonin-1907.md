@@ -11,4 +11,4 @@ isGenerated: true
 ## Rodiče
 
 - [Václav Průšek](prusek-vaclav-1860.md) (1860–?)
-- [II. Brožová, vdova](brozova-vdova-ii.md) (?–?)
+- II. Brožová, vdova (?–?)

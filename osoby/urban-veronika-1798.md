@@ -11,4 +11,4 @@ isGenerated: true
 
 ## Potomci
 
-- [Terézia Ferenci](ferenci-terezia.md) (?–1896)
+- Terézia Ferenci (?–1896)

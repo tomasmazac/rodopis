@@ -10,8 +10,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Václav Jelínek](jelinek-vaclav.md) (?–?)
-- [Josefa Dekastello](dekastello-josefa.md) (?–?)
+- Václav Jelínek (?–?)
+- Josefa Dekastello (?–?)
 
 ## Potomci
 

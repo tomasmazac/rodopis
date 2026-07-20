@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Václav Nechvátal](nechvatal-vaclav.md) (?–?)
-- [Kateřina N.](n-katerina.md) (?–?)
+- Václav Nechvátal (?–?)
+- Kateřina N. (?–?)
 
 ## Potomci
 

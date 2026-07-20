@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Josef Pech](pech-josef.md) (?–?)
-- [Marie Nečada](necada-marie.md) (?–?)
+- Josef Pech (?–?)
+- Marie Nečada (?–?)
 
 ## Potomci
 

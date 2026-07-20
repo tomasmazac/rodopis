@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Antonín Vančura](vancura-antonin.md) (?–?)
-- [Marie Vacková](vackova-marie.md) (?–?)
+- Antonín Vančura (?–?)
+- Marie Vacková (?–?)
 
 ## Potomci
 

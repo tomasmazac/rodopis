@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [František Toman](toman-frantisek.md) (?–?)
-- [Anna Urbanová](urbanova-anna.md) (?–?)
+- František Toman (?–?)
+- Anna Urbanová (?–?)
 
 ## Potomci
 

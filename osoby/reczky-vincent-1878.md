@@ -16,7 +16,7 @@ isGenerated: true
 
 ## Potomci
 
-- [Ladislav Recký](recky-ladislav.md) (?–?)
-- [Vincent Recký](recky-vincent.md) (?–?)
-- [Jozef Recký](recky-jozef.md) (?–?)
+- Ladislav Recký (?–?)
+- Vincent Recký (?–?)
+- Jozef Recký (?–?)
 - Jozef Recký

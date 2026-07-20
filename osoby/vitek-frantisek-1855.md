@@ -12,7 +12,7 @@ isGenerated: true
 ## Rodiče
 
 - [Jan Vítek](vitek-jan-1815.md) (1815–?)
-- [Barbora Rysová](rysova-barbora.md) (?–?)
+- Barbora Rysová (?–?)
 
 ## Potomci
 

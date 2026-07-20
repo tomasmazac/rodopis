@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Karol Balla](balla-karol.md) (?–?)
-- [Mária Hrebíčková](hrebickova-maria.md) (?–2019)
+- Karol Balla (?–?)
+- Mária Hrebíčková (?–2019)
 
 ## Potomci
 

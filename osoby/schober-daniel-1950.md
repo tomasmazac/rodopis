@@ -16,4 +16,4 @@ isGenerated: true
 
 ## Potomci
 
-- [Stela Schoberová](schoberova-stela.md) (?–?)
+- Stela Schoberová (?–?)

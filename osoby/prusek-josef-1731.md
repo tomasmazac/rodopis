@@ -12,7 +12,7 @@ isGenerated: true
 ## Rodiče
 
 - [Jan Průšek](prusek-jan-1689.md) (1689–1754)
-- [Anna](anna-1708.md) (1708–?)
+- Anna (1708–?)
 
 ## Potomci
 

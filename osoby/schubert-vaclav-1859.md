@@ -10,5 +10,5 @@ isGenerated: true
 
 ## Rodiče
 
-- [Ignác Schubert](schubert-ignac.md) (?–?)
-- [Johana Kastnerová](kastnerova-johana.md) (?–?)
+- Ignác Schubert (?–?)
+- Johana Kastnerová (?–?)

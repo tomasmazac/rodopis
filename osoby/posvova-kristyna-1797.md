@@ -10,7 +10,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [František Pošva](posva-frantisek.md) (?–?)
+- František Pošva (?–?)
 
 ## Potomci
 
@@ -19,4 +19,4 @@ isGenerated: true
 - [Karel Frumar](frumar-karel-1825.md) (1825–?)
 - [Kateřina Frumarová](frumarova-katerina-1827.md) (1827–1898)
 - [Kristýna Frumarová](frumarova-kristyna-1835.md) (1835–?)
-- [Josef Frumar](frumar-josef.md) (?–?)
+- Josef Frumar (?–?)

@@ -12,7 +12,7 @@ isGenerated: true
 ## Rodiče
 
 - [Jakub Mazač](mazac-jakub-1670.md) (1670–?)
-- [Dorota Ludvíková](ludvikova-dorota.md) (?–?)
+- Dorota Ludvíková (?–?)
 
 ## Potomci
 

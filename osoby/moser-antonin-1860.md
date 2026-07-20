@@ -10,8 +10,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Frantisek Mosr](mosr-frantisek.md) (?–?)
-- [Marie Eckertová](eckertova-marie.md) (?–?)
+- Frantisek Mosr (?–?)
+- Marie Eckertová (?–?)
 
 ## Potomci
 

@@ -11,4 +11,4 @@ isGenerated: true
 ## Rodiče
 
 - [Karel Míč](mic-karel-1859.md) (1859–1903)
-- [Marie Srnová](srnova-marie.md) (?–?)
+- Marie Srnová (?–?)

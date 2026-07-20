@@ -12,7 +12,7 @@ isGenerated: true
 ## Rodiče
 
 - [Jan Krejbich](krejbich-jan-1641.md) (1641–1721)
-- [Dorota](dorota-1661.md) (1661–1721)
+- Dorota (1661–1721)
 
 ## Potomci
 

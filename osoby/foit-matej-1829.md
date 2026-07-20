@@ -10,8 +10,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Adalbert Foit](foit-adalbert.md) (?–?)
-- [Anežka Škarková](skarkova-anezka.md) (?–?)
+- Adalbert Foit (?–?)
+- Anežka Škarková (?–?)
 
 ## Potomci
 

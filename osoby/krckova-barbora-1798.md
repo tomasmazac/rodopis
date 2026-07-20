@@ -11,7 +11,7 @@ isGenerated: true
 ## Rodiče
 
 - [Jan Krčka](krcka-jan-1775.md) (1775–1836)
-- [Kateřina Muncová](muncova-katerina.md) (?–1836)
+- Kateřina Muncová (?–1836)
 
 ## Potomci
 

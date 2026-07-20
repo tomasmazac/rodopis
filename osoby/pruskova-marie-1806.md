@@ -12,4 +12,4 @@ isGenerated: true
 ## Rodiče
 
 - [Jan Průšek](prusek-jan-1760.md) (1760–1846)
-- [Dorota Kolínská](kolinska-dorota.md) (?–1854)
+- Dorota Kolínská (?–1854)

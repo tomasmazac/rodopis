@@ -12,4 +12,4 @@ isGenerated: true
 ## Potomci
 
 - [Catharina Jedličková](jedlickova-catharina-1776.md) (1776–1845)
-- [Anna Jedličková](jedlickova-anna.md) (?–?)
+- Anna Jedličková (?–?)

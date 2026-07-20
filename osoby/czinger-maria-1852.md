@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Jozef Czinger](czinger-jozef.md) (?–1895)
-- [Terézia Ferenci](ferenci-terezia.md) (?–1896)
+- Jozef Czinger (?–1895)
+- Terézia Ferenci (?–1896)
 
 ## Potomci
 

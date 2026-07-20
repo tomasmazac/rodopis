@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Jan Tomsa](tomsa-jan.md) (?–?)
-- [Marie Poláková](polakova-marie.md) (?–?)
+- Jan Tomsa (?–?)
+- Marie Poláková (?–?)
 
 ## Potomci
 

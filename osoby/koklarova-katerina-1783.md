@@ -11,7 +11,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [Antonín Koklar](koklar-antonin.md) (?–?)
+- Antonín Koklar (?–?)
 - Terezie (?–?)
 
 ## Potomci

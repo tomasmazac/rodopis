@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Jan Bohuslav](bohuslav-jan.md) (?–?)
-- [Kateřina Koliášová](koliasova-katerina.md) (?–?)
+- Jan Bohuslav (?–?)
+- Kateřina Koliášová (?–?)
 
 ## Potomci
 

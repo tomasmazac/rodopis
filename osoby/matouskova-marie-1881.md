@@ -11,13 +11,13 @@ isGenerated: true
 
 ## Rodiče
 
-- [František Matoušek](matousek-frantisek.md) (?–?)
-- [Antonie Holubcová](holubcova-antonie.md) (?–?)
+- František Matoušek (?–?)
+- Antonie Holubcová (?–?)
 
 ## Potomci
 
 - [Emil Foit](foit-emil-1899.md) (1899–?)
 - [Jan Foit](foit-jan-1907.md) (1907–1974)
 - [Josef Foit](foit-josef-1913.md) (1913–1994)
-- [František Foit](foit-frantisek.md) (?–?)
+- František Foit (?–?)
 - Marie Foitová

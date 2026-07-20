@@ -10,8 +10,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Josef Neumann](neumann-josef.md) (?–?)
-- [Alžběta Šimonová](simonova-alzbeta.md) (?–?)
+- Josef Neumann (?–?)
+- Alžběta Šimonová (?–?)
 
 ## Potomci
 

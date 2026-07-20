@@ -12,7 +12,7 @@ isGenerated: true
 ## Rodiče
 
 - [Jozsef Halász](halasz-jozsef-1863.md) (1863–1934)
-- [Maria Schwarcz](schwarcz-maria.md) (?–1956)
+- Maria Schwarcz (?–1956)
 
 ## Potomci
 

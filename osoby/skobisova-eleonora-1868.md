@@ -11,4 +11,4 @@ isGenerated: true
 ## Rodiče
 
 - [František Škobis](skobis-frantisek-1834.md) (1834–1868)
-- [Marie Hondova](hondova-marie.md) (?–?)
+- Marie Hondova (?–?)

@@ -16,4 +16,4 @@ isGenerated: true
 
 ## Potomci
 
-- [Valéria Czillingová](czillingova-valeria.md) (?–?)
+- Valéria Czillingová (?–?)

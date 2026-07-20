@@ -12,7 +12,7 @@ isGenerated: true
 ## Rodiče
 
 - [Antonín Růžička](ruzicka-antonin-1704.md) (1704–1733)
-- [Lidmila Kmínková](kminkova-lidmila.md) (?–?)
+- Lidmila Kmínková (?–?)
 
 ## Potomci
 

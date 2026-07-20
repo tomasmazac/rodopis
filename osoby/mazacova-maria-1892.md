@@ -16,4 +16,4 @@ isGenerated: true
 ## Potomci
 
 - [Gertruda Marschnerová](marschnerova-gertruda-1920.md) (1920–2012)
-- [Anna Marschner](marschner-anna.md) (?–1958)
+- Anna Marschner (?–1958)

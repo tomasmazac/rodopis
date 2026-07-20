@@ -12,7 +12,7 @@ isGenerated: true
 ## Rodiče
 
 - Eschler (?–1962)
-- [Anna Marschner](marschner-anna.md) (?–1958)
+- Anna Marschner (?–1958)
 
 ## Potomci
 

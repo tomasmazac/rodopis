@@ -11,5 +11,5 @@ isGenerated: true
 
 ## Rodiče
 
-- [Václav Lokaj](lokaj-vaclav.md) (?–?)
-- [Alžběta Kulhánková](kulhankova-alzbeta.md) (?–?)
+- Václav Lokaj (?–?)
+- Alžběta Kulhánková (?–?)

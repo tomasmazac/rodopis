@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Josef Volf](volf-josef.md) (?–?)
-- [Barbora Stehlíková](stehlikova-barbora.md) (?–?)
+- Josef Volf (?–?)
+- Barbora Stehlíková (?–?)
 
 ## Potomci
 

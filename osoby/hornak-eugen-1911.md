@@ -12,7 +12,7 @@ isGenerated: true
 ## Rodiče
 
 - [Jozef Horňák](hornak-jozef-1877.md) (1877–1949)
-- [Alžbeta Hanková](hankova-alzbeta.md) (?–?)
+- Alžbeta Hanková (?–?)
 
 ## Potomci
 

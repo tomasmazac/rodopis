@@ -10,5 +10,5 @@ isGenerated: true
 
 ## Rodiče
 
-- [Ján Zahumenický](zahumenicky-jan.md) (?–?)
-- [Anna Barcsa](barcsa-anna.md) (?–?)
+- Ján Zahumenický (?–?)
+- Anna Barcsa (?–?)

@@ -10,8 +10,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Jan Pavelka](pavelka-jan.md) (?–1848)
-- [Marie Píšová](pisova-marie.md) (?–?)
+- Jan Pavelka (?–1848)
+- Marie Píšová (?–?)
 
 ## Potomci
 

@@ -12,7 +12,7 @@ isGenerated: true
 ## Rodiče
 
 - [Václav Konařík](konarik-vaclav-1798.md) (1798–1842)
-- [Veronika](veronika-1799.md) (1799–1846)
+- Veronika (1799–1846)
 
 ## Potomci
 

@@ -11,7 +11,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [František Erben](erben-frantisek.md) (?–?)
+- František Erben (?–?)
 
 ## Potomci
 

@@ -10,8 +10,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Antonín Dvořáček](dvoracek-antonin.md) (?–?)
-- [Barbora Kropáčová](kropacova-barbora.md) (?–?)
+- Antonín Dvořáček (?–?)
+- Barbora Kropáčová (?–?)
 
 ## Potomci
 

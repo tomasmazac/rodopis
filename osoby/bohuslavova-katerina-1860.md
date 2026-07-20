@@ -12,7 +12,7 @@ isGenerated: true
 ## Rodiče
 
 - [Jan Bohuslav](bohuslav-jan-1833.md) (1833–1917)
-- [Kateřina Mendlíková](mendlikova-katerina.md) (?–?)
+- Kateřina Mendlíková (?–?)
 
 ## Potomci
 

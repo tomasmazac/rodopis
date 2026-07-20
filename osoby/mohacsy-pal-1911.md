@@ -12,4 +12,4 @@ isGenerated: true
 ## Rodiče
 
 - Mohácsi (?–?)
-- [Veronika Süveges](suveges-veronika.md) (?–?)
+- Veronika Süveges (?–?)

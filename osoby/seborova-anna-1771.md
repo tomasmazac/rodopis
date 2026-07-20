@@ -11,7 +11,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [Antonín Šebor](sebor-antonin.md) (?–?)
+- Antonín Šebor (?–?)
 - Terezie (?–?)
 
 ## Potomci

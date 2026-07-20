@@ -10,7 +10,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [Jan Škvor](skvor-jan.md) (?–?)
+- Jan Škvor (?–?)
 
 ## Potomci
 

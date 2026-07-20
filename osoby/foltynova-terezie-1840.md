@@ -11,7 +11,7 @@ isGenerated: true
 
 ## Rodiče
 
-- [Petr Foltýn](foltyn-petr.md) (?–?)
+- Petr Foltýn (?–?)
 - Františka (?–?)
 
 ## Potomci

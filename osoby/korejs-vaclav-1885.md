@@ -10,4 +10,4 @@ isGenerated: true
 
 ## Rodiče
 
-- [Jan Korejs](korejs-jan.md) (?–?)
+- Jan Korejs (?–?)

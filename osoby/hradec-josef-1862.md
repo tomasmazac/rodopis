@@ -10,5 +10,5 @@ isGenerated: true
 
 ## Rodiče
 
-- [Václav Hradec](hradec-vaclav.md) (?–?)
-- [Anna Pekárková](pekarkova-anna.md) (?–?)
+- Václav Hradec (?–?)
+- Anna Pekárková (?–?)

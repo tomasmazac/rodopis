@@ -12,7 +12,7 @@ isGenerated: true
 ## Rodiče
 
 - [Ján Chromý](chromy-jan-1851.md) (1851–1888)
-- [Katarína Kissová](kissova-katarina.md) (?–?)
+- Katarína Kissová (?–?)
 
 ## Potomci
 

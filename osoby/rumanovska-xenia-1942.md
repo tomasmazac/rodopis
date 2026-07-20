@@ -12,4 +12,4 @@ isGenerated: true
 ## Rodiče
 
 - Rumanovský
-- [Silvia Dolešová](dolesova-silvia.md) (?–?)
+- Silvia Dolešová (?–?)

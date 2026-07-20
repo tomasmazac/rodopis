@@ -17,4 +17,4 @@ isGenerated: true
 ## Potomci
 
 - [Eugen Horňák](hornak-eugen-1911.md) (1911–1979)
-- [Anna Horňáková](hornakova-anna.md) (?–?)
+- Anna Horňáková (?–?)

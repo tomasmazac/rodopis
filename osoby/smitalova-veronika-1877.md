@@ -11,8 +11,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Martin Šmitala](smitala-martin.md) (?–?)
-- [Mária Borbély](borbely-maria.md) (?–?)
+- Martin Šmitala (?–?)
+- Mária Borbély (?–?)
 
 ## Potomci
 

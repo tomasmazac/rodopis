@@ -10,8 +10,8 @@ isGenerated: true
 
 ## Rodiče
 
-- [Václav Novák](novak-vaclav.md) (?–?)
-- [Josefa Pitrová](pitrova-josefa.md) (?–?)
+- Václav Novák (?–?)
+- Josefa Pitrová (?–?)
 
 ## Potomci
 
