@@ -54,6 +54,26 @@ module.exports = {
     repoLabel: "Repozitář"
   },
   markdown: {
-    anchor: { permalink: false, permalinkBefore: true, permalinkSymbol: "!" }
+    anchor: { permalink: false, permalinkBefore: true, permalinkSymbol: "!" },
+    extendMarkdown: md => {
+      // Na stránky s `isGenerated: true` ve frontmatteru vloží za první
+      // nadpis (h1) varování o automaticky vygenerovaném obsahu.
+      md.core.ruler.push("generated_page_warning", state => {
+        if (!state.env.frontmatter || !state.env.frontmatter.isGenerated) {
+          return;
+        }
+        const warning = new state.Token("html_block", "", 0);
+        warning.content =
+          '<div class="custom-block warning">' +
+          '<p class="custom-block-title">VYGENEROVANÁ STRÁNKA</p>' +
+          "<p>Tato stránka byla automaticky vygenerována z GEDCOM souboru " +
+          "a je možné, že obsahuje nepodložené nebo mylné informace.</p>" +
+          "</div>\n";
+        const h1Close = state.tokens.findIndex(
+          t => t.type === "heading_close" && t.tag === "h1"
+        );
+        state.tokens.splice(h1Close + 1, 0, warning);
+      });
+    }
   }
 };
