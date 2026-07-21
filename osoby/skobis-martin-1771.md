@@ -26,5 +26,5 @@ death: 1806
 
 - Terezie Škobisová (1800–1800)
 - Vojtěch Škobis (1802–1808)
-- [Jan Škobis](skobis-jan-1804.md) (1804–?)
+- [Jan Škobis](skobis-jan-1804.md) (1804–1870)
 - Marie Škobisová (1807–1808)

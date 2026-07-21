@@ -19,7 +19,7 @@ Ve středu 10. února 1858 se v [Pyšelích](https://cs.wikipedia.org/wiki/Py%C5
 ## Rodiče
 
 - [Jan Škobis](skobis-jan-1804.md) (1804–1870)
-- Barbora Čiháková (1802–1860)
+- [Barbora Čiháková](cihakova-barbora-1802.md) (1802–1860)
 
 
 ## Potomci

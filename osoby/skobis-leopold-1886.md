@@ -16,4 +16,4 @@ isGenerated: true
 
 ## Potomci
 
-- Zdeněk Škobis (?–?)
+- Zdeněk Škobis (1905–1948)
