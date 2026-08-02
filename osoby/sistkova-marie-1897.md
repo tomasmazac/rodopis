@@ -9,18 +9,18 @@ death: 1949
 
 ::: warning NEKOMPLETNÍ INFORMACE
 
-* Chybí matriční záznam o sňatku nebo oddací list.
-  :::
+* Chybí matriční záznam o úmrtí nebo úmrtní list.
+:::
 
-**Marie Jana Konaříková** (roz. **Šístková**) byla nejstarší dcerou [Františka Šístka](sistek-frantisek-1872.md) a [Marie Pavelkové](pavelkova-marie-1872.md). Narodila se 29. září 1897 v Praze čp. 1711/II. \[1, 2]
+**Marie Jana Konaříková** (roz. **Šístková**) byla nejstarší dcerou [Františka Šístka](sistek-frantisek-1872.md) a [Marie Pavelkové](pavelkova-marie-1872.md). Narodila se 29. září 1897 v Praze čp. 1711/II. [1, 2]
 
 <Photo src="Photo1500246.jpg" alt="Sestry Marie a Anna Šístkovy (nedatováno)" size="md" />
 
-Po absolvování gymnázia na Královských Vinohradech začala počínaje zimním semestrem 1916/1917 studovat na Lékařské fakultě Univerzity Karlovy v Praze. V roce 1920 se provdala za [Ludvíka Konaříka](konarik-ludvik-1883.md), který kvůli sňatku opustil římskokatolickou církev. \[?]
+Po absolvování gymnázia na Královských Vinohradech začala počínaje zimním semestrem 1916/1917 studovat na Lékařské fakultě Univerzity Karlovy v Praze. V roce 1920 se provdala za [Ludvíka Konaříka](konarik-ludvik-1883.md), který kvůli sňatku opustil římskokatolickou církev. [?]
 
 <Photo src="Photo1500316.jpg" alt="Ludvík a Marie Konaříkovi (1920)" size="lg" />
 
-Promoce proběhla 8. července 1922 a jejím [promotorem](https://prirucka.ujc.cas.cz/?id=promotor_1) byl [Otakar Srdínko](https://cs.wikipedia.org/wiki/Otakar_Srd%C3%ADnko). \[3] Dne 13. července 1923 získala titul zubní lékařky.
+Promoce proběhla 8. července 1922 a jejím [promotorem](https://prirucka.ujc.cas.cz/?id=promotor_1) byl [Otakar Srdínko](https://cs.wikipedia.org/wiki/Otakar_Srd%C3%ADnko). [3] Dne 13. července 1923 získala titul zubní lékařky.
 
 > Má drahá sestřičko Ando,
 >
@@ -34,17 +34,21 @@ Promoce proběhla 8. července 1922 a jejím [promotorem](https://prirucka.ujc.c
 >
 > Máňa.
 
+
 ## Rodiče
 
 * [František Šístek](sistek-frantisek-1872.md) (1872–1944)
 * [Marie Pavelková](pavelkova-marie-1872.md) (1872–1947)
 
+
 ## DNA
 
-* Haploskupina mtDNA: H1c3b
+* Haploskupina mtDNA: H1c3
+
 
 ## Zdroje
 
 1. Matriční záznam o narození – [AMHP, TRP N14, fol. 4](http://katalog.ahmp.cz/pragapublica/permalink?xid=58F3966BE39B499492264DEEAFF872F4&scan=8#scan8)
 2. Křestní list
 3. Archiv Univerzity Karlovy, fond Matriky Univerzity Karlovy, inventární číslo 5, Matrika doktorů Univerzity Karlovy V., strana 2093
+4. Matriční záznam o sňatku – [AMHP, MAG O8 • 1920-1920, fol. 107](https://katalog.ahmp.cz/pragapublica/permalink?xid=6D33FBA99FCD4877A3ECE78258B87041&scan=112#scan112)
