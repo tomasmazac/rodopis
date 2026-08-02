@@ -17,7 +17,7 @@ Studoval teologii na [Univerzitě Karlově](https://cs.wikipedia.org/wiki/Univer
 
 <Photo src="Photo1500280.jpg" alt="Ludvík Konařík jako kapucín (nedatováno)" size="md" />
 
-V roce 1915 se stává superiorem mělnického hospicu. [4] Hospicem se původně myslel dům pro přespání a rekonvalescenci bratří kazatelů a sběračů almužen na cestách. Postupně se však tímto výrazem začal myslet neformálně zřízený dům, ve kterém není možné zachovávat všechny předpisy řeholní observance a který má maximálně 6 bratří, z nichž nejvýše 4 byli kněžími. [3]
+V roce 1915 se stává superiorem mělnického hospicu. [4] Hospicem se původně myslel dům pro přespání a rekonvalescenci bratří kazatelů a sběračů almužen na cestách. Postupně se však tímto výrazem začal myslet neformálně zřízený dům, ve kterém není možné zachovávat všechny předpisy řeholní observance a který má maximálně 6 bratří, z nichž nejvýše 4 byli kněžími. [3]
 
 ![Kostel Čtrnácti sv. pomocníků s přilehlým špitálem, dnes muzeem](https://upload.wikimedia.org/wikipedia/commons/2/2b/M%C4%9Bln%C3%ADk_-_n%C3%A1m%C4%9Bst%C3%AD_-_muzeum_a_kostel.JPG)
 
@@ -44,8 +44,8 @@ Dne 11. července 1928 vystoupil z římskokatolické církve a přestoupil k [C
 
 ## Rodiče
 
-- Josef Konařík (1838–1899)
-- Terezie Foltýnová (1840–1909)
+- [Josef Konařík](konarik-josef-1838.md) (1838–1899)
+- [Terezie Foltýnová](foltynova-terezie-1840.md) (1840–1909)
 
 
 ## Zdroje
