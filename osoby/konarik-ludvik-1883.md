@@ -8,7 +8,7 @@ death: 1949
 # Ludvík Konařík
 
 ::: warning NEKOMPLETNÍ INFORMACE
-- Chybí matriční záznam o sňatku nebo oddací list.
+- Chybí matriční záznam o úmrtí nebo úmrtní list.
 :::
 
 **Ludvík Josef Konařík** (řádovým jménem **Efrém**) byl nejmladším synem Josefa Konaříka a Terezie Foltýnové. Narodil se 10. července 1883 v [Halenkově](https://cs.wikipedia.org/wiki/Halenkov) čp. 13. [1]
@@ -54,3 +54,4 @@ Dne 11. července 1928 vystoupil z římskokatolické církve a přestoupil k [C
 2. Kronika Náboženské obce CČSH Úvaly
 3. Srov. _Lexicon Cappuccinum_, sl. 773, heslo _„Hospitia“_
 4. MATĚJKA, Pacifik M. Seznamy představených kapucínských klášterů podřízených provincialátu v Praze (1599–2005). In: _Paginae historiae: Sborník Národního archivu_. Praha: Národní archiv, 2005, s. 204. ISBN 80-86712-31-1. ISSN 1211-9768.
+5. Matriční záznam o sňatku – [AMHP, MAG O8 • 1920-1920, fol. 107](https://katalog.ahmp.cz/pragapublica/permalink?xid=6D33FBA99FCD4877A3ECE78258B87041&scan=112#scan112)
