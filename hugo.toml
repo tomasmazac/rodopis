@@ -1,0 +1,33 @@
+baseURL = "https://rodopis.tomasmazac.cz/"
+locale = "cs"
+defaultContentLanguage = "cs"
+title = "Rodopis"
+# Keeps the .html URLs of the former VuePress site, so existing links and the
+# relative ../file.pdf links in person pages keep working.
+uglyURLs = true
+enableGitInfo = true
+disableKinds = ["taxonomy", "term", "rss"]
+
+[params]
+  description = "Životní osudy našich předků"
+  logo = "/deciduous-tree_1f333.png"
+  repo = "https://github.com/tomasmazac/rodopis"
+  author = "Tomáš Mazač"
+  email = "tomas.mazac@gmail.com"
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[markup.goldmark.renderer]
+  # Person pages contain raw HTML (<div style>, <s>, &nbsp;).
+  unsafe = true
+
+[markup.goldmark.parser.attribute]
+  block = true
+
+[frontmatter]
+  lastmod = [":git", "lastmod", ":fileModTime"]
+
+[module.hugoVersion]
+  extended = false
+  min = "0.158.0"

@@ -1,0 +1,15 @@
+{{- $u := urls.Parse .Destination -}}
+{{- $href := .Destination -}}
+{{- if and (not $u.IsAbs) (strings.HasSuffix $u.Path ".md") -}}
+  {{- $path := $u.Path -}}
+  {{- if not (strings.HasPrefix $path "/") -}}
+    {{- $path = path.Join .Page.File.Dir $path -}}
+  {{- end -}}
+  {{- with site.GetPage (strings.TrimPrefix "/" $path) -}}
+    {{- $href = .RelPermalink -}}
+    {{- with $u.Fragment }}{{ $href = printf "%s#%s" $href . }}{{ end -}}
+  {{- else -}}
+    {{- warnf "%s: odkaz na neexistující stránku %q" $.Page.File.Path $.Destination -}}
+  {{- end -}}
+{{- end -}}
+<a href="{{ $href | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $u.IsAbs }} rel="noopener"{{ end }}>{{ .Text }}</a>

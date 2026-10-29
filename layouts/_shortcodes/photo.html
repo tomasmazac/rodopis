@@ -1,0 +1,7 @@
+{{- $src := printf "/images/%s" (.Get "src") -}}
+{{- $alt := .Get "alt" -}}
+<figure>
+  <img src="{{ $src }}" alt="{{ $alt | .Page.RenderString | plainify }}" class="{{ .Get "size" | default "lg" }}" loading="lazy"
+    {{- with .Get "colorized" }} data-colorized="/images/{{ . }}"{{ end }}>
+  <figcaption>{{ $alt | .Page.RenderString }}</figcaption>
+</figure>
