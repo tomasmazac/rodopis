@@ -41,6 +41,7 @@ isGenerated: true   # jen pro stránky vygenerované z GEDCOM
 - Fotografie ze `static/images/`:
   `{{< photo src="soubor.jpg" alt="Popisek" size="md" colorized="soubor-barevne.jpg" >}}`
   (`size`: `sm` / `md` / `lg`, `colorized` je nepovinná barevná verze zobrazená při najetí myší).
+  Fotky se zobrazují s ditheringem; paleta, algoritmus, kontrast a vypnutí (`enabled = false`) se nastavují v `hugo.toml` v sekci `[params.dither]`.
 - Upozornění:
 
   ```markdown

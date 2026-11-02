@@ -15,6 +15,21 @@ disableKinds = ["taxonomy", "term", "rss"]
   author = "Tomáš Mazač"
   email = "tomas.mazac@gmail.com"
 
+# Photos are rendered as dithered images; a click opens the original.
+# Options: https://gohugo.io/functions/images/dither/
+[params.dither]
+  enabled = true
+  colors = ["2c3e50", "6b7a89", "b4bcc4", "fdfcf8"]
+  method = "FloydSteinberg"
+  strength = 1.0
+  serpentine = true
+  # Applied before dithering; old photos are too flat for a few colours.
+  grayscale = true
+  contrast = 25
+  brightness = 0
+  # Pixel width per photo size; the dither is computed at this width.
+  widths = { sm = 165, md = 330, lg = 660 }
+
 [outputs]
   home = ["HTML", "JSON"]
 
@@ -31,3 +46,17 @@ disableKinds = ["taxonomy", "term", "rss"]
 [module.hugoVersion]
   extended = false
   min = "0.158.0"
+
+# Photos stay in static/images/ (linked directly, e.g. PDFs) and are also
+# mounted into assets/ so the photo shortcode can resize and dither them.
+[[module.mounts]]
+  source = "static"
+  target = "static"
+
+[[module.mounts]]
+  source = "static/images"
+  target = "assets/images"
+
+[[module.mounts]]
+  source = "assets"
+  target = "assets"
