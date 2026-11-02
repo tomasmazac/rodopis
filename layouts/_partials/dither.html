@@ -1,0 +1,14 @@
+{{- /* Returns the image resized to .width and dithered with [params.dither]; .method overrides the configured one. */ -}}
+{{- $cfg := site.Params.dither -}}
+{{- $filters := slice images.AutoOrient -}}
+{{- if $cfg.grayscale }}{{ $filters = $filters | append images.Grayscale }}{{ end -}}
+{{- with $cfg.contrast }}{{ $filters = $filters | append (images.Contrast .) }}{{ end -}}
+{{- with $cfg.brightness }}{{ $filters = $filters | append (images.Brightness .) }}{{ end -}}
+{{- $filters = $filters | append (images.Dither (dict
+  "colors" $cfg.colors
+  "method" (.method | default $cfg.method)
+  "strength" $cfg.strength
+  "serpentine" $cfg.serpentine)) -}}
+{{- /* PNG: JPEG compression would smear the dot pattern into grey noise. */ -}}
+{{- $img := .image.Process (printf "resize %dx png" (int .width)) | images.Filter $filters -}}
+{{- return $img -}}

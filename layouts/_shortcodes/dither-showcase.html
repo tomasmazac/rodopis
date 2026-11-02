@@ -1,0 +1,30 @@
+{{- $name := .Get "src" -}}
+{{- $image := resources.Get (printf "images/%s" $name) -}}
+{{- if not $image }}{{ errorf "%s: fotka %q neexistuje" .Position $name }}{{ end -}}
+{{- $width := index site.Params.dither.widths "md" -}}
+{{- $groups := slice
+  (dict "title" "Rozptyl chyby" "methods" (slice
+    "FloydSteinberg" "FalseFloydSteinberg" "Atkinson" "JarvisJudiceNinke" "Stucki" "Burkes"
+    "Sierra" "Sierra2" "Sierra2_4A" "Sierra3" "SierraLite" "TwoRowSierra" "StevenPigeon" "Simple2D"))
+  (dict "title" "Pravidelný rastr" "methods" (slice
+    "ClusteredDot4x4" "ClusteredDot6x6" "ClusteredDot6x6_2" "ClusteredDot6x6_3" "ClusteredDot8x8"
+    "ClusteredDotDiagonal6x6" "ClusteredDotDiagonal8x8" "ClusteredDotDiagonal8x8_2" "ClusteredDotDiagonal8x8_3"
+    "ClusteredDotDiagonal16x16" "ClusteredDotSpiral5x5" "ClusteredDotHorizontalLine" "ClusteredDotVerticalLine"
+    "Horizontal3x5" "Vertical5x3")) -}}
+<div class="dither-grid">
+  <figure>
+    <img src="{{ ($image.Process (printf "resize %dx webp" (int $width))).RelPermalink }}" alt="" loading="lazy">
+    <figcaption>Originál</figcaption>
+  </figure>
+</div>
+{{- range $groups }}
+<h2>{{ .title }}</h2>
+<div class="dither-grid">
+  {{- range .methods }}
+  <figure>
+    <img class="dithered" src="{{ (partial "dither.html" (dict "image" $image "width" $width "method" .)).RelPermalink }}" alt="" loading="lazy">
+    <figcaption><code>{{ . }}</code>{{ if eq . site.Params.dither.method }} – použito na webu{{ end }}</figcaption>
+  </figure>
+  {{- end }}
+</div>
+{{- end }}

@@ -10,18 +10,7 @@
   {{- with resources.Get (printf "images/%s" $name) -}}
     {{- /* Dither at the displayed width: any later scaling turns the dot pattern into moiré. */ -}}
     {{- $width := index $cfg.widths ($.Get "size" | default "lg") -}}
-    {{- $filters := slice images.AutoOrient -}}
-    {{- if $cfg.grayscale }}{{ $filters = $filters | append images.Grayscale }}{{ end -}}
-    {{- with $cfg.contrast }}{{ $filters = $filters | append (images.Contrast .) }}{{ end -}}
-    {{- with $cfg.brightness }}{{ $filters = $filters | append (images.Brightness .) }}{{ end -}}
-    {{- $filters = $filters | append (images.Dither (dict
-      "colors" $cfg.colors
-      "method" $cfg.method
-      "strength" $cfg.strength
-      "serpentine" $cfg.serpentine)) -}}
-    {{- /* PNG: JPEG compression would smear the dot pattern into grey noise. */ -}}
-    {{- $img := .Process (printf "resize %dx png" (int $width)) | images.Filter $filters -}}
-    {{- $src = $img.RelPermalink -}}
+    {{- $src = (partial "dither.html" (dict "image" . "width" $width)).RelPermalink -}}
     {{- $dithered = true -}}
   {{- end -}}
   {{- with and $colorized (resources.Get (printf "images/%s" ($.Get "colorized"))) -}}

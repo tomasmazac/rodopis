@@ -118,6 +118,20 @@ figure img { display: block; margin: 0 auto 0.5rem; }
 figcaption { font-style: italic; text-align: center; font-size: smaller; line-height: 1.25; margin: 0 1.5rem; }
 figure img.sm { max-width: 25%; }
 figure img.dithered { image-rendering: pixelated; }
+
+/* Dithering showcase: images stay at their natural width so the dot pattern is not rescaled. */
+.dither-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0 1rem;
+  /* Wider than the text column so several methods fit side by side. */
+  width: min(calc(100vw - 2rem), 1040px);
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+.dither-grid figure { margin: 1rem 0; flex: 0 0 auto; }
+.dither-grid img { max-width: none; }
 @media (min-width: 420px) {
   figure { margin-left: 0; margin-right: 0; }
   figcaption { margin: 0 2rem; }

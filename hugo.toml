@@ -19,14 +19,15 @@ disableKinds = ["taxonomy", "term", "rss"]
 # Options: https://gohugo.io/functions/images/dither/
 [params.dither]
   enabled = true
-  colors = ["2c3e50", "6b7a89", "b4bcc4", "fdfcf8"]
-  method = "FloydSteinberg"
+  # Dark tone matches the text colour (--text in assets/style.css).
+  colors = ["2c3e50", "ffffff"]
+  method = "Atkinson"
   strength = 1.0
   serpentine = true
   # Applied before dithering; old photos are too flat for a few colours.
   grayscale = true
   contrast = 25
-  brightness = 0
+  brightness = 15
   # Pixel width per photo size; the dither is computed at this width.
   widths = { sm = 165, md = 330, lg = 660 }
 
