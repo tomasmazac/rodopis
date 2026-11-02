@@ -14,13 +14,14 @@
   <meta name="application-name" content="Rodopis">
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="theme-color" content="#ffffff">
+  {{- /* No integrity attributes: browsers block SRI-checked files on pages opened from disk. */}}
   {{ with resources.Get "style.css" | minify | fingerprint }}
-  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
   {{ end }}
 </head>
 <body>
   <header class="navbar">
-    <a class="brand" href="/">
+    <a class="brand" href="/index.html">
       <img src="{{ site.Params.logo }}" alt="">
       <span>{{ site.Title }}</span>
     </a>
@@ -40,8 +41,9 @@
     {{ block "main" . }}{{ end }}
   </main>
 
+  {{- /* data-* paths are relative to the site root; relativeURLs does not rewrite them, site.js resolves them. */}}
   {{ with resources.Get "site.js" | minify | fingerprint }}
-  <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" data-index="{{ ("index.json" | relURL) }}" defer></script>
+  <script src="{{ .RelPermalink }}" data-index="{{ strings.TrimPrefix "/" (partialCached "search-index.html" .).RelPermalink }}" defer></script>
   {{ end }}
 </body>
 </html>

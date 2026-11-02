@@ -1,0 +1,8 @@
+{{- /* A script rather than JSON: browsers refuse fetch() on pages opened from disk. */ -}}
+{{- $index := slice -}}
+{{- range site.RegularPages -}}
+  {{- $index = $index | append (dict "t" .Title "b" .Params.birth "d" .Params.death "u" (strings.TrimPrefix "/" .RelPermalink)) -}}
+{{- end -}}
+{{- $js := printf "window.searchIndex=%s;" (jsonify $index) -}}
+{{- $res := resources.FromString "search-index.js" $js | fingerprint -}}
+{{- return $res -}}

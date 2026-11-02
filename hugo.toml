@@ -5,6 +5,9 @@ title = "Rodopis"
 # Keeps the .html URLs of the former VuePress site, so existing links and the
 # relative ../file.pdf links in person pages keep working.
 uglyURLs = true
+# The output works without a web server (opened from disk) and under any
+# path prefix: every link and asset is relative, nothing is fetched.
+relativeURLs = true
 enableGitInfo = true
 disableKinds = ["taxonomy", "term", "rss"]
 
@@ -31,8 +34,6 @@ disableKinds = ["taxonomy", "term", "rss"]
   # Pixel width per photo size; the dither is computed at this width.
   widths = { sm = 165, md = 330, lg = 660 }
 
-[outputs]
-  home = ["HTML", "JSON"]
 
 [markup.goldmark.renderer]
   # Person pages contain raw HTML (<div style>, <s>, &nbsp;).

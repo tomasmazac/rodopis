@@ -9,6 +9,8 @@ hugo server     # náhled na http://localhost:1313 s automatickým obnovováním
 hugo --minify   # build do složky public/
 ```
 
+Výsledek ve `public/` je samostatný: všechny odkazy jsou relativní, takže funguje na libovolné adrese i otevřený přímo z disku (`public/index.html`), bez serveru.
+
 Build potřebuje celou git historii (`enableGitInfo`, datum „Naposledy upraveno“).
 
 ## Struktura

@@ -2,7 +2,11 @@
   const MAX = 10;
   const input = document.getElementById("search");
   const list = document.getElementById("suggestions");
-  const indexUrl = document.currentScript.dataset.index;
+  // This script lives in the site root, so its URL tells where the root is,
+  // whether the site is on a server, under a path prefix or opened from disk.
+  const root = new URL(".", document.currentScript.src);
+  const fromRoot = (path) => new URL(path, root).href;
+  const indexUrl = fromRoot(document.currentScript.dataset.index);
   let index = null;
   let results = [];
   let focused = 0;
@@ -11,9 +15,13 @@
   const norm = (s) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 
   const load = () => {
-    index ??= fetch(indexUrl)
-      .then((r) => r.json())
-      .then((items) => items.map((i) => ({ ...i, n: norm(i.t) })));
+    index ??= new Promise((resolve, reject) => {
+      const s = document.createElement("script");
+      s.src = indexUrl;
+      s.onload = resolve;
+      s.onerror = reject;
+      document.head.append(s);
+    }).then(() => window.searchIndex.map((i) => ({ ...i, u: fromRoot(i.u), n: norm(i.t) })));
     return index;
   };
 
@@ -68,8 +76,9 @@
   // Hovering a photo with a colorized variant shows the colorized version.
   document.querySelectorAll("img[data-colorized]").forEach((img) => {
     const original = img.src;
-    new Image().src = img.dataset.colorized;
-    img.addEventListener("mouseenter", () => { img.src = img.dataset.colorized; });
+    const colorized = fromRoot(img.dataset.colorized);
+    new Image().src = colorized;
+    img.addEventListener("mouseenter", () => { img.src = colorized; });
     img.addEventListener("mouseleave", () => { img.src = original; });
   });
 })();

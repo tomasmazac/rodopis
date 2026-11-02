@@ -20,7 +20,7 @@
 <figure>
   {{ if $dithered }}<a href="{{ $original }}" title="Zobrazit originál">{{ end -}}
   <img src="{{ $src }}" alt="{{ $alt | .Page.RenderString | plainify }}" class="{{ .Get "size" | default "lg" }}{{ if $dithered }} dithered{{ end }}" loading="lazy"
-    {{- with $colorized }} data-colorized="{{ . }}"{{ end }}>
+    {{- with $colorized }} data-colorized="{{ strings.TrimPrefix "/" . }}"{{ end }}>
   {{- if $dithered }}</a>{{ end }}
   <figcaption>{{ $alt | .Page.RenderString }}</figcaption>
 </figure>
