@@ -19,7 +19,7 @@ V roce 1883 maturoval na [gymnáziu ve Valašském Meziříčí](https://cs.wiki
 - Josef Konařík (1838–1899)
 - Terezie Foltýnová (1840–1909)
 
-### Zdroje
+## Zdroje
 
 [^1]: Matriční záznam o narození – [Zemský archiv Opava, N, I-N • inv. č. 2396 • sig. Vs II 4 • 1856–1881 • Halenkov](https://digi.archives.cz/da/permalink?xid=be87dff4-f13c-102f-8255-0050568c0263&scan=b619117dec4a4fa680a0db8f2b3ad7e8)
 [^2]: Abiturienti: Rok 1883. _Gymnázium Františka Palackého Valašské Meziříčí_ [online]. [cit. 2021-6-4]. Dostupné z: [https://www.gfpvm.cz/abiturienti/1883](https://www.gfpvm.cz/abiturienti/1883)
