@@ -1,0 +1,8 @@
+# Overrides the build settings in the Netlify UI (they were set up for VuePress).
+[build]
+  command = "hugo --minify"
+  publish = "public"
+
+[build.environment]
+  # Keep in step with the Hugo version used locally (hugo version).
+  HUGO_VERSION = "0.169.0"
