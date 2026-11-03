@@ -1,4 +1,6 @@
 ---
+# No birth year, so no canonical URL ({surname}-{first}-{birth}); kept as a source file only.
+draft: true
 title: 'Dorota Marková (roz. Tomsová)'
 firstName: 'Dorota'
 surname: 'Tomsová'

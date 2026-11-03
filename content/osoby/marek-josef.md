@@ -1,4 +1,6 @@
 ---
+# No birth year, so no canonical URL ({surname}-{first}-{birth}); kept as a source file only.
+draft: true
 title: 'Josef Marek'
 firstName: 'Josef'
 surname: 'Marek'

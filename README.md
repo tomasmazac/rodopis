@@ -36,6 +36,7 @@ surname: Mazač
 birth: 1895
 death: 1949
 isGenerated: true   # jen pro stránky vygenerované z GEDCOM
+draft: true         # stránka se negeneruje (např. osoba bez roku narození); odkazy na ni jsou jen text
 ---
 ```
 
