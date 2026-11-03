@@ -1,26 +1,7 @@
-{{- $name := .Get "src" -}}
 {{- $alt := .Get "alt" -}}
-{{- $original := printf "/images/%s" $name -}}
-{{- $src := $original -}}
-{{- $colorized := "" -}}
-{{- with .Get "colorized" }}{{ $colorized = printf "/images/%s" . }}{{ end -}}
-{{- $dithered := false -}}
-{{- $cfg := site.Params.dither -}}
-{{- if $cfg.enabled -}}
-  {{- with resources.Get (printf "images/%s" $name) -}}
-    {{- /* Dither at the displayed width: any later scaling turns the dot pattern into moiré. */ -}}
-    {{- $width := index $cfg.widths ($.Get "size" | default "lg") -}}
-    {{- $src = (partial "dither.html" (dict "image" . "width" $width)).RelPermalink -}}
-    {{- $dithered = true -}}
-  {{- end -}}
-  {{- with and $colorized (resources.Get (printf "images/%s" ($.Get "colorized"))) -}}
-    {{- $colorized = (.Process "resize 660x webp").RelPermalink -}}
-  {{- end -}}
-{{- end -}}
 <figure>
-  {{ if $dithered }}<a href="{{ $original }}" title="Zobrazit originál">{{ end -}}
-  <img src="{{ $src }}" alt="{{ $alt | .Page.RenderString | plainify }}" class="{{ .Get "size" | default "lg" }}{{ if $dithered }} dithered{{ end }}" loading="lazy"
-    {{- with $colorized }} data-colorized="{{ strings.TrimPrefix "/" . }}"{{ end }}>
-  {{- if $dithered }}</a>{{ end }}
+  <img src="/images/{{ .Get "src" }}" alt="{{ $alt | .Page.RenderString | plainify }}" class="{{ .Get "size" | default "lg" }}" loading="lazy"
+    {{- /* Relative to the site root; relativeURLs does not rewrite data-* attributes, site.js resolves it. */}}
+    {{- with .Get "colorized" }} data-colorized="images/{{ . }}"{{ end }}>
   <figcaption>{{ $alt | .Page.RenderString }}</figcaption>
 </figure>
