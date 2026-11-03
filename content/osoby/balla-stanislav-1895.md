@@ -19,15 +19,15 @@ Zemřel 1.&nbsp;listopadu&nbsp;1958 na Velkém Lapáši v&nbsp;důsledku [bronch
 
 ## Rodiče
 
-- Jozef Balla (1855–1938)
-- Mária Lacová (1860–1944)
+- [Jozef Balla](balla-jozef-1855.md) (1855–1938)
+- [Mária Lacová](lacova-maria-1860.md) (1860–1944)
 
 
 ## Potomci
 
 - Mária Duchoňová (1923–1949)
-- Ján Balla (1925–1985)
-- Katarína Ballová (1928–2017)
+- [Ján Balla](balla-jan-1925.md) (1925–1985)
+- [Katarína Ballová](ballova-katarina-1928.md) (1928–2017)
 - [Júlia Récka](ballova-julia-1937.md) (1937–2006)
 - Jozef Balla
 - Štefan Balla
