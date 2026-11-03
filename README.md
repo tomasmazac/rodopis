@@ -42,8 +42,8 @@ draft: true         # stránka se negeneruje (např. osoba bez roku narození); 
 
 - Odkaz na jinou osobu: `[Josef Mazač](mazac-josef-1858.md)` – Hugo ho převede na URL a při buildu upozorní na neexistující stránku.
 - Fotografie ze `static/images/`:
-  `{{< photo src="soubor.jpg" alt="Popisek" size="md" colorized="soubor-barevne.jpg" >}}`
-  (`size`: `sm` / `md` / `lg`, `colorized` je nepovinná barevná verze zobrazená při najetí myší).
+  `{{< photo src="soubor.jpg" alt="Popisek" size="md" >}}`
+  (`size`: `sm` / `md` / `lg`).
 - Upozornění:
 
   ```markdown

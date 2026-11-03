@@ -13,9 +13,9 @@ birth: 1904
 
 **Bohumila Barbora Jägerová** (roz. **Mazačová**) byla dcerou [Josefa Mazače](mazac-josef-1858.md) a jeho druhé ženy Bohumily Tomanové. Narodila se 2. září 1904 v [Dolním Prysku](https://cs.wikipedia.org/wiki/Doln%C3%AD_Prysk) čp. 42. [^2]
 
-{{< photo src="Photo1500346.jpg" colorized="Photo1500346-Colorized.jpg" alt="Svatební fotografie Bohumily a Jindřicha Jägerových (18. července 1927, Česká Kamenice)" size="md" >}}
+{{< photo src="Photo1500346.jpg" alt="Svatební fotografie Bohumily a Jindřicha Jägerových (18. července 1927, Česká Kamenice)" size="md" >}}
 
-{{< photo src="Photo1500354.jpg" colorized="Photo1500354-Enhanced-Colorized.jpg" alt="Bohumila, Marie, Jindřich st. a Jindřich ml. Jägerovi (nedatováno)" >}}
+{{< photo src="Photo1500354.jpg" alt="Bohumila, Marie, Jindřich st. a Jindřich ml. Jägerovi (nedatováno)" >}}
 
 [^1]
 

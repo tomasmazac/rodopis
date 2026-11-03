@@ -1,7 +1,5 @@
 {{- $alt := .Get "alt" -}}
 <figure>
-  <img src="/images/{{ .Get "src" }}" alt="{{ $alt | .Page.RenderString | plainify }}" class="{{ .Get "size" | default "lg" }}" loading="lazy"
-    {{- /* Relative to the site root; relativeURLs does not rewrite data-* attributes, site.js resolves it. */}}
-    {{- with .Get "colorized" }} data-colorized="images/{{ . }}"{{ end }}>
+  <img src="/images/{{ .Get "src" }}" alt="{{ $alt | .Page.RenderString | plainify }}" class="{{ .Get "size" | default "lg" }}" loading="lazy">
   <figcaption>{{ $alt | .Page.RenderString }}</figcaption>
 </figure>

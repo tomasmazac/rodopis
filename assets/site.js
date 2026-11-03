@@ -72,13 +72,4 @@
   document.addEventListener("keydown", (e) => {
     if (e.key === "/" && document.activeElement !== input) { input.focus(); e.preventDefault(); }
   });
-
-  // Hovering a photo with a colorized variant shows the colorized version.
-  document.querySelectorAll("img[data-colorized]").forEach((img) => {
-    const original = img.src;
-    const colorized = fromRoot(img.dataset.colorized);
-    new Image().src = colorized;
-    img.addEventListener("mouseenter", () => { img.src = colorized; });
-    img.addEventListener("mouseleave", () => { img.src = original; });
-  });
 })();
