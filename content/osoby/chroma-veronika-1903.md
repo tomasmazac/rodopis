@@ -15,6 +15,8 @@ death: 1981
 
 Dne 7. listopadu 1922 se na Veľkém Lapáši provdala za [Stanislava Ballu](balla-stanislav-1895.md). \[1–2]
 
+[^1] [^2] [^3] [^4]
+
 ## Rodiče
 
 * Štefan Chromý (1862–1921)
@@ -36,7 +38,7 @@ Dne 7. listopadu 1922 se na Veľkém Lapáši provdala za [Stanislava Ballu](bal
 
 ## Zdroje
 
-1. Matriční záznam o sňatku – matriční úřad Golianovo (Slovensko), svazek 22/VI, ročník 1922, str. 125, poř. č. 17
-2. Oddací list
-3. Matriční záznam o úmrtí – matriční úřad Nitra (Slovensko), svazek 29, ročník 1981, str. 262, poř. č. 747
-4. Úmrtní list
+[^1]: Matriční záznam o sňatku – matriční úřad Golianovo (Slovensko), svazek 22/VI, ročník 1922, str. 125, poř. č. 17
+[^2]: Oddací list
+[^3]: Matriční záznam o úmrtí – matriční úřad Nitra (Slovensko), svazek 29, ročník 1981, str. 262, poř. č. 747
+[^4]: Úmrtní list

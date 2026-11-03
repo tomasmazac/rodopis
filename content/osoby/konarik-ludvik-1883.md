@@ -10,13 +10,13 @@ death: 1949
 > [!WARNING] NEKOMPLETNÍ INFORMACE
 > - Chybí matriční záznam o úmrtí nebo úmrtní list.
 
-**Ludvík Josef Konařík** (řádovým jménem **Efrém**) byl nejmladším synem Josefa Konaříka a Terezie Foltýnové. Narodil se 10. července 1883 v [Halenkově](https://cs.wikipedia.org/wiki/Halenkov) čp. 13. [1]
+**Ludvík Josef Konařík** (řádovým jménem **Efrém**) byl nejmladším synem Josefa Konaříka a Terezie Foltýnové. Narodil se 10. července 1883 v [Halenkově](https://cs.wikipedia.org/wiki/Halenkov) čp. 13. [^1]
 
 Studoval teologii na [Univerzitě Karlově](https://cs.wikipedia.org/wiki/Univerzita_Karlova) a byl členem řádu [kapucínů](https://cs.wikipedia.org/wiki/%C5%98%C3%A1d_men%C5%A1%C3%ADch_brat%C5%99%C3%AD_kapuc%C3%ADn%C5%AF). Při řeholních slibech obdržel jméno Efrém.
 
 {{< photo src="Photo1500280.jpg" alt="Ludvík Konařík jako kapucín (nedatováno)" size="md" >}}
 
-V roce 1915 se stává superiorem mělnického hospicu. [4] Hospicem se původně myslel dům pro přespání a rekonvalescenci bratří kazatelů a sběračů almužen na cestách. Postupně se však tímto výrazem začal myslet neformálně zřízený dům, ve kterém není možné zachovávat všechny předpisy řeholní observance a který má maximálně 6 bratří, z nichž nejvýše 4 byli kněžími. [3]
+V roce 1915 se stává superiorem mělnického hospicu. [^4] Hospicem se původně myslel dům pro přespání a rekonvalescenci bratří kazatelů a sběračů almužen na cestách. Postupně se však tímto výrazem začal myslet neformálně zřízený dům, ve kterém není možné zachovávat všechny předpisy řeholní observance a který má maximálně 6 bratří, z nichž nejvýše 4 byli kněžími. [^3]
 
 ![Kostel Čtrnácti sv. pomocníků s přilehlým špitálem, dnes muzeem](https://upload.wikimedia.org/wikipedia/commons/2/2b/M%C4%9Bln%C3%ADk_-_n%C3%A1m%C4%9Bst%C3%AD_-_muzeum_a_kostel.JPG)
 
@@ -24,7 +24,7 @@ V březnu 1919 ale řád opustil, aby se mohl oženit s [Marií Šístkovou](sis
 
 {{< photo src="Photo1500316.jpg" alt="Ludvík a Marie Konaříkovi (1920)" size="lg" >}}
 
-Dne 11. července 1928 vystoupil z římskokatolické církve a přestoupil k [Církvi československé](https://cs.wikipedia.org/wiki/C%C3%ADrkev_%C4%8Deskoslovensk%C3%A1_husitsk%C3%A1). [1]
+Dne 11. července 1928 vystoupil z římskokatolické církve a přestoupil k [Církvi československé](https://cs.wikipedia.org/wiki/C%C3%ADrkev_%C4%8Deskoslovensk%C3%A1_husitsk%C3%A1). [^1]
 
 > 18\. března 1928
 > 
@@ -38,19 +38,19 @@ Dne 11. července 1928 vystoupil z římskokatolické církve a přestoupil k [C
 > 
 > _Smrt svého manžela psychicky neunesla MUDr. Marie Konaříková, zubní lékařka, která ve svém bytě v&nbsp;Českém Brodě čp. 282 ukončila svůj život otravou svítiplynem 10. května. Pro náboženskou obec to byla smutná první polovina roku. O osobnosti faráře Ludvíka Konaříka a jeho manželce podal svědectví Václav Poledne, farář v&nbsp;Českém Brodu, který dočasně převzal řízení agendy farního úřadu ve Škvorci. S&nbsp;farářem L. Konaříkem se velmi rád a přátelsky často stýkal – říkal mu „Konaříček“ pro jeho drobnou postavu a milou povahu. Jejich přátelství se datuje již od dob studií teologie na Univerzitě Karlově, neboť L. Konařík byl původně římskokatolického vyznání a byl kapucínem (jeho bratři byli římskokatolickými knězi). Farář V. Poledne ho měl rád pro jeho inteligentní a skromnou povahu, pro jeho sečtělost, lásku ke knihám a krásným obrazům. L. Konařík se nevyhýbal pastoračním i osobním návštěvám, pro každého uměl nalézt vhodné slovo i nevtíravý dárek (knížku, cigaretu, i když sám nekouřil, sladkosti). Rád i se svojí manželkou cestoval po českých a moravských regionech. Poslední rok jeho života provázely kruté zdravotní problémy, které přes značné úsilí lékařů ukončily jeho pozemskou pouť._
 
-{{< photo src="20190730_184116.jpg" alt="Výstřih z kroniky Náboženské obce CČSH Úvaly [2]" size="lg" >}}
+{{< photo src="20190730_184116.jpg" alt="Výstřih z kroniky Náboženské obce CČSH Úvaly \[4]" size="lg" >}}
 
+[^2] [^5]
 
 ## Rodiče
 
 - [Josef Konařík](konarik-josef-1838.md) (1838–1899)
 - [Terezie Foltýnová](foltynova-terezie-1840.md) (1840–1909)
 
-
 ## Zdroje
 
-1. Matriční záznam o narození – [Zemský archiv Opava, N, I-N • inv. č. 2401 • sig. Vs II 9 • 1882 - 1894 • Halenkov](https://digi.archives.cz/da/permalink?xid=be87e238-f13c-102f-8255-0050568c0263&scan=34b2e4da7a0a456c9078602181a8fd7f)
-2. Kronika Náboženské obce CČSH Úvaly
-3. Srov. _Lexicon Cappuccinum_, sl. 773, heslo _„Hospitia“_
-4. MATĚJKA, Pacifik M. Seznamy představených kapucínských klášterů podřízených provincialátu v Praze (1599–2005). In: _Paginae historiae: Sborník Národního archivu_. Praha: Národní archiv, 2005, s. 204. ISBN 80-86712-31-1. ISSN 1211-9768.
-5. Matriční záznam o sňatku – [AMHP, MAG O8 • 1920-1920, fol. 107](https://katalog.ahmp.cz/pragapublica/permalink?xid=6D33FBA99FCD4877A3ECE78258B87041&scan=112#scan112)
+[^1]: Matriční záznam o narození – [Zemský archiv Opava, N, I-N • inv. č. 2401 • sig. Vs II 9 • 1882 - 1894 • Halenkov](https://digi.archives.cz/da/permalink?xid=be87e238-f13c-102f-8255-0050568c0263&scan=34b2e4da7a0a456c9078602181a8fd7f)
+[^2]: Kronika Náboženské obce CČSH Úvaly
+[^3]: Srov. _Lexicon Cappuccinum_, sl. 773, heslo _„Hospitia“_
+[^4]: MATĚJKA, Pacifik M. Seznamy představených kapucínských klášterů podřízených provincialátu v Praze (1599–2005). In: _Paginae historiae: Sborník Národního archivu_. Praha: Národní archiv, 2005, s. 204. ISBN 80-86712-31-1. ISSN 1211-9768.
+[^5]: Matriční záznam o sňatku – [AMHP, MAG O8 • 1920-1920, fol. 107](https://katalog.ahmp.cz/pragapublica/permalink?xid=6D33FBA99FCD4877A3ECE78258B87041&scan=112#scan112)

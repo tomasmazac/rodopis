@@ -11,7 +11,7 @@ death: 1920
 > - Chybí matriční záznam o sňatku nebo oddací list.
 > - Chybí matriční záznam o úmrtí nebo úmrtní list.
 
-**Ján Kišš** byl synem Martina Kišše a Márie Ballové. Narodil se 19. září 1873 na Veľkém Lapáši. [1]
+**Ján Kišš** byl synem Martina Kišše a Márie Ballové. Narodil se 19. září 1873 na Veľkém Lapáši. [^1]
 
 > Napriek tomu, že Ján Kiss zomrel 31.3.1920, to znamená 2 roky po 1. svetovej vojne, je
 registrovaný ako obeť 1. svetovej vojny, pretože zomrel na následky
@@ -35,7 +35,6 @@ on zomrel.
 - Vendel Kišš
 - František Kišš
 
-
 ## Zdroje
 
-1. Matriční záznam o narození – [Slovakia Church and Synagogue Books, 1592-1935, database with images, FamilySearch (https://familysearch.org/ark:/61903/1:1:QVN4-KH5M : 18 July 2017), Joannes Kiss, 19 Oct 1873; citing p. , 75, Baptism, Veľký Lapáš, Nitra, Slovakia, Odbor Archivnictva (The Archives of the Republic), Slovakia; FHL microfilm.](https://www.familysearch.org/ark:/61903/1:1:QVN4-KH5M)
+[^1]: Matriční záznam o narození – [Slovakia Church and Synagogue Books, 1592-1935, database with images, FamilySearch (https://familysearch.org/ark:/61903/1:1:QVN4-KH5M : 18 July 2017), Joannes Kiss, 19 Oct 1873; citing p. , 75, Baptism, Veľký Lapáš, Nitra, Slovakia, Odbor Archivnictva (The Archives of the Republic), Slovakia; FHL microfilm.](https://www.familysearch.org/ark:/61903/1:1:QVN4-KH5M)

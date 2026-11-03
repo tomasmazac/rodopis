@@ -27,6 +27,8 @@ title: Životopis Emanuela Mazače
 > Emanuel Mazač
 > adm. kontrolor.
 
+[^1]
+
 ## Zdroje
 
-1. [Naskenovaný originál životopisu Emanuela Mazače](/mazac-emanuel-cv.pdf) (PDF, 3,9 MB)
+[^1]: [Naskenovaný originál životopisu Emanuela Mazače](/mazac-emanuel-cv.pdf) (PDF, 3,9 MB)

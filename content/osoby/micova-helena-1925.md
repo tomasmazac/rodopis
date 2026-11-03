@@ -12,7 +12,7 @@ death: 2008
 
 **Helena Morávková** (rozená **Míčová**) byla dcerou [Josefa Míče](mic-josef-1894.md) a [Anny Šístkové](sistkova-anna-1901.md). Narodila se 12. února 1925. \[?]
 
-Vystudovala rodinnou školu a učitelskou nástavbu a celý život pracovala jako učitelka. Učila na základních školách v Benátkách nad Jizerou, Všejanech, Poříčanech, Českém Brodě aj. \[1]
+Vystudovala rodinnou školu a učitelskou nástavbu a celý život pracovala jako učitelka. Učila na základních školách v Benátkách nad Jizerou, Všejanech, Poříčanech, Českém Brodě aj. [^1]
 
 20. července 1966 se provdala za Ladislava Morávka. Sňatek proběhl na Staroměstské radnici v Praze. \[?]
 
@@ -29,4 +29,4 @@ Zemřela 18. července 2008 ve věku 83 let. \[?]
 
 ## Zdroje
 
-1. Vyprávění Olgy Mazačové
+[^1]: Vyprávění Olgy Mazačové

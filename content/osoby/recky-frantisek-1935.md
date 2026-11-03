@@ -15,7 +15,7 @@ death: 1990
 
 **František Récky** byl synem [Ľudovíta Reckého](recky-ludovit-1887.md) a [Anny Kiššové](kissova-anna-1903.md). Narodil se 21. prosince 1935 na [Malém Lapáši](https://cs.wikipedia.org/wiki/Mal%C3%BD_Lap%C3%A1%C5%A1). \[?]
 
-Zemřel 7. prosince 1990 v 54 letech. \[1] Je pohřben na Městském hřbitově v [Nitře](https://cs.wikipedia.org/wiki/Nitra).
+Zemřel 7. prosince 1990 v 54 letech. [^1] Je pohřben na Městském hřbitově v [Nitře](https://cs.wikipedia.org/wiki/Nitra).
 
 ## Rodiče
 
@@ -34,4 +34,4 @@ Zemřel 7. prosince 1990 v 54 letech. \[1] Je pohřben na Městském hřbitově 
 
 ## Zdroje
 
-[1] Smuteční oznámení
+[^1]: Smuteční oznámení
