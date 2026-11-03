@@ -143,6 +143,9 @@ figure img.dithered { image-rendering: pixelated; }
 .surname-list { padding: 0; list-style: none; text-align: center; }
 .surname-list li { display: inline-block; margin-right: 1em; }
 
+.not-found { padding-top: 4rem; text-align: center; }
+.not-found h1 { font-size: 4rem; margin-bottom: 1rem; }
+
 /* Person index */
 .person-list .lifespan { margin-left: 0.3em; color: var(--muted); }
 

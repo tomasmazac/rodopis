@@ -6,7 +6,7 @@ Statický web s rodokmenem, generovaný nástrojem [Hugo](https://gohugo.io/) (m
 
 ```bash
 hugo server     # náhled na http://localhost:1313 s automatickým obnovováním
-hugo --minify   # build do složky public/
+hugo --minify --cleanDestinationDir   # build do složky public/ (smaže z ní staré soubory)
 ```
 
 Výsledek ve `public/` je samostatný: všechny odkazy jsou relativní, takže funguje na libovolné adrese i otevřený přímo z disku (`public/index.html`), bez serveru.

@@ -1,0 +1,24 @@
+{{- /*
+  Self-contained on purpose: the host serves this file for a missing URL at any
+  depth, so relative links to the stylesheet would not resolve. The home link
+  uses the absolute baseURL for the same reason.
+*/ -}}
+<!doctype html>
+<html lang="{{ site.Language.Locale }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Stránka nenalezena | {{ site.Title }}</title>
+  <meta name="robots" content="noindex">
+  {{ with resources.Get "style.css" | minify }}<style>{{ .Content | safeCSS }}</style>{{ end }}
+</head>
+<body>
+  <main class="page">
+    <article class="content not-found">
+      <h1>404</h1>
+      <p>Tahle stránka tu není. Možná byla přejmenována, nebo je v adrese překlep.</p>
+      <p><a href="{{ site.BaseURL }}">Zpět na úvodní stránku</a> · <a href="{{ site.BaseURL }}osoby/index.html">Rejstřík osob</a></p>
+    </article>
+  </main>
+</body>
+</html>
