@@ -1,9 +1,10 @@
 {{- /*
   Merges adjacent footnote references into one bracket like the former
-  hand-written citations: [2][8] -> [2, 8], [6][7][8] -> [6–8].
+  hand-written citations: [8][2] -> [2, 8]. A source cited twice is shown once.
   Every original id is kept, because the back-links in the source list point to them.
 */ -}}
 {{- $ref := `<sup id="(fnref[^"]*)"><a href="(#fn:[^"]+)" class="footnote-ref" role="doc-noteref">(\d+)</a></sup>` -}}
+{{- $link := `<a id="%s" href="%s" class="citation-ref" role="doc-noteref">%d</a>` -}}
 {{- $content := string . -}}
 {{- range findRE (printf `%s(?:\s*%s)+` $ref $ref) $content -}}
   {{- $group := . -}}
@@ -11,44 +12,18 @@
   {{- range findRESubmatch $ref $group -}}
     {{- $items = $items | append (dict "id" (index . 1) "href" (index . 2) "n" (int (index . 3))) -}}
   {{- end -}}
-  {{- $items = sort $items "n" -}}
-  {{- /* Split into runs of consecutive numbers; the same source twice counts once. */ -}}
-  {{- $runs := slice -}}
-  {{- $run := slice -}}
+  {{- $links := slice -}}
+  {{- $hidden := "" -}}
   {{- $prev := -1 -}}
-  {{- range $items -}}
+  {{- range sort $items "n" -}}
     {{- if eq .n $prev -}}
-      {{- $run = $run | append (merge . (dict "dup" true)) -}}
-    {{- else if or (eq $prev -1) (eq .n (add $prev 1)) -}}
-      {{- $run = $run | append . -}}
+      {{- $hidden = printf `%s<span id="%s"></span>` $hidden .id -}}
     {{- else -}}
-      {{- $runs = $runs | append (dict "items" $run) -}}
-      {{- $run = slice . -}}
+      {{- $links = $links | append (printf $link .id .href .n) -}}
     {{- end -}}
     {{- $prev = .n -}}
   {{- end -}}
-  {{- $runs = $runs | append (dict "items" $run) -}}
-  {{- $parts := slice -}}
-  {{- range $runs -}}
-    {{- $shown := where .items "dup" "!=" true -}}
-    {{- $hidden := "" -}}
-    {{- range .items -}}
-      {{- if or .dup (and (gt (len $shown) 2) (ne .id (index $shown 0).id) (ne .id (index (last 1 $shown) 0).id)) -}}
-        {{- $hidden = printf `%s<span id="%s"></span>` $hidden .id -}}
-      {{- end -}}
-    {{- end -}}
-    {{- $link := `<a id="%s" href="%s" class="citation-ref" role="doc-noteref">%d</a>` -}}
-    {{- $first := index $shown 0 -}}
-    {{- if gt (len $shown) 2 -}}
-      {{- $lastItem := index (last 1 $shown) 0 -}}
-      {{- $parts = $parts | append (printf "%s–%s%s" (printf $link $first.id $first.href $first.n) (printf $link $lastItem.id $lastItem.href $lastItem.n) $hidden) -}}
-    {{- else -}}
-      {{- $links := slice -}}
-      {{- range $shown }}{{ $links = $links | append (printf $link .id .href .n) }}{{ end -}}
-      {{- $parts = $parts | append (printf "%s%s" (delimit $links ", ") $hidden) -}}
-    {{- end -}}
-  {{- end -}}
-  {{- $content = replace $content $group (printf `<span class="citation">[%s]</span>` (delimit $parts ", ")) 1 -}}
+  {{- $content = replace $content $group (printf `<span class="citation">[%s]%s</span>` (delimit $links ", ") $hidden) 1 -}}
 {{- end -}}
 {{- $content = $content | safeHTML -}}
 {{- return $content -}}
