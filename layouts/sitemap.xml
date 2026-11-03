@@ -1,0 +1,14 @@
+{{- /* Hugo's built-in sitemap minus pages generated from GEDCOM, which are noindex. */ -}}
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {{- range where (where .Pages "Sitemap.Disable" "ne" true) "Params.isGenerated" "ne" true }}
+  {{- if .Permalink }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{- if not .Lastmod.IsZero }}
+    <lastmod>{{ safeHTML (.Lastmod.Format "2006-01-02T15:04:05-07:00") }}</lastmod>
+    {{- end }}
+  </url>
+  {{- end }}
+  {{- end }}
+</urlset>
