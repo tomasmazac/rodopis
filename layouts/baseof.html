@@ -32,7 +32,7 @@
       </div>
       <nav>
         <a href="{{ (site.GetPage "/osoby").RelPermalink }}">Rejstřík osob</a>
-        <a href="{{ site.Params.repo }}" rel="noopener">Repozitář</a>
+        <a href="{{ site.Params.repo }}" target="_blank" rel="noopener noreferrer">Repozitář{{ partial "external-icon.html" . }}</a>
       </nav>
     </div>
   </header>

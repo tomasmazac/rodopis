@@ -12,4 +12,5 @@
     {{- warnf "%s: odkaz na neexistující stránku %q" $.Page.File.Path $.Destination -}}
   {{- end -}}
 {{- end -}}
-<a href="{{ $href | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $u.IsAbs }} rel="noopener"{{ end }}>{{ .Text }}</a>
+{{- $external := in (slice "http" "https") $u.Scheme -}}
+<a href="{{ $href | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $external }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .Text }}{{ if $external }}{{ partial "external-icon.html" . }}{{ end }}</a>
