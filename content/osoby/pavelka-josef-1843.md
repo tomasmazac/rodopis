@@ -26,13 +26,13 @@ Zemřel 4. února 1929 na [Mělníku](https://cs.wikipedia.org/wiki/M%C4%9Bln%C3
 
 ## Rodiče
 
-- Matěj Pavelka (1814–?)
+- [Matěj Pavelka](pavelka-matej-1814.md) (1814–?)
 - Marie Klára Kernerová (1818–?)
 
 
 ## Potomci
 
-- Aloisie Pavelková (1870–?)
+- [Aloisie Pavelková](pavelkova-aloisie-1870.md) (1870–?)
 - [Marie Šístková](pavelkova-marie-1872.md) (1872-1947)
 - Maxmilián Pavelka (?–?)
 

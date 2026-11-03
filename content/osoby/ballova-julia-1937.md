@@ -29,7 +29,7 @@ V&nbsp;sobotu 15.&nbsp;listopadu&nbsp;1958 se provdala za [Františka Réckého]
 ## Potomci
 
 * Jarmila Mazačová
-* Oľga Récka (1961–2018)
+* [Oľga Récka](recka-olga-1961.md) (1961–2018)
 * Zlatica Ballová
 
 ## DNA

@@ -33,14 +33,14 @@ Zemřel 27. ledna 1944 v 71 letech, bez zaopatření svátostmi. Jako příčina
 ## Rodiče
 
 * [Jan Šístek](sistek-jan-1844.md) (1844–1921)
-* Antonie Příhodová (1850–?)
+* [Antonie Příhodová](prihodova-antonie-1850.md) (1850–?)
 
 
 ## Potomci
 
 * [Marie Konaříková](sistkova-marie-1897.md) (1897–1949)
 * [Anna Míčová](sistkova-anna-1901.md) (1901–1983)
-* František Šístek (1902–?)
+* [František Šístek](sistek-frantisek-1902.md) (1902–?)
 * [Josef Šístek](sistek-josef-1904.md) (1904–?)
 * Ludmila Volštátová (1906–?)
 * [Aloisie Šotolová](sistkova-aloisie-1908.md) (1908–?)

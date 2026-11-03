@@ -29,15 +29,15 @@ Zemřel 5. března 1967 na plicní embolii. [^1]
 
 ## Rodiče
 
-- Juraj Réczký (1847–1920)
-- Mária Czinger (1852–1933)
+- [Juraj Réczký](reczky-juraj-1847.md) (1847–1920)
+- [Mária Czinger](czinger-maria-1852.md) (1852–1933)
 
 
 ## Potomci
 
-- Milan Recký (1926–1986)
-- Štefan Récky (1928–1993)
-- Jozef Récky (1932–1977)
+- [Milan Recký](recky-milan-1926.md) (1926–1986)
+- [Štefan Récky](recky-stefan-1928.md) (1928–1993)
+- [Jozef Récky](recky-jozef-1932.md) (1932–1977)
 - [František Récky](recky-frantisek-1935.md) (1935–1990)
 - Mária Pindešová (1938–2017)
 - Vincent Recký (1942-2021)

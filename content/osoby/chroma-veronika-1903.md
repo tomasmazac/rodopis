@@ -19,13 +19,13 @@ Dne 7. listopadu 1922 se na Veľkém Lapáši provdala za [Stanislava Ballu](bal
 
 ## Rodiče
 
-* Štefan Chromý (1862–1921)
-* Mária Záhumenická (1864–1947)
+* [Štefan Chromý](chromy-stefan-1862.md) (1862–1921)
+* [Mária Záhumenická](zahumenicka-maria-1864.md) (1864–1947)
 
 ## Potomci
 
 * Mária Duchoňová (1923–1949)
-* Ján Balla (1925–1985)
+* [Ján Balla](balla-jan-1925.md) (1925–1985)
 * Katarína Petríková (1928–2017)
 * [Júlia Récka](ballova-julia-1937.md) (1937–2006)
 * Jozef Balla

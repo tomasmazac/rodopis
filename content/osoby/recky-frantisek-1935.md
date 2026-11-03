@@ -25,7 +25,7 @@ Zemřel 7. prosince 1990 v 54 letech. [^1] Je pohřben na Městském hřbitově 
 ## Potomci
 
 * Jarmila Mazačová
-* Oľga Récka (1961–2018)
+* [Oľga Récka](recka-olga-1961.md) (1961–2018)
 * Zlatica Ballová
 
 ## DNA

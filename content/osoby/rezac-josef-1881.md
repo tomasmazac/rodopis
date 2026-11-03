@@ -18,7 +18,7 @@ Ve středu 6.&nbsp;července&nbsp;1904 se oženil s&nbsp;Vilemínou Šimonovou. 
 ## Rodiče
 
 - [František Řezáč](rezac-frantisek-1838.md) (1838–1909)
-- Františka Hübnerová (1838–1893)
+- [Františka Hübnerová](hubnerova-frantiska-1838.md) (1838–1893)
 
 
 ## Potomci

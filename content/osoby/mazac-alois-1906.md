@@ -23,7 +23,7 @@ Zemřel 7. dubna 1983 v [Liberci](https://cs.wikipedia.org/wiki/Liberec). [^3] B
 ## Rodiče
 
 * [Josef Mazač](mazac-josef-1858.md) (1858–1936)
-* Bohumila Tomanová (1868–1922)
+* [Bohumila Tomanová](tomanova-bohumila-1868.md) (1868–1922)
 
 ## DNA
 

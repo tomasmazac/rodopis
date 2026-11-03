@@ -17,7 +17,7 @@ birth: 1904
 
 ## Potomci
 
-- Luděk Šístek (1933–1948)
+- [Luděk Šístek](sistek-ludek-1933.md) (1933–1948)
 
 ## Zdroje
 

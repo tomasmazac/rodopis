@@ -21,7 +21,7 @@ Zemřela 21. září 1990 ve věku 78 let. \[?\]
 ## Rodiče
 
 - [Josef Řezáč](rezac-josef-1881.md) (1881–?)
-- Vilemína Šimonová (1883–1957)
+- [Vilemína Šimonová](simonova-vilemina-1883.md) (1883–1957)
 
 
 ## Potomci

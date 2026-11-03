@@ -19,14 +19,14 @@ Zemřel 10.&nbsp;července 1909 v&nbsp;půl osmé večer v&nbsp;Kosmonosích čp
 
 ## Rodiče
 
-- Josef Řezáč (1804–1892)
-- Veronika Nosálková (1809–1877)
+- [Josef Řezáč](rezac-josef-1804.md) (1804–1892)
+- [Veronika Nosálková](nosalkova-veronika-1809.md) (1809–1877)
 
 
 ## Potomci
 
-- František Řezáč (1873–1955)
-- Emilie Řezáčová (1875–1892)
+- [František Řezáč](rezac-frantisek-1873.md) (1873–1955)
+- [Emilie Řezáčová](rezacova-emilie-1875.md) (1875–1892)
 - Božena Svobodová (1878–1953)
 - [Josef Řezáč](rezac-josef-1881.md) (1881–?)
 - Marie Mazáčová

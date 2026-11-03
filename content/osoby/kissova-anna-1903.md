@@ -24,9 +24,9 @@ Zemřela 8. května 1982 na rakovinu žaludku. \[?]
 
 ## Potomci
 
-* Milan Recký (1926–?)
-* Štefan Récky (1928–1993)
-* Jozef Récky (1932–1977)
+* [Milan Recký](recky-milan-1926.md) (1926–?)
+* [Štefan Récky](recky-stefan-1928.md) (1928–1993)
+* [Jozef Récky](recky-jozef-1932.md) (1932–1977)
 * [František Récky](recky-frantisek-1935.md) (1935–1990)
 * Mária Pindešová
 * Vincent Recký (?-2021)

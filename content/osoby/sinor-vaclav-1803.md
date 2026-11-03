@@ -23,9 +23,9 @@ birth: 1803
 
 ## Potomci
 
-- Marie Šinorová (1824–?)
-- Josef Šinor (1829–1892)
-- Kateřina Šinorová (1832–1833)
+- [Marie Šinorová](sinorova-marie-1824.md) (1824–?)
+- [Josef Šinor](sinor-josef-1829.md) (1829–1892)
+- [Kateřina Šinorová](sinorova-katerina-1832.md) (1832–1833)
 - [Kateřina Škobisová](sinorova-katerina-1837.md) (1837–?)
-- Václav Šinor (1844–?)
+- [Václav Šinor](sinor-vaclav-1844.md) (1844–?)
 – František Šinor

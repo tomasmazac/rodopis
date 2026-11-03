@@ -20,11 +20,11 @@ Zemřela 5. listopadu 1895 po náhlém chrlení krve. [^2]
 
 ## Potomci
 
-- Jan Jelínek (1879–?)
+- [Jan Jelínek](jelinek-jan-1879.md) (1879–?)
 - Josefa Řídká (1882–?)
 - [Blažena Bačkorová](jelinkova-blazena-1885.md) (1885–1939)
-- Justina Jelínková (1886–?)
-- Judita Jelínková (1889–1889)
+- [Justina Jelínková](jelinkova-justina-1886.md) (1886–?)
+- [Judita Jelínková](jelinkova-judita-1889.md) (1889–1889)
 - Judita Korejsová (1891–?)
 
 ## Zdroje

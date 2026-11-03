@@ -16,8 +16,8 @@ V roce 1883 maturoval na [gymnáziu ve Valašském Meziříčí](https://cs.wiki
 
 ## Rodiče
 
-- Josef Konařík (1838–1899)
-- Terezie Foltýnová (1840–1909)
+- [Josef Konařík](konarik-josef-1838.md) (1838–1899)
+- [Terezie Foltýnová](foltynova-terezie-1840.md) (1840–1909)
 
 ## Zdroje
 

@@ -16,17 +16,17 @@ Zemřel 5. září 1901 na tuberkulózu plic. Bylo mu pouhých 45 let. [^3]
 
 ## Rodiče
 
-- Jan Jelínek (1808–?)
-- Anna Šípková (1815–1881)
+- [Jan Jelínek](jelinek-jan-1808.md) (1808–?)
+- [Anna Šípková](sipkova-anna-1815.md) (1815–1881)
 
 
 ## Potomci
 
-- Jan Jelínek (1879–?)
+- [Jan Jelínek](jelinek-jan-1879.md) (1879–?)
 - Josefa Řídká (1882–?)
 - [Blažena Bačkorová](jelinkova-blazena-1885.md) (1885–1939)
-- Justina Jelínková (1886–?)
-- Judita Jelínková (1889–1889)
+- [Justina Jelínková](jelinkova-justina-1886.md) (1886–?)
+- [Judita Jelínková](jelinkova-judita-1889.md) (1889–1889)
 - Judita Korejsová (1891–?)
 
 ## Zdroje

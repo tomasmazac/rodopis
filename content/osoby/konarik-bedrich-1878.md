@@ -25,5 +25,5 @@ Narodil se 13. dubna 1878 v [Halenkově](https://cs.wikipedia.org/wiki/Halenkov)
 
 ## Rodiče
 
-- Josef Konařík (1838–1899)
-- Terezie Foltýnová (1840–1909)
+- [Josef Konařík](konarik-josef-1838.md) (1838–1899)
+- [Terezie Foltýnová](foltynova-terezie-1840.md) (1840–1909)

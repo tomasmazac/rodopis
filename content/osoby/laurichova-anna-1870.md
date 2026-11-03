@@ -21,18 +21,18 @@ Zemřela 13. února 1950 v Jilemnici. [^1] Bylo jí 79 let.
 
 ## Rodiče
 
-- Josef Laurich (1844–?)
-- Marie Tauchmanová (1848–1916)
+- [Josef Laurich](laurich-josef-1844.md) (1844–?)
+- [Marie Tauchmanová](tauchmanova-marie-1848.md) (1848–1916)
 
 
 ## Potomci
 
 - [Josef Míč](mic-josef-1894.md) (1894–1979)
-- Marie Míčová (1896–?)
-- Karel Míč (1897–1897)
-- František Míč (1898–1983)
-- Antonín Míč (1901–?)
-- Jaroslav Míč (1903–?)
+- [Marie Míčová](micova-marie-1896.md) (1896–?)
+- [Karel Míč](mic-karel-1897.md) (1897–1897)
+- [František Míč](mic-frantisek-1898.md) (1898–1983)
+- [Antonín Míč](mic-antonin-1901.md) (1901–?)
+- [Jaroslav Míč](mic-jaroslav-1903.md) (1903–?)
 - Anna Míčová
 
 ## Zdroje

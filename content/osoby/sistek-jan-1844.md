@@ -14,21 +14,21 @@ Zemřel 20. prosince 1921 v 6.00 v [Rousovicích](https://cs.wikipedia.org/wiki/
 
 ## Rodiče
 
-- Josef Šístek (1814–?)
-- Kateřina Škopková (1811–1890)
+- [Josef Šístek](sistek-josef-1814.md) (1814–?)
+- [Kateřina Škopková](skopkova-katerina-1811.md) (1811–1890)
 
 
 ## Potomci
 
 - Josef Šístek
 - [František Šístek](sistek-frantisek-1872.md) (1872–1944)
-- Václav Šístek (1874–?)
-- Anna Šístková (1874–1874)
-- Anna Šístková (1876–1895)
-- Anežka Šístková (1878–?)
-- Antonie Šístková (1880–?)
-- Josef Šístek (1882–1939)
-- Jan Šístek (1885–?)
+- [Václav Šístek](sistek-vaclav-1874.md) (1874–?)
+- [Anna Šístková](sistkova-anna-1874.md) (1874–1874)
+- [Anna Šístková](sistkova-anna-1876.md) (1876–1895)
+- [Anežka Šístková](sistkova-anezka-1878.md) (1878–?)
+- [Antonie Šístková](sistkova-antonie-1880.md) (1880–?)
+- [Josef Šístek](sistek-josef-1882.md) (1882–1939)
+- [Jan Šístek](sistek-jan-1885.md) (1885–?)
 
 ## Zdroje
 

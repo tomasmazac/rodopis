@@ -51,13 +51,13 @@ Po delší nemoci zemřel 9. června 1936 ve 3 hodiny ráno ve věku 79 let (na 
 
 * [Karel Mazač](mazac-karel-1884.md) (1884–1952)
 * Anna Mazačová (?–1892)
-* Josef Mazač (1890–1892)
+* [Josef Mazač](mazac-josef-1890.md) (1890–1892)
 * [Jan Mazač](mazac-jan-1891.md) (1891–1932)
 * Marie Marschnerová (1892–?)
-* Marta Mazačová (1893–?)
+* [Marta Mazačová](mazacova-marta-1893.md) (1893–?)
 * [Emanuel Mazač](mazac-emanuel-1895.md) (1895–1949)
 * František Mazač (1897–1909)
-* Josef Mazač (1898–1898)
+* [Josef Mazač](mazac-josef-1898.md) (1898–1898)
 * [Bohumila Jägerová](mazacova-bohumila-1904.md) (1904–?)
 * [Alois Mazač](mazac-alois-1906.md) (1906–1983)
 

@@ -27,15 +27,15 @@ Zemřela v roce 1947. Bylo jí 83 let. Na náhrobním kamenu má špatně uveden
 
 ## Potomci
 
-- Florián Chromý (1888–1888)
-- Karol Chromý (1889–1895)
-- Vincent Chromý (1892–1895)
-- Ján Chromý (1895–1922)
-- Michal Chromý (1897–1897)
-- Mikuláš Chromý (1898–?)
-- Barbora Chromá (1900–?)
+- [Florián Chromý](chromy-florian-1888.md) (1888–1888)
+- [Karol Chromý](chromy-karol-1889.md) (1889–1895)
+- [Vincent Chromý](chromy-vincent-1892.md) (1892–1895)
+- [Ján Chromý](chromy-jan-1895.md) (1895–1922)
+- [Michal Chromý](chromy-michal-1897.md) (1897–1897)
+- [Mikuláš Chromý](chromy-mikulas-1898.md) (1898–?)
+- [Barbora Chromá](chroma-barbora-1900.md) (1900–?)
 - [Veronika Ballová](chroma-veronika-1903.md) (1903–1981)
-- Agneša Chromá (1905–1905)
+- [Agneša Chromá](chroma-agnesa-1905.md) (1905–1905)
 
 
 ## DNA

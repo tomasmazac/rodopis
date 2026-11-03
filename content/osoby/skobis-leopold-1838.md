@@ -23,18 +23,18 @@ Ve středu 10. února 1858 se v [Pyšelích](https://cs.wikipedia.org/wiki/Py%C5
 
 ## Potomci
 
-- Emanuel Škobis (1856–?)
-- Karel Škobis (1858–1861)
-- František Škobis (1859–1859)
+- [Emanuel Škobis](skobis-emanuel-1856.md) (1856–?)
+- [Karel Škobis](skobis-karel-1858.md) (1858–1861)
+- [František Škobis](skobis-frantisek-1859.md) (1859–1859)
 - [Marie Mazačová](skobisova-marie-1860.md) (1860–1898)
-- Alois Škobiš (1863–?)
+- [Alois Škobiš](skobis-alois-1863.md) (1863–?)
 - Františka Moserová (1865–?)
 - Anna Brábníková (1867–?)
-- Karel Škobis (1869–1869)
-- Matilda Škobisová (1870–1876)
-- Josefa Škobisová (1873–1876)
+- [Karel Škobis](skobis-karel-1869.md) (1869–1869)
+- [Matilda Škobisová](skobisova-matilda-1870.md) (1870–1876)
+- [Josefa Škobisová](skobisova-josefa-1873.md) (1873–1876)
 - Božena Jelínková (1875–?)
-- Josef Škobis (1877–?)
+- [Josef Škobis](skobis-josef-1877.md) (1877–?)
 
 ## Zdroje
 

@@ -23,13 +23,13 @@ on zomrel.
 ## Rodiče
 
 - [Martin Kišš](kiss-martin-1841.md) (1841–1927)
-- Mária Ballová (1849–1934)
+- [Mária Ballová](ballova-maria-1849.md) (1849–1934)
 
 
 ## Potomci
 
 - [Anna Récka](kissova-anna-1903.md) (1903–1982)
-- Ignác Kišš (1904–1988)
+- [Ignác Kišš](kiss-ignac-1904.md) (1904–1988)
 - Margita Kiššová
 - Františka Kiššová
 - Vendel Kišš

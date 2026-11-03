@@ -24,7 +24,7 @@ Oženil se s Libuší Měšťákovou. Manželství ale skončilo rozvodem. \[?]
 
 ## Potomci
 
-* Jan Mazač (1949–2015)
+* [Jan Mazač](mazac-jan-1949.md) (1949–2015)
 
 ## DNA
 

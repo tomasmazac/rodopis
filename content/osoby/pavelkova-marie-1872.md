@@ -26,13 +26,13 @@ Byla pochována 3. ledna 1948 na hřbitově Svatého Václava na Mělníku, vedl
 ## Rodiče
 
 * [Josef Pavelka](pavelka-josef-1843.md) (1843–1929)
-* Aloisie Tomsová (1847–?)
+* [Aloisie Tomsová](tomsova-aloisie-1847.md) (1847–?)
 
 ## Potomci
 
 * [Marie Konaříková](sistkova-marie-1897.md) (1897–1949)
 * [Anna Míčová](sistkova-anna-1901.md) (1901–1983)
-* František Šístek (1902–?)
+* [František Šístek](sistek-frantisek-1902.md) (1902–?)
 * Josef Šístek (1904-?)
 * Ludmila Volštátová (1906–?)
 * [Aloisie Šotolová](sistkova-aloisie-1908.md) (1908–?)

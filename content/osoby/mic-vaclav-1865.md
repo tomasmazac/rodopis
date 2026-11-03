@@ -17,18 +17,18 @@ birth: 1865
 
 ## Rodiče
 
-- Jan Míč (1825–?)
-- Kateřina Frumarová (1827–?)
+- [Jan Míč](mic-jan-1825.md) (1825–?)
+- [Kateřina Frumarová](frumarova-katerina-1827.md) (1827–?)
 
 
 ## Potomci
 
 - [Josef Míč](mic-josef-1894.md) (1894–1979)
-- Marie Míčová (1896–?)
-- Karel Míč (1897–1897)
-- František Míč (1898–1983)
-- Antonín Míč (1901–?)
-- Jaroslav Míč (1903–?)
+- [Marie Míčová](micova-marie-1896.md) (1896–?)
+- [Karel Míč](mic-karel-1897.md) (1897–1897)
+- [František Míč](mic-frantisek-1898.md) (1898–1983)
+- [Antonín Míč](mic-antonin-1901.md) (1901–?)
+- [Jaroslav Míč](mic-jaroslav-1903.md) (1903–?)
 - Anna Míčová
 
 ## Zdroje

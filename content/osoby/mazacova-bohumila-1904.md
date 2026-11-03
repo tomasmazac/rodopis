@@ -22,12 +22,12 @@ birth: 1904
 ## Rodiče
 
 - [Josef Mazač](mazac-josef-1858.md) (1858–1936)
-- Bohumila Tomanová (1868–1922)
+- [Bohumila Tomanová](tomanova-bohumila-1868.md) (1868–1922)
 
 
 ## Potomci
 
-- Jindřich Jäger (1928–1985)
+- [Jindřich Jäger](jager-jindrich-1928.md) (1928–1985)
 - Marie Denemarková (1930–2009)
 
 ## Zdroje

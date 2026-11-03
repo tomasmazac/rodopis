@@ -16,13 +16,13 @@ Zemřela 8. srpna 1937 v okresní nemocnici v [Mladé Boleslavi](https://cs.wiki
 
 ## Rodiče
 
-- Jiří Šverma (1827–?)
-- Anna Horáková (1825–1885)
+- [Jiří Šverma](sverma-jiri-1827.md) (1827–?)
+- [Anna Horáková](horakova-anna-1825.md) (1825–1885)
 
 
 ## Potomci
 
-- Antonín Průšek (1885–?)
+- [Antonín Průšek](prusek-antonin-1885.md) (1885–?)
 - [Marie Mazačová](markova-marie-1887.md) (1887–1975)
 - [Jan Marek](marek-jan-1888.md) (1888–?)
 - [Štěpánka Typltová](markova-stepanka-1889.md) (1889–?)
