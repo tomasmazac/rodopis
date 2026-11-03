@@ -1,0 +1,8 @@
+{{- /* Goldmark silently drops a footnote nobody cites, so say so at build time. */ -}}
+{{- $raw := .RawContent -}}
+{{- range findRESubmatch `(?m)^\[\^([^\]]+)\]:` $raw -}}
+  {{- $label := printf "[^%s]" (index . 1) -}}
+  {{- if eq (strings.Count $label $raw) (strings.Count (printf "%s:" $label) $raw) -}}
+    {{- warnf "%s: zdroj %s není v textu citovaný, na webu se nezobrazí" $.File.Path $label -}}
+  {{- end -}}
+{{- end -}}

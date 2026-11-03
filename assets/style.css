@@ -149,6 +149,17 @@ figure img.dithered { image-rendering: pixelated; }
 .not-found { padding-top: 4rem; text-align: center; }
 .not-found h1 { font-size: 4rem; margin-bottom: 1rem; }
 
+/* Footnotes look like the hand-written [1] citations used on other pages. */
+sup:has(> .footnote-ref) { vertical-align: baseline; font-size: inherit; }
+.footnote-ref::before { content: "["; }
+.footnote-ref::after { content: "]"; }
+.citation { white-space: nowrap; color: var(--accent); font-weight: 500; }
+.footnotes hr { display: none; }
+.footnotes li p { margin: 0; }
+.footnote-backref { margin-left: 0.2em; }
+/* A source cited several times gets one back-link per citation; the first is enough. */
+.footnote-backref ~ .footnote-backref { display: none; }
+
 /* Person index */
 .person-list .lifespan { margin-left: 0.3em; color: var(--muted); }
 
