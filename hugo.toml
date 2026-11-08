@@ -11,6 +11,17 @@ relativeURLs = true
 enableGitInfo = true
 disableKinds = ["taxonomy", "term", "rss"]
 
+# Netlify serves /page as page.html too; _redirects sends it to the one URL.
+[mediaTypes."text/netlify"]
+  delimiter = ""
+[outputFormats.redirects]
+  mediaType = "text/netlify"
+  baseName = "_redirects"
+  isPlainText = true
+  notAlternative = true
+[outputs]
+  home = ["html", "redirects"]
+
 [params]
   description = "Životní osudy našich předků"
   logo = "/deciduous-tree_1f333.png"
