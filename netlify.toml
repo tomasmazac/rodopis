@@ -6,3 +6,8 @@
 [build.environment]
   # Keep in step with the Hugo version used locally (hugo version).
   HUGO_VERSION = "0.169.0"
+
+# Netlify's Pretty URLs would strip .html from links and make them absolute,
+# so every page gets a second URL and the links stop matching the sitemap.
+[build.processing.html]
+  pretty_urls = false
