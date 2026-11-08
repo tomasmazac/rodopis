@@ -1,0 +1,5 @@
+{{- $alt := .Get "alt" -}}
+<figure>
+  <img src="/images/{{ .Get "src" }}" alt="{{ $alt | .Page.RenderString | plainify }}" class="{{ .Get "size" | default "lg" }}" loading="lazy">
+  <figcaption>{{ $alt | .Page.RenderString }}</figcaption>
+</figure>

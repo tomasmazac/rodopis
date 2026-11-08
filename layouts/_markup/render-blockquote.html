@@ -1,0 +1,10 @@
+{{- if eq .Type "alert" -}}
+<div class="custom-block {{ .AlertType }}">
+  <p class="custom-block-title">{{ with .AlertTitle }}{{ . }}{{ else }}{{ index (dict "warning" "UPOZORNĚNÍ" "note" "POZNÁMKA" "tip" "TIP") .AlertType | default (upper .AlertType) }}{{ end }}</p>
+  {{ .Text }}
+</div>
+{{- else -}}
+<blockquote>
+  {{ .Text }}
+</blockquote>
+{{- end -}}

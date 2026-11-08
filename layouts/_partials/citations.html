@@ -1,0 +1,29 @@
+{{- /*
+  Merges adjacent footnote references into one bracket like the former
+  hand-written citations: [8][2] -> [2, 8]. A source cited twice is shown once.
+  Every original id is kept, because the back-links in the source list point to them.
+*/ -}}
+{{- $ref := `<sup id="(fnref[^"]*)"><a href="(#fn:[^"]+)" class="footnote-ref" role="doc-noteref">(\d+)</a></sup>` -}}
+{{- $link := `<a id="%s" href="%s" class="citation-ref" role="doc-noteref">%d</a>` -}}
+{{- $content := string . -}}
+{{- range findRE (printf `%s(?:\s*%s)+` $ref $ref) $content -}}
+  {{- $group := . -}}
+  {{- $items := slice -}}
+  {{- range findRESubmatch $ref $group -}}
+    {{- $items = $items | append (dict "id" (index . 1) "href" (index . 2) "n" (int (index . 3))) -}}
+  {{- end -}}
+  {{- $links := slice -}}
+  {{- $hidden := "" -}}
+  {{- $prev := -1 -}}
+  {{- range sort $items "n" -}}
+    {{- if eq .n $prev -}}
+      {{- $hidden = printf `%s<span id="%s"></span>` $hidden .id -}}
+    {{- else -}}
+      {{- $links = $links | append (printf $link .id .href .n) -}}
+    {{- end -}}
+    {{- $prev = .n -}}
+  {{- end -}}
+  {{- $content = replace $content $group (printf `<span class="citation">[%s]%s</span>` (delimit $links ", ") $hidden) 1 -}}
+{{- end -}}
+{{- $content = $content | safeHTML -}}
+{{- return $content -}}

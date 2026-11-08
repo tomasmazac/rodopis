@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="{{ site.Language.Locale }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+  {{- /* Pages generated from GEDCOM may hold unverified data; keep them out of search engines. */}}
+  {{- if .Params.isGenerated }}
+  <meta name="robots" content="noindex, nofollow">
+  {{- end }}
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="apple-mobile-web-app-title" content="Rodopis">
+  <meta name="application-name" content="Rodopis">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+  {{- /* No integrity attributes: browsers block SRI-checked files on pages opened from disk. */}}
+  {{ with resources.Get "style.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
+</head>
+<body>
+  <header class="navbar">
+    <a class="brand" href="/index.html">
+      <img src="{{ site.Params.logo }}" alt="">
+      <span>{{ site.Title }}</span>
+    </a>
+    <div class="nav-right">
+      <div class="search-box">
+        <input id="search" type="search" aria-label="Hledat" placeholder="Hledat" autocomplete="off" spellcheck="false">
+        <ul id="suggestions" class="suggestions" hidden></ul>
+      </div>
+      <nav>
+        <a href="{{ (site.GetPage "/osoby").RelPermalink }}">Rejstřík osob</a>
+        <a href="{{ site.Params.repo }}" target="_blank" rel="noopener noreferrer">Repozitář{{ partial "external-icon.html" . }}</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="{{ if .IsHome }}home{{ else }}page{{ end }}">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{- /* data-* paths are relative to the site root; relativeURLs does not rewrite them, site.js resolves them. */}}
+  {{ with resources.Get "site.js" | minify | fingerprint }}
+  <script src="{{ .RelPermalink }}" data-index="{{ strings.TrimPrefix "/" (partialCached "search-index.html" .).RelPermalink }}" defer></script>
+  {{ end }}
+</body>
+</html>

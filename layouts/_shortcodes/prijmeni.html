@@ -1,0 +1,5 @@
+<ul class="surname-list">
+  {{- range sort hugo.Data.prijmeni "surname" }}
+  <li style="opacity: {{ sub 1.0 (div .generation 10.0) }}; font-weight: {{ sub 900 (mul .generation 100) }}">{{ .surname }}</li>
+  {{- end }}
+</ul>

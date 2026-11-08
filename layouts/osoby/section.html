@@ -1,0 +1,33 @@
+{{ define "main" }}
+{{- $alphabet := slice "A" "B" "C" "Č" "D" "E" "F" "G" "H" "Ch" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "Ř" "S" "Š" "T" "U" "V" "W" "X" "Y" "Z" "Ž" -}}
+{{- /* Letters with these diacritics are not separate letters of the Czech alphabet. */ -}}
+{{- $fold := dict "Á" "A" "Ä" "A" "Ď" "D" "É" "E" "Ě" "E" "Í" "I" "Ň" "N" "Ó" "O" "Ö" "O" "Ť" "T" "Ú" "U" "Ů" "U" "Ü" "U" "Ý" "Y" -}}
+{{- $groups := dict -}}
+{{- range .RegularPages -}}
+  {{- $surname := .Params.surname | default .Title -}}
+  {{- $letter := substr $surname 0 1 | upper -}}
+  {{- $letter = index $fold $letter | default $letter -}}
+  {{- if hasPrefix (lower $surname) "ch" }}{{ $letter = "Ch" }}{{ end -}}
+  {{- $entry := dict "key" (printf "%s %s" $surname .Params.firstName) "page" . -}}
+  {{- $groups = merge $groups (dict $letter ((index $groups $letter) | default slice | append $entry)) -}}
+{{- end -}}
+<article class="content">
+  {{ .Content }}
+  {{ range $letter := $alphabet }}
+    {{ with index $groups $letter }}
+    <h2>{{ $letter }}</h2>
+    <ul class="person-list">
+      {{ range sort . "key" }}
+      {{ $p := .page }}
+      <li>
+        <a href="{{ $p.RelPermalink }}">{{ $p.Params.surname }} {{ $p.Params.firstName }}</a>
+        {{ if or $p.Params.birth $p.Params.death }}<span class="lifespan">({{ $p.Params.birth | default "?" }}–{{ $p.Params.death | default "?" }})</span>{{ end }}
+      </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  {{ end }}
+</article>
+<hr>
+{{ partial "footer.html" . }}
+{{ end }}

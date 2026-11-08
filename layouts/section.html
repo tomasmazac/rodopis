@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article class="content">
+  {{ with .Content }}{{ . }}{{ else }}<h1>{{ .Title }}</h1>{{ end }}
+  <ul>
+    {{ range .Pages.ByTitle }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</article>
+<hr>
+{{ partial "footer.html" . }}
+{{ end }}

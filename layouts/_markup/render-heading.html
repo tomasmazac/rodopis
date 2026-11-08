@@ -1,0 +1,7 @@
+<h{{ .Level }} id="{{ .Anchor }}">{{ .Text }}</h{{ .Level }}>
+{{- if and (eq .Level 1) .Page.Params.isGenerated }}
+<div class="custom-block warning">
+  <p class="custom-block-title">VYGENEROVANÁ STRÁNKA</p>
+  <p>Tato stránka byla automaticky vygenerována z GEDCOM souboru a je možné, že obsahuje nepodložené nebo mylné informace.</p>
+</div>
+{{- end }}
