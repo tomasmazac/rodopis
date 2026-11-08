@@ -1,6 +1,8 @@
 {{- range site.Pages }}
 {{- $url := .RelPermalink }}
-{{- if and (strings.HasSuffix $url ".html") (not (strings.HasSuffix $url "/index.html")) }}
+{{- if strings.HasSuffix $url "/index.html" }}
+{{ strings.TrimSuffix "index.html" $url }} {{ $url }} 301!
+{{- else if strings.HasSuffix $url ".html" }}
 {{ strings.TrimSuffix ".html" $url }} {{ $url }} 301!
 {{- end }}
 {{- end }}
