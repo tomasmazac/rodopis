@@ -43,7 +43,7 @@ draft: true         # stránka se negeneruje (např. osoba bez roku narození); 
 - Odkaz na jinou osobu: `[Josef Mazač](mazac-josef-1858.md)` – Hugo ho převede na URL a při buildu upozorní na neexistující stránku.
 - Fotografie ze `static/images/`:
   `{{< photo src="soubor.jpg" alt="Popisek" size="md" >}}`
-  (`size`: `sm` / `md` / `lg`).
+  (`size`: `sm` / `md` / `lg`). Na web se fotka zmenší na šířku max. 1480 px a převede do WebP (kvalita 85); originál zůstává na webu i v repozitáři beze změny.
 - Upozornění:
 
   ```markdown

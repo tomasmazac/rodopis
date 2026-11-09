@@ -36,6 +36,19 @@ disableKinds = ["taxonomy", "term", "rss"]
 [markup.goldmark.parser.attribute]
   block = true
 
+[imaging.webp]
+  # Scanned photos keep visible grain; the default 75 smears it.
+  quality = 85
+
+# Photos stay in static/images (originals are published and linked as they
+# are) and are also mounted into assets so the photo shortcode can resize them.
+[[module.mounts]]
+  source = "assets"
+  target = "assets"
+[[module.mounts]]
+  source = "static/images"
+  target = "assets/images"
+
 [frontmatter]
   lastmod = [":git", "lastmod", ":fileModTime"]
 

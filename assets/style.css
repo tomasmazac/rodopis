@@ -118,7 +118,7 @@ img { max-width: 100%; }
 /* Photo */
 /* min-width: photos sit side by side in <div style="display: flex"> on some pages. */
 figure { margin: 1rem -1.5rem; min-width: 0; }
-figure img { display: block; margin: 0 auto 0.5rem; }
+figure img { display: block; height: auto; margin: 0 auto 0.5rem; }
 figcaption { font-style: italic; text-align: center; font-size: smaller; line-height: 1.25; margin: 0 1.5rem; }
 figure img.sm { max-width: 25%; }
 @media (min-width: 420px) {

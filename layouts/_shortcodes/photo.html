@@ -1,5 +1,12 @@
 {{- $alt := .Get "alt" -}}
+{{- $src := .Get "src" -}}
+{{- with resources.Get (printf "images/%s" $src) -}}
+{{- /* 1480 px is twice the content width, sharp on high-density screens. */}}
+{{- $img := .Resize (printf "%dx webp" (cond (gt .Width 1480) 1480 .Width)) -}}
 <figure>
-  <img src="/images/{{ .Get "src" }}" alt="{{ $alt | .Page.RenderString | plainify }}" class="{{ .Get "size" | default "lg" }}" loading="lazy">
-  <figcaption>{{ $alt | .Page.RenderString }}</figcaption>
+  <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $alt | $.Page.RenderString | plainify }}" class="{{ $.Get "size" | default "lg" }}" loading="lazy">
+  <figcaption>{{ $alt | $.Page.RenderString }}</figcaption>
 </figure>
+{{- else -}}
+{{- errorf "%s: fotografie %q není ve static/images" $.Position $src -}}
+{{- end -}}
