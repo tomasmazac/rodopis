@@ -10,7 +10,7 @@ death: 1936
 > [!WARNING] NEKOMPLETNÍ INFORMACE
 > Chybí matriční záznam o úmrtí nebo úmrtní list.
 
-**Josef Mazač** byl nemanželský syn [Barbory Mazačové](mazacova-barbora.md). Narodil se v&nbsp;úterý 10.&nbsp;srpna&nbsp;1858 v&nbsp;[Praze](https://cs.wikipedia.org/wiki/Praha) v&nbsp;[porodnici u Apolináře](https://cs.wikipedia.org/wiki/Zemsk%C3%A1_porodnice_u_Apolin%C3%A1%C5%99e) přibližně v&nbsp;9.45. [^1][^9]
+**Josef Mazač** byl nemanželský syn [Barbory Mazačové](mazacova-barbora-1822.md). Narodil se v&nbsp;úterý 10.&nbsp;srpna&nbsp;1858 v&nbsp;[Praze](https://cs.wikipedia.org/wiki/Praha) v&nbsp;[porodnici u Apolináře](https://cs.wikipedia.org/wiki/Zemsk%C3%A1_porodnice_u_Apolin%C3%A1%C5%99e) přibližně v&nbsp;9.45. [^1][^9]
 
 Do nalezince byl dán za osm dní ve středu 18.&nbsp;srpna&nbsp;1858 a
 
@@ -45,7 +45,7 @@ Po delší nemoci zemřel 9. června 1936 ve 3 hodiny ráno ve věku 79 let (na 
 
 ## Rodiče
 
-* [Barbora Mazačová](mazacova-barbora.md) (?–1858)
+* [Barbora Mazačová](mazacova-barbora-1822.md) (1822–1858)
 
 ## Potomci
 
