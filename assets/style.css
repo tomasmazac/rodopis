@@ -90,6 +90,14 @@ main { padding-top: 3.6rem; }
 .content { padding-top: 1rem; padding-bottom: 1rem; line-height: 1.7; overflow-wrap: break-word; }
 /* Sources often list bare URLs as link text. */
 .content a { overflow-wrap: anywhere; }
+/* The accent is nearly as dark as the body text, so color alone doesn't mark a link (WCAG 1.4.1). */
+.content a {
+  text-decoration: underline;
+  text-decoration-color: rgba(40, 122, 85, 0.4);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}
+.content a:hover { text-decoration-color: currentColor; }
 .home .content { max-width: 740px; margin: 0 auto; }
 
 h1, h2, h3, h4, h5, h6 { font-weight: 600; line-height: 1.25; }
