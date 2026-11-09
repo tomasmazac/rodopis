@@ -1,7 +1,7 @@
 ---
 title: 'Jan Škobis'
 firstName: 'Jan'
-surname: 'Śkobis'
+surname: 'Škobis'
 birth: 1804
 death: 1870
 ---
