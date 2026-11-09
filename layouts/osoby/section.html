@@ -2,22 +2,27 @@
 {{- $alphabet := slice "A" "B" "C" "Č" "D" "E" "F" "G" "H" "Ch" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "Ř" "S" "Š" "T" "U" "V" "W" "X" "Y" "Z" "Ž" -}}
 {{- /* Letters with these diacritics are not separate letters of the Czech alphabet. */ -}}
 {{- $fold := dict "Á" "A" "Ä" "A" "Ď" "D" "É" "E" "Ě" "E" "Í" "I" "Ň" "N" "Ó" "O" "Ö" "O" "Ť" "T" "Ú" "U" "Ů" "U" "Ü" "U" "Ý" "Y" -}}
-{{- $groups := dict -}}
+{{- $letters := dict -}}
+{{- $people := dict -}}
 {{- range .RegularPages -}}
   {{- $surname := .Params.surname | default .Title -}}
   {{- $letter := substr $surname 0 1 | upper -}}
   {{- $letter = index $fold $letter | default $letter -}}
   {{- if hasPrefix (lower $surname) "ch" }}{{ $letter = "Ch" }}{{ end -}}
-  {{- $entry := dict "key" (printf "%s %s" $surname .Params.firstName) "page" . -}}
-  {{- $groups = merge $groups (dict $letter ((index $groups $letter) | default slice | append $entry)) -}}
+  {{- $letters = merge $letters (dict $letter ((index $letters $letter) | default slice | append $surname)) -}}
+  {{- /* People without a known birth year go last in their family. */ -}}
+  {{- $entry := dict "key" (printf "%04d %s" (.Params.birth | default 9999) .Params.firstName) "page" . -}}
+  {{- $people = merge $people (dict $surname ((index $people $surname) | default slice | append $entry)) -}}
 {{- end -}}
 <article class="content">
   {{ .Content }}
   {{ range $letter := $alphabet }}
-    {{ with index $groups $letter }}
+    {{ with index $letters $letter }}
     <h2>{{ $letter }}</h2>
+    {{ range $surname := sort (uniq .) }}
+    <h3 class="surname">{{ $surname }}</h3>
     <ul class="person-list">
-      {{ range sort . "key" }}
+      {{ range sort (index $people $surname) "key" }}
       {{ $p := .page }}
       <li>
         <a href="{{ $p.RelPermalink }}">{{ $p.Params.surname }} {{ $p.Params.firstName }}</a>
@@ -25,6 +30,7 @@
       </li>
       {{ end }}
     </ul>
+    {{ end }}
     {{ end }}
   {{ end }}
 </article>

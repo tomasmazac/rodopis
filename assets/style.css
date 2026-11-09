@@ -170,6 +170,8 @@ sup:has(> .footnote-ref) { vertical-align: baseline; font-size: inherit; }
 
 /* Person index */
 .person-list .lifespan { margin-left: 0.3em; color: var(--muted); }
+.content h3.surname { font-size: 1.1rem; margin: 1.5rem 0 0.4rem; }
+.surname + .person-list { margin-top: 0; }
 
 /* Footer */
 .last-updated { margin-top: 1rem; text-align: right; font-size: 0.9rem; color: var(--muted); }
