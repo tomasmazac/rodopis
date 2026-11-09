@@ -27,7 +27,7 @@ disableKinds = ["taxonomy", "term", "rss"]
   logo = "deciduous-tree_1f333.png"
   repo = "https://github.com/tomasmazac/rodopis"
   author = "Tomáš Mazač"
-  email = "tomas.mazac@gmail.com"
+  email = "tomas.mazac+rodopis@gmail.com"
 
 [markup.goldmark.renderer]
   # Person pages contain raw HTML (<div style>, <s>, &nbsp;).
