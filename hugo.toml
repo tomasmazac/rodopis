@@ -24,7 +24,7 @@ disableKinds = ["taxonomy", "term", "rss"]
 
 [params]
   description = "Životní osudy našich předků"
-  logo = "/deciduous-tree_1f333.png"
+  logo = "deciduous-tree_1f333.png"
   repo = "https://github.com/tomasmazac/rodopis"
   author = "Tomáš Mazač"
   email = "tomas.mazac@gmail.com"

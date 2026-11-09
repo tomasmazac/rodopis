@@ -1,0 +1,4 @@
+{{- /* Explicit size keeps the page from jumping when the image arrives; the logo is the home page's LCP image and the navbar requests it first. */}}
+{{- with (resources.Get site.Params.logo).Process "webp" }}
+<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" fetchpriority="high">
+{{- end }}

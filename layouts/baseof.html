@@ -26,7 +26,7 @@
 <body>
   <header class="navbar">
     <a class="brand" href="/index.html">
-      <img src="{{ site.Params.logo }}" alt="">
+      {{ partial "logo.html" . }}
       <span>{{ site.Title }}</span>
     </a>
     <div class="nav-right">

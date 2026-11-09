@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="hero">
-  <img src="{{ site.Params.logo }}" alt="" fetchpriority="high">
+  {{ partial "logo.html" . }}
   <h1>{{ site.Title }}</h1>
   <p class="description">{{ site.Params.description }}</p>
   <p><a class="action-button" href="{{ (site.GetPage "/osoby").RelPermalink }}">Rejstřík osob →</a></p>

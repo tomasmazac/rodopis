@@ -22,7 +22,7 @@ Build potřebuje celou git historii (`enableGitInfo`, datum „Naposledy upraven
 | `static/images/` | fotografie a dokumenty k osobám |
 | `static/` | ostatní soubory kopírované beze změny (favicony, PDF, CMS) |
 | `data/prijmeni.yaml` | seznam zkoumaných příjmení na úvodní stránce |
-| `layouts/`, `assets/` | šablony, styly a skript vyhledávání |
+| `layouts/`, `assets/` | šablony, styly, skript vyhledávání a logo (při buildu se převede do WebP) |
 
 ## Psaní stránek
 

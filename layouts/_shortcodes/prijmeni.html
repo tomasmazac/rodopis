@@ -1,5 +1,6 @@
+{{- /* Opacity stops at 0.7 (8th generation): anything lighter fails the 4.5:1 text contrast. */ -}}
 <ul class="surname-list">
   {{- range sort hugo.Data.prijmeni "surname" }}
-  <li style="opacity: {{ sub 1.0 (div .generation 10.0) }}; font-weight: {{ sub 900 (mul .generation 100) }}">{{ .surname }}</li>
+  <li style="opacity: {{ sub 1.0 (mul .generation 0.0375) }}; font-weight: {{ sub 900 (mul .generation 100) }}">{{ .surname }}</li>
   {{- end }}
 </ul>
