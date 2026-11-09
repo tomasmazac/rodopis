@@ -43,11 +43,17 @@
           a.append(s);
         }
         li.append(a);
-        li.addEventListener("mouseenter", () => { focused = i; render(); });
+        // Only move the highlight: rebuilding the list under the pointer swaps the
+        // element between mousedown and mouseup, and the browser drops the click.
+        li.addEventListener("mouseenter", () => { focused = i; highlight(); });
         return li;
       })
     );
     list.hidden = results.length === 0 || document.activeElement !== input;
+  };
+
+  const highlight = () => {
+    [...list.children].forEach((li, i) => li.classList.toggle("focused", i === focused));
   };
 
   const search = async () => {
@@ -61,11 +67,13 @@
 
   input.addEventListener("focus", () => { load(); render(); });
   input.addEventListener("input", search);
-  input.addEventListener("blur", () => setTimeout(() => { list.hidden = true; }, 150));
+  // Keeps the input focused while a result is pressed, so the list stays until the click lands.
+  list.addEventListener("mousedown", (e) => e.preventDefault());
+  input.addEventListener("blur", () => { list.hidden = true; });
   input.addEventListener("keydown", (e) => {
     if (!results.length) return;
-    if (e.key === "ArrowDown") { focused = (focused + 1) % results.length; render(); e.preventDefault(); }
-    else if (e.key === "ArrowUp") { focused = (focused - 1 + results.length) % results.length; render(); e.preventDefault(); }
+    if (e.key === "ArrowDown") { focused = (focused + 1) % results.length; highlight(); e.preventDefault(); }
+    else if (e.key === "ArrowUp") { focused = (focused - 1 + results.length) % results.length; highlight(); e.preventDefault(); }
     else if (e.key === "Enter") { location.href = results[focused].u; }
   });
 
