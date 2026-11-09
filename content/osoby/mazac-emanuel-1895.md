@@ -46,7 +46,7 @@ Po [nacistické okupaci zbylých částí Československa](https://cs.wikipedia.
 
 {{< photo src="60071004_202576010625651_9015996932606132224_n.jpg" alt="V Egyptě" size="md" >}}
 
-V září 1941 je přeložen ke konzulátu v [Bombaji](https://cs.wikipedia.org/wiki/Bombaj), v dubnu nebo květnu 1942 do [Čchung-čchingu](https://cs.wikipedia.org/wiki/%C4%8Cchung-%C4%8Dching) (Čunkingu) za vyslancem [Stanislavem Miňovským](https://www.mzv.cz/jnp/cz/o_ministerstvu/organizacni_struktura/utvary_mzv/specializovany_archiv_mzv/kdo_byl_kdo/minovsky_stanislav.html). [^8][^9] Ve zmíněném městě byl od dubna 1942 nový zastupitelský úřad u vlády [generála Čankajška](https://cs.wikipedia.org/wiki/%C4%8Cankaj%C5%A1ek) (v říjnu 1944 povýšený na velvyslanectví). [^10] 
+V září 1941 je přeložen ke konzulátu v [Bombaji](https://cs.wikipedia.org/wiki/Bombaj), v dubnu nebo květnu 1942 do [Čchung-čchingu](https://cs.wikipedia.org/wiki/%C4%8Cchung-%C4%8Dching) (Čunkingu) za vyslancem [Stanislavem Miňovským](https://mzv.gov.cz/jnp/cz/o_ministerstvu/struktura/utvary/specializovany_archiv_mzv/kdo_byl_kdo/minovsky_stanislav.html). [^8][^9] Ve zmíněném městě byl od dubna 1942 nový zastupitelský úřad u vlády [generála Čankajška](https://cs.wikipedia.org/wiki/%C4%8Cankaj%C5%A1ek) (v říjnu 1944 povýšený na velvyslanectví). [^10] 
 
 [Jiří Mucha](https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Mucha_(spisovatel)) ve svém reportážním deníku *Oheň proti ohni* (kapitola Čínské dilema) věnuje Emanuelovi několik vzpomínek:
 
@@ -54,7 +54,7 @@ V září 1941 je přeložen ke konzulátu v [Bombaji](https://cs.wikipedia.org/
 >
 > Vyslanec byl na léčení v Indii, a tak jsme hospodařili s Mazačem sami.
 
-Od května 1946 do dubna 1947 byl byl pověřen správou velvyslanectví v [Nankingu](https://cs.wikipedia.org/wiki/Nanking). Z důvodu žaludečních a střevních vředů byl přeložen do ústředí. V září 1947 byl pověřen vedením vyslanectví v Káhiře po dobu dovolené vyslance [Františka Kruckého](https://www.mzv.cz/jnp/cz/o_ministerstvu/organizacni_struktura/utvary_mzv/specializovany_archiv_mzv/kdo_byl_kdo/krucky_frantisek.html). [^8]
+Od května 1946 do dubna 1947 byl byl pověřen správou velvyslanectví v [Nankingu](https://cs.wikipedia.org/wiki/Nanking). Z důvodu žaludečních a střevních vředů byl přeložen do ústředí. V září 1947 byl pověřen vedením vyslanectví v Káhiře po dobu dovolené vyslance [Františka Kruckého](https://mzv.gov.cz/jnp/cz/o_ministerstvu/struktura/utvary/specializovany_archiv_mzv/kdo_byl_kdo/krucky_frantisek.html). [^8]
 
 ### Zpět v ČSR
 
@@ -92,7 +92,7 @@ Zemřel svobodný a bezdětný.
 [^7]: Skromné počátky československých legií v Itálii. *VHÚ Praha* \[online]. Praha: VHÚ Praha, 2017 \[cit. 2019-05-28]. Dostupné z: <http://www.vhu.cz/skromne-pocatky-cs-legii-v-italii/>
 [^8]: [Životopis Emanuela Mazače](/zdroje/mazac-emanuel/cv.md)
 [^9]: BAKEŠOVÁ, Ivana. *Legionáři v roli diplomatů: československo-čínské vztahy 1918-1949.* Praha: Filozofická fakulta Univerzity Karlovy, 2013. ISBN 978-80-7308-462-2.
-[^10]: MIŇOVSKÝ Stanislav. *Ministerstvo zahraničních věcí České republiky* \[online]. Praha: Ministerstvo zahraničních věcí České republiky \[cit. 2019-06-16]. Dostupné z: <https://www.mzv.cz/jnp/cz/o_ministerstvu/organizacni_struktura/utvary_mzv/specializovany_archiv_mzv/kdo_byl_kdo/minovsky_stanislav.html>
+[^10]: MIŇOVSKÝ Stanislav. *Ministerstvo zahraničních věcí České republiky* \[online]. Praha: Ministerstvo zahraničních věcí České republiky \[cit. 2019-06-16]. Dostupné z: <https://mzv.gov.cz/jnp/cz/o_ministerstvu/struktura/utvary/specializovany_archiv_mzv/kdo_byl_kdo/minovsky_stanislav.html>
 [^11]: Matriční záznam o úmrtí
 [^12]: ŘEHÁČKOVÁ, Jana. *Česko-čínské vztahy 1945–1968 a jejich prezentace v dobovém tisku*. Olomouc, 2011. Bakalářská práce. Univerzita Palackého v Olomouci. Vedoucí práce Mgr. Ondřej Kučera.
 [^13]: HAVLŮJOVÁ, Hana. *Na okraji zájmu? České moderní ženy a Orient v první polovině 20. století*. Praha, 2011. Dostupné také z: <https://is.cuni.cz/webapps/zzp/detail/110743>. Disertační práce. Univerzita Karlova v Praze, Pedagogická fakulta, Katedra dějin a didaktiky dějepisu. Vedoucí práce Doc. PhDr. Alena Míšková, Ph.D.
