@@ -1,0 +1,54 @@
+{{- /*
+  Parents, children and DNA come from front matter. They go where they used to be written
+  by hand: after the story, before the closing sections (Útržky, Jmenovec, Externí odkazy, Zdroje).
+*/ -}}
+{{- $page := .page -}}
+{{- $content := string .content -}}
+{{- $people := partialCached "people.html" true -}}
+{{- $html := "" -}}
+
+{{- $parents := slice -}}
+{{- range slice "father" "mother" -}}
+  {{- with index $page.Params . }}{{ $parents = $parents | append (partial "person-link.html" .) }}{{ end -}}
+{{- end -}}
+{{- with $parents -}}
+  {{- $html = printf "%s<h2 id=\"rodiče\">Rodiče</h2>\n<ul>\n<li>%s</li>\n</ul>\n" $html (delimit . "</li>\n<li>") -}}
+{{- end -}}
+
+{{- /* Children with a page and those written as text, by birth year; the index keeps the written order for equal years. */ -}}
+{{- $children := slice -}}
+{{- range index $people.children (string $page.Params.id) -}}
+  {{- $children = $children | append (dict "key" (printf "%04d" (int (.Params.birth | default 9999))) "html" (partial "person-link.html" .Params.id)) -}}
+{{- end -}}
+{{- range $i, $text := $page.Params.children -}}
+  {{- $year := index (findRESubmatch `\((\d{4})` $text 1) 0 1 | default "9999" -}}
+  {{- $children = $children | append (dict "key" (printf "%s-%03d" $year $i) "html" (partial "person-link.html" $text)) -}}
+{{- end -}}
+{{- with $children -}}
+  {{- $items := slice -}}
+  {{- range sort . "key" }}{{ $items = $items | append .html }}{{ end -}}
+  {{- $html = printf "%s<h2 id=\"potomci\">Potomci</h2>\n<ul>\n<li>%s</li>\n</ul>\n" $html (delimit $items "</li>\n<li>") -}}
+{{- end -}}
+
+{{- $dna := slice -}}
+{{- range $taxonomy := slice "mtdna" "ydna" -}}
+  {{- range $page.GetTerms $taxonomy -}}
+    {{- $dna = $dna | append (printf `Haploskupina %s: <a href="%s">%s</a>` (partial "dna-label.html" $taxonomy) .RelPermalink .Title) -}}
+  {{- end -}}
+{{- end -}}
+{{- with $dna -}}
+  {{- $html = printf "%s<h2 id=\"dna\">DNA</h2>\n<ul>\n<li>%s</li>\n</ul>\n" $html (delimit . "</li>\n<li>") -}}
+{{- end -}}
+
+{{- with $html -}}
+  {{- $closing := `<h2 id="(?:útržky|jmenovec|externí-odkazy|zdroje)">` -}}
+  {{- if findRE $closing $content 1 -}}
+    {{- $at := index (findRE $closing $content 1) 0 -}}
+    {{- $content = replace $content $at (printf "%s%s" . $at) 1 -}}
+  {{- else if strings.Contains $content `<div class="footnotes"` -}}
+    {{- $content = replace $content `<div class="footnotes"` (printf `%s<div class="footnotes"` .) 1 -}}
+  {{- else -}}
+    {{- $content = printf "%s%s" $content . -}}
+  {{- end -}}
+{{- end -}}
+{{- return ($content | safeHTML) -}}

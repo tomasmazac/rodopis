@@ -1,0 +1,13 @@
+---
+id: j9gecn
+title: "Jan Sameš"
+firstName: "Jan"
+surname: "Sameš"
+birth: 1723
+death: 1725
+father: "Pavel Sameš"
+mother: "Dorota (1700–?)"
+isGenerated: true
+---
+
+# Jan Sameš

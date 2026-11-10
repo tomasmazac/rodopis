@@ -1,0 +1,10 @@
+---
+id: jpb0wj
+title: "Jozef Kaiser"
+firstName: "Jozef"
+surname: "Kaiser"
+birth: 1857
+isGenerated: true
+---
+
+# Jozef Kaiser
