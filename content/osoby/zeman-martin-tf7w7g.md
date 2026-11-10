@@ -5,12 +5,9 @@ firstName: "Martin"
 surname: "Zeman"
 birth: 1792
 death: 1826
+father: d29fp3
+mother: "Marie Homolková (?–?)"
 isGenerated: true
 ---
 
 # Martin Zeman
-
-## Rodiče
-
-- [Kašpar Zeman](zeman-kaspar-d29fp3.md) (1759–1808)
-- Marie Homolková (?–?)

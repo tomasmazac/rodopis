@@ -9,8 +9,3 @@ isGenerated: true
 ---
 
 # Anna Urbanová
-
-## Potomci
-
-- [Josef Průšek](prusek-josef-ma5dke.md) (1784–1851)
-- [Jan Průšek](prusek-jan-t5p1ky.md) (1786–?)

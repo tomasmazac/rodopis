@@ -5,6 +5,8 @@ firstName: Jan
 surname: Mazač
 birth: 1891
 death: 1932
+father: bn9bff
+mother: q0r7kx
 yDna: I-FT413013
 ---
 # Jan Mazač
@@ -16,16 +18,6 @@ Od 30. září 1919 sloužil u sboru finanční stráže, stejně jako jeho brat
 Dne 4. září 1920 se v Jilemnici oženil s [Marií Markovou](markova-marie-b4tnmv.md). [^3]
 
 Zemřel ve věku 40 let – dne 22. června 1932 podlehl tuberkulóze plic. [^4]
-
-## Rodiče
-
-* [Josef Mazač](mazac-josef-bn9bff.md) (1858–1936)
-* [Marie Škobisová](skobisova-marie-q0r7kx.md) (1860–1898)
-
-## Potomci
-
-* [Jaroslav Mazač](mazac-jaroslav-jaezyk.md) (1921–2005)
-* [Jan Mazač](mazac-jan-cc22dy.md) (1922–1988)
 
 ## Externí odkazy
 

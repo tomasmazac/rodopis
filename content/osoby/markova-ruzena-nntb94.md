@@ -5,6 +5,11 @@ firstName: Růžena
 surname: Marková
 birth: 1897
 death: 1979
+father: kqnn1b
+mother: qvxqaj
+children:
+  - "Světlana Bartoňová"
+  - "Procházková"
 ---
 # Růžena Hašlarová (roz. Marková)
 
@@ -14,15 +19,3 @@ death: 1979
 > - Chybí matriční záznam o úmrtí nebo úmrtní list.
 
 **Růžena Hašlarová** (roz. **Marková**) byla šestým dítětem, čtvrtou dcerou [Jana Marka](marek-jan-kqnn1b.md) a [Marie Švermové](svermova-marie-qvxqaj.md). Narodila 26. prosince 1897 v [Podhradí](https://cs.wikipedia.org/wiki/Podhrad%C3%AD_(Bakov_nad_Jizerou)). [?]
-
-
-## Rodiče
-
-- [Jan Marek](marek-jan-kqnn1b.md) (1860–1934)
-- [Marie Švermová](svermova-marie-qvxqaj.md) (1867–1937)
-
-
-## Potomci
-
-- Světlana Bartoňová
-- Procházková

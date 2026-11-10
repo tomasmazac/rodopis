@@ -4,15 +4,8 @@ title: "Josef Šístek"
 firstName: "Josef"
 surname: "Šístek"
 birth: 1814
+mother: "Anna Šístková (?–?)"
 isGenerated: true
 ---
 
 # Josef Šístek
-
-## Rodiče
-
-- Anna Šístková (?–?)
-
-## Potomci
-
-- [Jan Šístek](sistek-jan-vhaa2x.md) (1844–1921)

@@ -4,12 +4,9 @@ title: "Eduard Pavelka"
 firstName: "Eduard"
 surname: "Pavelka"
 birth: 1880
+father: t5y44a
+mother: "Karolína Musilová (?–?)"
 isGenerated: true
 ---
 
 # Eduard Pavelka
-
-## Rodiče
-
-- [Antonín Pavelka](pavelka-antonin-t5y44a.md) (1852–?)
-- Karolína Musilová (?–?)

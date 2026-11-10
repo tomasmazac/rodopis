@@ -5,16 +5,11 @@ firstName: "Helena"
 surname: "Ballová"
 birth: 1951
 death: 2021
+father: z8g6bc
+mother: "Mária Černá (1932–?)"
+children:
+  - "Martin Laier"
 isGenerated: true
 ---
 
 # Helena Ballová
-
-## Rodiče
-
-- [Ján Balla](balla-jan-z8g6bc.md) (1925–1985)
-- Mária Černá (1932–?)
-
-## Potomci
-
-- Martin Laier

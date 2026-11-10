@@ -4,12 +4,9 @@ title: "Kateřina Nykodýmová"
 firstName: "Kateřina"
 surname: "Nykodýmová"
 birth: 1847
+father: f174cn
+mother: yj7crj
 isGenerated: true
 ---
 
 # Kateřina Nykodýmová
-
-## Rodiče
-
-- [František Nykodým](nykodym-frantisek-f174cn.md) (1800–?)
-- [Barbora Bohuslavová](bohuslavova-barbora-yj7crj.md) (1811–?)

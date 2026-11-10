@@ -4,12 +4,9 @@ title: "Josef Herbst"
 firstName: "Josef"
 surname: "Herbst"
 birth: 1853
+father: "Václav Herbst (?–?)"
+mother: f2y135
 isGenerated: true
 ---
 
 # Josef Herbst
-
-## Rodiče
-
-- Václav Herbst (?–?)
-- [Františka Šlencová](slencova-frantiska-f2y135.md) (1835–?)

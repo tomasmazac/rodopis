@@ -5,7 +5,9 @@ firstName: Mária
 surname: Záhumenická
 birth: 1864
 death: 1947
-mtDna: W6
+father: "Ján Zahumenický"
+mother: "Anna Barcsa"
+mtDna: W6an
 ---
 
 # Mária Chromá (roz. Záhumenická)
@@ -19,27 +21,6 @@ mtDna: W6
 Dne 23. listopadu 1885 se ve svých 21 letech provdala za Štefana Chromého. [^1]
 
 Zemřela v roce 1947. Bylo jí 83 let. Na náhrobním kamenu má špatně uvedené přijmení „Chromová“. [^2]
-
-
-## Rodiče
-
-- Ján Zahumenický
-- Anna Barcsa
-
-
-## Potomci
-
-- [Florián Chromý](chromy-florian-jd0rmh.md) (1888–1888)
-- [Karol Chromý](chromy-karol-w3a3hj.md) (1889–1895)
-- [Vincent Chromý](chromy-vincent-e3yhd6.md) (1892–1895)
-- [Ján Chromý](chromy-jan-hwzrm2.md) (1895–1922)
-- [Michal Chromý](chromy-michal-gwwzjr.md) (1897–1897)
-- [Mikuláš Chromý](chromy-mikulas-zah4gw.md) (1898–?)
-- [Barbora Chromá](chroma-barbora-q4xse9.md) (1900–?)
-- [Veronika Ballová](chroma-veronika-vga2f0.md) (1903–1981)
-- [Agneša Chromá](chroma-agnesa-qdwr2h.md) (1905–1905)
-
-
 
 ## Zdroje
 

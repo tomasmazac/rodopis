@@ -4,12 +4,9 @@ title: "Václav Průšek"
 firstName: "Václav"
 surname: "Průšek"
 birth: 1767
+father: srgg8d
+mother: zxq9wz
 isGenerated: true
 ---
 
 # Václav Průšek
-
-## Rodiče
-
-- [Josef Průšek](prusek-josef-srgg8d.md) (1731–1766)
-- [Marie Krolová](krolova-marie-zxq9wz.md) (1734–?)

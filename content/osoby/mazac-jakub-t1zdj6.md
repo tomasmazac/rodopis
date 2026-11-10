@@ -4,12 +4,9 @@ title: "Jakub Mazač"
 firstName: "Jakub"
 surname: "Mazač"
 birth: 1700
+father: prvymq
+mother: "Dorota Ludvíková (?–?)"
 isGenerated: true
 ---
 
 # Jakub Mazač
-
-## Rodiče
-
-- [Jakub Mazač](mazac-jakub-prvymq.md) (1670–?)
-- Dorota Ludvíková (?–?)

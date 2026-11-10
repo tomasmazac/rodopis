@@ -5,12 +5,9 @@ firstName: "Emanuel"
 surname: "Škobis"
 birth: 1882
 death: 1884
+father: ckb2bd
+mother: fwd9kn
 isGenerated: true
 ---
 
 # Emanuel Škobis
-
-## Rodiče
-
-- [Emanuel Škobis](skobis-emanuel-ckb2bd.md) (1856–?)
-- [Alžběta Volfová](volfova-alzbeta-fwd9kn.md) (1859–1883)

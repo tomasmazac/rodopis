@@ -5,6 +5,8 @@ firstName: Ludvík
 surname: Konařík
 birth: 1883
 death: 1949
+father: nzxzt7
+mother: stnjq8
 ---
 # Ludvík Konařík
 
@@ -42,11 +44,6 @@ Dne 11. července 1928 vystoupil z římskokatolické církve a přestoupil k [C
 {{< photo src="20190730_184116.jpg" alt="Výstřih z kroniky Náboženské obce CČSH Úvaly \[4]" size="lg" >}}
 
 [^2] [^5]
-
-## Rodiče
-
-- [Josef Konařík](konarik-josef-nzxzt7.md) (1838–1899)
-- [Terezie Foltýnová](foltynova-terezie-stnjq8.md) (1840–1909)
 
 ## Zdroje
 

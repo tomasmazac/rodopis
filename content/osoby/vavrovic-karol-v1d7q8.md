@@ -5,12 +5,8 @@ firstName: "Karol"
 surname: "Vavrovič"
 birth: 1926
 death: 1970
+father: yjvmex
 isGenerated: true
 ---
 
 # Karol Vavrovič
-
-## Rodiče
-
-- [Michal Vavrovič](vavrovic-michal-yjvmex.md) (1898–1963)
-- 

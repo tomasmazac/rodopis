@@ -5,18 +5,11 @@ firstName: "Jan"
 surname: "Míč"
 birth: 1927
 death: 1950
+father: z7mtrz
+mother: ncwb3j
+children:
+  - "Jan Míč"
 isGenerated: true
 ---
 
 # Jan Míč
-
-## Rodiče
-
-- [František Míč](mic-frantisek-z7mtrz.md) (1898–1983)
-- [Marie Černá](cerna-marie-ncwb3j.md) (1901–1987)
-
-## Potomci
-
-- Jan Míč
-- 
-- 

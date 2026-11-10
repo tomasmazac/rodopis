@@ -4,16 +4,11 @@ title: "Ferdinand Škobis"
 firstName: "Ferdinand"
 surname: "Škobis"
 birth: 1870
+father: pxa2gj
+mother: z1fht4
+children:
+  - "Marie Škobisová"
 isGenerated: true
 ---
 
 # Ferdinand Škobis
-
-## Rodiče
-
-- [Ferdinand Škobis](skobis-ferdinand-pxa2gj.md) (1840–?)
-- [Anna Veselá](vesela-anna-z1fht4.md) (1847–?)
-
-## Potomci
-
-- Marie Škobisová

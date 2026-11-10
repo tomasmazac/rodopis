@@ -5,12 +5,9 @@ firstName: "Karel"
 surname: "Šverma"
 birth: 1870
 death: 1938
+father: baw06k
+mother: "Marie Kynterová"
 isGenerated: true
 ---
 
 # Karel Šverma
-
-## Rodiče
-
-- [Václav Šverma](sverma-vaclav-baw06k.md) (1823–?)
-- Marie Kynterová

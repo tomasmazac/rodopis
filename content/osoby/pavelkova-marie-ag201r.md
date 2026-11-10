@@ -5,6 +5,8 @@ firstName: Marie
 surname: Pavelková
 birth: 1872
 death: 1947
+father: xs41mb
+mother: jxfjqz
 mtDna: H1c3
 ---
 # Marie Šístková (roz. Pavelková)
@@ -22,20 +24,6 @@ Ovdověla v roce 1944, kdy zemřel její manžel František.
 Zemřela náhle na Silvestra 31. prosince 1947 ve svém bytě v [Brodcích](https://cs.wikipedia.org/wiki/Brodce) čp. 159 (dnes pravděpodobně [Cukrovarská 159](https://goo.gl/maps/Rd7VkBaghnmKvPTS7)). Jako příčina úmrtí bylo uvedeno [zkornatění tepen](https://cs.wikipedia.org/wiki/Ateroskler%C3%B3za). Bylo jí 75 let. [^4] [^5]
 
 Byla pochována 3. ledna 1948 na hřbitově Svatého Václava na Mělníku, vedle svého manžela a svých rodičů. [^3] [^4]
-
-## Rodiče
-
-* [Josef Pavelka](pavelka-josef-xs41mb.md) (1843–1929)
-* [Aloisie Tomsová](tomsova-aloisie-jxfjqz.md) (1847–?)
-
-## Potomci
-
-* [Marie Konaříková](sistkova-marie-tajrax.md) (1897–1949)
-* [Anna Míčová](sistkova-anna-xpkv9f.md) (1901–1983)
-* [František Šístek](sistek-frantisek-bjtym1.md) (1902–?)
-* Josef Šístek (1904–?)
-* Ludmila Volštátová (1906–?)
-* [Aloisie Šotolová](sistkova-aloisie-r8v7kx.md) (1908–?)
 
 ## Zdroje
 

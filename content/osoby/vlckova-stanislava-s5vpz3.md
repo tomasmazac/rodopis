@@ -5,12 +5,9 @@ firstName: "Stanislava"
 surname: "Vlčková"
 birth: 1938
 death: 2017
+father: rffctz
+mother: cf7kgr
 isGenerated: true
 ---
 
 # Stanislava Vlčková
-
-## Rodiče
-
-- [Stanislav Vlček](vlcek-stanislav-rffctz.md) (1909–1990)
-- [Anežka Šístková](sistkova-anezka-cf7kgr.md) (1914–1993)

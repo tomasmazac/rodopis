@@ -4,12 +4,9 @@ title: "Anna Jelínková"
 firstName: "Anna"
 surname: "Jelínková"
 birth: 1838
+father: ywcc1q
+mother: x1cycv
 isGenerated: true
 ---
 
 # Anna Jelínková
-
-## Rodiče
-
-- [Jan Jelínek](jelinek-jan-ywcc1q.md) (1808–?)
-- [Anna Šípková](sipkova-anna-x1cycv.md) (1815–1881)

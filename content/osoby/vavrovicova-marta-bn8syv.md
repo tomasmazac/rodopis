@@ -5,12 +5,8 @@ firstName: "Marta"
 surname: "Vavrovičová"
 birth: 1935
 death: 1935
+father: yjvmex
 isGenerated: true
 ---
 
 # Marta Vavrovičová
-
-## Rodiče
-
-- [Michal Vavrovič](vavrovic-michal-yjvmex.md) (1898–1963)
-- 

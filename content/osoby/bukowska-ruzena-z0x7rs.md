@@ -5,12 +5,10 @@ firstName: "Růžena"
 surname: "Bukowská"
 birth: 1880
 death: 1881
+father: r4xdsc
+mother: nm30aa
+mtDna: H1c3
 isGenerated: true
 ---
 
 # Růžena Bukowská
-
-## Rodiče
-
-- [Ferdinand Bukowský](bukowsky-ferdinand-r4xdsc.md) (1847–1924)
-- [Barbora Tomsová](tomsova-barbora-nm30aa.md) (1853–1881)

@@ -4,12 +4,9 @@ title: "Marie Šinorová"
 firstName: "Marie"
 surname: "Šinorová"
 birth: 1824
+father: ge54ky
+mother: j60205
 isGenerated: true
 ---
 
 # Marie Šinorová
-
-## Rodiče
-
-- [Václav Šinor](sinor-vaclav-ge54ky.md) (1803–1874)
-- [Kateřina Potůčková](potuckova-katerina-j60205.md) (1798–?)

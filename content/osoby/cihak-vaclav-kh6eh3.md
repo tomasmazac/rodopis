@@ -5,16 +5,9 @@ firstName: "Václav"
 surname: "Čihák"
 birth: 1731
 death: 1799
+father: "Bartoloměj Čihák (?–?)"
+mother: "Ludmila (?–?)"
 isGenerated: true
 ---
 
 # Václav Čihák
-
-## Rodiče
-
-- Bartoloměj Čihák (?–?)
-- Ludmila (?–?)
-
-## Potomci
-
-- [František Čihák](cihak-frantisek-r42rxt.md) (1764–1824)

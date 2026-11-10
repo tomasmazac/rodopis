@@ -5,12 +5,9 @@ firstName: "Josef"
 surname: "Škobis"
 birth: 1903
 death: 1903
+father: aa4s4c
+mother: mtx57q
 isGenerated: true
 ---
 
 # Josef Škobis
-
-## Rodiče
-
-- [Josef Škobis](skobis-josef-aa4s4c.md) (1877–?)
-- [Růžena Dvořáčková](dvorackova-ruzena-mtx57q.md) (1880–?)

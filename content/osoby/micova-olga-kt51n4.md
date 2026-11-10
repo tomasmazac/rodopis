@@ -5,17 +5,13 @@ firstName: "Olga"
 surname: "Míčová"
 birth: 1929
 death: 2025
+father: yfqn8w
+mother: xpkv9f
+children:
+  - "Jiří Mazač"
+  - "Petr Mazač"
+mtDna: H1c3
 isGenerated: true
 ---
 
 # Olga Míčová
-
-## Rodiče
-
-- [Josef Míč](mic-josef-yfqn8w.md) (1894–1979)
-- [Anna Šístková](sistkova-anna-xpkv9f.md) (1901–1983)
-
-## Potomci
-
-- Jiří Mazač
-- Petr Mazač

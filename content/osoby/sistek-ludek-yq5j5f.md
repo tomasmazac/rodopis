@@ -5,12 +5,9 @@ firstName: "Luděk"
 surname: "Šístek"
 birth: 1933
 death: 1948
+father: we23jb
+mother: xjebm6
 isGenerated: true
 ---
 
 # Luděk Šístek
-
-## Rodiče
-
-- [Josef Šístek](sistek-josef-we23jb.md) (1904–?)
-- [Jarmila Vojtěchovská](vojtechovska-jarmila-xjebm6.md) (1905–?)

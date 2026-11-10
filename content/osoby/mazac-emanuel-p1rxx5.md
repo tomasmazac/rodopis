@@ -5,6 +5,8 @@ firstName: Emanuel
 surname: Mazač
 birth: 1895
 death: 1949
+father: bn9bff
+mother: q0r7kx
 yDna: I-FT413013
 ---
 # Emanuel Mazač
@@ -67,11 +69,6 @@ Jeho posledním trvalým bydlištěm byl byt v prvním patře na [Valdštejnově
 Dne 7. března 1949 sepsal [svůj životopis](/zdroje/mazac-emanuel/cv.md). [^8] Za necelý týden, 13. března 1949 zemřel v důsledku otravy oxidem uhličitým (zřejmě tzv. svítiplynem). [^11] Bylo mu 53 let.
 
 Zemřel svobodný a bezdětný.
-
-## Rodiče
-
-* [Josef Mazač](mazac-josef-bn9bff.md) (1858–1936)
-* [Marie Škobisová](skobisova-marie-q0r7kx.md) (1860–1898)
 
 ## Útržky
 

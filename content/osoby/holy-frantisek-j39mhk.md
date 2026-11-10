@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # František Holý
-
-## Potomci
-
-- [František Holý](holy-frantisek-p7wc06.md) (1776–1829)

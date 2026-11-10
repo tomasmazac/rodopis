@@ -5,6 +5,11 @@ firstName: Karel
 surname: Mazač
 birth: 1884
 death: 1952
+father: bn9bff
+mother: q0r7kx
+children:
+  - "Zdeněk Mazač"
+  - "Miroslava Prokšová"
 yDna: I-FT413013
 ---
 # Karel Mazač
@@ -26,16 +31,6 @@ V&nbsp;pondělí 18.&nbsp;srpna&nbsp;1952 ho v&nbsp;6.45 *„na ulici před okre
 {{< photo src="IMG_20181120_092833_HDR-nahled.jpg" alt="Matriční záznam o úmrtí (pravá strana) \[4]" >}}
 
 Ve středu 20.&nbsp;srpna v 16.00 byl po církevních obřadech pochován na Novém hřbitově v&nbsp;Mladé Boleslavi na hřbitovních místech s&nbsp;označením `XV.–107,108`, kde byla později pohřbena i jeho žena Marie. V&nbsp;roce 2004 ale příbuzní urnu s&nbsp;Marií přesunuli do Teplic a rakev s&nbsp;ostatky Karla Mazače zůstala v&nbsp;neoznačeném hrobě. [^4]
-
-## Rodiče
-
-* [Josef Mazač](mazac-josef-bn9bff.md) (1858–1936)
-* [Marie Škobisová](skobisova-marie-q0r7kx.md) (1860–1898)
-
-## Potomci
-
-* Zdeněk Mazač
-* Miroslava Prokšová
 
 ## Zdroje
 

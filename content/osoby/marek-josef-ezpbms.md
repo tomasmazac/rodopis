@@ -4,18 +4,14 @@ title: Josef Marek
 firstName: Josef
 surname: Marek
 birth: 1891
+father: kqnn1b
+mother: qvxqaj
 ---
 # Josef Marek
 
 **Josef Marek** byl čtvrtým dítětem, druhým synem Jana Marka a Marie Švermové. Narodil se 30. prosince 1891 v Podhradí čp. 6. [^1]
 
 Jeho žena se jmenovala Anna. [?]
-
-
-## Rodiče
-
-- [Jan Marek](marek-jan-kqnn1b.md) (1860–1934)
-- [Marie Švermová](svermova-marie-qvxqaj.md) (1867–1937)
 
 ## Zdroje
 

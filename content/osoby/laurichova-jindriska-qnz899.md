@@ -4,12 +4,9 @@ title: "Jindřiška Laurichová"
 firstName: "Jindřiška"
 surname: "Laurichová"
 birth: 1866
+father: qdws2n
+mother: "Kateřina (?–?)"
 isGenerated: true
 ---
 
 # Jindřiška Laurichová
-
-## Rodiče
-
-- [Ignác Laurich](laurich-ignac-qdws2n.md) (1835–1869)
-- Kateřina (?–?)

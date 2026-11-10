@@ -5,12 +5,9 @@ firstName: "Stanislava"
 surname: "Polívková"
 birth: 1933
 death: 1996
+father: yz89y2
+mother: "Františka"
 isGenerated: true
 ---
 
 # Stanislava Polívková
-
-## Rodiče
-
-- [Josef Polívka](polivka-josef-yz89y2.md) (1902–1956)
-- Františka

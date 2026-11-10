@@ -5,12 +5,9 @@ firstName: "Mária"
 surname: "Chromá"
 birth: 1847
 death: 1847
+father: zrj10b
+mother: w0wgmv
 isGenerated: true
 ---
 
 # Mária Chromá
-
-## Rodiče
-
-- [Ján Chromý](chromy-jan-zrj10b.md) (1823–?)
-- [Katarína Hajdu](hajdu-katarina-w0wgmv.md) (1824–?)

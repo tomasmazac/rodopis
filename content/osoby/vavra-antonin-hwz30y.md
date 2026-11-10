@@ -4,16 +4,9 @@ title: "Antonín Vávra"
 firstName: "Antonín"
 surname: "Vávra"
 birth: 1893
+father: "Josef Vávra (?–?)"
+mother: "Antonie Bartošová (?–?)"
 isGenerated: true
 ---
 
 # Antonín Vávra
-
-## Rodiče
-
-- Josef Vávra (?–?)
-- Antonie Bartošová (?–?)
-
-## Potomci
-
-- [Jaroslav Vávra](vavra-jaroslav-c5rv13.md) (1935–1995)

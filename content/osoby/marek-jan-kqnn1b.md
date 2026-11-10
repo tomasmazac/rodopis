@@ -5,36 +5,20 @@ firstName: Jan
 surname: Marek
 birth: 1860
 death: 1934
+father: an1ke6
+mother: nfn0gj
 ---
 # Jan Marek
 
-**Jan Marek** byl synem [Jana Marka](marek-jan-ebadqb.md) a [Kateřiny Vrabcové](vrabcova-katerina-cg0e66.md). Narodil se 31. ledna 1860 v [Olešnici](https://cs.wikipedia.org/wiki/Ole%C5%A1nice_(okres_Semily)) čp. 29. [^1]
+**Jan Marek** byl synem [Jana Marka](marek-jan-an1ke6.md) a [Kateřiny Vrabcové](vrabcova-katerina-nfn0gj.md). Narodil se 31. ledna 1860 v [Olešnici](https://cs.wikipedia.org/wiki/Ole%C5%A1nice_(okres_Semily)) čp. 29. [^1]
 
 V 26 letech si bere za ženu osmnáctiletou vdovu [Marii Průškovou](svermova-marie-qvxqaj.md), která po svém zesnulém muži Antonínovi zdědila hostinec v [Podhradí](https://cs.wikipedia.org/wiki/Podhrad%C3%AD_(Bakov_nad_Jizerou)). [^4]
 
 Zemřel v 77 letech v neděli 23. září 1934 v Podhradí čp. 46 na rakovinu močového měchýře. [^2] Pochován je na hřbitově v [Bakově nad Jizerou](https://cs.wikipedia.org/wiki/Bakov_nad_Jizerou). [^3]
 
-
 ## Fyzignomie
 
 Měl kulatý obličej, modré oči a kaštanové vlasy. [^5]
-
-
-## Rodiče
-
-- [Jan Marek](marek-jan-ebadqb.md)
-- [Kateřina Vrabcová](vrabcova-katerina-cg0e66.md)
-
-
-## Potomci
-
-- [Marie Mazačová](markova-marie-b4tnmv.md) (1887–1975)
-- [Jan Marek](marek-jan-y1y80h.md) (1888–?)
-- [Štěpánka Typltová](markova-stepanka-h510bs.md) (1889–?)
-- [Josef Marek](marek-josef-ezpbms.md) (1891–?)
-- [Anna Marková](markova-anna-xcawm4.md) (1893–?)
-- [Růžena Hašlarová](markova-ruzena-nntb94.md) (1897–1979)
-- [František Marek](marek-frantisek-m85zc0.md) (?-?)
 
 ## Zdroje
 

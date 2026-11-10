@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Stanislav Vlček
-
-## Potomci
-
-- [Stanislava Vlčková](vlckova-stanislava-s5vpz3.md) (1938–2017)

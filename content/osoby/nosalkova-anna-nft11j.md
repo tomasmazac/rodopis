@@ -5,12 +5,9 @@ firstName: "Anna"
 surname: "Nosálková"
 birth: 1804
 death: 1804
+father: h4cp25
+mother: tr15ev
 isGenerated: true
 ---
 
 # Anna Nosálková
-
-## Rodiče
-
-- [Václav Nosálek](nosalek-vaclav-h4cp25.md) (1765–1814)
-- [Kateřina Eldová](eldova-katerina-tr15ev.md) (1775–1841)

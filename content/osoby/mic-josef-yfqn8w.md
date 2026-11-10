@@ -5,6 +5,8 @@ firstName: Josef
 surname: Míč
 birth: 1894
 death: 1979
+father: q0wp7y
+mother: dd7q8d
 ---
 # Josef Míč
 
@@ -19,16 +21,6 @@ V sobotu 29. července 1922 se oženil s [Annou Šístkovou](sistkova-anna-xpkv9
 Zemřel 10. května 1979 v ranních hodinách ve věku 84 let. [^4]
 
 [^2] [^3]
-
-## Rodiče
-
-* [Václav Míč](mic-vaclav-q0wp7y.md) (1865–?)
-* [Anna Laurichová](laurichova-anna-dd7q8d.md) (1870–1950)
-
-## Potomci
-
-* [Helena Morávková](micova-helena-qy5xed.md) (1925–2008)
-* Olga Mazačová (1929–2025)
 
 ## Zdroje
 

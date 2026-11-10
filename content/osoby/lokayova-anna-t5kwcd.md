@@ -5,12 +5,9 @@ firstName: "Anna"
 surname: "Lokayová"
 birth: 1857
 death: 1926
+father: "Václav Lokaj (?–?)"
+mother: "Alžběta Kulhánková (?–?)"
 isGenerated: true
 ---
 
 # Anna Lokayová
-
-## Rodiče
-
-- Václav Lokaj (?–?)
-- Alžběta Kulhánková (?–?)

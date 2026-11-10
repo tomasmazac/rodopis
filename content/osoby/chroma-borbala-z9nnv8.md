@@ -4,12 +4,9 @@ title: "Borbála Chromá"
 firstName: "Borbála"
 surname: "Chromá"
 birth: 1849
+father: zrj10b
+mother: w0wgmv
 isGenerated: true
 ---
 
 # Borbála Chromá
-
-## Rodiče
-
-- [Ján Chromý](chromy-jan-zrj10b.md) (1823–?)
-- [Katarína Hajdu](hajdu-katarina-w0wgmv.md) (1824–?)

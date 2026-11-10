@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Marie Lišková
-
-## Potomci
-
-- [Marcela Škobisová](skobisova-marcela-ynb3mx.md) (1942–1968)

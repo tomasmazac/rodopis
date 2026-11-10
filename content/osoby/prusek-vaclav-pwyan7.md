@@ -5,12 +5,9 @@ firstName: "Václav"
 surname: "Průšek"
 birth: 1818
 death: 1823
+father: ma5dke
+mother: vpdn7t
 isGenerated: true
 ---
 
 # Václav Průšek
-
-## Rodiče
-
-- [Josef Průšek](prusek-josef-ma5dke.md) (1784–1851)
-- [Anna Bartošová](bartosova-anna-vpdn7t.md) (1786–1850)

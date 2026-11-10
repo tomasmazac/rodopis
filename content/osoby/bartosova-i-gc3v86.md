@@ -9,8 +9,3 @@ isGenerated: true
 ---
 
 # I. Bartošová
-
-## Potomci
-
-- [Josef Průšek](prusek-josef-hkdwkt.md) (1881–1892)
-- [Marie Průšková](pruskova-marie-n3xs5z.md) (1892–1893)

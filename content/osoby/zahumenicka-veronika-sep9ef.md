@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Veronika Zahumenická
-
-## Potomci
-
-- [Ľudovít Vavrovič](vavrovic-ludovit-mcdpez.md) (1913–1916)

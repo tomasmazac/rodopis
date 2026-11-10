@@ -4,12 +4,9 @@ title: "Josef Hradec"
 firstName: "Josef"
 surname: "Hradec"
 birth: 1862
+father: "Václav Hradec (?–?)"
+mother: "Anna Pekárková (?–?)"
 isGenerated: true
 ---
 
 # Josef Hradec
-
-## Rodiče
-
-- Václav Hradec (?–?)
-- Anna Pekárková (?–?)

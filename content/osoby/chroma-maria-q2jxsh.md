@@ -4,12 +4,9 @@ title: "Mária Chromá"
 firstName: "Mária"
 surname: "Chromá"
 birth: 1884
+father: ejf0rs
+mother: "Katarína Kissová (?–?)"
 isGenerated: true
 ---
 
 # Mária Chromá
-
-## Rodiče
-
-- [Ján Chromý](chromy-jan-ejf0rs.md) (1851–1888)
-- Katarína Kissová (?–?)

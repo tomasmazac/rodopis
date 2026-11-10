@@ -5,12 +5,9 @@ firstName: "Barbora"
 surname: "Škobisová"
 birth: 1866
 death: 1951
+father: hsx1qd
+mother: yw6rae
 isGenerated: true
 ---
 
 # Barbora Škobisová
-
-## Rodiče
-
-- [Jan Škobis](skobis-jan-hsx1qd.md) (1825–?)
-- [Marie Vodrážková](vodrazkova-marie-yw6rae.md) (1833–1868)

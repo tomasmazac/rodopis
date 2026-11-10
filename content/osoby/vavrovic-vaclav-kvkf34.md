@@ -5,12 +5,8 @@ firstName: "Václav"
 surname: "Vavrovič"
 birth: 1936
 death: 2004
+father: yjvmex
 isGenerated: true
 ---
 
 # Václav Vavrovič
-
-## Rodiče
-
-- [Michal Vavrovič](vavrovic-michal-yjvmex.md) (1898–1963)
-- 

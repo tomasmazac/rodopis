@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Katarína Andrušová
-
-## Potomci
-
-- [Karol Rumanovský](rumanovsky-karol-bqce6m.md) (1929–1994)

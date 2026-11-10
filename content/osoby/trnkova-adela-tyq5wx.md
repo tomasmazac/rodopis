@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Adela Trnková
-
-## Potomci
-
-- [Margaréta Vavrovič](vavrovic-margareta-cph1zj.md) (1923–1923)

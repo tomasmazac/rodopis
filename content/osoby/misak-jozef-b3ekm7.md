@@ -5,12 +5,10 @@ firstName: "Jozef"
 surname: "Mišák"
 birth: 1949
 death: 2007
+children:
+  - "Jana Mišáková"
+  - "Branislav"
 isGenerated: true
 ---
 
 # Jozef Mišák
-
-## Potomci
-
-- Jana Mišáková
-- Branislav

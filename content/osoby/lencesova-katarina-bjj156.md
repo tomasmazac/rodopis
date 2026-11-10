@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Katarína Lenčéšová
-
-## Potomci
-
-- [Jozef Horňák](hornak-jozef-cyyxe5.md) (1877–1949)

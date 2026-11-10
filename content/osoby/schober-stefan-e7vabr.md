@@ -5,12 +5,9 @@ firstName: "Štefan"
 surname: "Schober"
 birth: 1948
 death: 2017
+father: kt497b
+mother: k50xr9
 isGenerated: true
 ---
 
 # Štefan Schober
-
-## Rodiče
-
-- [Jozef Schober](schober-jozef-kt497b.md) (1905–1965)
-- [Kamila Tichá](ticha-kamila-k50xr9.md) (1911–1998)

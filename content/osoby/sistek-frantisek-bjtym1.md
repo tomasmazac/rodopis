@@ -4,12 +4,10 @@ title: "František Šístek"
 firstName: "František"
 surname: "Šístek"
 birth: 1902
+father: nyr37g
+mother: ag201r
+mtDna: H1c3
 isGenerated: true
 ---
 
 # František Šístek
-
-## Rodiče
-
-- [František Šístek](sistek-frantisek-nyr37g.md) (1872–1944)
-- [Marie Pavelková](pavelkova-marie-ag201r.md) (1872–1947)

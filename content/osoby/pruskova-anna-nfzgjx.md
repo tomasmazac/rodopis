@@ -5,12 +5,9 @@ firstName: "Anna"
 surname: "Průšková"
 birth: 1797
 death: 1797
+father: nnc962
+mother: pt81sq
 isGenerated: true
 ---
 
 # Anna Průšková
-
-## Rodiče
-
-- [Josef Průšek](prusek-josef-nnc962.md) (1762–?)
-- [Anna Filová](filova-anna-pt81sq.md) (1769–1819)

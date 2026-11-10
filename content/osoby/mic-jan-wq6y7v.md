@@ -5,12 +5,9 @@ firstName: "Jan"
 surname: "Míč"
 birth: 1855
 death: 1879
+father: hrv9c6
+mother: rmqgjg
 isGenerated: true
 ---
 
 # Jan Míč
-
-## Rodiče
-
-- [Jan Míč](mic-jan-hrv9c6.md) (1825–1891)
-- [Kateřina Frumarová](frumarova-katerina-rmqgjg.md) (1827–1898)

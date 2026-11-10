@@ -12,3 +12,21 @@
   {{- end -}}
   {{- $seen = merge $seen (dict $id .File.Path) -}}
 {{- end -}}
+{{- /* A value shaped like an id is a link; one nobody has is a typo, not a name to print. */ -}}
+{{- $idShape := `^[a-hjkmnp-tv-z][0-9a-hjkmnp-tv-z]{5}$` -}}
+{{- range where site.Pages "Section" "osoby" -}}
+  {{- if not .IsPage }}{{ continue }}{{ end -}}
+  {{- $page := . -}}
+  {{- range $role := slice "father" "mother" -}}
+    {{- with index $page.Params $role -}}
+      {{- if and (findRE $idShape (string .)) (not (index $seen (string .))) -}}
+        {{- errorf "%s: %s %q není id žádné osoby" $page.File.Path $role . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- range $page.Params.children -}}
+    {{- if findRE $idShape (string .) -}}
+      {{- errorf "%s: v children je id %q; dítě se stránkou se nezapisuje, doplní se samo podle father/mother" $page.File.Path . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

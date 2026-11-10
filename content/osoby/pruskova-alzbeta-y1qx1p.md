@@ -4,12 +4,9 @@ title: "Alžběta Průšková"
 firstName: "Alžběta"
 surname: "Průšková"
 birth: 1805
+father: nnc962
+mother: pt81sq
 isGenerated: true
 ---
 
 # Alžběta Průšková
-
-## Rodiče
-
-- [Josef Průšek](prusek-josef-nnc962.md) (1762–?)
-- [Anna Filová](filova-anna-pt81sq.md) (1769–1819)

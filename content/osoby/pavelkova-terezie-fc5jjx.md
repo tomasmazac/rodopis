@@ -4,12 +4,9 @@ title: "Terezie Pavelková"
 firstName: "Terezie"
 surname: "Pavelková"
 birth: 1857
+father: bkq5y1
+mother: gt1shj
 isGenerated: true
 ---
 
 # Terezie Pavelková
-
-## Rodiče
-
-- [Matěj Pavelka](pavelka-matej-bkq5y1.md) (1814–?)
-- [Marie Kernerová](kernerova-marie-gt1shj.md) (1818–?)

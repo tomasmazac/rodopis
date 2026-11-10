@@ -5,16 +5,11 @@ firstName: "Zdenka"
 surname: "Bačkorová"
 birth: 1908
 death: 1988
+father: a774vz
+mother: spja93
+children:
+  - "Soňa Bartošová"
 isGenerated: true
 ---
 
 # Zdenka Bačkorová
-
-## Rodiče
-
-- [Karel Bačkora](backora-karel-a774vz.md) (1881–1936)
-- [Blažena Jelínková](jelinkova-blazena-spja93.md) (1885–1939)
-
-## Potomci
-
-- Soňa Bartošová

@@ -5,12 +5,9 @@ firstName: "Božena"
 surname: "Řezáčová"
 birth: 1878
 death: 1953
+father: t29gsv
+mother: hd2jrj
 isGenerated: true
 ---
 
 # Božena Řezáčová
-
-## Rodiče
-
-- [František Řezáč](rezac-frantisek-t29gsv.md) (1838–1909)
-- [Františka Hübnerová](hubnerova-frantiska-hd2jrj.md) (1838–1893)

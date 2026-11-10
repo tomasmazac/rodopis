@@ -4,12 +4,9 @@ title: "Stephanus Rumanovski"
 firstName: "Stephanus"
 surname: "Rumanovski"
 birth: 1868
+father: bhx1ps
+mother: avqkjv
 isGenerated: true
 ---
 
 # Stephanus Rumanovski
-
-## Rodiče
-
-- [Josephus Rumanovski](rumanovski-josephus-bhx1ps.md) (1838–?)
-- [Anna Palaticzki](palaticzki-anna-avqkjv.md) (1846–?)

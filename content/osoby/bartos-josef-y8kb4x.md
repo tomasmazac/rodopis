@@ -5,12 +5,9 @@ firstName: "Josef"
 surname: "Bartoš"
 birth: 1874
 death: 1877
+father: sd5m8e
+mother: evnzvy
 isGenerated: true
 ---
 
 # Josef Bartoš
-
-## Rodiče
-
-- [Antonín Bartoš](bartos-antonin-sd5m8e.md) (1834–1893)
-- [Anna Vančurová](vancurova-anna-evnzvy.md) (1832–1911)

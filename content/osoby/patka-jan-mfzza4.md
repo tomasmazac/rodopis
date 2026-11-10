@@ -5,12 +5,9 @@ firstName: "Jan"
 surname: "Patka"
 birth: 1947
 death: 2011
+father: y21fxg
+mother: d2ktkr
 isGenerated: true
 ---
 
 # Jan Patka
-
-## Rodiče
-
-- [Josef Patka](patka-josef-y21fxg.md) (1906–?)
-- [Marie Nováková](novakova-marie-d2ktkr.md) (1912–?)

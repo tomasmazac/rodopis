@@ -48,6 +48,10 @@ firstName: Emanuel
 surname: Mazač
 birth: 1895
 death: 1949
+father: bn9bff      # id otce, nebo text pro otce bez stránky: "Josef Frumar (?–?)"
+mother: q0r7kx      # totéž pro matku
+children:           # jen děti bez vlastní stránky; děti se stránkou se doplní samy
+  - "Ludmila Volštátová (1906–?)"
 mtDna: H1c3         # haploskupina mtDNA; osoba se objeví na stránce /mtdna/h1c3.html
 yDna: I-FT413013    # haploskupina Y-DNA; stránka /y-dna/i-ft413013.html
 isGenerated: true   # jen pro stránky vygenerované z GEDCOM
@@ -72,7 +76,11 @@ draft: true         # stránka se negeneruje; odkazy na ni jsou jen text
 - Odkaz na jinou osobu: `[Josef Mazač](mazac-josef-bn9bff.md)` – Hugo ho převede na URL a při buildu upozorní na neexistující stránku. Odkaz na stránku s `draft: true` se zobrazí jako text.
 - Odkaz na soubor ve `static/` (PDF, sken) začíná `../`, např. `[Rešerše](../D01_02_Prvopis_verze_3EEA4C20.pdf)`. Existenci souboru build nekontroluje.
 - Zdroje jsou poznámky pod čarou: v textu `[^1]`, na konci stránky nadpis `## Zdroje` a pod ním `[^1]: Popis zdroje`. Sousední odkazy (`[^2][^1]`) se na webu spojí do `[1, 2]`. Zdroj, který v textu není citovaný, Hugo nezobrazí; build na to upozorní.
-- Haploskupiny se píšou jen do `mtDna` / `yDna` ve frontmatteru. Sekci DNA na stránce i stránky haploskupin vytvoří šablona.
+- Sekce „Rodiče“, „Potomci“ a „DNA“ se do textu nepíšou. Vytvoří je šablona z `father`, `mother`, `children`, `mtDna` a `yDna` a vloží je za vyprávění, před sekce „Útržky“, „Jmenovec“, „Externí odkazy“ a „Zdroje“.
+- Vztah se zapisuje jen u dítěte (`father`, `mother`). Potomky se stránkou šablona najde sama; do `children` patří jen děti bez stránky, jinak budou na stránce dvakrát. Build skončí chybou, když `father` / `mother` vypadá jako id, ale taková osoba není, nebo když je v `children` id.
+- V seznamech příbuzných se ukazuje rodné jméno (`firstName` + `surname`) a roky ze stránky příbuzného, ne titulek.
+- Haploskupina se zapisuje do `mtDna` / `yDna` u každé osoby, která ji má (mtDNA dědí všechny děti matky, Y-DNA synové otce). Nic se nedopočítává: osoba bez pole na stránce haploskupiny není. Kdo ji nezdědil (např. adopce), pole nemá.
+- Stránka haploskupiny řadí zapsané osoby do stromu podle `mother` (mtDNA) nebo `father` (Y-DNA). Osoba, jejíž matka/otec v seznamu chybí, začíná vlastní větev – to bývá místo, kde pole někomu chybí.
 - `isGenerated: true` přidá upozornění „Vygenerovaná stránka“, skryje stránku před vyhledávači (`noindex`) a vynechá ji ze sitemapy.
 - Fotografie ze `static/images/`:
   `{{< photo src="soubor.jpg" alt="Popisek" size="md" >}}`

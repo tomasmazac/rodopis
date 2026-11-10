@@ -5,6 +5,8 @@ firstName: Anna
 surname: Šístková
 birth: 1901
 death: 1983
+father: nyr37g
+mother: ag201r
 mtDna: H1c3
 ---
 # Anna Míčová (roz. Šístková)
@@ -14,16 +16,6 @@ mtDna: H1c3
 Zemřela po delší nemoci v sobotu 6. srpna 1983 ve věku 82 let. [^4]
 
 [^2] [^3]
-
-## Rodiče
-
-* [František Šístek](sistek-frantisek-nyr37g.md) (1872–1944)
-* [Marie Pavelková](pavelkova-marie-ag201r.md) (1872–1947)
-
-## Potomci
-
-* [Helena Morávková](micova-helena-qy5xed.md) (1925–2008)
-* Olga Mazačová (1929–2025)
 
 ## Zdroje
 

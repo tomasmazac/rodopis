@@ -4,12 +4,9 @@ title: "Engelbert Laurich"
 firstName: "Engelbert"
 surname: "Laurich"
 birth: 1868
+father: qdws2n
+mother: "Kateřina (?–?)"
 isGenerated: true
 ---
 
 # Engelbert Laurich
-
-## Rodiče
-
-- [Ignác Laurich](laurich-ignac-qdws2n.md) (1835–1869)
-- Kateřina (?–?)

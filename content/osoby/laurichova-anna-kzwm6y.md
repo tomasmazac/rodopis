@@ -4,12 +4,9 @@ title: "Anna Laurichová"
 firstName: "Anna"
 surname: "Laurichová"
 birth: 1864
+father: qdws2n
+mother: "Kateřina (?–?)"
 isGenerated: true
 ---
 
 # Anna Laurichová
-
-## Rodiče
-
-- [Ignác Laurich](laurich-ignac-qdws2n.md) (1835–1869)
-- Kateřina (?–?)

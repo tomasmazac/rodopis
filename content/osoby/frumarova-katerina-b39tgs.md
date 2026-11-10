@@ -4,12 +4,9 @@ title: "Kateřina Frumarová"
 firstName: "Kateřina"
 surname: "Frumarová"
 birth: 1854
+father: qjeprx
+mother: "Alžběta Blažková (?–?)"
 isGenerated: true
 ---
 
 # Kateřina Frumarová
-
-## Rodiče
-
-- [Karel Frumar](frumar-karel-qjeprx.md) (1825–?)
-- Alžběta Blažková (?–?)

@@ -4,12 +4,9 @@ title: "Karel Průšek"
 firstName: "Karel"
 surname: "Průšek"
 birth: 1862
+father: m4jbnh
+mother: "Alžběta Cimrová (?–?)"
 isGenerated: true
 ---
 
 # Karel Průšek
-
-## Rodiče
-
-- [Jan Průšek](prusek-jan-m4jbnh.md) (1822–?)
-- Alžběta Cimrová (?–?)

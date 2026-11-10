@@ -5,20 +5,16 @@ firstName: "Vincent"
 surname: "Récky"
 birth: 1942
 death: 2021
+father: vwzyys
+mother: q7n6jj
+children:
+  - "Beáta Recká"
+  - "Ivan Recký"
+  - "Jana Recká"
+  - "Eva Recká"
+  - "Marek Recký"
+yDna: R-Y5587
 isGenerated: true
 ---
 
 # Vincent Récky
-
-## Rodiče
-
-- [Ľudovít Récky](recky-ludovit-vwzyys.md) (1887–1967)
-- [Anna Kissová](kissova-anna-q7n6jj.md) (1903–1982)
-
-## Potomci
-
-- Beáta Recká
-- Ivan Recký
-- Jana Recká
-- Eva Recká
-- Marek Recký

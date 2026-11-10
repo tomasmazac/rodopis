@@ -4,11 +4,9 @@ title: "Kateřina Potůčková"
 firstName: "Kateřina"
 surname: "Potůčková"
 birth: 1798
+father: gef6ry
+mother: ey3frd
 isGenerated: true
 ---
 
 # Kateřina Potůčková
-
-## Potomci
-
-- [Josef Šiňor](sinor-josef-kw1c9h.md) (1829–1892)

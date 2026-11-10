@@ -5,12 +5,9 @@ firstName: "Josef"
 surname: "Laurich"
 birth: 1872
 death: 1872
+father: hssgb8
+mother: c13ker
 isGenerated: true
 ---
 
 # Josef Laurich
-
-## Rodiče
-
-- [Josef Laurich](laurich-josef-hssgb8.md) (1844–?)
-- [Marie Tauchmanová](tauchmanova-marie-c13ker.md) (1848–1916)

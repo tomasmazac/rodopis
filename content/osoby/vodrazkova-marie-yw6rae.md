@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Marie Vodrážková
-
-## Potomci
-
-- [Barbora Škobisová](skobisova-barbora-d83xg7.md) (1866–1951)

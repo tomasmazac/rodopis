@@ -4,12 +4,9 @@ title: "Josef Průšek z Násedlnice"
 firstName: "Josef"
 surname: "Průšek z Násedlnice"
 birth: 1799
+father: nnc962
+mother: pt81sq
 isGenerated: true
 ---
 
 # Josef Průšek z Násedlnice
-
-## Rodiče
-
-- [Josef Průšek](prusek-josef-nnc962.md) (1762–?)
-- [Anna Filová](filova-anna-pt81sq.md) (1769–1819)

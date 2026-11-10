@@ -5,12 +5,9 @@ firstName: "Barbora"
 surname: "Průšková"
 birth: 1795
 death: 1796
+father: qwc4fv
+mother: "Dorota Kolínská (?–1854)"
 isGenerated: true
 ---
 
 # Barbora Průšková
-
-## Rodiče
-
-- [Jan Průšek](prusek-jan-qwc4fv.md) (1760–1846)
-- Dorota Kolínská (?–1854)

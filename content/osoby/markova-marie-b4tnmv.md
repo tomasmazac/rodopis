@@ -5,6 +5,8 @@ firstName: Marie
 surname: Marková
 birth: 1887
 death: 1975
+father: kqnn1b
+mother: qvxqaj
 ---
 # Marie Mazačová (roz. Marková)
 
@@ -16,18 +18,6 @@ death: 1975
 Dne 4. září 1920 se v [Jilemnici](https://cs.wikipedia.org/wiki/Jilemnice) provdala za [Jana Mazače](mazac-jan-dq97hc.md). [^2]
 
 Zemřela ve večerních hodinách v neděli dne 20. dubna 1975 ve věku 88 let. Smuteční obřad proběhl v pátek dne 25. dubna v 16.00 ve velké obřadní síni na novém hřbitově v Mladé Boleslavi. [^3]
-
-
-## Rodiče
-
-- [Jan Marek](marek-jan-kqnn1b.md) (1860–1934)
-- [Marie Švermová](svermova-marie-qvxqaj.md) (1867–1937)
-
-
-## Potomci
-
-- [Jaroslav Mazač](mazac-jaroslav-jaezyk.md) (1921–2005)
-- [Jan Mazač](mazac-jan-cc22dy.md) (1922–1988)
 
 ## Zdroje
 

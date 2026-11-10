@@ -9,8 +9,3 @@ isGenerated: true
 ---
 
 # Jaroslav Masopust
-
-## Potomci
-
-- [Josef Masopust](masopust-josef-ecravp.md) (1932–2007)
-- [Jaroslava Masopustová](masopustova-jaroslava-trfc36.md) (1938–2012)

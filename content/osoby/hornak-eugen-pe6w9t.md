@@ -5,19 +5,11 @@ firstName: "Eugen"
 surname: "Horňák"
 birth: 1911
 death: 1979
+father: cyyxe5
+mother: "Alžbeta Hanková (?–?)"
+children:
+  - "Horňáková"
 isGenerated: true
 ---
 
 # Eugen Horňák
-
-## Rodiče
-
-- [Jozef Horňák](hornak-jozef-cyyxe5.md) (1877–1949)
-- Alžbeta Hanková (?–?)
-
-## Potomci
-
-- [Štefan Horňák](hornak-stefan-s8dqac.md) (1946–2009)
-- [Olga Horňáková](hornakova-olga-zksv29.md) (1949–2010)
-- [Veronika Horňáková](hornakova-veronika-dbxna9.md) (1955–2012)
-- Horňáková

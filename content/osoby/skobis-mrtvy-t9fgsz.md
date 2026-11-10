@@ -5,12 +5,9 @@ firstName: "mrtvý"
 surname: "Škobis"
 birth: 1866
 death: 1866
+father: g12ddr
+mother: "Marie Hondova (?–?)"
 isGenerated: true
 ---
 
 # mrtvý Škobis
-
-## Rodiče
-
-- [František Škobis](skobis-frantisek-g12ddr.md) (1834–1868)
-- Marie Hondova (?–?)

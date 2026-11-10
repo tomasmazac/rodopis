@@ -5,6 +5,11 @@ firstName: Jaroslav
 surname: Mazač
 birth: 1921
 death: 2005
+father: dq97hc
+mother: b4tnmv
+children:
+  - "Jiří Mazač"
+  - "Petr Mazač"
 yDna: I-FT413013
 ---
 # Jaroslav Mazač
@@ -25,16 +30,6 @@ Někdy krátce po dosažení důchodového věku (asi v 65 letech) prodělal zá
 Zemřel po delší nemoci v pondělí 14. února 2005 ve 20.50 v Klaudiánově nemocnici (tř. Václava Klementa 147/23, Mladá Boleslav II). Bylo mu 83 let. \[5–7]
 
 [^1] [^2] [^3] [^4] [^5] [^6] [^7]
-
-## Rodiče
-
-* [Jan Mazač](mazac-jan-dq97hc.md) (1891–1932)
-* [Marie Marková](markova-marie-b4tnmv.md) (1887–1975)
-
-## Potomci
-
-* Jiří Mazač
-* Petr Mazač
 
 ## Zdroje
 

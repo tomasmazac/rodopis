@@ -5,12 +5,9 @@ firstName: "Anna"
 surname: "Zemanová"
 birth: 1798
 death: 1864
+father: d29fp3
+mother: "Marie Homolková (?–?)"
 isGenerated: true
 ---
 
 # Anna Zemanová
-
-## Rodiče
-
-- [Kašpar Zeman](zeman-kaspar-d29fp3.md) (1759–1808)
-- Marie Homolková (?–?)

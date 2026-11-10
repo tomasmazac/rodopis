@@ -8,7 +8,3 @@ isGenerated: true
 ---
 
 # Aloisie Vošoustová
-
-## Potomci
-
-- [Josefa Škobisová](skobisova-josefa-vm5h8f.md) (1887–?)

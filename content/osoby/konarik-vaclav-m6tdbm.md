@@ -5,16 +5,9 @@ firstName: "Václav"
 surname: "Konařík"
 birth: 1798
 death: 1842
+father: "Václav Konařík"
+mother: "Rozina Konařík"
 isGenerated: true
 ---
 
 # Václav Konařík
-
-## Rodiče
-
-- Václav Konařík
-- Rozina Konařík
-
-## Potomci
-
-- [Josef Konařík](konarik-josef-nzxzt7.md) (1838–1899)

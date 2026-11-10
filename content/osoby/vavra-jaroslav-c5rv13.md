@@ -5,16 +5,11 @@ firstName: "Jaroslav"
 surname: "Vávra"
 birth: 1935
 death: 1995
+father: hwz30y
+mother: rxpvs2
+children:
+  - "Vávra"
 isGenerated: true
 ---
 
 # Jaroslav Vávra
-
-## Rodiče
-
-- [Antonín Vávra](vavra-antonin-hwz30y.md) (1893–?)
-- [Marie Kolocová](kolocova-marie-rxpvs2.md) (1895–?)
-
-## Potomci
-
-- Vávra

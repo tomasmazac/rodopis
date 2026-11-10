@@ -4,12 +4,9 @@ title: "Jan Mazač"
 firstName: "Jan"
 surname: "Mazač"
 birth: 1711
+father: prvymq
+mother: "Dorota Ludvíková (?–?)"
 isGenerated: true
 ---
 
 # Jan Mazač
-
-## Rodiče
-
-- [Jakub Mazač](mazac-jakub-prvymq.md) (1670–?)
-- Dorota Ludvíková (?–?)

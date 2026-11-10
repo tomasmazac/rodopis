@@ -1,0 +1,17 @@
+{{- /* Person pages by id, and each person's children with a page (they name the person as father or mother). */ -}}
+{{- $s := newScratch -}}
+{{- $people := where site.RegularPages "Section" "osoby" -}}
+{{- range $people -}}
+  {{- $s.SetInMap "byId" (string .Params.id) . -}}
+{{- end -}}
+{{- range $people -}}
+  {{- $child := . -}}
+  {{- range $role := slice "father" "mother" -}}
+    {{- with index $child.Params $role -}}
+      {{- $parent := string . -}}
+      {{- $siblings := index ($s.Get "children" | default dict) $parent | default slice -}}
+      {{- $s.SetInMap "children" $parent ($siblings | append $child) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return dict "byId" ($s.Get "byId") "children" ($s.Get "children" | default dict) -}}

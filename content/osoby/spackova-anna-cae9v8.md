@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Anna Špačková
-
-## Potomci
-
-- [Naděžda Kašparová](kasparova-nadezda-wycmdg.md) (1926–2000)

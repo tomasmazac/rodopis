@@ -5,6 +5,8 @@ firstName: Ľudovít
 surname: Récky
 birth: 1887
 death: 1967
+father: vrpd0d
+mother: wff5vy
 yDna: R-Y5587
 ---
 
@@ -27,25 +29,6 @@ Mimo jiné ovládal tesařské práce a uměl opravovat sudy. V roce 1925 byl 
 Ľudovít se v roce 1925 oženil s o 16 roků mladší Annou Kišovou. Podle legendy byla Mária Kišová na zábavě s miminkem - dcerkou Annou zabalenou v dětské zavinovačce. Ľudovít se na ni díval a líbila se mu. Mária mu řekla: „Raz môže byť Tvojou nevestou.“ [^2]
 
 Zemřel 5. března 1967 na plicní embolii. [^1]
-
-
-## Rodiče
-
-- [Juraj Réczký](reczky-juraj-vrpd0d.md) (1847–1920)
-- [Mária Czinger](czinger-maria-wff5vy.md) (1852–1933)
-
-
-## Potomci
-
-- [Milan Recký](recky-milan-q3vqzj.md) (1926–1986)
-- [Štefan Récky](recky-stefan-k5z31b.md) (1928–1993)
-- [Jozef Récky](recky-jozef-fpxs4k.md) (1932–1977)
-- [František Récky](recky-frantisek-d06xhd.md) (1935–1990)
-- Mária Pindešová (1938–2017)
-- Vincent Recký (1942-2021)
-- Františka Dobiášová (1944–2023)
-
-
 
 ## Zdroje
 

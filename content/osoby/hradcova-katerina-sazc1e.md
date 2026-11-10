@@ -5,28 +5,14 @@ firstName: Kateřina
 surname: Hradcová
 birth: 1856
 death: 1895
+father: "Josef Hradec (?–?)"
+mother: "Kateřina Nováková (?–?)"
 ---
 # Kateřina Jelínková (roz. Hradcová)
 
 **Kateřina Jelínková** (roz. **Hradcová**) byla dcerou Josef Hradce a Kateřiny Novákové. Narodila se 13. května 1856. [^1]
 
 Zemřela 5. listopadu 1895 po náhlém chrlení krve. [^2]
-
-
-## Rodiče
-
-- Josef Hradec (?–?)
-- Kateřina Nováková (?–?)
-
-
-## Potomci
-
-- [Jan Jelínek](jelinek-jan-qy21b4.md) (1879–?)
-- Josefa Řídká (1882–?)
-- [Blažena Bačkorová](jelinkova-blazena-spja93.md) (1885–1939)
-- [Justina Jelínková](jelinkova-justina-qgk51w.md) (1886–?)
-- [Judita Jelínková](jelinkova-judita-y5ssh8.md) (1889–1889)
-- Judita Korejsová (1891–?)
 
 ## Zdroje
 

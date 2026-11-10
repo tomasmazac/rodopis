@@ -4,12 +4,9 @@ title: "Josef Mazáč"
 firstName: "Josef"
 surname: "Mazáč"
 birth: 1890
+father: "Josef Mazáč"
+mother: nmjdxs
 isGenerated: true
 ---
 
 # Josef Mazáč
-
-## Rodiče
-
-- Josef Mazáč
-- [Marie Řezáčová](rezacova-marie-nmjdxs.md) (1862–?)

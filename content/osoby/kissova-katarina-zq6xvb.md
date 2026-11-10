@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Katarína Kissová
-
-## Potomci
-
-- [Augustín Arvay](arvay-augustin-prhjh0.md) (1890–1972)

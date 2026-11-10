@@ -5,12 +5,9 @@ firstName: "Judita"
 surname: "Jelínková"
 birth: 1889
 death: 1889
+father: yz4yjr
+mother: sazc1e
 isGenerated: true
 ---
 
 # Judita Jelínková
-
-## Rodiče
-
-- [Jan Jelínek](jelinek-jan-yz4yjr.md) (1855–1901)
-- [Kateřina Hradecká](hradecka-katerina-dfzs7z.md) (1856–1895)

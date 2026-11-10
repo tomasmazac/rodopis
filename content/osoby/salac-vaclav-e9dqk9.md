@@ -4,16 +4,9 @@ title: "Václav Salač"
 firstName: "Václav"
 surname: "Salač"
 birth: 1817
+father: "Václav Salač (?–?)"
+mother: "Anna Schneiderová (?–?)"
 isGenerated: true
 ---
 
 # Václav Salač
-
-## Rodiče
-
-- Václav Salač (?–?)
-- Anna Schneiderová (?–?)
-
-## Potomci
-
-- [Josef Salač](salac-josef-z0pd9s.md) (1850–?)

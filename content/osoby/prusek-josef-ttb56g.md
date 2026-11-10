@@ -4,12 +4,9 @@ title: "Josef Průšek"
 firstName: "Josef"
 surname: "Průšek"
 birth: 1848
+father: fnr8bh
+mother: qprs79
 isGenerated: true
 ---
 
 # Josef Průšek
-
-## Rodiče
-
-- [Václav Průšek](prusek-vaclav-fnr8bh.md) (1823–1882)
-- [I. Maděrová](maderova-i-qprs79.md) (1824–1872)

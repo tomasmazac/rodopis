@@ -5,6 +5,10 @@ firstName: Josef
 surname: Pavelka
 birth: 1843
 death: 1929
+father: bkq5y1
+mother: gt1shj
+children:
+  - "Maxmilián Pavelka (?–?)"
 ---
 
 # Josef Pavelka
@@ -23,19 +27,6 @@ V&nbsp;roce 1910 byl už Josef ve výslužbě. Rodina žila na adrese Předměst
 {{< photo src="Photo1500494.jpg" alt="Anna (roz. Lokajová) a Josef Pavelkovi (nedatováno)" size="md" >}}
 
 Zemřel 4. února 1929 na [Mělníku](https://cs.wikipedia.org/wiki/M%C4%9Bln%C3%ADk) čp. 156 přirozenou smrtí. Bylo mu 85 let. [^2]
-
-
-## Rodiče
-
-- [Matěj Pavelka](pavelka-matej-bkq5y1.md) (1814–?)
-- Marie Klára Kernerová (1818–?)
-
-
-## Potomci
-
-- [Aloisie Pavelková](pavelkova-aloisie-a83cjw.md) (1870–?)
-- [Marie Šístková](pavelkova-marie-ag201r.md) (1872-1947)
-- Maxmilián Pavelka (?–?)
 
 ## Zdroje
 

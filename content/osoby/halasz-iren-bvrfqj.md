@@ -5,12 +5,9 @@ firstName: "Irén"
 surname: "Halász"
 birth: 1909
 death: 1989
+father: xr0c39
+mother: "Maria Schwarcz (?–1956)"
 isGenerated: true
 ---
 
 # Irén Halász
-
-## Rodiče
-
-- [Jozsef Halász](halasz-jozsef-xr0c39.md) (1863–1934)
-- Maria Schwarcz (?–1956)

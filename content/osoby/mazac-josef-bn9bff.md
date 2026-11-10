@@ -5,6 +5,11 @@ firstName: Josef
 surname: Mazač
 birth: 1858
 death: 1936
+mother: jrpv79
+children:
+  - "Marie Marschnerová (1892–?)"
+  - "František Mazač (1897–1909)"
+  - "Josef Mazač (1890–1892)"
 yDna: I-FT413013
 ---
 # Josef Mazač
@@ -44,24 +49,6 @@ V&nbsp;červnu 1922 umírá i jeho druhá manželka Bohumila. [^8]
 Po delší nemoci zemřel 9. června 1936 ve 3 hodiny ráno ve věku 79 let (na smutečním oznámení [^3] je uveden chybný počet roků). Pohřeb se konal v&nbsp;sobotu 13.&nbsp;června&nbsp;1936 v&nbsp;15.00. Smuteční průvod vedl z&nbsp;domu smutku v prostorách papíren na hřbitov v&nbsp;České Kamenici. [^3]
 
 [^6]
-
-## Rodiče
-
-* [Barbora Mazačová](mazacova-barbora-jrpv79.md) (1822–1858)
-
-## Potomci
-
-* [Karel Mazač](mazac-karel-tprdy7.md) (1884–1952)
-* Anna Mazačová (?–1892)
-* [Josef Mazač](mazac-josef-at42sc.md) (1890–1892)
-* [Jan Mazač](mazac-jan-dq97hc.md) (1891–1932)
-* Marie Marschnerová (1892–?)
-* [Marta Mazačová](mazacova-marta-xw6m19.md) (1893–?)
-* [Emanuel Mazač](mazac-emanuel-p1rxx5.md) (1895–1949)
-* František Mazač (1897–1909)
-* [Josef Mazač](mazac-josef-crbew0.md) (1898–1898)
-* [Bohumila Jägerová](mazacova-bohumila-crnw08.md) (1904–?)
-* [Alois Mazač](mazac-alois-zxwdsz.md) (1906–1983)
 
 ## Externí odkazy
 

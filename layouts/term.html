@@ -1,14 +1,19 @@
 {{ define "main" }}
 {{- $taxonomy := .Data.Plural }}
+{{- $line := cond (eq $taxonomy "mtdna") "mother" "father" }}
+{{- $members := slice }}
+{{- range .Pages }}{{ $members = $members | append (string .Params.id) }}{{ end }}
+{{- /* Someone whose mother (mtDNA) or father (Y-DNA) is not listed here starts a branch of their own. */}}
+{{- $roots := slice }}
+{{- range .Pages }}
+  {{- if not (in $members (string (index .Params $line | default ""))) }}{{ $roots = $roots | append . }}{{ end }}
+{{- end }}
 <article class="content">
   <h1>Haploskupina {{ partial "dna-label.html" $taxonomy }} {{ .Title }}</h1>
   <p>{{ if eq $taxonomy "mtdna" }}Mitochondriální DNA dědí od matky všechny její děti, dál ji ale předávají jen dcery.{{ else }}Chromozom Y dědí syn od otce.{{ end }}</p>
-  <ul class="person-list">
-    {{- range sort .Pages "Params.birth" }}
-    <li>
-      <a href="{{ .RelPermalink }}">{{ .Params.surname }} {{ .Params.firstName }}</a>
-      {{ if or .Params.birth .Params.death }}<span class="lifespan">({{ .Params.birth | default "?" }}–{{ .Params.death | default "?" }})</span>{{ end }}
-    </li>
+  <ul class="dna-tree">
+    {{- range sort $roots "Params.birth" }}
+    {{ partial "dna-tree.html" (dict "person" . "line" $line "members" $members) }}
     {{- end }}
   </ul>
   <p><a href="{{ .Parent.RelPermalink }}">Všechny haploskupiny {{ partial "dna-label.html" $taxonomy }}</a></p>

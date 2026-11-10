@@ -5,6 +5,8 @@ firstName: Jan
 surname: Jelínek
 birth: 1855
 death: 1901
+father: ywcc1q
+mother: x1cycv
 ---
 # Jan Jelínek
 
@@ -13,22 +15,6 @@ death: 1901
 Dne 15. května 1880 se oženil s Kateřinou Hradcovou. [^2]
 
 Zemřel 5. září 1901 na tuberkulózu plic. Bylo mu pouhých 45 let. [^3]
-
-
-## Rodiče
-
-- [Jan Jelínek](jelinek-jan-ywcc1q.md) (1808–?)
-- [Anna Šípková](sipkova-anna-x1cycv.md) (1815–1881)
-
-
-## Potomci
-
-- [Jan Jelínek](jelinek-jan-qy21b4.md) (1879–?)
-- Josefa Řídká (1882–?)
-- [Blažena Bačkorová](jelinkova-blazena-spja93.md) (1885–1939)
-- [Justina Jelínková](jelinkova-justina-qgk51w.md) (1886–?)
-- [Judita Jelínková](jelinkova-judita-y5ssh8.md) (1889–1889)
-- Judita Korejsová (1891–?)
 
 ## Zdroje
 

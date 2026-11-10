@@ -5,6 +5,13 @@ firstName: Ján
 surname: Kišš
 birth: 1873
 death: 1920
+father: mkzm31
+mother: r80rzn
+children:
+  - "Margita Kiššová"
+  - "Františka Kiššová"
+  - "Vendel Kišš"
+  - "František Kišš"
 ---
 # Ján Kišš
 
@@ -19,22 +26,6 @@ registrovaný ako obeť 1. svetovej vojny, pretože zomrel na následky
 vojny - v tele mal guľku z pušky, lekári mu to nedokázali vybrať a organizmus
 sa nedokázal vysporiadať s guľkou v tele, jeho zdravotný stav sa zhoršoval a
 on zomrel.
-
-
-## Rodiče
-
-- [Martin Kišš](kiss-martin-mkzm31.md) (1841–1927)
-- [Mária Ballová](ballova-maria-r80rzn.md) (1849–1934)
-
-
-## Potomci
-
-- [Anna Récka](kissova-anna-q7n6jj.md) (1903–1982)
-- [Ignác Kišš](kiss-ignac-k8qya5.md) (1904–1988)
-- Margita Kiššová
-- Františka Kiššová
-- Vendel Kišš
-- František Kišš
 
 ## Zdroje
 

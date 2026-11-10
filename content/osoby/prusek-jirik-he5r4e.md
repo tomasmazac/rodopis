@@ -5,16 +5,9 @@ firstName: "Jiřík"
 surname: "Průšek"
 birth: 1579
 death: 1637
+father: zg2jcb
+mother: "Kateřina (?–?)"
 isGenerated: true
 ---
 
 # Jiřík Průšek
-
-## Rodiče
-
-- [Adam Průšek](prusek-adam-zg2jcb.md) (1549–1616)
-- Kateřina (?–?)
-
-## Potomci
-
-- [Pavel Průšek](prusek-pavel-egnvfz.md) (1627–1699)

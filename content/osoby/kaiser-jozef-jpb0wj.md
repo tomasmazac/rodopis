@@ -8,7 +8,3 @@ isGenerated: true
 ---
 
 # Jozef Kaiser
-
-## Potomci
-
-- [Barbora Kaiser](kaiser-barbora-mmsydc.md) (1878–?)

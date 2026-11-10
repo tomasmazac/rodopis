@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Libuše Měšťáková
-
-## Potomci
-
-- [Jan Mazač](mazac-jan-gcp160.md) (1949–2015)

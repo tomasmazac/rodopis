@@ -5,12 +5,9 @@ firstName: "Jozefína"
 surname: "Čanakyová"
 birth: 1915
 death: 1998
+father: tnvhpf
+mother: pyme3k
 isGenerated: true
 ---
 
 # Jozefína Čanakyová
-
-## Rodiče
-
-- [Ján Csanaky](csanaky-jan-tnvhpf.md) (1869–?)
-- [Jozefína Réczky](reczky-jozefina-pyme3k.md) (1879–1947)

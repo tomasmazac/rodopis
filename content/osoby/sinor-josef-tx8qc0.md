@@ -5,16 +5,11 @@ firstName: "Josef"
 surname: "Siňor"
 birth: 1912
 death: 1978
+father: gq341x
+mother: bke8b9
+children:
+  - "Pavel Siňor (?–?)"
 isGenerated: true
 ---
 
 # Josef Siňor
-
-## Rodiče
-
-- [František Siňor](sinor-frantisek-gq341x.md) (1883–1955)
-- [Julie Mosrová](mosrova-julie-bke8b9.md) (1887–?)
-
-## Potomci
-
-- Pavel Siňor (?–?)

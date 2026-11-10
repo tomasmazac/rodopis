@@ -5,19 +5,11 @@ firstName: "Veronika"
 surname: "Sládečková"
 birth: 1915
 death: 1985
+father: "Ján Sládeček (?–?)"
+mother: "Terézia Miháliková (?–?)"
+children:
+  - "Horňáková"
 isGenerated: true
 ---
 
 # Veronika Sládečková
-
-## Rodiče
-
-- Ján Sládeček (?–?)
-- Terézia Miháliková (?–?)
-
-## Potomci
-
-- [Štefan Horňák](hornak-stefan-s8dqac.md) (1946–2009)
-- [Olga Horňáková](hornakova-olga-zksv29.md) (1949–2010)
-- [Veronika Horňáková](hornakova-veronika-dbxna9.md) (1955–2012)
-- Horňáková

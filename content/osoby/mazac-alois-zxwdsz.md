@@ -5,6 +5,8 @@ firstName: Alois
 surname: Mazač
 birth: 1906
 death: 1983
+father: bn9bff
+mother: q53qkp
 yDna: I-FT413013
 ---
 # Alois Mazač
@@ -21,11 +23,6 @@ Bydlel na adrese [Doubí u Liberce čp. 158](https://goo.gl/maps/nNwNiz1Jt69idyh
 Zemřel 7. dubna 1983 v [Liberci](https://cs.wikipedia.org/wiki/Liberec). [^3] Byl pohřben na [veseckém](https://cs.wikipedia.org/wiki/Vesec_(Liberec)) hřbitově (oddíl B, č. hrobu 10). Jeho jméno je sice uvedeno na náhrobku, ale v matrice hrobů chybí – v ní se vyskytuje jen jméno jeho ženy Marty Mazačové a Františky Májové. [^4]
 
 {{< photo src="image001.jpg" alt="Hrob Aloise a Marie Mazačových (nedatováno)" >}}
-
-## Rodiče
-
-* [Josef Mazač](mazac-josef-bn9bff.md) (1858–1936)
-* [Bohumila Tomanová](tomanova-bohumila-q53qkp.md) (1868–1922)
 
 ## Zdroje
 

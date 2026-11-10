@@ -5,6 +5,11 @@ firstName: Veronika
 surname: Chromá
 birth: 1903
 death: 1981
+father: dy0gka
+mother: m5cfsv
+children:
+  - "Jozef Balla"
+  - "Karol Balla"
 mtDna: W6an
 ---
 # Veronika Ballová (roz. Chromá)
@@ -18,21 +23,6 @@ mtDna: W6an
 Dne 7. listopadu 1922 se na Veľkém Lapáši provdala za [Stanislava Ballu](balla-stanislav-mfdspm.md). \[1–2]
 
 [^1] [^2] [^3] [^4]
-
-## Rodiče
-
-* [Štefan Chromý](chromy-stefan-dy0gka.md) (1862–1921)
-* [Mária Záhumenická](zahumenicka-maria-m5cfsv.md) (1864–1947)
-
-## Potomci
-
-* Mária Duchoňová (1923–1949)
-* [Ján Balla](balla-jan-z8g6bc.md) (1925–1985)
-* Katarína Petríková (1928–2017)
-* [Júlia Récka](ballova-julia-pcsdsy.md) (1937–2006)
-* Jozef Balla
-* Štefan Balla
-* Karol Balla
 
 ## Zdroje
 

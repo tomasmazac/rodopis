@@ -5,12 +5,9 @@ firstName: "Filip"
 surname: "Foldesi"
 birth: 1889
 death: 1964
+father: "Ján Foldesi"
+mother: "Katarína Pirošová"
 isGenerated: true
 ---
 
 # Filip Foldesi
-
-## Rodiče
-
-- Ján Foldesi
-- Katarína Pirošová

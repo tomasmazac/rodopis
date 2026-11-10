@@ -5,12 +5,9 @@ firstName: "Františka"
 surname: "Jelínková"
 birth: 1851
 death: 1871
+father: ywcc1q
+mother: x1cycv
 isGenerated: true
 ---
 
 # Františka Jelínková
-
-## Rodiče
-
-- [Jan Jelínek](jelinek-jan-ywcc1q.md) (1808–?)
-- [Anna Šípková](sipkova-anna-x1cycv.md) (1815–1881)

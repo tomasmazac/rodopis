@@ -5,6 +5,8 @@ firstName: Martin
 surname: Kišš
 birth: 1841
 death: 1927
+father: "Imrich Kišš (1809–?)"
+mother: "Alžběta Lány (1812–?)"
 ---
 # Martin Kišš
 
@@ -14,15 +16,3 @@ death: 1927
 > - Chybí matriční záznam o úmrtí nebo úmrtní list.
 
 **Martin Kišš** byl synem Imricha Kišše a Alžbety Lány. Narodil se 10. listopadu 1841 na Veľkém Lapáši čp. 13. [?]
-
-
-## Rodiče
-
-- Imrich Kišš (1809–?)
-- Alžběta Lány (1812–?)
-
-
-## Potomci
-
-- [Ján Kišš](kiss-jan-k9z8f0.md) (1873–1920)
-

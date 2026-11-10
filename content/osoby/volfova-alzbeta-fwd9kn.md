@@ -5,16 +5,9 @@ firstName: "Alžběta"
 surname: "Volfová"
 birth: 1859
 death: 1883
+father: "Josef Volf (?–?)"
+mother: "Barbora Stehlíková (?–?)"
 isGenerated: true
 ---
 
 # Alžběta Volfová
-
-## Rodiče
-
-- Josef Volf (?–?)
-- Barbora Stehlíková (?–?)
-
-## Potomci
-
-- [Emanuel Škobis](skobis-emanuel-f6ncmd.md) (1882–1884)

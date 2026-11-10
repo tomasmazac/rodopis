@@ -5,6 +5,11 @@ firstName: 'Božena'
 surname: 'Řezáčová'
 birth: 1912
 death: 1990
+father: yhk0y4
+mother: sjn48y
+children:
+  - "Eva Frantíková"
+  - "Jiří Malhaus"
 ---
 
 # Božena Malhausová (rozená Řezáčová)
@@ -17,16 +22,3 @@ death: 1990
 **Božena Malhausová** (rozená **Řezáčová**) byl dcerou [Josefa Řezáče](rezac-josef-yhk0y4.md) a Vilemíny Šimonové. Narodila se 13. ledna 1912 v [Kosmonosích](https://cs.wikipedia.org/wiki/Kosmonosy). \[?\]
 
 Zemřela 21. září 1990 ve věku 78 let. \[?\]
-
-
-## Rodiče
-
-- [Josef Řezáč](rezac-josef-yhk0y4.md) (1881–?)
-- [Vilemína Šimonová](simonova-vilemina-sjn48y.md) (1883–1957)
-
-
-## Potomci
-
-- [Josef Řezáč](rezac-josef-mhv6mz.md) (1936–2013)
-- Eva Frantíková
-- Jiří Malhaus

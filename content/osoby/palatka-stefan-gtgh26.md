@@ -5,11 +5,9 @@ firstName: "Štefan"
 surname: "Palaťka"
 birth: 1914
 death: 1982
+children:
+  - "Štefan Palaťka"
 isGenerated: true
 ---
 
 # Štefan Palaťka
-
-## Potomci
-
-- Štefan Palaťka

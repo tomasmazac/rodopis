@@ -8,7 +8,3 @@ isGenerated: true
 ---
 
 # Maria Konrad
-
-## Potomci
-
-- [Helena Marschner](marschner-helena-e99386.md) (1922–2002)

@@ -5,12 +5,9 @@ firstName: "Xénia"
 surname: "Rumanovská"
 birth: 1942
 death: 1992
+father: "Rumanovský"
+mother: "Silvia Dolešová (?–?)"
 isGenerated: true
 ---
 
 # Xénia Rumanovská
-
-## Rodiče
-
-- Rumanovský
-- Silvia Dolešová (?–?)

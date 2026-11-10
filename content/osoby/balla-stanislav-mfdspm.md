@@ -5,6 +5,11 @@ firstName: Stanislav
 surname: Balla
 birth: 1895
 death: 1958
+father: fq6873
+mother: c18dj2
+children:
+  - "Jozef Balla"
+  - "Karol Balla"
 ---
 
 # Stanislav Balla
@@ -16,23 +21,6 @@ death: 1958
 {{< photo src="Photo1501363-Enhanced.jpg" alt="Stanislav Balla (nedatováno)" size="md" >}}
 
 Zemřel 1.&nbsp;listopadu&nbsp;1958 na Velkém Lapáši v&nbsp;důsledku [bronchitidy](https://cs.wikipedia.org/wiki/Bronchitida). [^2] Je pohřben na hřbitově na Malém Lapáši (hrob č.&nbsp;114) po boku své ženy Veroniky. [^3]
-
-
-## Rodiče
-
-- [Jozef Balla](balla-jozef-fq6873.md) (1855–1938)
-- [Mária Lacová](lacova-maria-c18dj2.md) (1860–1944)
-
-
-## Potomci
-
-- Mária Duchoňová (1923–1949)
-- [Ján Balla](balla-jan-z8g6bc.md) (1925–1985)
-- [Katarína Ballová](ballova-katarina-v581w0.md) (1928–2017)
-- [Júlia Récka](ballova-julia-pcsdsy.md) (1937–2006)
-- Jozef Balla
-- Štefan Balla
-- Karol Balla
 
 ## Zdroje
 

@@ -5,17 +5,12 @@ firstName: "Jindřich"
 surname: "Jäger"
 birth: 1928
 death: 1985
+father: k6thxt
+mother: crnw08
+children:
+  - "Jindřiška Jägerová"
+  - "Jarmila Jägerová"
 isGenerated: true
 ---
 
 # Jindřich Jäger
-
-## Rodiče
-
-- [Jindřich Jäger](jager-jindrich-k6thxt.md) (1900–1969)
-- [Bohumila Mazačová](mazacova-bohumila-crnw08.md) (1904–?)
-
-## Potomci
-
-- Jindřiška Jägerová
-- Jarmila Jägerová

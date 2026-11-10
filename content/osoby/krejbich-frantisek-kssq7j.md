@@ -4,11 +4,8 @@ title: "František Krejbich"
 firstName: "František"
 surname: "Krejbich"
 birth: 1843
+father: "Václav Krejbich (?–?)"
 isGenerated: true
 ---
 
 # František Krejbich
-
-## Rodiče
-
-- Václav Krejbich (?–?)

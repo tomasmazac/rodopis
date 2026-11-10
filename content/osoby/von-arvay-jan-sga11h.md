@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Ján von Árvay
-
-## Potomci
-
-- [Augustín Arvay](arvay-augustin-prhjh0.md) (1890–1972)

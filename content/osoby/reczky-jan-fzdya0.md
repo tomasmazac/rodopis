@@ -5,20 +5,16 @@ firstName: "Ján"
 surname: "Réczky"
 birth: 1876
 death: 1941
+father: vrpd0d
+mother: wff5vy
+children:
+  - "Mária"
+  - "Margita"
+  - "Hedviga"
+  - "Ľudovít Reczky"
+  - "Emil Reczky"
+yDna: R-Y5587
 isGenerated: true
 ---
 
 # Ján Réczky
-
-## Rodiče
-
-- [Juraj Réczky](reczky-juraj-vrpd0d.md) (1847–1920)
-- [Mária Czinger](czinger-maria-wff5vy.md) (1852–1933)
-
-## Potomci
-
-- Mária
-- Margita
-- Hedviga
-- Ľudovít Reczky
-- Emil Reczky

@@ -4,12 +4,9 @@ title: "Lajos Rumanovski"
 firstName: "Lajos"
 surname: "Rumanovski"
 birth: 1883
+father: bhx1ps
+mother: avqkjv
 isGenerated: true
 ---
 
 # Lajos Rumanovski
-
-## Rodiče
-
-- [Josephus Rumanovski](rumanovski-josephus-bhx1ps.md) (1838–?)
-- [Anna Palaticzki](palaticzki-anna-avqkjv.md) (1846–?)

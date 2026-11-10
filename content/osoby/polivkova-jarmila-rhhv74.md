@@ -5,17 +5,12 @@ firstName: "Jarmila"
 surname: "Polívková"
 birth: 1926
 death: 2014
+father: yz89y2
+mother: "Františka"
+children:
+  - "Jindřiška Jägerová"
+  - "Jarmila Jägerová"
 isGenerated: true
 ---
 
 # Jarmila Polívková
-
-## Rodiče
-
-- [Josef Polívka](polivka-josef-yz89y2.md) (1902–1956)
-- Františka
-
-## Potomci
-
-- Jindřiška Jägerová
-- Jarmila Jägerová

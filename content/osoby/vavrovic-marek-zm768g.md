@@ -5,12 +5,8 @@ firstName: "Marek"
 surname: "Vavrovič"
 birth: 1935
 death: 1935
+father: yjvmex
 isGenerated: true
 ---
 
 # Marek Vavrovič
-
-## Rodiče
-
-- [Michal Vavrovič](vavrovic-michal-yjvmex.md) (1898–1963)
-- 

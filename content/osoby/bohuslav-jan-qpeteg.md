@@ -5,16 +5,9 @@ firstName: "Jan"
 surname: "Bohuslav"
 birth: 1833
 death: 1917
+father: "Jan Bohuslav (?–?)"
+mother: "Kateřina Koliášová (?–?)"
 isGenerated: true
 ---
 
 # Jan Bohuslav
-
-## Rodiče
-
-- Jan Bohuslav (?–?)
-- Kateřina Koliášová (?–?)
-
-## Potomci
-
-- [Kateřina Bohuslavová](bohuslavova-katerina-vteak8.md) (1860–1906)

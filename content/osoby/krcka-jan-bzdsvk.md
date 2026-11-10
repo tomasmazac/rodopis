@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Jan Krčka
-
-## Potomci
-
-- [Barbora Krčková](krckova-barbora-nbjnn2.md) (1798–?)

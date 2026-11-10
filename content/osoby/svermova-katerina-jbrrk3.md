@@ -5,12 +5,9 @@ firstName: "Kateřina"
 surname: "Švermová"
 birth: 1818
 death: 1819
+father: rw95hj
+mother: fet3be
 isGenerated: true
 ---
 
 # Kateřina Švermová
-
-## Rodiče
-
-- [Jiří Šverma](sverma-jiri-rw95hj.md) (1796–1871)
-- [Anna Mansfeldová](mansfeldova-anna-fet3be.md) (1793–1882)

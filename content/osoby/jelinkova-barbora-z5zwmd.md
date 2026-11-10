@@ -5,12 +5,9 @@ firstName: "Barbora"
 surname: "Jelínková"
 birth: 1853
 death: 1856
+father: ywcc1q
+mother: x1cycv
 isGenerated: true
 ---
 
 # Barbora Jelínková
-
-## Rodiče
-
-- [Jan Jelínek](jelinek-jan-ywcc1q.md) (1808–?)
-- [Anna Šípková](sipkova-anna-x1cycv.md) (1815–1881)

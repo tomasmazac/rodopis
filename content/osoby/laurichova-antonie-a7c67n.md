@@ -4,16 +4,9 @@ title: "Antonie Laurichová"
 firstName: "Antonie"
 surname: "Laurichová"
 birth: 1839
+father: qdws2n
+mother: "Anna Suchardová (?–?)"
 isGenerated: true
 ---
 
 # Antonie Laurichová
-
-## Rodiče
-
-- [Ignác Laurich](laurich-ignac-qdws2n.md) (1835–1869)
-- Anna Suchardová (?–?)
-
-## Potomci
-
-- [Josefa Laurichová](laurichova-josefa-wkv6wt.md) (1863–1863)

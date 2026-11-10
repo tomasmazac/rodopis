@@ -8,7 +8,3 @@ isGenerated: true
 ---
 
 # Klára Chromá
-
-## Potomci
-
-- [Matěj Hons](hons-matej-nrv8f6.md) (1885–?)

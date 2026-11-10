@@ -4,12 +4,9 @@ title: "Josef Průšek"
 firstName: "Josef"
 surname: "Průšek"
 birth: 1855
+father: sm8gej
+mother: w2a05m
 isGenerated: true
 ---
 
 # Josef Průšek
-
-## Rodiče
-
-- [Josef Průšek](prusek-josef-sm8gej.md) (1820–?)
-- [Marie Maupicová](maupicova-marie-w2a05m.md) (1833–?)

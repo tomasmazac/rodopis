@@ -4,12 +4,9 @@ title: "Josefa Hradcová"
 firstName: "Josefa"
 surname: "Hradcová"
 birth: 1874
+father: "Josef Fousek (?–?)"
+mother: "Alžběta Hradcová (?–?)"
 isGenerated: true
 ---
 
 # Josefa Hradcová
-
-## Rodiče
-
-- Josef Fousek (?–?)
-- Alžběta Hradcová (?–?)

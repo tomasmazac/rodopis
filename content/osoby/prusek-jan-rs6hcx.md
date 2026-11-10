@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Jan Průšek
-
-## Potomci
-
-- [Adam Průšek](prusek-adam-zg2jcb.md) (1549–1616)

@@ -8,7 +8,3 @@ isGenerated: true
 ---
 
 # Alžběta Jarošová
-
-## Potomci
-
-- [Maria Mazačová](mazacova-maria-zhq589.md) (1790–?)

@@ -4,12 +4,9 @@ title: "Joan Hollý"
 firstName: "Joan"
 surname: "Hollý"
 birth: 1809
+father: p7wc06
+mother: "Anna Jedličková (?–?)"
 isGenerated: true
 ---
 
 # Joan Hollý
-
-## Rodiče
-
-- [František Holý](holy-frantisek-p7wc06.md) (1776–1829)
-- Anna Jedličková (?–?)

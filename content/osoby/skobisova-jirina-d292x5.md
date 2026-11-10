@@ -4,12 +4,9 @@ title: "Jiřina Škobisová"
 firstName: "Jiřina"
 surname: "Škobisová"
 birth: 1913
+father: aa4s4c
+mother: mtx57q
 isGenerated: true
 ---
 
 # Jiřina Škobisová
-
-## Rodiče
-
-- [Josef Škobis](skobis-josef-aa4s4c.md) (1877–?)
-- [Růžena Dvořáčková](dvorackova-ruzena-mtx57q.md) (1880–?)

@@ -5,12 +5,9 @@ firstName: "Jan"
 surname: "Šverma"
 birth: 1733
 death: 1741
+father: n5fhv7
+mother: bw1p03
 isGenerated: true
 ---
 
 # Jan Šverma
-
-## Rodiče
-
-- [Pavel Šverma](sverma-pavel-n5fhv7.md) (1693–?)
-- [Anna Švermová](svermova-anna-bw1p03.md) (1696–1753)

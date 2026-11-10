@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Štefan Zelinko
-
-## Potomci
-
-- [Peter Zelinko](zelinko-peter-jqh89x.md) (1952–1995)

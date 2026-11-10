@@ -5,12 +5,9 @@ firstName: "Marie"
 surname: "Škobisová"
 birth: 1807
 death: 1808
+father: fafhc9
+mother: xekxcs
 isGenerated: true
 ---
 
 # Marie Škobisová
-
-## Rodiče
-
-- [Martin Škobis](skobis-martin-r0mtsn.md) (1774–1806)
-- [Kateřina Koklarová](koklarova-katerina-xekxcs.md) (1783–1838)

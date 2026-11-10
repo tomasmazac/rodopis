@@ -4,12 +4,9 @@ title: "Arnošt Lokaj"
 firstName: "Arnošt"
 surname: "Lokaj"
 birth: 1866
+father: "Václav Lokaj (?–?)"
+mother: "Alžběta Kulhánková (?–?)"
 isGenerated: true
 ---
 
 # Arnošt Lokaj
-
-## Rodiče
-
-- Václav Lokaj (?–?)
-- Alžběta Kulhánková (?–?)

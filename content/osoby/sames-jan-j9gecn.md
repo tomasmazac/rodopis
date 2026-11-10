@@ -5,12 +5,9 @@ firstName: "Jan"
 surname: "Sameš"
 birth: 1723
 death: 1725
+father: "Pavel Sameš"
+mother: "Dorota (1700–?)"
 isGenerated: true
 ---
 
 # Jan Sameš
-
-## Rodiče
-
-- Pavel Sameš
-- Dorota (1700–?)

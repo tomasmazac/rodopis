@@ -4,12 +4,9 @@ title: "Alžběta Švermová"
 firstName: "Alžběta"
 surname: "Švermová"
 birth: 1858
+father: baw06k
+mother: "Marie Kynterová"
 isGenerated: true
 ---
 
 # Alžběta Švermová
-
-## Rodiče
-
-- [Václav Šverma](sverma-vaclav-baw06k.md) (1823–?)
-- Marie Kynterová

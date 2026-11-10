@@ -5,16 +5,11 @@ firstName: "Žofia"
 surname: "Čanaky"
 birth: 1912
 death: 1993
+father: tnvhpf
+mother: pyme3k
+children:
+  - "Belániová"
 isGenerated: true
 ---
 
 # Žofia Čanaky
-
-## Rodiče
-
-- [Ján Csanaky](csanaky-jan-tnvhpf.md) (1869–?)
-- [Jozefína Réczky](reczky-jozefina-pyme3k.md) (1879–1947)
-
-## Potomci
-
-- Belániová

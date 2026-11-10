@@ -5,6 +5,11 @@ firstName: Júlia
 surname: Ballová
 birth: 1937
 death: 2006
+father: mfdspm
+mother: vga2f0
+children:
+  - "Jarmila Mazačová"
+  - "Zlatica Ballová"
 mtDna: W6an
 ---
 # Júlia Récka (roz. Ballová)
@@ -22,17 +27,6 @@ V&nbsp;sobotu 15.&nbsp;listopadu&nbsp;1958 se provdala za [Františka Réckého]
 {{< photo src="Sken_42.jpeg" alt="Oznámení o sňatku Františka Réckého a Júlie Ballové \[1]" size="lg" >}}
 
 {{< photo src="Photo1500001.jpg" alt="Júlia Récka (nedatováno)" size="md" >}}
-
-## Rodiče
-
-* [Stanislav Balla](balla-stanislav-mfdspm.md) (1895–1958)
-* [Veronika Chromá](chroma-veronika-vga2f0.md) (1903–1981)
-
-## Potomci
-
-* Jarmila Mazačová
-* [Oľga Récka](recka-olga-xxz9vy.md) (1961–2018)
-* Zlatica Ballová
 
 ## Zdroje
 

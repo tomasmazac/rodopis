@@ -5,12 +5,8 @@ firstName: "Belko"
 surname: "Vavrovič"
 birth: 1944
 death: 1945
+father: yjvmex
 isGenerated: true
 ---
 
 # Belko Vavrovič
-
-## Rodiče
-
-- [Michal Vavrovič](vavrovic-michal-yjvmex.md) (1898–1963)
-- 

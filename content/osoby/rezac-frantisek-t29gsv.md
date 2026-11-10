@@ -5,6 +5,10 @@ firstName: 'František'
 surname: 'Řezáč'
 birth: 1838
 death: 1909
+father: y9krpf
+mother: n10dxs
+children:
+  - "Marie Mazáčová"
 ---
 
 # František Řezáč
@@ -16,21 +20,6 @@ V&nbsp;úterý 12.&nbsp;listopadu 1861 se oženil s&nbsp;Františkou Hübnerovou
 Byl nádeníkem.
 
 Zemřel 10.&nbsp;července 1909 v&nbsp;půl osmé večer v&nbsp;Kosmonosích čp.&nbsp;297. Zemřel náhle (a tedy bez zaopatření) ve věku 70 let, jako příčina úmrtí byla uvedena sešlost věkem. V&nbsp;pět hodin odpoledne 12.&nbsp;července proběhl pohřeb, pochovávajícím knězem byl farář Václav Říha. [^3]
-
-
-## Rodiče
-
-- [Josef Řezáč](rezac-josef-y9krpf.md) (1804–1892)
-- [Veronika Nosálková](nosalkova-veronika-n10dxs.md) (1809–1877)
-
-
-## Potomci
-
-- [František Řezáč](rezac-frantisek-wzggq6.md) (1873–1955)
-- [Emilie Řezáčová](rezacova-emilie-c04bk5.md) (1875–1892)
-- Božena Svobodová (1878–1953)
-- [Josef Řezáč](rezac-josef-yhk0y4.md) (1881–?)
-- Marie Mazáčová
 
 ## Zdroje
 

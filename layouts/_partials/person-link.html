@@ -1,0 +1,14 @@
+{{- /* A relative in a list: a page link with life years, or the text written in front matter for someone without a page. */ -}}
+{{- $people := partialCached "people.html" true -}}
+{{- $value := string . -}}
+{{- with index $people.byId $value -}}
+  {{- /* Birth surname, as everywhere on the site, not the married name some titles carry. */ -}}
+  {{- $name := printf "%s %s" (.Params.firstName | default "") (.Params.surname | default "") | strings.TrimSpace | default .Title -}}
+  {{- $html := printf `<a href="%s">%s</a>` .RelPermalink (htmlEscape $name) -}}
+  {{- if or .Params.birth .Params.death -}}
+    {{- $html = printf "%s (%v–%v)" $html (.Params.birth | default "?") (.Params.death | default "?") -}}
+  {{- end -}}
+  {{- return $html -}}
+{{- else -}}
+  {{- return htmlEscape $value -}}
+{{- end -}}

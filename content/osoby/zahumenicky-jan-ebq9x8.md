@@ -5,12 +5,9 @@ firstName: "Ján"
 surname: "Zahumenický"
 birth: 1866
 death: 1866
+father: "Ján Zahumenický (?–?)"
+mother: "Anna Barcsa (?–?)"
 isGenerated: true
 ---
 
 # Ján Zahumenický
-
-## Rodiče
-
-- Ján Zahumenický (?–?)
-- Anna Barcsa (?–?)

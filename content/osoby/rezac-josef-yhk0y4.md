@@ -4,6 +4,12 @@ title: 'Josef Řezáč'
 firstName: 'Josef'
 surname: 'Řezáč'
 birth: 1881
+father: t29gsv
+mother: hd2jrj
+children:
+  - "Kristýna Zdobinská"
+  - "Jindřich Řezáč"
+  - "Václav Řezáč"
 ---
 
 # Josef Řezáč
@@ -14,21 +20,6 @@ birth: 1881
 **Josef Řezáč** byl synem [Františka Řezáče](rezac-frantisek-t29gsv.md) a Františky Hübnerové. Narodil se 7.&nbsp;července&nbsp;1881 v&nbsp;[Kosmonosích](https://cs.wikipedia.org/wiki/Kosmonosy) čp.&nbsp;59. [^1]
 
 Ve středu 6.&nbsp;července&nbsp;1904 se oženil s&nbsp;Vilemínou Šimonovou. [^2]
-
-
-## Rodiče
-
-- [František Řezáč](rezac-frantisek-t29gsv.md) (1838–1909)
-- [Františka Hübnerová](hubnerova-frantiska-hd2jrj.md) (1838–1893)
-
-
-## Potomci
-
-- Marie Najmanová (1905–1977)
-- [Božena Malhausová](rezacova-bozena-rwa7hf.md) (1912–1990)
-- Kristýna Zdobinská
-- Jindřich Řezáč
-- Václav Řezáč
 
 ## Zdroje
 

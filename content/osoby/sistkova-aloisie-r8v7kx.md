@@ -4,6 +4,10 @@ title: Aloisie Šotolová (roz. Šístková)
 firstName: Aloisie
 surname: Šístková
 birth: 1908
+father: nyr37g
+mother: ag201r
+children:
+  - "Josef Šotola"
 mtDna: H1c3
 ---
 # Aloisie Šístková
@@ -13,19 +17,6 @@ mtDna: H1c3
 > - Chybí matriční záznam o úmrtí nebo úmrtní list.
 
 **Aloisie Anežka Šotolová** (roz. **Šístková**) byla nejmladší dcerou [Františka Šístka](sistek-frantisek-nyr37g.md) a [Marie Pavelkové](pavelkova-marie-ag201r.md). Narodila se 17. února 1908 v [Říčanech](https://cs.wikipedia.org/wiki/%C5%98%C3%AD%C4%8Dany) čp. 9. [^1]
-
-
-## Rodiče
-
-- [František Šístek](sistek-frantisek-nyr37g.md) (1872–1944)
-- [Marie Pavelková](pavelkova-marie-ag201r.md) (1872–1947)
-
-
-## Potomci
-
-- Josef Šotola
-
-
 
 ## Zdroje
 

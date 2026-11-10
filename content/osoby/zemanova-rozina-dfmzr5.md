@@ -5,12 +5,9 @@ firstName: "Rozina"
 surname: "Zemanová"
 birth: 1799
 death: 1868
+father: d29fp3
+mother: "Marie Homolková (?–?)"
 isGenerated: true
 ---
 
 # Rozina Zemanová
-
-## Rodiče
-
-- [Kašpar Zeman](zeman-kaspar-d29fp3.md) (1759–1808)
-- Marie Homolková (?–?)

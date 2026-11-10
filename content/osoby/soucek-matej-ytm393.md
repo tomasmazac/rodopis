@@ -8,7 +8,3 @@ isGenerated: true
 ---
 
 # Matěj Souček
-
-## Potomci
-
-- [Václav Souček](soucek-vaclav-jyyyjm.md) (1795–1796)

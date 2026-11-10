@@ -4,12 +4,9 @@ title: "Alžběta Průšková"
 firstName: "Alžběta"
 surname: "Průšková"
 birth: 1846
+father: m4jbnh
+mother: "Alžběta Cimrová (?–?)"
 isGenerated: true
 ---
 
 # Alžběta Průšková
-
-## Rodiče
-
-- [Jan Průšek](prusek-jan-m4jbnh.md) (1822–?)
-- Alžběta Cimrová (?–?)

@@ -5,12 +5,9 @@ firstName: "mrtve"
 surname: "Marschner"
 birth: 1903
 death: 1903
+father: x1axmr
+mother: c5783v
 isGenerated: true
 ---
 
 # mrtve Marschner
-
-## Rodiče
-
-- [Eduard Marschner](marschner-eduard-x1axmr.md) (1861–1922)
-- [Anna Kreibich](kreibich-anna-c5783v.md) (1867–?)

@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Emília Ševčíková
-
-## Potomci
-
-- [Dezider Vavrovič](vavrovic-dezider-yr4ra1.md) (1945–1945)

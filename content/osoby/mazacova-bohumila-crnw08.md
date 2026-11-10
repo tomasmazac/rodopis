@@ -4,6 +4,8 @@ title: 'Bohumila Jägerová (roz. Mazačová)'
 firstName: 'Bohumila'
 surname: 'Mazačová'
 birth: 1904
+father: bn9bff
+mother: q53qkp
 ---
 
 # Bohumila Jägerová (roz. Mazačová)
@@ -19,17 +21,6 @@ birth: 1904
 {{< photo src="Photo1500354.jpg" alt="Bohumila, Marie, Jindřich st. a Jindřich ml. Jägerovi (nedatováno)" >}}
 
 [^1]
-
-## Rodiče
-
-- [Josef Mazač](mazac-josef-bn9bff.md) (1858–1936)
-- [Bohumila Tomanová](tomanova-bohumila-q53qkp.md) (1868–1922)
-
-
-## Potomci
-
-- [Jindřich Jäger](jager-jindrich-mjpf82.md) (1928–1985)
-- Marie Denemarková (1930–2009)
 
 ## Zdroje
 

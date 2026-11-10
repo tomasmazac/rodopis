@@ -4,6 +4,11 @@ title: 'Václav Šinor'
 firstName: 'Václav'
 surname: 'Šinor'
 birth: 1803
+father: "Jan Šinor"
+mother: "Kateřina Nechvátalová"
+children:
+  - "František Šinor"
+  - "Josef Šinor (1829–1892)"
 ---
 
 # Václav Šinor
@@ -14,19 +19,3 @@ birth: 1803
 > - Chybí matriční záznam o úmrtí nebo úmrtní list.
 
 **Václav Šinor** byl synem Jana Šinora a Kateřiny Nechvátalové. \[?\]
-
-
-## Rodiče
-
-- Jan Šinor
-- Kateřina Nechvátalová
-
-
-## Potomci
-
-- [Marie Šinorová](sinorova-marie-rqqya8.md) (1824–?)
-- [Josef Šinor](sinor-josef-kw1c9h.md) (1829–1892)
-- [Kateřina Šinorová](sinorova-katerina-zsvbva.md) (1832–1833)
-- [Kateřina Škobisová](sinorova-katerina-mqp7wq.md) (1837–?)
-- [Václav Šinor](sinor-vaclav-hbxejb.md) (1844–?)
-– František Šinor

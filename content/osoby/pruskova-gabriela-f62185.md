@@ -4,12 +4,9 @@ title: "Gabriela Průšková"
 firstName: "Gabriela"
 surname: "Průšková"
 birth: 1893
+father: y1xk53
+mother: r9acn7
 isGenerated: true
 ---
 
 # Gabriela Průšková
-
-## Rodiče
-
-- [Václav Průšek](prusek-vaclav-y1xk53.md) (1860–?)
-- [Marie Prskavcová](prskavcova-marie-r9acn7.md) (1861–1904)

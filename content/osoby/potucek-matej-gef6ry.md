@@ -8,7 +8,3 @@ isGenerated: true
 ---
 
 # Matěj Potůček
-
-## Potomci
-
-- [Kateřina Potůčková](potuckova-katerina-j60205.md) (1798–?)

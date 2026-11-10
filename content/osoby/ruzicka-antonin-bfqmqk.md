@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Antonín Růžička
-
-## Potomci
-
-- [Anna Růžičková](ruzickova-anna-g7088j.md) (1726–1784)

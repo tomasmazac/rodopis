@@ -5,12 +5,9 @@ firstName: "Filip"
 surname: "Škobis"
 birth: 1842
 death: 1842
+father: z0w875
+mother: z3g6mh
 isGenerated: true
 ---
 
 # Filip Škobis
-
-## Rodiče
-
-- [Jan Škobis](skobis-jan-z0w875.md) (1804–1870)
-- [Barbora Čiháková](cihakova-barbora-z3g6mh.md) (1802–1860)

@@ -5,6 +5,8 @@ firstName: Marie
 surname: Šístková
 birth: 1897
 death: 1949
+father: nyr37g
+mother: ag201r
 mtDna: H1c3
 ---
 # Marie Konaříková (roz. Šístková)
@@ -36,13 +38,6 @@ Promoce proběhla 8. července 1922 a jejím [promotorem](https://prirucka.ujc.c
 > Máňa.
 
 [^4]
-
-## Rodiče
-
-* [František Šístek](sistek-frantisek-nyr37g.md) (1872–1944)
-* [Marie Pavelková](pavelkova-marie-ag201r.md) (1872–1947)
-
-
 
 ## Zdroje
 

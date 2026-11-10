@@ -5,12 +5,9 @@ firstName: "Josef"
 surname: "Mansfeld"
 birth: 1731
 death: 1782
+father: j50k2t
+mother: "Kateřina (1700–1772)"
 isGenerated: true
 ---
 
 # Josef Mansfeld
-
-## Rodiče
-
-- [Samuel Mansfeld](mansfeld-samuel-j50k2t.md) (1696–1761)
-- Kateřina (1700–1772)

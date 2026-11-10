@@ -5,12 +5,9 @@ firstName: "Franz"
 surname: "Marschner"
 birth: 1901
 death: 1910
+father: x1axmr
+mother: c5783v
 isGenerated: true
 ---
 
 # Franz Marschner
-
-## Rodiče
-
-- [Eduard Marschner](marschner-eduard-x1axmr.md) (1861–1922)
-- [Anna Kreibich](kreibich-anna-c5783v.md) (1867–?)

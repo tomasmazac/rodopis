@@ -5,6 +5,8 @@ firstName: Marie
 surname: Švermová
 birth: 1867
 death: 1937
+father: kfn14j
+mother: b01pz3
 ---
 # Marie Marková (roz. Švermová)
 
@@ -13,24 +15,6 @@ death: 1937
 V 17 letech se provdala za Antonína Průška, hostinského z [Podhradí](https://cs.wikipedia.org/wiki/Podhrad%C3%AD_(Bakov_nad_Jizerou)) čp. 6. Svatební obřad proběhl 13. února 1885. [?] Za pět měsíců se jim narodil syn Antonín, ale už 12. října umírá hostinský Antonín na [tuberkulózu](https://cs.wikipedia.org/wiki/Tuberkul%C3%B3za). [^3] Mladičkou vdovu si bere za ženu olešnický rolník [Jan Marek](marek-jan-kqnn1b.md). [^4]
 
 Zemřela 8. srpna 1937 v okresní nemocnici v [Mladé Boleslavi](https://cs.wikipedia.org/wiki/Mlad%C3%A1_Boleslav). [^2]
-
-
-## Rodiče
-
-- [Jiří Šverma](sverma-jiri-kfn14j.md) (1827–?)
-- [Anna Horáková](horakova-anna-b01pz3.md) (1825–1885)
-
-
-## Potomci
-
-- [Antonín Průšek](prusek-antonin-ycapdt.md) (1885–?)
-- [Marie Mazačová](markova-marie-b4tnmv.md) (1887–1975)
-- [Jan Marek](marek-jan-y1y80h.md) (1888–?)
-- [Štěpánka Typltová](markova-stepanka-h510bs.md) (1889–?)
-- [Josef Marek](marek-josef-ezpbms.md) (1891–?)
-- [Anna Marková](markova-anna-xcawm4.md) (1893–?)
-- [Růžena Hašlarová](markova-ruzena-nntb94.md) (1897–1979)
-- [František Marek](marek-frantisek-m85zc0.md) (?-?)
 
 ## Zdroje
 

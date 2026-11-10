@@ -5,6 +5,8 @@ firstName: František
 surname: Šístek
 birth: 1872
 death: 1944
+father: vhaa2x
+mother: zry8y3
 ---
 # František Šístek
 
@@ -29,23 +31,6 @@ Restaurace U Cukrovaru se nacházela v [Rousovicích](https://cs.wikipedia.org/w
 {{< photo src="sistek-frantisek-1939.jpg" alt="František Šístek (1939)" size="md" >}}
 
 Zemřel 27. ledna 1944 v 71 letech, bez zaopatření svátostmi. Jako příčina úmrtí je uvedena rakovina žaludku. 30. ledna byl pochována na hřbitově Svatého Václava na Mělníku. [^7]
-
-
-## Rodiče
-
-* [Jan Šístek](sistek-jan-vhaa2x.md) (1844–1921)
-* [Antonie Příhodová](prihodova-antonie-zry8y3.md) (1850–?)
-
-
-## Potomci
-
-* [Marie Konaříková](sistkova-marie-tajrax.md) (1897–1949)
-* [Anna Míčová](sistkova-anna-xpkv9f.md) (1901–1983)
-* [František Šístek](sistek-frantisek-bjtym1.md) (1902–?)
-* [Josef Šístek](sistek-josef-we23jb.md) (1904–?)
-* Ludmila Volštátová (1906–?)
-* [Aloisie Šotolová](sistkova-aloisie-r8v7kx.md) (1908–?)
-
 
 ## Jmenovec
 

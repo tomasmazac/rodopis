@@ -8,7 +8,3 @@ isGenerated: true
 ---
 
 # Josef Jíra
-
-## Potomci
-
-- [Josef Jíra](jira-josef-ygnvw8.md) (1931–2011)

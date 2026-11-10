@@ -1,0 +1,17 @@
+{{- /* One person in a haplogroup tree and, below them, their children listed with the same haplogroup through this line. */ -}}
+{{- $person := .person -}}
+{{- $id := string $person.Params.id -}}
+{{- $people := partialCached "people.html" true -}}
+{{- $heirs := slice -}}
+{{- range sort (index $people.children $id | default slice) "Params.birth" -}}
+  {{- if and (in $.members (string .Params.id)) (eq (string (index .Params $.line)) $id) }}{{ $heirs = $heirs | append . }}{{ end -}}
+{{- end -}}
+<li>{{ partial "person-link.html" $id | safeHTML }}
+{{- with $heirs }}
+<ul>
+{{- range . }}
+{{ partial "dna-tree.html" (dict "person" . "line" $.line "members" $.members) }}
+{{- end }}
+</ul>
+{{- end -}}
+</li>

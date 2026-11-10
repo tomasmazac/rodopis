@@ -4,12 +4,9 @@ title: "Alžběta Hübnerová"
 firstName: "Alžběta"
 surname: "Hübnerová"
 birth: 1834
+father: rzk0v9
+mother: nbjnn2
 isGenerated: true
 ---
 
 # Alžběta Hübnerová
-
-## Rodiče
-
-- [František Hübner](hubner-frantisek-rzk0v9.md) (1802–?)
-- [Barbora Krčková](krckova-barbora-nbjnn2.md) (1798–?)

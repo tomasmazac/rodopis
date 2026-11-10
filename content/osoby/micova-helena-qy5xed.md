@@ -5,6 +5,8 @@ firstName: Helena
 surname: Míčová
 birth: 1925
 death: 2008
+father: yfqn8w
+mother: xpkv9f
 mtDna: H1c3
 ---
 # Helena Morávková (roz. Míčová)
@@ -19,11 +21,6 @@ Vystudovala rodinnou školu a učitelskou nástavbu a celý život pracovala jak
 20. července 1966 se provdala za Ladislava Morávka. Sňatek proběhl na Staroměstské radnici v Praze. \[?]
 
 Zemřela 18. července 2008 ve věku 83 let. \[?]
-
-## Rodiče
-
-* [Josef Míč](mic-josef-yfqn8w.md) (1894–1979)
-* [Anna Šístková](sistkova-anna-xpkv9f.md) (1901–1983)
 
 ## Zdroje
 

@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Jiří Sameš
-
-## Potomci
-
-- [Anna Samešová](samesova-anna-hm76z0.md) (1693–1747)

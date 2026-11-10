@@ -5,12 +5,9 @@ firstName: "Františka"
 surname: "Reczka"
 birth: 1889
 death: 1958
+father: vrpd0d
+mother: wff5vy
 isGenerated: true
 ---
 
 # Františka Reczka
-
-## Rodiče
-
-- [Juraj Réczky](reczky-juraj-vrpd0d.md) (1847–1920)
-- [Mária Czinger](czinger-maria-wff5vy.md) (1852–1933)

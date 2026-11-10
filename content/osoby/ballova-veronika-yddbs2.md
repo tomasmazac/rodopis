@@ -8,7 +8,3 @@ isGenerated: true
 ---
 
 # Veronika Ballová
-
-## Potomci
-
-- [Jolantha Vavrovičová](vavrovicova-jolantha-vt6cnr.md) (1941–1941)

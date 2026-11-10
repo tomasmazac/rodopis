@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Josef Kašpar
-
-## Potomci
-
-- [Naděžda Kašparová](kasparova-nadezda-wycmdg.md) (1926–2000)

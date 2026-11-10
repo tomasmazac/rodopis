@@ -8,7 +8,3 @@ isGenerated: true
 ---
 
 # František Veleba
-
-## Potomci
-
-- [František Veleba](veleba-frantisek-yf5s2q.md) (1830–1897)

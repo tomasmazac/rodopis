@@ -5,12 +5,8 @@ firstName: "Matúš"
 surname: "Vavrovič"
 birth: 1933
 death: 2006
+father: yjvmex
 isGenerated: true
 ---
 
 # Matúš Vavrovič
-
-## Rodiče
-
-- [Michal Vavrovič](vavrovic-michal-yjvmex.md) (1898–1963)
-- 

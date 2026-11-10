@@ -5,12 +5,10 @@ firstName: "Anton"
 surname: "Recký"
 birth: 1910
 death: 1988
+father: cw45z1
+mother: "Gizela Csingerová"
+yDna: R-Y5587
 isGenerated: true
 ---
 
 # Anton Recký
-
-## Rodiče
-
-- [Ambróz Réczky](reczky-ambroz-cw45z1.md) (1881–1927)
-- Gizela Csingerová

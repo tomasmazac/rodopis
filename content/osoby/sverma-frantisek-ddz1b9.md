@@ -5,12 +5,9 @@ firstName: "František"
 surname: "Šverma"
 birth: 1863
 death: 1864
+father: baw06k
+mother: "Marie Kynterová"
 isGenerated: true
 ---
 
 # František Šverma
-
-## Rodiče
-
-- [Václav Šverma](sverma-vaclav-baw06k.md) (1823–?)
-- Marie Kynterová

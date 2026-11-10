@@ -5,12 +5,10 @@ firstName: "Františka"
 surname: "Tomsová"
 birth: 1855
 death: 1923
+father: xh0gqz
+mother: p80pam
+mtDna: H1c3
 isGenerated: true
 ---
 
 # Františka Tomsová
-
-## Rodiče
-
-- [Vavřinec Tomsa](tomsa-vavrinec-xh0gqz.md) (1817–1889)
-- [Barbora Holá](hola-barbora-p80pam.md) (1818–1873)

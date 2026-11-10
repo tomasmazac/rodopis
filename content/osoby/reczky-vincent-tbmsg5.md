@@ -5,19 +5,15 @@ firstName: "Vincent"
 surname: "Réczky"
 birth: 1878
 death: 1932
+father: vrpd0d
+mother: wff5vy
+children:
+  - "Ladislav Recký (?–?)"
+  - "Vincent Recký (?–?)"
+  - "Jozef Recký (?–?)"
+  - "Jozef Recký"
+yDna: R-Y5587
 isGenerated: true
 ---
 
 # Vincent Réczky
-
-## Rodiče
-
-- [Juraj Réczky](reczky-juraj-vrpd0d.md) (1847–1920)
-- [Mária Czinger](czinger-maria-wff5vy.md) (1852–1933)
-
-## Potomci
-
-- Ladislav Recký (?–?)
-- Vincent Recký (?–?)
-- Jozef Recký (?–?)
-- Jozef Recký

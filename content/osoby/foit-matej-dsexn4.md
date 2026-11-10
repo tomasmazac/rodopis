@@ -4,16 +4,9 @@ title: "Matěj Foit"
 firstName: "Matěj"
 surname: "Foit"
 birth: 1829
+father: "Adalbert Foit (?–?)"
+mother: "Anežka Škarková (?–?)"
 isGenerated: true
 ---
 
 # Matěj Foit
-
-## Rodiče
-
-- Adalbert Foit (?–?)
-- Anežka Škarková (?–?)
-
-## Potomci
-
-- [Jan Foit](foit-jan-c9ct1y.md) (1865–1930)

@@ -5,12 +5,8 @@ firstName: "Monika"
 surname: "Vavrovičová"
 birth: 1946
 death: 1951
+father: yjvmex
 isGenerated: true
 ---
 
 # Monika Vavrovičová
-
-## Rodiče
-
-- [Michal Vavrovič](vavrovic-michal-yjvmex.md) (1898–1963)
-- 

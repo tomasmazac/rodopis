@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Barbora Slabyhoudová
-
-## Potomci
-
-- [Josef Šiňor](sinor-josef-r65a36.md) (1850–?)

@@ -4,6 +4,10 @@ title: Jan Marek
 firstName: Jan
 surname: Marek
 birth: 1888
+father: kqnn1b
+mother: qvxqaj
+children:
+  - "Ivan Marek (?–?)"
 ---
 # Jan Marek
 
@@ -11,21 +15,9 @@ birth: 1888
 
 Živil se jako komisionář (1920) [^2], zlatník, rytec (1930). [^3]
 
-
 ## Fyziognomie
 
 Měl oblý obličej, hnědé oči a černé vlasy. [^3]
-
-
-## Rodiče
-
-- [Jan Marek](marek-jan-kqnn1b.md) (1860–1934)
-- [Marie Švermová](svermova-marie-qvxqaj.md) (1867–1937)
-
-
-## Potomci
-
-- Ivan Marek (?–?)
 
 ## Zdroje
 

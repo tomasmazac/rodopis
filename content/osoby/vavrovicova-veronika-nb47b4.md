@@ -4,12 +4,9 @@ title: "Veronika Vavrovičová"
 firstName: "Veronika"
 surname: "Vavrovičová"
 birth: 1915
+father: wd38ge
+mother: rgph3e
 isGenerated: true
 ---
 
 # Veronika Vavrovičová
-
-## Rodiče
-
-- [František Vavrovič](vavrovic-frantisek-wd38ge.md) (1895–1982)
-- [Zora Kišová](kisova-zora-rgph3e.md) (1894–1991)

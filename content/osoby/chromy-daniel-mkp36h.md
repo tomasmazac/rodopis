@@ -4,12 +4,9 @@ title: "Daniel Chromý"
 firstName: "Daniel"
 surname: "Chromý"
 birth: 1859
+father: zrj10b
+mother: w0wgmv
 isGenerated: true
 ---
 
 # Daniel Chromý
-
-## Rodiče
-
-- [Ján Chromý](chromy-jan-zrj10b.md) (1823–?)
-- [Katarína Hajdu](hajdu-katarina-w0wgmv.md) (1824–?)

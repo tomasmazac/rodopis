@@ -5,12 +5,8 @@ firstName: "Pavol"
 surname: "Vavrovič"
 birth: 1941
 death: 1941
+father: yjvmex
 isGenerated: true
 ---
 
 # Pavol Vavrovič
-
-## Rodiče
-
-- [Michal Vavrovič](vavrovic-michal-yjvmex.md) (1898–1963)
-- 

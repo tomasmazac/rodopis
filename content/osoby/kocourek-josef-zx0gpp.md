@@ -8,7 +8,3 @@ isGenerated: true
 ---
 
 # Josef Kocourek
-
-## Potomci
-
-- [Josef Průšek](prusek-josef-vtj6f8.md) (1878–1879)

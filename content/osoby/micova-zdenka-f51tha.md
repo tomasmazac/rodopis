@@ -4,12 +4,9 @@ title: "Zdeňka Míčová"
 firstName: "Zdeňka"
 surname: "Míčová"
 birth: 1897
+father: p5g9wj
+mother: "Marie Srnová (?–?)"
 isGenerated: true
 ---
 
 # Zdeňka Míčová
-
-## Rodiče
-
-- [Karel Míč](mic-karel-p5g9wj.md) (1859–1903)
-- Marie Srnová (?–?)

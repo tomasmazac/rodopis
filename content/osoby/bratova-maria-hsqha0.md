@@ -5,6 +5,8 @@ firstName: Mária
 surname: Bratová
 birth: 1877
 death: 1963
+father: "Ján Brat (?–?)"
+mother: "Františka Rapavá (?–?)"
 ---
 # Mária Kiššová (roz. Bratová)
 
@@ -13,17 +15,6 @@ death: 1963
 > - Chybí matriční záznam o úmrtí nebo úmrtní list.
 
 **Mária Kiššová** (roz. **Bratová**) byla dcerou Ján Brata a Františky Rapavé. Narodila se 13. dubna 1877 v [Dolných Obdokovciach](https://sk.wikipedia.org/wiki/Doln%C3%A9_Obdokovce) čp. 29. [^1]
-
-
-## Rodiče
-
-- Ján Brat (?–?)
-- Františka Rapavá (?–?)
-
-
-## Potomci
-
-- [Anna Récka](kissova-anna-q7n6jj.md) (1903–1982)
 
 ## Zdroje
 

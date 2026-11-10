@@ -5,16 +5,9 @@ firstName: "Dorota"
 surname: "Welychová"
 birth: 1683
 death: 1738
+father: "Karel Welych (?–?)"
+mother: "Anna (?–?)"
 isGenerated: true
 ---
 
 # Dorota Welychová
-
-## Rodiče
-
-- Karel Welych (?–?)
-- Anna (?–?)
-
-## Potomci
-
-- [Antonín Rob](rob-antonin-e3v2ys.md) (1725–1793)

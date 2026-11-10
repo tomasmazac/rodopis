@@ -5,12 +5,9 @@ firstName: "Marie"
 surname: "Šístková"
 birth: 1910
 death: 1935
+father: b24ftc
+mother: cbt2bh
 isGenerated: true
 ---
 
 # Marie Šístková
-
-## Rodiče
-
-- [Josef Šístek](sistek-josef-b24ftc.md) (1882–1939)
-- [Marie Horáková](horakova-marie-cbt2bh.md) (1887–1968)

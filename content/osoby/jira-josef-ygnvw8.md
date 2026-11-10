@@ -5,16 +5,11 @@ firstName: "Josef"
 surname: "Jíra"
 birth: 1931
 death: 2011
+father: pxsc55
+mother: f2cj28
+children:
+  - "Marie Jírová"
 isGenerated: true
 ---
 
 # Josef Jíra
-
-## Rodiče
-
-- [Josef Jíra](jira-josef-pxsc55.md) (1885–?)
-- [Helena Jeřábková](jerabkova-helena-f2cj28.md) (1897–?)
-
-## Potomci
-
-- Marie Jírová

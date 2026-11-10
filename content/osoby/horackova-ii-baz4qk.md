@@ -8,7 +8,3 @@ isGenerated: true
 ---
 
 # II. Horáčková
-
-## Potomci
-
-- [Ferdinand Průšek](prusek-ferdinand-s61ty1.md) (1874–?)

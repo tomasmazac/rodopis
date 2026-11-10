@@ -5,20 +5,14 @@ firstName: "Anna"
 surname: "Pechová"
 birth: 1921
 death: 1996
+father: rpcdg9
+mother: "Anna Přenosilová (?–?)"
+children:
+  - "Marie Vítková"
+  - "Jan Vítek"
+  - "František Vítek"
+  - "Jan Vítek (?–?)"
 isGenerated: true
 ---
 
 # Anna Pechová
-
-## Rodiče
-
-- [Josef Pech](pech-josef-rpcdg9.md) (1884–1949)
-- Anna Přenosilová (?–?)
-
-## Potomci
-
-- Marie Vítková
-- [Josef Vítek](vitek-josef-ja8ydm.md) (1947–1981)
-- Jan Vítek
-- František Vítek
-- Jan Vítek (?–?)

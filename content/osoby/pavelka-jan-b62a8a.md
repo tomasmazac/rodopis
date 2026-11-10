@@ -5,12 +5,9 @@ firstName: "Jan"
 surname: "Pavelka"
 birth: 1848
 death: 1864
+father: bkq5y1
+mother: gt1shj
 isGenerated: true
 ---
 
 # Jan Pavelka
-
-## Rodiče
-
-- [Matěj Pavelka](pavelka-matej-bkq5y1.md) (1814–?)
-- [Marie Kernerová](kernerova-marie-gt1shj.md) (1818–?)

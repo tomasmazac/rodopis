@@ -5,16 +5,11 @@ firstName: "Mária"
 surname: "Récka"
 birth: 1913
 death: 1994
+father: fgxzfr
+mother: g5aa6r
+children:
+  - "Štefan Palaťka"
 isGenerated: true
 ---
 
 # Mária Récka
-
-## Rodiče
-
-- [Jozef Reczky](reczky-jozef-fgxzfr.md) (1883–1967)
-- [Rozália Csanaky](csanaky-rozalia-g5aa6r.md) (1884–1957)
-
-## Potomci
-
-- Štefan Palaťka

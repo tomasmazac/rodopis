@@ -5,12 +5,9 @@ firstName: "Radim"
 surname: "Konařík"
 birth: 1925
 death: 1986
+father: t9n4mz
+mother: "Ema Hellmannová (?–?)"
 isGenerated: true
 ---
 
 # Radim Konařík
-
-## Rodiče
-
-- [Bedřich Konařík](konarik-bedrich-t9n4mz.md) (1878–1944)
-- Ema Hellmannová (?–?)

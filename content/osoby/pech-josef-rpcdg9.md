@@ -5,16 +5,9 @@ firstName: "Josef"
 surname: "Pech"
 birth: 1884
 death: 1949
+father: "Josef Pech (?–?)"
+mother: "Marie Nečada (?–?)"
 isGenerated: true
 ---
 
 # Josef Pech
-
-## Rodiče
-
-- Josef Pech (?–?)
-- Marie Nečada (?–?)
-
-## Potomci
-
-- [Anna Pechová](pechova-anna-a4yw4y.md) (1921–1996)

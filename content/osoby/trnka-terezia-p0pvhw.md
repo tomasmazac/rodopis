@@ -5,17 +5,12 @@ firstName: "Terézia"
 surname: "Trnka"
 birth: 1884
 death: 1969
+father: "Trnka (?–?)"
+mother: "Rajnohova (?–?)"
+children:
+  - "Jozef Arvay (?–?)"
+  - "Ladislav Arvay (?–?)"
 isGenerated: true
 ---
 
 # Terézia Trnka
-
-## Rodiče
-
-- Trnka (?–?)
-- Rajnohova (?–?)
-
-## Potomci
-
-- Jozef Arvay (?–?)
-- Ladislav Arvay (?–?)

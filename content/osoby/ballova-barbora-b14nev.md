@@ -4,12 +4,9 @@ title: "Barbora Ballová"
 firstName: "Barbora"
 surname: "Ballová"
 birth: 1848
+father: gqy4nd
+mother: gen66m
 isGenerated: true
 ---
 
 # Barbora Ballová
-
-## Rodiče
-
-- [Jozef Balla](balla-jozef-gqy4nd.md) (1822–1883)
-- [Alžběta Fintorová](fintorova-alzbeta-gen66m.md) (1827–1886)

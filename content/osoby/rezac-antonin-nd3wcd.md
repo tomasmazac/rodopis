@@ -5,12 +5,9 @@ firstName: "Antonín"
 surname: "Řezáč"
 birth: 1886
 death: 1886
+father: "Josef Mazáč"
+mother: nmjdxs
 isGenerated: true
 ---
 
 # Antonín Řezáč
-
-## Rodiče
-
-- Josef Mazáč
-- [Marie Řezáčová](rezacova-marie-nmjdxs.md) (1862–?)

@@ -5,16 +5,9 @@ firstName: "Kateřina"
 surname: "Škopková"
 birth: 1811
 death: 1890
+father: "Matěj Škopek (?–?)"
+mother: "Kateřina Slabá (?–?)"
 isGenerated: true
 ---
 
 # Kateřina Škopková
-
-## Rodiče
-
-- Matěj Škopek (?–?)
-- Kateřina Slabá (?–?)
-
-## Potomci
-
-- [Jan Šístek](sistek-jan-vhaa2x.md) (1844–1921)

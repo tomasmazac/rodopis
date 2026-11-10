@@ -5,12 +5,9 @@ firstName: "Josef"
 surname: "Průšek"
 birth: 1794
 death: 1799
+father: nnc962
+mother: pt81sq
 isGenerated: true
 ---
 
 # Josef Průšek
-
-## Rodiče
-
-- [Josef Průšek](prusek-josef-nnc962.md) (1762–?)
-- [Anna Filová](filova-anna-pt81sq.md) (1769–1819)

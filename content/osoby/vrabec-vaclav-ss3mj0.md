@@ -5,12 +5,9 @@ firstName: "Václav"
 surname: "Vrabec"
 birth: 1821
 death: 1898
+father: "Václav Vrabec (?–?)"
+mother: "Barbora Hrdinová (?–?)"
 isGenerated: true
 ---
 
 # Václav Vrabec
-
-## Rodiče
-
-- Václav Vrabec (?–?)
-- Barbora Hrdinová (?–?)

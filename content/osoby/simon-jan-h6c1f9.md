@@ -9,7 +9,3 @@ isGenerated: true
 ---
 
 # Ján Šimon
-
-## Potomci
-
-- [Josef Šimon](simon-josef-eqred4.md) (1825–?)

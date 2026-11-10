@@ -5,12 +5,9 @@ firstName: "Terezie"
 surname: "Zemanová"
 birth: 1795
 death: 1803
+father: d29fp3
+mother: "Marie Homolková (?–?)"
 isGenerated: true
 ---
 
 # Terezie Zemanová
-
-## Rodiče
-
-- [Kašpar Zeman](zeman-kaspar-d29fp3.md) (1759–1808)
-- Marie Homolková (?–?)

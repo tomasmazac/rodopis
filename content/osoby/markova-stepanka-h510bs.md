@@ -4,6 +4,10 @@ title: Štěpánka Typltová (roz. Marková)
 firstName: Štěpánka
 surname: Marková
 birth: 1889
+father: kqnn1b
+mother: qvxqaj
+children:
+  - "Štěpánka Kolenová"
 ---
 # Štěpánka Typltová (roz. Marková)
 
@@ -13,17 +17,6 @@ birth: 1889
 **Štěpánka Typltová** (roz. **Marková**) byla třetím dítětem, druhou dcerou [Jana Marka](marek-jan-kqnn1b.md) a [Marie Švermové](svermova-marie-qvxqaj.md). Narodila se 24. prosince 1889 v [Podhradí](https://cs.wikipedia.org/wiki/Podhrad%C3%AD_(Bakov_nad_Jizerou)) čp. 6. [^1]
 
 Dne 12. května 1931 v Praze se provdala za Vojtěcha Typlta. [^2]
-
-
-## Rodiče
-
-- [Jan Marek](marek-jan-kqnn1b.md) (1860–1934)
-- [Marie Švermová](svermova-marie-qvxqaj.md) (1867–1937)
-
-
-## Potomci
-
-- Štěpánka Kolenová
 
 ## Zdroje
 

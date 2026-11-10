@@ -5,17 +5,13 @@ firstName: "Ludmila"
 surname: "Volštátová"
 birth: 1929
 death: 2015
+father: "Josef Volštát (?–?)"
+mother: wywskm
+children:
+  - "Eva Bůžková"
+  - "Helena Bůžková"
+mtDna: H1c3
 isGenerated: true
 ---
 
 # Ludmila Volštátová
-
-## Rodiče
-
-- Josef Volštát (?–?)
-- [Ludmila Šístková](sistkova-ludmila-wywskm.md) (1906–?)
-
-## Potomci
-
-- Eva Bůžková
-- Helena Bůžková

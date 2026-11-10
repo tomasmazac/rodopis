@@ -5,12 +5,9 @@ firstName: "Marie"
 surname: "Pavelková"
 birth: 1845
 death: 1846
+father: bkq5y1
+mother: gt1shj
 isGenerated: true
 ---
 
 # Marie Pavelková
-
-## Rodiče
-
-- [Matěj Pavelka](pavelka-matej-bkq5y1.md) (1814–?)
-- [Marie Kernerová](kernerova-marie-gt1shj.md) (1818–?)
