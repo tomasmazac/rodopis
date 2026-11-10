@@ -20,7 +20,7 @@ Build potřebuje celou git historii (`enableGitInfo`, datum „Naposledy upraven
 | `content/osoby/` | stránky osob (`prijmeni-jmeno-rok.md`) |
 | `content/` | ostatní stránky (matriky, zdroje, …) |
 | `static/images/` | fotografie a dokumenty k osobám |
-| `static/` | ostatní soubory kopírované beze změny (favicony, PDF, CMS) |
+| `static/` | ostatní soubory kopírované beze změny (favicony, PDF) |
 | `data/prijmeni.yaml` | seznam zkoumaných příjmení na úvodní stránce |
 | `layouts/`, `assets/` | šablony, styly, skript vyhledávání a logo (při buildu se převede do WebP) |
 
