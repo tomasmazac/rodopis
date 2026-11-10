@@ -1,0 +1,16 @@
+---
+id: wzp5f9
+title: "Kašpar Zeman"
+firstName: "Kašpar"
+surname: "Zeman"
+birth: 1784
+death: 1862
+isGenerated: true
+---
+
+# Kašpar Zeman
+
+## Rodiče
+
+- [Kašpar Zeman](zeman-kaspar-d29fp3.md) (1759–1808)
+- Marie Homolková (?–?)

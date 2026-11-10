@@ -1,0 +1,16 @@
+---
+id: be7t27
+title: "Františka Bukowská"
+firstName: "Františka"
+surname: "Bukowská"
+birth: 1881
+death: 1881
+isGenerated: true
+---
+
+# Františka Bukowská
+
+## Rodiče
+
+- [Ferdinand Bukowský](bukowsky-ferdinand-r4xdsc.md) (1847–1924)
+- [Barbora Tomsová](tomsova-barbora-nm30aa.md) (1853–1881)

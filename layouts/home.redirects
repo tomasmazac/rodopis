@@ -1,8 +1,21 @@
+{{- partial "check-ids.html" . }}
 {{- range site.Pages }}
 {{- $url := .RelPermalink }}
 {{- if strings.HasSuffix $url "/index.html" }}
 {{ strings.TrimSuffix "index.html" $url }} {{ $url }} 301!
 {{- else if strings.HasSuffix $url ".html" }}
 {{ strings.TrimSuffix ".html" $url }} {{ $url }} 301!
+{{- end }}
+{{- end }}
+{{- $byId := dict }}
+{{- range where site.RegularPages "Section" "osoby" }}
+{{- $byId = merge $byId (dict .Params.id .) }}
+{{- end }}
+{{- range $old, $id := hugo.Data.presmerovani }}
+{{- with index $byId $id }}
+/osoby/{{ $old }}.html {{ .RelPermalink }} 301!
+/osoby/{{ $old }} {{ .RelPermalink }} 301!
+{{- else }}
+{{- errorf "data/presmerovani.yaml: %s vede na id %q, které žádná stránka nemá" $old $id }}
 {{- end }}
 {{- end }}

@@ -1,0 +1,20 @@
+---
+id: kr2hf6
+title: "Leopold Škobis"
+firstName: "Leopold"
+surname: "Škobis"
+birth: 1886
+death: 1938
+isGenerated: true
+---
+
+# Leopold Škobis
+
+## Rodiče
+
+- [Ferdinand Škobis](skobis-ferdinand-pxa2gj.md) (1840–?)
+- [Anna Veselá](vesela-anna-z1fht4.md) (1847–?)
+
+## Potomci
+
+- Zdeněk Škobis (1905–1948)

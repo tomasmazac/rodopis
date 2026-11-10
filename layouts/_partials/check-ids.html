@@ -1,0 +1,14 @@
+{{- /* The id is the person's permanent identity: links and redirects rely on it being unique and matching the file name. */ -}}
+{{- $seen := dict -}}
+{{- range where site.Pages "Section" "osoby" -}}
+  {{- if not .IsPage }}{{ continue }}{{ end -}}
+  {{- $id := .Params.id | string -}}
+  {{- if not (findRE `^[a-hjkmnp-tv-z][0-9a-hjkmnp-tv-z]{5}$` $id) -}}
+    {{- errorf "%s: chybí nebo je chybné id %q" .File.Path $id -}}
+  {{- else if not (strings.HasSuffix .File.ContentBaseName (printf "-%s" $id)) -}}
+    {{- errorf "%s: název souboru nekončí svým id %q" .File.Path $id -}}
+  {{- else if index $seen $id -}}
+    {{- errorf "%s: id %q už má %s" .File.Path $id (index $seen $id) -}}
+  {{- end -}}
+  {{- $seen = merge $seen (dict $id .File.Path) -}}
+{{- end -}}

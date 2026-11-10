@@ -30,7 +30,7 @@ Hledané příjmení: _Šístek–Šístková_
 
 |    | Jméno a příjmení                             | Datum             | Folium                                           |
 |----|:---------------------------------------------|:------------------|:-------------------------------------------------|
-| N  | [Anna Šístková](osoby/sistkova-anna-1901.md) | 12. ledna 1901    | [247](http://ebadatelna.soapraha.cz/d/11414/257) |
+| N  | [Anna Šístková](osoby/sistkova-anna-xpkv9f.md) | 12. ledna 1901    | [247](http://ebadatelna.soapraha.cz/d/11414/257) |
 | N  | František Šístek                             | 18. října 1902    | [264](http://ebadatelna.soapraha.cz/d/11414/277) |
 | N  | Josef Šístek                                 | 2. srpna 1904     | [284](http://ebadatelna.soapraha.cz/d/11414/299) |
 | N  | Ludmila Šístková                             | 28. července 1906 | [309](http://ebadatelna.soapraha.cz/d/11414/324) |

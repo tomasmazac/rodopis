@@ -1,0 +1,15 @@
+---
+id: jjv3zv
+title: "Kristýna Frumarová"
+firstName: "Kristýna"
+surname: "Frumarová"
+birth: 1862
+isGenerated: true
+---
+
+# Kristýna Frumarová
+
+## Rodiče
+
+- Josef Frumar (?–?)
+- Anna Roeslerová (?–?)

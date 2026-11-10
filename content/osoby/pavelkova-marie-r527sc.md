@@ -1,0 +1,15 @@
+---
+id: r527sc
+title: "Marie Pavelková"
+firstName: "Marie"
+surname: "Pavelková"
+birth: 1854
+isGenerated: true
+---
+
+# Marie Pavelková
+
+## Rodiče
+
+- Alois Pavelka (?–?)
+- Marie (?–?)
