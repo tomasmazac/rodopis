@@ -7,7 +7,7 @@ death: 1947
 ---
 # Marie Šístková (roz. Pavelková)
 
-**Marie Antonie Šístková** (roz. **Pavelková**) byla dcerou [Josefa Pavelky](pavelka-josef-1843.md) a Aloisie Tomsové. Narodila se 20. března 1872 v&nbsp;[Novém Bydžově](https://cs.wikipedia.org/wiki/Nov%C3%BD_Byd%C5%BEov), křest proběhl následující den. \[?]
+**Marie Antonie Šístková** (roz. **Pavelková**) byla dcerou [Josefa Pavelky](pavelka-josef-1843.md) a Aloisie Tomsové. Narodila se 20. března 1872 v&nbsp;[Novém Bydžově](https://cs.wikipedia.org/wiki/Nov%C3%BD_Byd%C5%BEov), křest proběhl následující den. [^1]
 
 {{< photo src="Photo1500274.jpg" alt="Marie Pavelková (nedatováno)" size="md" >}}
 
@@ -17,11 +17,10 @@ Ve svých 24 letech se 25. listopadu 1896 provdala za uzenáře [Františka Ší
 
 Ovdověla v roce 1944, kdy zemřel její manžel František.
 
-Zemřela náhle na Silvestra 31. prosince 1947 ve svém bytě v [Brodcích](https://cs.wikipedia.org/wiki/Brodce) čp. 159 (dnes pravděpodobně [Cukrovarská 159](https://goo.gl/maps/Rd7VkBaghnmKvPTS7)). Jako příčina úmrtí bylo uvedeno [zkornatění tepen](https://cs.wikipedia.org/wiki/Ateroskler%C3%B3za). Bylo jí 75 let. \[4–5]
+Zemřela náhle na Silvestra 31. prosince 1947 ve svém bytě v [Brodcích](https://cs.wikipedia.org/wiki/Brodce) čp. 159 (dnes pravděpodobně [Cukrovarská 159](https://goo.gl/maps/Rd7VkBaghnmKvPTS7)). Jako příčina úmrtí bylo uvedeno [zkornatění tepen](https://cs.wikipedia.org/wiki/Ateroskler%C3%B3za). Bylo jí 75 let. [^4] [^5]
 
-Byla pochována 3. ledna 1948 na hřbitově Svatého Václava na Mělníku, vedle svého manžela a svých rodičů. \[3–4]
+Byla pochována 3. ledna 1948 na hřbitově Svatého Václava na Mělníku, vedle svého manžela a svých rodičů. [^3] [^4]
 
-[^1] [^3] [^4] [^5]
 
 ## Rodiče
 
@@ -33,7 +32,7 @@ Byla pochována 3. ledna 1948 na hřbitově Svatého Václava na Mělníku, vedl
 * [Marie Konaříková](sistkova-marie-1897.md) (1897–1949)
 * [Anna Míčová](sistkova-anna-1901.md) (1901–1983)
 * [František Šístek](sistek-frantisek-1902.md) (1902–?)
-* Josef Šístek (1904-?)
+* Josef Šístek (1904–?)
 * Ludmila Volštátová (1906–?)
 * [Aloisie Šotolová](sistkova-aloisie-1908.md) (1908–?)
 
