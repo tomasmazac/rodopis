@@ -12,15 +12,15 @@ mother: gt1shj
 # Josef Pavelka
 
 > [!WARNING] NEKOMPLETNÍ INFORMACE
-> - Chybí matriční záznam o sňatku s&nbsp;Annou Lokajovou nebo oddací list.
+> - Chybí matriční záznam o sňatku s Annou Lokajovou nebo oddací list.
 
-**Josef Pavelka** byl nejstarším synem Matěje Pavelky a Marie Kláry Kernerové. Narodil se 3.&nbsp;června&nbsp;1843 v&nbsp;[Novém Bydžově](https://cs.wikipedia.org/wiki/Nov%C3%BD_Byd%C5%BEov) čp. 66. [^1]
+**Josef Pavelka** byl nejstarším synem [Matěje Pavelky](pavelka-matej-bkq5y1.md) a [Marie Kláry Kernerové](kernerova-marie-gt1shj.md). Narodil se 3. června 1843 v [Novém Bydžově](https://cs.wikipedia.org/wiki/Nov%C3%BD_Byd%C5%BEov) čp. 66. [^1]
 
 {{< photo src="Photo1500250.jpg" alt="Josef Pavelka (nedatováno)" size="md" >}}
 
-V&nbsp;roce 1900 Josef žil na mělnickém předměstí na adrese Poděbradová 122. Bydlela s&nbsp;ním samozřejmě i jeho žena Anna a dcera Aloisie, navíc švagr Arnošt Lokaj (povoláním zahradnický příručí) a dočasně asi tříletá vnučka Marie Šístková. [^3]
+V roce 1900 Josef žil na mělnickém předměstí na adrese Poděbradová 122. Bydlela s ním samozřejmě i jeho žena Anna a dcera [Aloisie](pavelkova-aloisie-a83cjw.md), navíc švagr Arnošt Lokaj (povoláním zahradnický příručí) a dočasně asi tříletá vnučka [Marie Šístková](sistkova-marie-tajrax.md). [^3]
 
-V&nbsp;roce 1910 byl už Josef ve výslužbě. Rodina žila na adrese Předměstí II čp. 156 v&nbsp;bytě v&nbsp;prvním poschodí domu, který patřil jeho bratrovi Vavřincovi (účetnímu cukrovaru v&nbsp;Horkách nad Jizerou). V&nbsp;přízemním bytě bydlely jeho sestry Marie a Teresie. [^4]
+V roce 1910 byl už Josef ve výslužbě. Rodina žila na adrese Předměstí II čp. 156 v bytě v prvním poschodí domu, který patřil jeho bratrovi Vavřincovi (účetnímu cukrovaru v Horkách nad Jizerou). V přízemním bytě bydlely jeho sestry Marie a [Teresie](pavelkova-terezie-fc5jjx.md). [^4]
 
 {{< photo src="Photo1500494.jpg" alt="Anna (roz. Lokajová) a Josef Pavelkovi (nedatováno)" size="md" >}}
 
