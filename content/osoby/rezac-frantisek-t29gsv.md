@@ -7,8 +7,6 @@ birth: 1838
 death: 1909
 father: y9krpf
 mother: n10dxs
-children:
-  - "Marie Mazáčová"
 ---
 
 # František Řezáč

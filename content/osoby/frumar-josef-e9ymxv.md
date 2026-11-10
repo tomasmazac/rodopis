@@ -5,8 +5,6 @@ firstName: "Josef"
 surname: "Frumar"
 father: vbgg4d
 mother: zm9xaa
-children:
-  - "Anna Frumarová (1861–?)"
 isGenerated: true
 ---
 

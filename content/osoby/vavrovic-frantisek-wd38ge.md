@@ -7,8 +7,6 @@ birth: 1895
 death: 1982
 father: rxh11h
 mother: ewzk37
-children:
-  - "Mária Vavrovičová (1928–?)"
 isGenerated: true
 ---
 

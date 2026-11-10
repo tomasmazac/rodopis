@@ -6,8 +6,6 @@ surname: 'Řezáč'
 birth: 1881
 father: t29gsv
 mother: hd2jrj
-children:
-  - "Kristýna Zdobinská"
 ---
 
 # Josef Řezáč

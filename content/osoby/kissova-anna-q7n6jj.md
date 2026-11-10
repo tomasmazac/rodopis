@@ -7,8 +7,6 @@ birth: 1903
 death: 1982
 father: k9z8f0
 mother: hsqha0
-children:
-  - "Mária Pindešová"
 ---
 # Anna Récka (roz. Kiššová)
 

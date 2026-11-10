@@ -6,10 +6,6 @@ surname: Mazač
 birth: 1858
 death: 1936
 mother: jrpv79
-children:
-  - "Marie Marschnerová (1892–?)"
-  - "František Mazač (1897–1909)"
-  - "Josef Mazač (1890–1892)"
 yDna: I-FT413013
 ---
 # Josef Mazač
