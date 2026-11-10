@@ -4,6 +4,7 @@ firstName: Jaroslav
 surname: Mazač
 birth: 1921
 death: 2005
+yDna: I-FT413013
 ---
 # Jaroslav Mazač
 
@@ -33,10 +34,6 @@ Zemřel po delší nemoci v pondělí 14. února 2005 ve 20.50 v Klaudiánově n
 
 * Jiří Mazač
 * Petr Mazač
-
-## DNA
-
-* Haploskupina Y-DNA: I-FT413013
 
 ## Zdroje
 

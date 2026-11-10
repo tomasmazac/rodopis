@@ -4,6 +4,7 @@ firstName: Marie
 surname: Šístková
 birth: 1897
 death: 1949
+mtDna: H1c3
 ---
 # Marie Konaříková (roz. Šístková)
 
@@ -41,9 +42,6 @@ Promoce proběhla 8. července 1922 a jejím [promotorem](https://prirucka.ujc.c
 * [Marie Pavelková](pavelkova-marie-1872.md) (1872–1947)
 
 
-## DNA
-
-* Haploskupina mtDNA: H1c3
 
 ## Zdroje
 

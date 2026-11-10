@@ -9,7 +9,16 @@ uglyURLs = true
 # path prefix: every link and asset is relative, nothing is fetched.
 relativeURLs = true
 enableGitInfo = true
-disableKinds = ["taxonomy", "term", "rss"]
+disableKinds = ["rss"]
+
+# Front matter keys are case-insensitive, so mtDna / yDna in a person page fill these.
+[taxonomies]
+  mtdna = "mtdna"
+  ydna = "ydna"
+[permalinks.taxonomy]
+  ydna = "/y-dna/"
+[permalinks.term]
+  ydna = "/y-dna/:slug/"
 
 # Netlify serves /page as page.html too; _redirects sends it to the one URL.
 [mediaTypes."text/netlify"]

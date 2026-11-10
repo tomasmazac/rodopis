@@ -3,6 +3,7 @@ title: Aloisie Šotolová (roz. Šístková)
 firstName: Aloisie
 surname: Šístková
 birth: 1908
+mtDna: H1c3
 ---
 # Aloisie Šístková
 
@@ -24,9 +25,6 @@ birth: 1908
 - Josef Šotola
 
 
-## DNA
-
-- Haploskupina mtDNA: H1c3
 
 ## Zdroje
 

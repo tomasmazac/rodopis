@@ -24,4 +24,6 @@ collections:
       - {label: Příjmení, name: surname, widget: string}
       - {label: Rok narození, name: birth, widget: number, required: false}
       - {label: Rok úmrtí, name: death, widget: number, required: false}
+      - {label: Haploskupina mtDNA, name: mtDna, widget: string, required: false}
+      - {label: Haploskupina Y-DNA, name: yDna, widget: string, required: false}
       - {label: Text, name: body, widget: markdown}

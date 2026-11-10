@@ -4,6 +4,7 @@ firstName: Mária
 surname: Záhumenická
 birth: 1864
 death: 1947
+mtDna: W6
 ---
 
 # Mária Chromá (roz. Záhumenická)
@@ -38,9 +39,6 @@ Zemřela v roce 1947. Bylo jí 83 let. Na náhrobním kamenu má špatně uveden
 - [Agneša Chromá](chroma-agnesa-1905.md) (1905–1905)
 
 
-## DNA
-
-- Haploskupina mtDNA: W6
 
 ## Zdroje
 

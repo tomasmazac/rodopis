@@ -4,6 +4,7 @@ firstName: František
 surname: Récky
 birth: 1935
 death: 1990
+yDna: R-Y5587
 ---
 # František Récky
 
@@ -27,10 +28,6 @@ Zemřel 7. prosince 1990 v 54 letech. [^1] Je pohřben na Městském hřbitově 
 * Jarmila Mazačová
 * [Oľga Récka](recka-olga-1961.md) (1961–2018)
 * Zlatica Ballová
-
-## DNA
-
-* Haploskupina Y-DNA: R-Y5587
 
 ## Zdroje
 

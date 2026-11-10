@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="content">
+  <h1>Haploskupiny {{ partial "dna-label.html" .Data.Plural }}</h1>
+  <ul class="person-list">
+    {{- range .Pages.ByTitle }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <span class="lifespan">({{ len .Pages }} {{ if eq (len .Pages) 1 }}osoba{{ else if lt (len .Pages) 5 }}osoby{{ else }}osob{{ end }})</span>
+    </li>
+    {{- end }}
+  </ul>
+</article>
+<hr>
+{{ partial "footer.html" . }}
+{{ end }}

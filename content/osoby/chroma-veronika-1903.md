@@ -4,6 +4,7 @@ firstName: Veronika
 surname: Chromá
 birth: 1903
 death: 1981
+mtDna: W6an
 ---
 # Veronika Ballová (roz. Chromá)
 
@@ -31,10 +32,6 @@ Dne 7. listopadu 1922 se na Veľkém Lapáši provdala za [Stanislava Ballu](bal
 * Jozef Balla
 * Štefan Balla
 * Karol Balla
-
-## DNA
-
-* Haploskupina mtDNA: W6an
 
 ## Zdroje
 

@@ -4,6 +4,7 @@ firstName: Helena
 surname: Míčová
 birth: 1925
 death: 2008
+mtDna: H1c3
 ---
 # Helena Morávková (roz. Míčová)
 
@@ -22,10 +23,6 @@ Zemřela 18. července 2008 ve věku 83 let. \[?]
 
 * [Josef Míč](mic-josef-1894.md) (1894–1979)
 * [Anna Šístková](sistkova-anna-1901.md) (1901–1983)
-
-## DNA
-
-* Haploskupina mtDNA: H1c3
 
 ## Zdroje
 

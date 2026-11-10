@@ -4,6 +4,7 @@ firstName: Alois
 surname: Mazač
 birth: 1906
 death: 1983
+yDna: I-FT413013
 ---
 # Alois Mazač
 
@@ -24,10 +25,6 @@ Zemřel 7. dubna 1983 v [Liberci](https://cs.wikipedia.org/wiki/Liberec). [^3] B
 
 * [Josef Mazač](mazac-josef-1858.md) (1858–1936)
 * [Bohumila Tomanová](tomanova-bohumila-1868.md) (1868–1922)
-
-## DNA
-
-* Haploskupina Y-DNA: I-FT413013
 
 ## Zdroje
 

@@ -4,6 +4,7 @@ firstName: Josef
 surname: Mazač
 birth: 1858
 death: 1936
+yDna: I-FT413013
 ---
 # Josef Mazač
 
@@ -60,10 +61,6 @@ Po delší nemoci zemřel 9. června 1936 ve 3 hodiny ráno ve věku 79 let (na 
 * [Josef Mazač](mazac-josef-1898.md) (1898–1898)
 * [Bohumila Jägerová](mazacova-bohumila-1904.md) (1904–?)
 * [Alois Mazač](mazac-alois-1906.md) (1906–1983)
-
-## DNA
-
-* Haploskupina Y-DNA: I-FT413013
 
 ## Externí odkazy
 

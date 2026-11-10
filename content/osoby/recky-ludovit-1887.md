@@ -4,6 +4,7 @@ firstName: Ľudovít
 surname: Récky
 birth: 1887
 death: 1967
+yDna: R-Y5587
 ---
 
 # Ľudovít Recký
@@ -44,9 +45,6 @@ Zemřel 5. března 1967 na plicní embolii. [^1]
 - Františka Dobiášová (1944–2023)
 
 
-## DNA
-
-* Haploskupina Y-DNA: R-Y5587
 
 ## Zdroje
 

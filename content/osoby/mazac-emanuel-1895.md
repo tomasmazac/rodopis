@@ -4,6 +4,7 @@ firstName: Emanuel
 surname: Mazač
 birth: 1895
 death: 1949
+yDna: I-FT413013
 ---
 # Emanuel Mazač
 
@@ -70,10 +71,6 @@ Zemřel svobodný a bezdětný.
 
 * [Josef Mazač](mazac-josef-1858.md) (1858–1936)
 * [Marie Škobisová](skobisova-marie-1860.md) (1860–1898)
-
-## DNA
-
-* Haploskupina Y-DNA: I-FT413013
 
 ## Útržky
 

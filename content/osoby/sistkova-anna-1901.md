@@ -4,6 +4,7 @@ firstName: Anna
 surname: Šístková
 birth: 1901
 death: 1983
+mtDna: H1c3
 ---
 # Anna Míčová (roz. Šístková)
 
@@ -22,10 +23,6 @@ Zemřela po delší nemoci v sobotu 6. srpna 1983 ve věku 82 let. [^4]
 
 * [Helena Morávková](micova-helena-1925.md) (1925–2008)
 * Olga Mazačová (1929–2025)
-
-## DNA
-
-* Haploskupina mtDNA: H1c3
 
 ## Zdroje
 

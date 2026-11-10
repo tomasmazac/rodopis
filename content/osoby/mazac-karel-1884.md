@@ -4,6 +4,7 @@ firstName: Karel
 surname: Mazač
 birth: 1884
 death: 1952
+yDna: I-FT413013
 ---
 # Karel Mazač
 
@@ -34,10 +35,6 @@ Ve středu 20.&nbsp;srpna v 16.00 byl po církevních obřadech pochován na Nov
 
 * Zdeněk Mazač
 * Miroslava Prokšová
-
-## DNA
-
-* Haploskupina Y-DNA: I-FT413013
 
 ## Zdroje
 

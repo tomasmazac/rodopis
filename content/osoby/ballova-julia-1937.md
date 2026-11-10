@@ -4,6 +4,7 @@ firstName: Júlia
 surname: Ballová
 birth: 1937
 death: 2006
+mtDna: W6an
 ---
 # Júlia Récka (roz. Ballová)
 
@@ -31,10 +32,6 @@ V&nbsp;sobotu 15.&nbsp;listopadu&nbsp;1958 se provdala za [Františka Réckého]
 * Jarmila Mazačová
 * [Oľga Récka](recka-olga-1961.md) (1961–2018)
 * Zlatica Ballová
-
-## DNA
-
-* Haploskupina mtDNA: W6an
 
 ## Zdroje
 

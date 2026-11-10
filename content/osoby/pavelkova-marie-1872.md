@@ -4,6 +4,7 @@ firstName: Marie
 surname: Pavelková
 birth: 1872
 death: 1947
+mtDna: H1c3
 ---
 # Marie Šístková (roz. Pavelková)
 
@@ -21,7 +22,6 @@ Zemřela náhle na Silvestra 31. prosince 1947 ve svém bytě v [Brodcích](http
 
 Byla pochována 3. ledna 1948 na hřbitově Svatého Václava na Mělníku, vedle svého manžela a svých rodičů. [^3] [^4]
 
-
 ## Rodiče
 
 * [Josef Pavelka](pavelka-josef-1843.md) (1843–1929)
@@ -35,10 +35,6 @@ Byla pochována 3. ledna 1948 na hřbitově Svatého Václava na Mělníku, vedl
 * Josef Šístek (1904–?)
 * Ludmila Volštátová (1906–?)
 * [Aloisie Šotolová](sistkova-aloisie-1908.md) (1908–?)
-
-## DNA
-
-* Haploskupina mtDNA: H1c3
 
 ## Zdroje
 

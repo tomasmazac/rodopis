@@ -35,6 +35,8 @@ firstName: Emanuel
 surname: Mazač
 birth: 1895
 death: 1949
+mtDna: H1c3         # haploskupina mtDNA; osoba se objeví na stránce /mtdna/h1c3.html
+yDna: I-FT413013    # haploskupina Y-DNA; stránka /y-dna/i-ft413013.html
 isGenerated: true   # jen pro stránky vygenerované z GEDCOM
 draft: true         # stránka se negeneruje (např. osoba bez roku narození); odkazy na ni jsou jen text
 ---

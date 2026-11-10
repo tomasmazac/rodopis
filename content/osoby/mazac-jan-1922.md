@@ -4,6 +4,7 @@ firstName: Jan
 surname: Mazač
 birth: 1922
 death: 1988
+yDna: I-FT413013
 ---
 # Jan Mazač
 
@@ -25,7 +26,3 @@ Oženil se s Libuší Měšťákovou. Manželství ale skončilo rozvodem. \[?]
 ## Potomci
 
 * [Jan Mazač](mazac-jan-1949.md) (1949–2015)
-
-## DNA
-
-* Haploskupina Y-DNA: I-FT413013
