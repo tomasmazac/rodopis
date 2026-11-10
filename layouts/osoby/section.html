@@ -10,8 +10,8 @@
   {{- $letter = index $fold $letter | default $letter -}}
   {{- if hasPrefix (lower $surname) "ch" }}{{ $letter = "Ch" }}{{ end -}}
   {{- $letters = merge $letters (dict $letter ((index $letters $letter) | default slice | append $surname)) -}}
-  {{- /* People without a known birth year go last in their family. */ -}}
-  {{- $entry := dict "key" (printf "%04d %s" (.Params.birth | default 9999) .Params.firstName) "page" . -}}
+  {{- /* Same first name: older first; no birth year: last. */ -}}
+  {{- $entry := dict "key" (printf "%s %04d" .Params.firstName (int (.Params.birth | default 9999))) "page" . -}}
   {{- $people = merge $people (dict $surname ((index $people $surname) | default slice | append $entry)) -}}
 {{- end -}}
 <article class="content">
