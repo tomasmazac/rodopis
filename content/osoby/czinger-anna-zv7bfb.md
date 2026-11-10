@@ -5,7 +5,7 @@ firstName: "Anna"
 surname: "Czinger"
 birth: 1875
 father: stnmh0
-mother: "Jozefa Réczky"
+mother: xf3faw
 isGenerated: true
 ---
 

@@ -7,7 +7,6 @@ birth: 1936
 death: 2013
 mother: rwa7hf
 children:
-  - "Josef Řezáč (?–2018)"
   - "Soňa Foitová"
 yDna: R-Y2905
 ---

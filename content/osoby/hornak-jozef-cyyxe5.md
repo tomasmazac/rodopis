@@ -7,8 +7,6 @@ birth: 1877
 death: 1949
 father: tkb02y
 mother: bjj156
-children:
-  - "Anna Horňáková (?–?)"
 isGenerated: true
 ---
 

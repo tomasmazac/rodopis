@@ -7,8 +7,6 @@ birth: 1870
 death: 1950
 father: hssgb8
 mother: c13ker
-children:
-  - "Anna Míčová"
 ---
 
 # Anna Míčová (roz. Laurichová)

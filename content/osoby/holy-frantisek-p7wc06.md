@@ -7,8 +7,6 @@ birth: 1776
 death: 1829
 father: j39mhk
 mother: dvgvfc
-children:
-  - "Anna Holy"
 isGenerated: true
 ---
 

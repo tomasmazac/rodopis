@@ -5,8 +5,6 @@ firstName: "Kristýna"
 surname: "Pošvová"
 birth: 1797
 father: "František Pošva (?–?)"
-children:
-  - "Josef Frumar (?–?)"
 isGenerated: true
 ---
 

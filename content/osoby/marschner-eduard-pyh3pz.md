@@ -5,7 +5,7 @@ firstName: "Eduard"
 surname: "Marschner"
 birth: 1889
 father: x1axmr
-mother: "Maria Kreibich (?–?)"
+mother: knghts
 isGenerated: true
 ---
 

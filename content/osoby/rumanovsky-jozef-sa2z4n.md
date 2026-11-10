@@ -9,7 +9,6 @@ father: bhx1ps
 mother: avqkjv
 children:
   - "Rumanovský"
-  - "Mária Rumanovská (?–?)"
 isGenerated: true
 ---
 

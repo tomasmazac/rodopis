@@ -8,7 +8,6 @@ death: 1974
 father: "Josef Knespl (?–?)"
 mother: "Marie Volfová (?–?)"
 children:
-  - "Zdeněk Mazač (?–?)"
   - "Miroslava Mazačová"
 isGenerated: true
 ---

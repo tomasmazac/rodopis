@@ -7,11 +7,6 @@ birth: 1873
 death: 1920
 father: mkzm31
 mother: r80rzn
-children:
-  - "Margita Kiššová"
-  - "Františka Kiššová"
-  - "Vendel Kišš"
-  - "František Kišš"
 ---
 # Ján Kišš
 

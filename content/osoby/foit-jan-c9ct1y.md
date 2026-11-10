@@ -8,7 +8,6 @@ death: 1930
 father: dsexn4
 mother: "Josefa Kotilová"
 children:
-  - "František Foit (?–?)"
   - "Marie Foitová"
 isGenerated: true
 ---

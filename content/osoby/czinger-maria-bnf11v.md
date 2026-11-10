@@ -5,7 +5,7 @@ firstName: "Maria"
 surname: "Czinger"
 birth: 1873
 father: stnmh0
-mother: "Jozefa Réczky"
+mother: xf3faw
 isGenerated: true
 ---
 

@@ -6,7 +6,7 @@ surname: "Czinger"
 birth: 1852
 death: 1933
 father: "Jozef Czinger (?–1895)"
-mother: "Terézia Ferenci (?–1896)"
+mother: g5re3w
 isGenerated: true
 ---
 

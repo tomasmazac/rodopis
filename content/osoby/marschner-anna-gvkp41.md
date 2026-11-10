@@ -5,7 +5,7 @@ firstName: "Anna"
 surname: "Marschner"
 birth: 1888
 father: x1axmr
-mother: "Maria Kreibich (?–?)"
+mother: knghts
 isGenerated: true
 ---
 

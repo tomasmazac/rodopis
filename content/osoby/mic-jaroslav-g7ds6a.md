@@ -6,8 +6,6 @@ surname: "Míč"
 birth: 1903
 father: q0wp7y
 mother: dd7q8d
-children:
-  - "Jaroslav Míč (?–2024)"
 isGenerated: true
 ---
 

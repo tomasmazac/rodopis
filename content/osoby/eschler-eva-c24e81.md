@@ -6,7 +6,7 @@ surname: "Eschler"
 birth: 1943
 death: 1999
 father: "Eschler (?–1962)"
-mother: "Anna Marschner (?–1958)"
+mother: b61j29
 children:
   - "Peter"
 isGenerated: true

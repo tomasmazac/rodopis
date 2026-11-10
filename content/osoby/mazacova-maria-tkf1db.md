@@ -6,8 +6,6 @@ surname: "Mazačová"
 birth: 1892
 father: bn9bff
 mother: q0r7kx
-children:
-  - "Anna Marschner (?–1958)"
 isGenerated: true
 ---
 

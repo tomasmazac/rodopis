@@ -7,9 +7,6 @@ birth: 1760
 death: 1829
 children:
   - "Josef Frumar"
-  - "Anna Frumarová"
-  - "Vojtěch Frumar"
-  - "Alžběta Frumarová"
   - "Josef Frumar"
 isGenerated: true
 ---

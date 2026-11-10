@@ -6,7 +6,7 @@ surname: "Eschler"
 birth: 1940
 death: 1997
 father: "Eschler (?–1962)"
-mother: "Anna Marschner (?–1958)"
+mother: b61j29
 children:
   - "Mike Flügel"
 isGenerated: true

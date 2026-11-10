@@ -9,7 +9,6 @@ father: fq6873
 mother: c18dj2
 children:
   - "Jozef Balla"
-  - "Karol Balla"
 ---
 
 # Stanislav Balla

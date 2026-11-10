@@ -7,8 +7,6 @@ birth: 1886
 death: 1938
 father: pxa2gj
 mother: z1fht4
-children:
-  - "Zdeněk Škobis (1905–1948)"
 isGenerated: true
 ---
 

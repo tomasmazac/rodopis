@@ -6,7 +6,7 @@ surname: "Holá"
 birth: 1818
 death: 1873
 father: p7wc06
-mother: "Anna Jedličková (?–?)"
+mother: w9zbdg
 mtDna: H1c3
 isGenerated: true
 ---

@@ -5,7 +5,7 @@ firstName: "Joan"
 surname: "Hollý"
 birth: 1809
 father: p7wc06
-mother: "Anna Jedličková (?–?)"
+mother: w9zbdg
 isGenerated: true
 ---
 

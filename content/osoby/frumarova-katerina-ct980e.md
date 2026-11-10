@@ -4,7 +4,7 @@ title: "Kateřina Frumarová"
 firstName: "Kateřina"
 surname: "Frumarová"
 birth: 1859
-father: "Josef Frumar (?–?)"
+father: e9ymxv
 mother: "Anna Roeslerová (?–?)"
 isGenerated: true
 ---

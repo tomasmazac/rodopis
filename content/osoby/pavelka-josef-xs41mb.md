@@ -7,8 +7,6 @@ birth: 1843
 death: 1929
 father: bkq5y1
 mother: gt1shj
-children:
-  - "Maxmilián Pavelka (?–?)"
 ---
 
 # Josef Pavelka

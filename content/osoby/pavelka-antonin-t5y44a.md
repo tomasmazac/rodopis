@@ -6,8 +6,6 @@ surname: "Pavelka"
 birth: 1852
 father: bkq5y1
 mother: gt1shj
-children:
-  - "Marie Pavelková (?–?)"
 isGenerated: true
 ---
 

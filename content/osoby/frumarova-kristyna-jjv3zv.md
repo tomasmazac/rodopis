@@ -4,7 +4,7 @@ title: "Kristýna Frumarová"
 firstName: "Kristýna"
 surname: "Frumarová"
 birth: 1862
-father: "Josef Frumar (?–?)"
+father: e9ymxv
 mother: "Anna Roeslerová (?–?)"
 isGenerated: true
 ---

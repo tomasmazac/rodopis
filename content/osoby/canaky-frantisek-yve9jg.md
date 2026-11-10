@@ -8,7 +8,6 @@ death: 1975
 father: ytzefr
 mother: f0735h
 children:
-  - "Viktor Čanaky (1938–?)"
   - "Čanakyová"
 isGenerated: true
 ---

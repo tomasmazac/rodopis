@@ -8,7 +8,6 @@ death: 1958
 father: "František Matoušek (?–?)"
 mother: "Antonie Holubcová (?–?)"
 children:
-  - "František Foit (?–?)"
   - "Marie Foitová"
 isGenerated: true
 ---

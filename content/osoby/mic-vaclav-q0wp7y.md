@@ -6,8 +6,6 @@ surname: 'Míč'
 birth: 1865
 father: hrv9c6
 mother: rmqgjg
-children:
-  - "Anna Míčová"
 ---
 
 # Václav Míč

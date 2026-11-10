@@ -8,7 +8,6 @@ death: 1952
 father: bn9bff
 mother: q0r7kx
 children:
-  - "Zdeněk Mazač"
   - "Miroslava Prokšová"
 yDna: I-FT413013
 ---

@@ -9,7 +9,6 @@ father: dy0gka
 mother: m5cfsv
 children:
   - "Jozef Balla"
-  - "Karol Balla"
 mtDna: W6an
 ---
 # Veronika Ballová (roz. Chromá)

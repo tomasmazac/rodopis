@@ -5,8 +5,6 @@ firstName: "Zora"
 surname: "Kišová"
 birth: 1894
 death: 1991
-children:
-  - "¨Mária Vavrovičová (1928–?)"
 isGenerated: true
 ---
 

@@ -7,9 +7,6 @@ birth: 1884
 death: 1969
 father: "Trnka (?–?)"
 mother: "Rajnohova (?–?)"
-children:
-  - "Jozef Arvay (?–?)"
-  - "Ladislav Arvay (?–?)"
 isGenerated: true
 ---
 

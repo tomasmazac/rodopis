@@ -8,8 +8,6 @@ father: t29gsv
 mother: hd2jrj
 children:
   - "Kristýna Zdobinská"
-  - "Jindřich Řezáč"
-  - "Václav Řezáč"
 ---
 
 # Josef Řezáč

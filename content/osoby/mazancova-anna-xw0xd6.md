@@ -6,7 +6,6 @@ surname: "Mazancová"
 birth: 1876
 children:
   - "Česáková"
-  - "Antonín Česák (?–?)"
 isGenerated: true
 ---
 

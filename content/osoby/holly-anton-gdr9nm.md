@@ -5,7 +5,7 @@ firstName: "Anton"
 surname: "Hollý"
 birth: 1813
 father: p7wc06
-mother: "Anna Jedličková (?–?)"
+mother: w9zbdg
 isGenerated: true
 ---
 

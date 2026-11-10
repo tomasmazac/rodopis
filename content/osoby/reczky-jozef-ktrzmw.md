@@ -11,8 +11,6 @@ children:
   - "Anna Reczká"
   - "Natália Reczká"
   - "Karol Reczky"
-  - "Michal Reczky (?–2020)"
-  - "Michal Réczky"
 yDna: R-Y5587
 isGenerated: true
 ---

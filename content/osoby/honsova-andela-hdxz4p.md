@@ -10,7 +10,6 @@ mother: xvv4b1
 children:
   - "Josef Foit"
   - "Pavel Foit"
-  - "Zdeněk Foit"
 isGenerated: true
 ---
 

@@ -7,7 +7,6 @@ birth: 1803
 father: "Jan Šinor"
 mother: "Kateřina Nechvátalová"
 children:
-  - "František Šinor"
   - "Josef Šinor (1829–1892)"
 ---
 

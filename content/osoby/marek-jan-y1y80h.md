@@ -6,8 +6,6 @@ surname: Marek
 birth: 1888
 father: kqnn1b
 mother: qvxqaj
-children:
-  - "Ivan Marek (?–?)"
 ---
 # Jan Marek
 

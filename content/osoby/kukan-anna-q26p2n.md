@@ -8,7 +8,6 @@ father: c1qtg4
 mother: htjrv7
 children:
   - "Rumanovský"
-  - "Mária Rumanovská (?–?)"
 isGenerated: true
 ---
 

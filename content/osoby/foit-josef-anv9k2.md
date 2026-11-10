@@ -10,7 +10,6 @@ mother: xmw0s5
 children:
   - "Josef Foit"
   - "Pavel Foit"
-  - "Zdeněk Foit"
 isGenerated: true
 ---
 

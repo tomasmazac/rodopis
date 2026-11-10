@@ -6,8 +6,6 @@ surname: "Taxová"
 birth: 1875
 father: h5we29
 mother: yjhtr3
-children:
-  - "Marie Škobisová"
 isGenerated: true
 ---
 
