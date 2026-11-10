@@ -15,6 +15,59 @@
   {{- $html = printf "%s<h2 id=\"rodiče\">Rodiče</h2>\n<ul>\n<li>%s</li>\n</ul>\n" $html (delimit . "</li>\n<li>") -}}
 {{- end -}}
 
+{{- /*
+  Siblings share a parent with a page: that parent's other children. Half siblings are marked
+  only when both have the other parent written and it differs. A text sibling is listed under
+  one parent only, so whether they share the other one cannot be told.
+*/ -}}
+{{- $self := string $page.Params.id -}}
+{{- $found := dict -}}
+{{- range $role := slice "father" "mother" -}}
+  {{- $parent := string (index $page.Params $role | default "") -}}
+  {{- with index $people.byId $parent -}}
+    {{- range index $people.children $parent -}}
+      {{- $id := string .Params.id -}}
+      {{- if ne $id $self -}}
+        {{- $found = merge $found (dict $id (merge (index $found $id | default dict) (dict "page" . $role true))) -}}
+      {{- end -}}
+    {{- end -}}
+    {{- range .Params.children -}}
+      {{- $key := printf "text:%s" . -}}
+      {{- $found = merge $found (dict $key (merge (index $found $key | default dict) (dict "text" . $role true))) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $siblings := slice -}}
+{{- $i := 0 -}}
+{{- range $sib := $found -}}
+  {{- $note := "" -}}
+  {{- $year := "9999" -}}
+  {{- $html := "" -}}
+  {{- with .page -}}
+    {{- $year = printf "%04d" (int (.Params.birth | default 9999)) -}}
+    {{- $html = partial "person-link.html" (string .Params.id) -}}
+  {{- else -}}
+    {{- $year = index (findRESubmatch `\((\d{4})` .text 1) 0 1 | default "9999" -}}
+    {{- $html = partial "person-link.html" .text -}}
+  {{- end -}}
+  {{- range $only, $other := dict "father" "mother" "mother" "father" -}}
+    {{- if and (index $sib $only) (not (index $sib $other)) -}}
+      {{- with $sib.page -}}
+        {{- $mine := string (index $page.Params $other | default "") -}}
+        {{- $theirs := string (index .Params $other | default "") -}}
+        {{- if and $mine $theirs (ne $mine $theirs) }}{{ $note = cond (eq $only "father") " (po otci)" " (po matce)" }}{{ end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $siblings = $siblings | append (dict "key" (printf "%s-%04d" $year $i) "html" (printf "%s%s" $html $note)) -}}
+  {{- $i = add $i 1 -}}
+{{- end -}}
+{{- with $siblings -}}
+  {{- $items := slice -}}
+  {{- range sort . "key" }}{{ $items = $items | append .html }}{{ end -}}
+  {{- $html = printf "%s<h2 id=\"sourozenci\">Sourozenci</h2>\n<ul>\n<li>%s</li>\n</ul>\n" $html (delimit $items "</li>\n<li>") -}}
+{{- end -}}
+
 {{- /* Children with a page and those written as text, by birth year; the index keeps the written order for equal years. */ -}}
 {{- $children := slice -}}
 {{- range index $people.children (string $page.Params.id) -}}
