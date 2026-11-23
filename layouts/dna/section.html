@@ -1,0 +1,14 @@
+{{ define "main" }}
+<article class="content">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{- range slice "ydna" "mtdna" }}
+  {{- with site.GetPage (printf "/%s" .) }}
+  <h2><a href="{{ .RelPermalink }}">{{ partial "dna-label.html" .Data.Plural }}</a></h2>
+  {{ partial "haplogroups.html" . }}
+  {{- end }}
+  {{- end }}
+</article>
+<hr>
+{{ partial "footer.html" . }}
+{{ end }}

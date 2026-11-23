@@ -9,6 +9,7 @@
   {{- if not (in $members (string (index .Params $line | default ""))) }}{{ $roots = $roots | append . }}{{ end }}
 {{- end }}
 <article class="content">
+  <nav class="breadcrumbs" aria-label="Drobečková navigace"><a href="{{ (site.GetPage "/dna").RelPermalink }}">DNA</a> › <a href="{{ .Parent.RelPermalink }}">{{ partial "dna-label.html" $taxonomy }}</a> › <span>{{ .Title }}</span></nav>
   <h1>Haploskupina {{ partial "dna-label.html" $taxonomy }} {{ .Title }}</h1>
   <p>{{ if eq $taxonomy "mtdna" }}Mitochondriální DNA dědí od matky všechny její děti, dál ji ale předávají jen dcery.{{ else }}Chromozom Y dědí syn od otce.{{ end }}</p>
   <ul class="dna-tree">
@@ -16,7 +17,6 @@
     {{ partial "dna-tree.html" (dict "person" . "line" $line "members" $members) }}
     {{- end }}
   </ul>
-  <p><a href="{{ .Parent.RelPermalink }}">Všechny haploskupiny {{ partial "dna-label.html" $taxonomy }}</a></p>
 </article>
 <hr>
 {{ partial "footer.html" . }}

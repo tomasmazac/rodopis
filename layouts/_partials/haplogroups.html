@@ -1,0 +1,9 @@
+{{- /* Haplogroups of one taxonomy with the number of people in each. */ -}}
+<ul class="person-list">
+  {{- range .Pages.ByTitle }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <span class="lifespan">({{ len .Pages }} {{ if eq (len .Pages) 1 }}osoba{{ else if lt (len .Pages) 5 }}osoby{{ else }}osob{{ end }})</span>
+  </li>
+  {{- end }}
+</ul>
