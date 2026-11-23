@@ -16,7 +16,7 @@ V 26 letech si bere za ženu osmnáctiletou vdovu [Marii Průškovou](svermova-m
 
 Zemřel v 77 letech v neděli 23. září 1934 v Podhradí čp. 46 na rakovinu močového měchýře. [^2] Pochován je na hřbitově v [Bakově nad Jizerou](https://cs.wikipedia.org/wiki/Bakov_nad_Jizerou). [^3]
 
-## Fyzignomie
+## Fyziognomie
 
 Měl kulatý obličej, modré oči a kaštanové vlasy. [^5]
 
