@@ -93,6 +93,14 @@
   {{- $html = printf "%s<h2 id=\"dna\">DNA</h2>\n<ul>\n<li>%s</li>\n</ul>\n" $html (delimit . "</li>\n<li>") -}}
 {{- end -}}
 
+{{- $graves := slice -}}
+{{- range index $people.graves (string $page.Params.id) -}}
+  {{- $graves = $graves | append (printf `<a href="%s">%s</a> (%s, %s)` .RelPermalink (partial "grave-title.html" .) .Params.town .Params.country) -}}
+{{- end -}}
+{{- with $graves -}}
+  {{- $html = printf "%s<h2 id=\"hrob\">Hrob</h2>\n<ul>\n<li>%s</li>\n</ul>\n" $html (delimit . "</li>\n<li>") -}}
+{{- end -}}
+
 {{- with $html -}}
   {{- $closing := `<h2 id="(?:útržky|jmenovec|externí-odkazy|zdroje)">` -}}
   {{- if findRE $closing $content 1 -}}

@@ -1,0 +1,24 @@
+{{ define "main" }}
+<article class="content">
+  {{ partial "breadcrumbs.html" (dict "grave" (index .Pages 0) "until" "country" "current" .Title) }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{- range .Pages.GroupByParam "cemetery" }}
+  <h2>{{ .Key }}</h2>
+  <ul>
+    {{- range sort .Pages "Params.place" }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ with .Params.place }}Hrobové místo {{ . }}{{ else }}Neznámé hrobové místo{{ end }}</a>
+      <ul>
+        {{- range .Params.people }}
+        <li>{{ partial "person-link.html" . | safeHTML }}</li>
+        {{- end }}
+      </ul>
+    </li>
+    {{- end }}
+  </ul>
+  {{- end }}
+</article>
+<hr>
+{{ partial "footer.html" . }}
+{{ end }}

@@ -1,0 +1,10 @@
+{{- /* Grave, town and country pages have no title of their own; it comes from their fields. */ -}}
+{{- $t := .Title -}}
+{{- if and .IsPage (eq .Section "hroby") -}}
+  {{- $t = partial "grave-title.html" . -}}
+{{- else if eq .Kind "term" -}}
+  {{- $t = cond (in (slice "country" "town") .Data.Plural) (printf "Hroby: %s" .Title) (printf "Haploskupina %s %s" (partial "dna-label.html" .Data.Plural) .Title) -}}
+{{- else if eq .Kind "taxonomy" -}}
+  {{- $t = index (dict "country" "Hroby podle zemí" "town" "Hroby podle měst") .Data.Plural | default (printf "Haploskupiny %s" (partial "dna-label.html" .Data.Plural)) -}}
+{{- end -}}
+{{- return $t -}}

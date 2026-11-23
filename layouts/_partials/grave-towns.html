@@ -1,0 +1,10 @@
+{{- /* Towns of the given graves with a grave count, alphabetically. */ -}}
+{{- $towns := dict -}}
+{{- range . -}}
+  {{- with index (.GetTerms "town") 0 }}{{ $towns = merge $towns (dict .Title .) }}{{ end -}}
+{{- end -}}
+<ul class="person-list">
+  {{- range $name, $town := $towns }}
+  <li><a href="{{ $town.RelPermalink }}">{{ $name }}</a> <span class="lifespan">({{ partial "grave-count.html" $town.Pages }})</span></li>
+  {{- end }}
+</ul>

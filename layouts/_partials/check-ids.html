@@ -1,7 +1,7 @@
 {{- /* The id is the person's permanent identity: links and redirects rely on it being unique and matching the file name. */ -}}
 {{- $seen := dict -}}
-{{- range where site.Pages "Section" "osoby" -}}
-  {{- if not .IsPage }}{{ continue }}{{ end -}}
+{{- range site.RegularPages -}}
+  {{- if not (in (slice "osoby" "hroby") .Section) }}{{ continue }}{{ end -}}
   {{- $id := .Params.id | string -}}
   {{- if not (findRE `^[a-hjkmnp-tv-z][0-9a-hjkmnp-tv-z]{5}$` $id) -}}
     {{- errorf "%s: chybí nebo je chybné id %q" .File.Path $id -}}
@@ -27,6 +27,18 @@
   {{- range $page.Params.children -}}
     {{- if findRE $idShape (string .) -}}
       {{- errorf "%s: v children je id %q; dítě se stránkou se nezapisuje, doplní se samo podle father/mother" $page.File.Path . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- range where site.RegularPages "Section" "hroby" -}}
+  {{- $grave := . -}}
+  {{- if not .Params.people }}{{ errorf "%s: hrob nemá people" .File.Path }}{{ end -}}
+  {{- range slice "country" "town" "cemetery" -}}
+    {{- if not (index $grave.Params .) }}{{ errorf "%s: hrob nemá %s" $grave.File.Path . }}{{ end -}}
+  {{- end -}}
+  {{- range .Params.people -}}
+    {{- if and (findRE $idShape (string .)) (not (index (partialCached "people.html" true).byId (string .))) -}}
+      {{- errorf "%s: v people je %q, což není id žádné osoby" $grave.File.Path . -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}

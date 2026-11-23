@@ -1,0 +1,10 @@
+{{ define "main" }}
+<article class="content">
+  {{ partial "breadcrumbs.html" (dict "current" .Title) }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ partial "grave-towns.html" .Pages }}
+</article>
+<hr>
+{{ partial "footer.html" . }}
+{{ end }}

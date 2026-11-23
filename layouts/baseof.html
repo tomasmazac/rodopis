@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ if .IsHome }}{{ site.Title }}{{ else if eq .Kind "term" }}Haploskupina {{ partial "dna-label.html" .Data.Plural }} {{ .Title }} | {{ site.Title }}{{ else if eq .Kind "taxonomy" }}Haploskupiny {{ partial "dna-label.html" .Data.Plural }} | {{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ partial "page-title.html" . }} | {{ site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
   {{- /* Pages generated from GEDCOM may hold unverified data; keep them out of search engines. */}}
   {{- if .Params.isGenerated }}
@@ -35,9 +35,9 @@
         <ul id="suggestions" class="suggestions" hidden></ul>
       </div>
       <nav>
-        <a href="{{ (site.GetPage "/osoby").RelPermalink }}">Rejstřík osob</a>
-        <a href="{{ (site.GetPage "/ydna").RelPermalink }}">Y-DNA</a>
-        <a href="{{ (site.GetPage "/mtdna").RelPermalink }}">mtDNA</a>
+        <a href="{{ (site.GetPage "/osoby").RelPermalink }}">Osoby</a>
+        <a href="{{ (site.GetPage "/dna").RelPermalink }}">DNA</a>
+        <a href="{{ (site.GetPage "/hroby").RelPermalink }}">Hroby</a>
         <a href="{{ site.Params.repo }}" target="_blank" rel="noopener noreferrer">Repozitář{{ partial "external-icon.html" . }}</a>
       </nav>
     </div>

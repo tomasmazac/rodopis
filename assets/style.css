@@ -47,7 +47,7 @@ a:hover { text-decoration: underline; }
 .brand img { width: auto; height: 2.2rem; margin-right: 0.8rem; }
 .nav-right { display: flex; align-items: center; gap: 1.5rem; }
 .nav-right nav { display: flex; gap: 1.5rem; }
-.nav-right nav a { color: var(--text); }
+.nav-right nav a { color: var(--text); white-space: nowrap; }
 .nav-right nav a:hover { color: var(--accent); text-decoration: none; }
 
 /* Search */
@@ -170,6 +170,7 @@ sup:has(> .footnote-ref) { vertical-align: baseline; font-size: inherit; }
 
 /* Person index */
 .person-list .lifespan { margin-left: 0.3em; color: var(--muted); }
+.content h2 .lifespan { color: var(--muted); font-weight: 400; font-size: 0.6em; }
 .content h3.surname { font-size: 1.1rem; margin: 1.5rem 0 0.4rem; }
 .surname + .person-list { margin-top: 0; }
 
@@ -178,12 +179,22 @@ sup:has(> .footnote-ref) { vertical-align: baseline; font-size: inherit; }
 .page-footer { padding: 1rem 2.5rem; text-align: center; color: var(--muted); font-size: 0.85rem; }
 .page-footer div { margin: 0.5rem auto; }
 
-@media (max-width: 719px) {
-  .navbar { padding-left: 1rem; padding-right: 1rem; }
-  .brand span, .nav-right nav a[rel] { display: none; }
-  .nav-right { gap: 1rem; }
+/* Below ~780 px the one-row header (logo, search, menu) does not fit. */
+@media (max-width: 779px) {
+  /* The menu gets its own row; sticky keeps the content below a header of any height. */
+  .navbar { position: sticky; height: auto; flex-wrap: wrap; row-gap: 0.5rem; padding: 0.5rem 1rem; }
+  main { padding-top: 0; }
+  .home { padding-top: 2rem; }
+  .brand span { display: none; }
+  .nav-right { display: contents; }
+  .nav-right nav { order: 3; flex-basis: 100%; flex-wrap: wrap; gap: 0.3rem 1.2rem; }
   .search-box input, .search-box input:focus { width: 8rem; }
+}
+
+@media (max-width: 719px) {
   .page, .home { padding-left: 1rem; padding-right: 1rem; }
   .hero h1 { font-size: 2rem; }
   .hero .description { font-size: 1.2rem; }
 }
+
+.breadcrumbs { margin-bottom: 1rem; color: var(--muted); font-size: 0.9rem; }

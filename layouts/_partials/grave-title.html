@@ -1,0 +1,2 @@
+{{- $place := cond (isset .Params "place") (printf "hrobové místo %s" .Params.place) "neznámé hrobové místo" -}}
+{{- return printf "%s, %s" .Params.cemetery $place -}}

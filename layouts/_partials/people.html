@@ -14,4 +14,11 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
-{{- return dict "byId" ($s.Get "byId") "children" ($s.Get "children" | default dict) -}}
+{{- /* A grave lists who lies there; each person gets their graves from that list. */ -}}
+{{- range where site.RegularPages "Section" "hroby" -}}
+  {{- $grave := . -}}
+  {{- range .Params.people -}}
+    {{- $s.SetInMap "graves" (string .) ((index ($s.Get "graves" | default dict) (string .)) | default slice | append $grave) -}}
+  {{- end -}}
+{{- end -}}
+{{- return dict "byId" ($s.Get "byId") "children" ($s.Get "children" | default dict) "graves" ($s.Get "graves" | default dict) -}}

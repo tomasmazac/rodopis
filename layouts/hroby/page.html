@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article class="content">
+  {{ partial "breadcrumbs.html" (dict "grave" . "current" (cond (isset .Params "place") (printf "Hrobové místo %s" .Params.place) "Neznámé hrobové místo")) }}
+  <h1>{{ partial "grave-title.html" . }}</h1>
+  <p>{{ .Params.town }}, {{ .Params.country }}</p>
+  <h2 id="pohřbení">Pohřbení</h2>
+  <ul>
+    {{- range .Params.people }}
+    <li>{{ partial "person-link.html" . | safeHTML }}</li>
+    {{- end }}
+  </ul>
+  {{ .Content }}
+</article>
+<hr>
+{{ partial "footer.html" . }}
+{{ end }}

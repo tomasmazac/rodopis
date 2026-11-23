@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article class="content">
+  {{ partial "breadcrumbs.html" (dict "current" (partial "page-title.html" .)) }}
+  <h1>{{ partial "page-title.html" . }}</h1>
+  <ul class="person-list">
+    {{- range .Pages.ByTitle }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="lifespan">({{ partial "grave-count.html" .Pages }})</span></li>
+    {{- end }}
+  </ul>
+</article>
+<hr>
+{{ partial "footer.html" . }}
+{{ end }}

@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article class="content">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{- range (site.GetPage "/country").Pages.ByTitle }}
+  <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="lifespan">({{ partial "grave-count.html" .Pages }})</span></h2>
+  {{ partial "grave-towns.html" .Pages }}
+  {{- end }}
+</article>
+<hr>
+{{ partial "footer.html" . }}
+{{ end }}

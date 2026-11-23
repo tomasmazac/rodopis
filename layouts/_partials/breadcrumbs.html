@@ -1,0 +1,13 @@
+{{- /* Hroby › country › town › grave: the trail is built from the grave's fields, so it needs no folders. */ -}}
+{{- $grave := .grave -}}
+{{- $items := slice (dict "url" (site.GetPage "/hroby").RelPermalink "name" "Hroby") -}}
+{{- with $grave -}}
+  {{- range slice "country" "town" -}}
+    {{- with index ($grave.GetTerms .) 0 }}{{ $items = $items | append (dict "url" .RelPermalink "name" .Title) }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+{{- with .until }}{{ $items = first (add (index (dict "country" 2 "town" 3) .) 0) $items }}{{ end -}}
+<nav class="breadcrumbs" aria-label="Drobečková navigace">
+  {{- range $items }}<a href="{{ .url }}">{{ .name }}</a> › {{ end -}}
+  <span>{{ .current }}</span>
+</nav>

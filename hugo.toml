@@ -9,16 +9,26 @@ uglyURLs = true
 # path prefix: every link and asset is relative, nothing is fetched.
 relativeURLs = true
 enableGitInfo = true
+# Grave pages get town and country pages from these fields; keep their URLs ASCII.
+removePathAccents = true
+# Town names are written as they should appear ("Bakov nad Jizerou").
+capitalizeListTitles = false
 disableKinds = ["rss"]
 
 # Front matter keys are case-insensitive, so mtDna / yDna in a person page fill these.
 [taxonomies]
   mtdna = "mtdna"
   ydna = "ydna"
+  country = "country"
+  town = "town"
 [permalinks.taxonomy]
   ydna = "/y-dna/"
+  country = "/hroby/zeme/"
+  town = "/hroby/mesta/"
 [permalinks.term]
   ydna = "/y-dna/:slug/"
+  country = "/hroby/zeme/:slug/"
+  town = "/hroby/mesta/:slug/"
 
 # Netlify serves /page as page.html too; _redirects sends it to the one URL.
 [mediaTypes."text/netlify"]

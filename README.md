@@ -22,12 +22,13 @@ Build potřebuje celou git historii (`enableGitInfo`, datum „Naposledy upraven
 | Cesta | Obsah |
 |---|---|
 | `content/osoby/` | stránky osob (`prijmeni-jmeno-id.md`) |
+| `content/hroby/` | hrobová místa (`mesto-id.md`) |
 | `content/` | ostatní stránky (matriky, zdroje, …) |
 | `static/images/` | fotografie a dokumenty k osobám |
 | `static/` | ostatní soubory kopírované beze změny (favicony, PDF) |
 | `data/prijmeni.yaml` | seznam zkoumaných příjmení na úvodní stránce |
 | `data/presmerovani.yaml` | dřívější adresy stránek osob a id osoby, na kterou přesměrují |
-| `scripts/new-id.sh` | vypíše nové volné id osoby |
+| `scripts/new-id.sh` | vypíše nové volné id osoby nebo hrobu |
 | `layouts/`, `assets/` | šablony, styly, skript vyhledávání a logo (při buildu se převede do WebP) |
 
 ## Adresy
@@ -92,3 +93,26 @@ draft: true         # stránka se negeneruje; odkazy na ni jsou jen text
   > [!WARNING] NEKOMPLETNÍ INFORMACE
   > Chybí matriční záznam o úmrtí nebo úmrtní list.
   ```
+
+### Hroby
+
+- Jeden soubor = jedno hrobové místo, `content/hroby/mesto-id.md` (id ze `scripts/new-id.sh`, stejná pravidla jako u osob):
+
+  ```yaml
+  ---
+  id: zmfx9s
+  country: Slovensko
+  town: Malý Lapáš
+  cemetery: Hřbitov Malý Lapáš
+  place: "114"          # číslo hrobu; neznámé = pole vynechat
+  people:               # pořadí jako na náhrobku; id osoby, nebo text pro osobu bez stránky
+    - mfdspm
+    - "Veronika Ballová"
+  ---
+  ```
+
+- Fotky, odkazy (`## Externí odkazy`) a poznámky patří do textu pod front matter.
+- Titulek, stránky měst (`/hroby/mesta/…`) a zemí (`/hroby/zeme/…`), přehled `/hroby/` a drobečková navigace vzniknou z polí. Nové město nebo země se objeví samo s prvním hrobem.
+- Stejný název = stejné místo: dvě obce se stejným jménem se v `town` musí rozlišit, např. `Nová Ves (Plzeň-sever)`.
+- Osoba dostane sekci „Hrob“ sama podle `people`; u osoby se hrob nezapisuje.
+- Build skončí chybou, když hrob nemá `people`, `country`, `town` nebo `cemetery`, nebo když v `people` je id, které žádná osoba nemá.

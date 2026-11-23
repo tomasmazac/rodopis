@@ -1,0 +1,7 @@
+{{- /* "2 hroby, 12 osob" for the given grave pages; people without a page count too. */ -}}
+{{- $graves := len . -}}
+{{- $people := 0 -}}
+{{- range . }}{{ $people = add $people (len .Params.people) }}{{ end -}}
+{{- $g := cond (eq $graves 1) "hrob" (cond (lt $graves 5) "hroby" "hrobů") -}}
+{{- $p := cond (eq $people 1) "osoba" (cond (lt $people 5) "osoby" "osob") -}}
+{{- return printf "%d %s, %d %s" $graves $g $people $p -}}
