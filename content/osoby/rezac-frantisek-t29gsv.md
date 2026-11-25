@@ -11,13 +11,13 @@ mother: n10dxs
 
 # František Řezáč
 
-**František Řezáč** byl synem Josefa Řezáče a Veroniky Nosálkové. Narodil se 18.&nbsp;července 1838 v&nbsp;[Kosmonosích](https://cs.wikipedia.org/wiki/Kosmonosy) čp.&nbsp;89. [^1]
+**František Řezáč** byl synem Josefa Řezáče a Veroniky Nosálkové. Narodil se 18. července 1838 v [Kosmonosích](https://cs.wikipedia.org/wiki/Kosmonosy) čp. 89. [^1]
 
-V&nbsp;úterý 12.&nbsp;listopadu 1861 se oženil s&nbsp;Františkou Hübnerovou. [^2]
+V úterý 12. listopadu 1861 se oženil s Františkou Hübnerovou. [^2]
 
 Byl nádeníkem.
 
-Zemřel 10.&nbsp;července 1909 v&nbsp;půl osmé večer v&nbsp;Kosmonosích čp.&nbsp;297. Zemřel náhle (a tedy bez zaopatření) ve věku 70 let, jako příčina úmrtí byla uvedena sešlost věkem. V&nbsp;pět hodin odpoledne 12.&nbsp;července proběhl pohřeb, pochovávajícím knězem byl farář Václav Říha. [^3]
+Zemřel 10. července 1909 v půl osmé večer v Kosmonosích čp. 297. Zemřel náhle (a tedy bez zaopatření) ve věku 70 let, jako příčina úmrtí byla uvedena sešlost věkem. V pět hodin odpoledne 12. července proběhl pohřeb, pochovávajícím knězem byl farář Václav Říha. [^3]
 
 ## Zdroje
 

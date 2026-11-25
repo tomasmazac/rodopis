@@ -11,11 +11,11 @@ mtDna: H1c3
 ---
 # Marie Šístková (roz. Pavelková)
 
-**Marie Antonie Šístková** (roz. **Pavelková**) byla dcerou [Josefa Pavelky](pavelka-josef-xs41mb.md) a Aloisie Tomsové. Narodila se 20. března 1872 v&nbsp;[Novém Bydžově](https://cs.wikipedia.org/wiki/Nov%C3%BD_Byd%C5%BEov), křest proběhl následující den. [^1]
+**Marie Antonie Šístková** (roz. **Pavelková**) byla dcerou [Josefa Pavelky](pavelka-josef-xs41mb.md) a Aloisie Tomsové. Narodila se 20. března 1872 v [Novém Bydžově](https://cs.wikipedia.org/wiki/Nov%C3%BD_Byd%C5%BEov), křest proběhl následující den. [^1]
 
 {{< photo src="Photo1500274.jpg" alt="Marie Pavelková (nedatováno)" size="md" >}}
 
-Ve svých 24 letech se 25. listopadu 1896 provdala za uzenáře [Františka Šístka](sistek-frantisek-nyr37g.md). Svatební obřad proběhl v [kostele Nejsvětější Trojice](https://cs.wikipedia.org/wiki/Kostel_Nejsv%C4%9Bt%C4%9Bj%C5%A1%C3%AD_Trojice_(Praha,_Trojick%C3%A1_ulice)) v&nbsp;[Podskalí](https://cs.wikipedia.org/wiki/Podskal%C3%AD_(Praha)). [^2]
+Ve svých 24 letech se 25. listopadu 1896 provdala za uzenáře [Františka Šístka](sistek-frantisek-nyr37g.md). Svatební obřad proběhl v [kostele Nejsvětější Trojice](https://cs.wikipedia.org/wiki/Kostel_Nejsv%C4%9Bt%C4%9Bj%C5%A1%C3%AD_Trojice_(Praha,_Trojick%C3%A1_ulice)) v [Podskalí](https://cs.wikipedia.org/wiki/Podskal%C3%AD_(Praha)). [^2]
 
 {{< photo src="Photo1501267.jpg" alt="Marie Šístková (1939)" size="md" >}}
 

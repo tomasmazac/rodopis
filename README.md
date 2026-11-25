@@ -76,8 +76,10 @@ draft: true         # stránka se negeneruje; odkazy na ni jsou jen text
 
 - Odkaz na jinou osobu: `[Josef Mazač](mazac-josef-bn9bff.md)` – Hugo ho převede na URL a při buildu upozorní na neexistující stránku. Odkaz na stránku s `draft: true` se zobrazí jako text.
 - Odkaz na soubor ve `static/` (PDF, sken) začíná `../`, např. `[Rešerše](../D01_02_Prvopis_verze_3EEA4C20.pdf)`. Existenci souboru build nekontroluje.
+- Přepis zdroje k osobě (životopis, zápis z kroniky) má vlastní stránku ve složce `content/zdroje/<soubor osoby bez .md>/`, např. `content/zdroje/mazac-emanuel-p1rxx5/cv.md`. Osoba na ni odkazuje `/zdroje/…/cv.md`.
+- Nedělitelné mezery doplní build sám (`layouts/_partials/nbsp.html`): po jednopísmenných předložkách a spojkách, v datech, mezi číslem a slovem („21 let“), po zkratce před číslem („čp. 405“) a po titulu („MUDr. Marie“). Jinde (iniciály, „Praha 1“) se píše `&nbsp;` ručně.
 - Zdroje jsou poznámky pod čarou: v textu `[^1]`, na konci stránky nadpis `## Zdroje` a pod ním `[^1]: Popis zdroje`. Sousední odkazy (`[^2][^1]`) se na webu spojí do `[1, 2]`. Zdroj, který v textu není citovaný, Hugo nezobrazí; build na to upozorní.
-- Sekce „Rodiče“, „Sourozenci“, „Potomci“ a „DNA“ se do textu nepíšou. Vytvoří je šablona z `father`, `mother`, `children`, `mtDna` a `yDna` a vloží je za vyprávění, před sekce „Útržky“, „Jmenovec“, „Externí odkazy“ a „Zdroje“.
+- Sekce „Rodiče“, „Sourozenci“, „Potomci“ a „DNA“ se do textu nepíšou. Vytvoří je šablona z `father`, `mother`, `children`, `mtDna` a `yDna` a vloží je za vyprávění, před sekce „Útržky“, „Jmenovec“, „Odkazy“, „Externí odkazy“ a „Zdroje“.
 - Vztah se zapisuje jen u dítěte (`father`, `mother`). Potomky se stránkou šablona najde sama; do `children` patří jen děti bez stránky, jinak budou na stránce dvakrát. Build skončí chybou, když `father` / `mother` vypadá jako id, ale taková osoba není, nebo když je v `children` id.
 - Sourozenci jsou ostatní děti rodičů, kteří mají stránku: děti se stránkou i text z `children` rodiče. Kdo má oba rodiče jen jako text, sourozence nemá. „(po otci)“ / „(po matce)“ se ukáže jen u sourozence se stránkou, který má druhého rodiče zapsaného jinak.
 - V seznamech příbuzných se ukazuje rodné jméno (`firstName` + `surname`) a roky ze stránky příbuzného, ne titulek.
@@ -111,8 +113,8 @@ draft: true         # stránka se negeneruje; odkazy na ni jsou jen text
   ---
   ```
 
-- Fotky, odkazy (`## Externí odkazy`) a poznámky patří do textu pod front matter.
+- Fotky, odkazy a poznámky patří do textu pod front matter. `## Odkazy` jsou související stránky na našem webu (hrob, zdroje), `## Externí odkazy` vedou mimo web.
 - Titulek, stránky měst (`/hroby/mesta/…`) a zemí (`/hroby/zeme/…`), přehled `/hroby/` a drobečková navigace vzniknou z polí. Nové město nebo země se objeví samo s prvním hrobem.
 - Stejný název = stejné místo: dvě obce se stejným jménem se v `town` musí rozlišit, např. `Nová Ves (Plzeň-sever)`.
-- Osoba dostane sekci „Hrob“ sama podle `people`; u osoby se hrob nezapisuje.
+- Odkaz na hrob přidá šablona sama podle `people` do sekce „Odkazy“ (když stránka žádnou nemá, vytvoří ji před „Externí odkazy“ nebo „Zdroje“); u osoby se hrob nezapisuje.
 - Build skončí chybou, když hrob nemá `people`, `country`, `town` nebo `cemetery`, nebo když v `people` je id, které žádná osoba nemá.

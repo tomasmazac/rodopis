@@ -6,7 +6,7 @@
   <p><a class="action-button" href="{{ (site.GetPage "/osoby").RelPermalink }}">Rejstřík osob →</a></p>
 </div>
 <article class="content">
-  {{ .Content }}
+  {{ partial "nbsp.html" .Content }}
 </article>
 {{ partial "footer.html" . }}
 {{ end }}

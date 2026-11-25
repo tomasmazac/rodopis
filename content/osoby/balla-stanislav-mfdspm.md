@@ -13,13 +13,13 @@ children:
 
 # Stanislav Balla
 
-**Stanislav Balla** byl synem Jozefa Bally a Márie Lacové. Spolu se svým bratrem Adamem se narodil 7.&nbsp;května&nbsp;1895 na [Malém Lapáši](https://cs.wikipedia.org/wiki/Mal%C3%BD_Lap%C3%A1%C5%A1). [^1] 7.&nbsp;listopadu&nbsp;1922 se oženil s&nbsp;[Veronikou Chromou](chroma-veronika-vga2f0.md). [^1]
+**Stanislav Balla** byl synem Jozefa Bally a Márie Lacové. Spolu se svým bratrem Adamem se narodil 7. května 1895 na [Malém Lapáši](https://cs.wikipedia.org/wiki/Mal%C3%BD_Lap%C3%A1%C5%A1). [^1] 7. listopadu 1922 se oženil s [Veronikou Chromou](chroma-veronika-vga2f0.md). [^1]
 
 {{< photo src="Photo1500569-Enhanced.jpg" alt="Stanislav Balla (nedatováno)" size="md" >}}
 
 {{< photo src="Photo1501363-Enhanced.jpg" alt="Stanislav Balla (nedatováno)" size="md" >}}
 
-Zemřel 1.&nbsp;listopadu&nbsp;1958 na Velkém Lapáši v&nbsp;důsledku [bronchitidy](https://cs.wikipedia.org/wiki/Bronchitida). [^2] Je pohřben na hřbitově na Malém Lapáši (hrob č.&nbsp;114) po boku své ženy Veroniky. [^3]
+Zemřel 1. listopadu 1958 na Velkém Lapáši v důsledku [bronchitidy](https://cs.wikipedia.org/wiki/Bronchitida). [^2] Je pohřben na hřbitově na Malém Lapáši (hrob č. 114) po boku své ženy Veroniky. [^3]
 
 ## Zdroje
 

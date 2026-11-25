@@ -1,6 +1,6 @@
 {{ define "main" }}
 <article class="content">
-  {{ with .Content }}{{ . }}{{ else }}<h1>{{ .Title }}</h1>{{ end }}
+  {{ with .Content }}{{ partial "nbsp.html" . }}{{ else }}<h1>{{ .Title }}</h1>{{ end }}
   <ul>
     {{ range .Pages.ByTitle }}
     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>

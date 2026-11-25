@@ -10,17 +10,17 @@ mother: zry8y3
 ---
 # František Šístek
 
-**František Šístek** byl synem [Jana Šístka](sistek-jan-vhaa2x.md) a Antonie Příhodové. Narodil se 22. září 1872 v [Tismicích](https://cs.wikipedia.org/wiki/Tismice) čp. 26. Za dva dny (tj. 24. září) proběhl křest. Malý chlapec byl pokřtěn po [Františku z Assisi](https://cs.wikipedia.org/wiki/Franti%C5%A1ek_z_Assisi) jako *František Serafinský*. Za kmotry mu šli František a Anna Hamtákovi (rolník z [Limuz](https://cs.wikipedia.org/wiki/Limuzy) čp. 11 s&nbsp;manželkou) a Anna Šplíchalová (manželka Josefa Šplíchala, starosty z&nbsp;Limuz čp. 2). [^1][^7]
+**František Šístek** byl synem [Jana Šístka](sistek-jan-vhaa2x.md) a Antonie Příhodové. Narodil se 22. září 1872 v [Tismicích](https://cs.wikipedia.org/wiki/Tismice) čp. 26. Za dva dny (tj. 24. září) proběhl křest. Malý chlapec byl pokřtěn po [Františku z Assisi](https://cs.wikipedia.org/wiki/Franti%C5%A1ek_z_Assisi) jako *František Serafinský*. Za kmotry mu šli František a Anna Hamtákovi (rolník z [Limuz](https://cs.wikipedia.org/wiki/Limuzy) čp. 11 s manželkou) a Anna Šplíchalová (manželka Josefa Šplíchala, starosty z Limuz čp. 2). [^1][^7]
 
 František se v Praze vyučil uzenářem. V učení byl tři roky – od 15. května 1887 do 20. dubna 1890. [^2]
 
 {{< photo src="SCAN0015.jpg" alt="František Šístek (nedatováno, Praha)" size="md" >}}
 
-Ve středu 25. listopadu 1896 se oženil s&nbsp;[Marií Pavelkovou](pavelkova-marie-ag201r.md). Svatební obřad proběhl v [kostele Nejsvětější Trojice](https://cs.wikipedia.org/wiki/Kostel_Nejsv%C4%9Bt%C4%9Bj%C5%A1%C3%AD_Trojice_(Praha,_Trojick%C3%A1_ulice)) v&nbsp;[Podskalí](https://cs.wikipedia.org/wiki/Podskal%C3%AD_(Praha)). [^3][^6] 29. září 1897 se jim narodila dcera [Marie](sistkova-marie-tajrax.md).
+Ve středu 25. listopadu 1896 se oženil s [Marií Pavelkovou](pavelkova-marie-ag201r.md). Svatební obřad proběhl v [kostele Nejsvětější Trojice](https://cs.wikipedia.org/wiki/Kostel_Nejsv%C4%9Bt%C4%9Bj%C5%A1%C3%AD_Trojice_(Praha,_Trojick%C3%A1_ulice)) v [Podskalí](https://cs.wikipedia.org/wiki/Podskal%C3%AD_(Praha)). [^3][^6] 29. září 1897 se jim narodila dcera [Marie](sistkova-marie-tajrax.md).
 
 Rodina se poté přestěhovala do [Říčan](https://cs.wikipedia.org/wiki/%C5%98%C3%AD%C4%8Dany). Zde se poté 12. ledna 1901 narodila dcera [Anna](sistkova-anna-xpkv9f.md).
 
-Někdy po roce 1908 (vzhledem k datu narození dcery [Aloisie](sistkova-aloisie-r8v7kx.md)) se rodina stěhuje do [Mělníka](https://cs.wikipedia.org/wiki/M%C4%9Bln%C3%ADk) a z&nbsp;Františka Šístka se stává restauratér.
+Někdy po roce 1908 (vzhledem k datu narození dcery [Aloisie](sistkova-aloisie-r8v7kx.md)) se rodina stěhuje do [Mělníka](https://cs.wikipedia.org/wiki/M%C4%9Bln%C3%ADk) a z Františka Šístka se stává restauratér.
 
 {{< photo src="sistek-frantisek.jpg" alt="František Šístek (nedatováno)" size="md" >}}
 

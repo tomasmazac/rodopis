@@ -14,7 +14,7 @@ yDna: I-FT413013
 ---
 # Jaroslav Mazač
 
-**Jaroslav Mazač** byl synem [Jana Mazače](mazac-jan-dq97hc.md) a [Marie Markové](markova-marie-b4tnmv.md). Narodil se 21. dubna 1921 v [Rokytně](https://cs.wikipedia.org/wiki/Rokytno_(Rokytnice_nad_Jizerou)) čp.&nbsp;27.
+**Jaroslav Mazač** byl synem [Jana Mazače](mazac-jan-dq97hc.md) a [Marie Markové](markova-marie-b4tnmv.md). Narodil se 21. dubna 1921 v [Rokytně](https://cs.wikipedia.org/wiki/Rokytno_(Rokytnice_nad_Jizerou)) čp. 27.
 
 <div style="display: flex; ">
 {{< photo src="img_5037.jpg" alt="Rokytno čp. 27 (únor 2024)" >}}

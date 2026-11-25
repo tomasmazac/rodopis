@@ -22,7 +22,7 @@ mtDna: W6an
 
 **Júlia Récka** (rozená **Ballová**) byla dcerou [Stanislava Bally](balla-stanislav-mfdspm.md) a [Veroniky Chromé](chroma-veronika-vga2f0.md). Narodila se 30. ledna 1937 na [Malém Lapáši](https://cs.wikipedia.org/wiki/Mal%C3%BD_Lap%C3%A1%C5%A1). \[?]
 
-V&nbsp;sobotu 15.&nbsp;listopadu&nbsp;1958 se provdala za [Františka Réckého](recky-frantisek-d06xhd.md). Sňatek se konal v&nbsp;římskokatolickém kostele na Veľkém Lapáši (pravděpodobně farní kostel Nepoškvrneného počatia Panny Márie). [^1]
+V sobotu 15. listopadu 1958 se provdala za [Františka Réckého](recky-frantisek-d06xhd.md). Sňatek se konal v římskokatolickém kostele na Veľkém Lapáši (pravděpodobně farní kostel Nepoškvrneného počatia Panny Márie). [^1]
 
 {{< photo src="Sken_42.jpeg" alt="Oznámení o sňatku Františka Réckého a Júlie Ballové \[1]" size="lg" >}}
 

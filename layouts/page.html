@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{- partial "check-footnotes.html" . }}
 <article class="content">
-  {{ partial "family.html" (dict "page" . "content" (partial "citations.html" .Content)) }}
+  {{ partial "nbsp.html" (partial "family.html" (dict "page" . "content" (partial "citations.html" .Content))) }}
 </article>
 {{ if and .GitInfo (not .Lastmod.IsZero) }}
 <div class="last-updated">Naposledy upraveno: {{ .Lastmod | time.Format ":date_long" }}</div>

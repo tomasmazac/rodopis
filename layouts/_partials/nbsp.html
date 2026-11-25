@@ -1,0 +1,31 @@
+{{- /*
+  Czech typography: no line break after one-letter prepositions and conjunctions, inside
+  dates, between a number and what it counts, and after titles and abbreviations before a number.
+  Only text between tags is changed, so URLs and attributes stay intact.
+*/ -}}
+{{- /* Stems catch every case: "1. června", "k 1. červnu 1939". */ -}}
+{{- $months := `(?:led|únor|břez|dub|květ|červ|srp|září|říj|listopad|prosin)\pL*` -}}
+{{- $out := "" -}}
+{{- $raw := false -}}
+{{- range findRE `<[^>]*>|[^<]+` (string .) -}}
+  {{- if hasPrefix . "<" -}}
+    {{- if findRE `^<(pre|code|script|style)[\s>]` . 1 }}{{ $raw = true }}{{ end -}}
+    {{- if findRE `^</(pre|code|script|style)>` . 1 }}{{ $raw = false }}{{ end -}}
+    {{- $out = printf "%s%s" $out . -}}
+  {{- else if $raw -}}
+    {{- $out = printf "%s%s" $out . -}}
+  {{- else -}}
+    {{- $t := . -}}
+    {{- /* Twice: a match consumes the space before the next word, so "a v Praze" needs two passes. */ -}}
+    {{- range seq 2 -}}
+      {{- $t = replaceRE `(^|[\s\x{00A0}(„"';])([ksvzouaiKSVZOUAI]) +` "${1}${2}&nbsp;" $t -}}
+    {{- end -}}
+    {{- /* Lowercase only: "405. Byl" ends a sentence. Two letters: "čp. 156 v bytě" is not "156 v". */ -}}
+    {{- $t = replaceRE `(^|[^\d.,])(\d{1,3}\.?) +(\p{Ll}{2}|\d{1,2}\.)` "${1}${2}&nbsp;${3}" $t -}}
+    {{- $t = replaceRE (printf `(%s) +(\d)` $months) "${1}&nbsp;${2}" $t -}}
+    {{- $t = replaceRE `(^|[\s\x{00A0}(„])(čp|č|s|sl|fol|str|inv|sig|kart|r)\. +(\d)` "${1}${2}.&nbsp;${3}" $t -}}
+    {{- $t = replaceRE `(^|[\s\x{00A0}(„])(MUDr|MVDr|JUDr|PhDr|RNDr|ThDr|ThLic|Ing|Mgr|Bc|Dr|doc|prof|br|P|sv)\. +(\pL)` "${1}${2}.&nbsp;${3}" $t -}}
+    {{- $out = printf "%s%s" $out $t -}}
+  {{- end -}}
+{{- end -}}
+{{- return ($out | safeHTML) -}}

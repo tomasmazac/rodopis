@@ -13,9 +13,9 @@ mother: hd2jrj
 > [!WARNING] NEKOMPLETNÍ INFORMACE
 > Chybí matriční záznam o úmrtí nebo úmrtní list.
 
-**Josef Řezáč** byl synem [Františka Řezáče](rezac-frantisek-t29gsv.md) a Františky Hübnerové. Narodil se 7.&nbsp;července&nbsp;1881 v&nbsp;[Kosmonosích](https://cs.wikipedia.org/wiki/Kosmonosy) čp.&nbsp;59. [^1]
+**Josef Řezáč** byl synem [Františka Řezáče](rezac-frantisek-t29gsv.md) a Františky Hübnerové. Narodil se 7. července 1881 v [Kosmonosích](https://cs.wikipedia.org/wiki/Kosmonosy) čp. 59. [^1]
 
-Ve středu 6.&nbsp;července&nbsp;1904 se oženil s&nbsp;Vilemínou Šimonovou. [^2]
+Ve středu 6. července 1904 se oženil s Vilemínou Šimonovou. [^2]
 
 ## Zdroje
 

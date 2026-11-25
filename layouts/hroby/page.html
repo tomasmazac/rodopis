@@ -9,7 +9,7 @@
     <li>{{ partial "person-link.html" . | safeHTML }}</li>
     {{- end }}
   </ul>
-  {{ .Content }}
+  {{ partial "nbsp.html" .Content }}
 </article>
 <hr>
 {{ partial "footer.html" . }}
