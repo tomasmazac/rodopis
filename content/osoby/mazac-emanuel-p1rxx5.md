@@ -66,7 +66,7 @@ Koncem roku 1947 byl přeložen zpět do ústředí, kde 2. ledna 1948 nastoupil
 
 Jeho posledním trvalým bydlištěm byl byt v prvním patře na [Valdštejnově náměstí 163](https://goo.gl/maps/JFG8uP383vD2) na Praze 1 (tehdy Praha 3).
 
-Dne 7. března 1949 sepsal [svůj životopis](/zdroje/mazac-emanuel/cv.md). [^8] Za necelý týden, 13. března 1949 zemřel v důsledku otravy oxidem uhličitým (zřejmě tzv. svítiplynem). [^11] Bylo mu 53 let.
+Dne 7. března 1949 sepsal [svůj životopis](/zdroje/mazac-emanuel-p1rxx5/cv.md). [^8] Za necelý týden, 13. března 1949 zemřel v důsledku otravy oxidem uhličitým (zřejmě tzv. svítiplynem). [^11] Bylo mu 53 let.
 
 Zemřel svobodný a bezdětný.
 
@@ -85,7 +85,7 @@ Zemřel svobodný a bezdětný.
 [^5]: Legionářský poslužný spis
 [^6]: Italský klášter – zajatecký tábor pro legionáře za první světové války. *VHÚ Praha* \[online]. Praha: VHÚ Praha, 2014 \[cit. 2019-05-28]. Dostupné z: <http://www.vhu.cz/exhibit/italsky-klaster-zajatecky-tabor-pro-legionare-za-prvni-svetove-valky/>
 [^7]: Skromné počátky československých legií v Itálii. *VHÚ Praha* \[online]. Praha: VHÚ Praha, 2017 \[cit. 2019-05-28]. Dostupné z: <http://www.vhu.cz/skromne-pocatky-cs-legii-v-italii/>
-[^8]: [Životopis Emanuela Mazače](/zdroje/mazac-emanuel/cv.md)
+[^8]: [Životopis Emanuela Mazače](/zdroje/mazac-emanuel-p1rxx5/cv.md)
 [^9]: BAKEŠOVÁ, Ivana. *Legionáři v roli diplomatů: československo-čínské vztahy 1918-1949.* Praha: Filozofická fakulta Univerzity Karlovy, 2013. ISBN 978-80-7308-462-2.
 [^10]: MIŇOVSKÝ Stanislav. *Ministerstvo zahraničních věcí České republiky* \[online]. Praha: Ministerstvo zahraničních věcí České republiky \[cit. 2019-06-16]. Dostupné z: <https://mzv.gov.cz/jnp/cz/o_ministerstvu/struktura/utvary/specializovany_archiv_mzv/kdo_byl_kdo/minovsky_stanislav.html>
 [^11]: Matriční záznam o úmrtí

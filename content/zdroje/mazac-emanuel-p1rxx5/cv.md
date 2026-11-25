@@ -1,5 +1,7 @@
 ---
 title: Životopis Emanuela Mazače
+# The page was published under the folder name without the id.
+aliases: [/zdroje/mazac-emanuel/cv.html]
 ---
 
 # Životopis Emanuela Mazače
