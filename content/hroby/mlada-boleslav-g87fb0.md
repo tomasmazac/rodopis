@@ -10,7 +10,7 @@ people:
   - jaezyk
   - qy5xed
   - n7d0h3
-  - yect4x
+  - tajrax
   - dq97hc
   - b4tnmv
   - kt51n4
