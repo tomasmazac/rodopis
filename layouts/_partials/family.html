@@ -1,6 +1,7 @@
 {{- /*
   Parents, children and DNA come from front matter. They go where they used to be written
-  by hand: after the story, before the closing sections (Útržky, Jmenovec, Externí odkazy, Zdroje).
+  by hand: after the story, before the closing sections (Útržky, Jmenovec, Odkazy, Externí odkazy, Zdroje).
+  Graves go into the Odkazy list, which is created when the page has none.
 */ -}}
 {{- $page := .page -}}
 {{- $content := string .content -}}
@@ -95,14 +96,11 @@
 
 {{- $graves := slice -}}
 {{- range index $people.graves (string $page.Params.id) -}}
-  {{- $graves = $graves | append (printf `<a href="%s">%s</a> (%s, %s)` .RelPermalink (partial "grave-title.html" .) .Params.town .Params.country) -}}
-{{- end -}}
-{{- with $graves -}}
-  {{- $html = printf "%s<h2 id=\"hrob\">Hrob</h2>\n<ul>\n<li>%s</li>\n</ul>\n" $html (delimit . "</li>\n<li>") -}}
+  {{- $graves = $graves | append (printf `Hrob: <a href="%s">%s</a> (%s, %s)` .RelPermalink (partial "grave-title.html" .) .Params.town .Params.country) -}}
 {{- end -}}
 
 {{- with $html -}}
-  {{- $closing := `<h2 id="(?:útržky|jmenovec|externí-odkazy|zdroje)">` -}}
+  {{- $closing := `<h2 id="(?:útržky|jmenovec|odkazy|externí-odkazy|zdroje)">` -}}
   {{- if findRE $closing $content 1 -}}
     {{- $at := index (findRE $closing $content 1) 0 -}}
     {{- $content = replace $content $at (printf "%s%s" . $at) 1 -}}
@@ -110,6 +108,26 @@
     {{- $content = replace $content `<div class="footnotes"` (printf `%s<div class="footnotes"` .) 1 -}}
   {{- else -}}
     {{- $content = printf "%s%s" $content . -}}
+  {{- end -}}
+{{- end -}}
+
+{{- with $graves -}}
+  {{- $items := printf "<li>%s</li>\n" (delimit . "</li>\n<li>") -}}
+  {{- $list := findRE `<h2 id="odkazy">[^<]*</h2>\s*<ul>\n?` $content 1 -}}
+  {{- if $list -}}
+    {{- $at := index $list 0 -}}
+    {{- $content = replace $content $at (printf "%s%s" $at $items) 1 -}}
+  {{- else -}}
+    {{- $section := printf "<h2 id=\"odkazy\">Odkazy</h2>\n<ul>\n%s</ul>\n" $items -}}
+    {{- $closing := findRE `<h2 id="(?:externí-odkazy|zdroje)">` $content 1 -}}
+    {{- if $closing -}}
+      {{- $at := index $closing 0 -}}
+      {{- $content = replace $content $at (printf "%s%s" $section $at) 1 -}}
+    {{- else if strings.Contains $content `<div class="footnotes"` -}}
+      {{- $content = replace $content `<div class="footnotes"` (printf `%s<div class="footnotes"` $section) 1 -}}
+    {{- else -}}
+      {{- $content = printf "%s%s" $content $section -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
 {{- return ($content | safeHTML) -}}
