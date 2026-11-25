@@ -11,15 +11,11 @@ mtDna: H1c3
 ---
 # Marie Konaříková (roz. Šístková)
 
-> [!WARNING] NEKOMPLETNÍ INFORMACE
->
-> * Chybí matriční záznam o úmrtí nebo úmrtní list.
-
 **Marie Jana Konaříková** (roz. **Šístková**) byla nejstarší dcerou [Františka Šístka](sistek-frantisek-nyr37g.md) a [Marie Pavelkové](pavelkova-marie-ag201r.md). Narodila se 29. září 1897 v Praze čp. 1711/II. [^1][^2]
 
 {{< photo src="Photo1500246.jpg" alt="Sestry Marie a Anna Šístkovy (nedatováno)" size="md" >}}
 
-Po absolvování gymnázia na Královských Vinohradech začala počínaje zimním semestrem 1916/1917 studovat na Lékařské fakultě Univerzity Karlovy v Praze. V roce 1920 se provdala za [Ludvíka Konaříka](konarik-ludvik-n7d0h3.md), který kvůli sňatku opustil římskokatolickou církev. [?]
+Po absolvování gymnázia na Královských Vinohradech začala počínaje zimním semestrem 1916/1917 studovat na Lékařské fakultě Univerzity Karlovy v Praze. V roce 1920 se provdala za [Ludvíka Konaříka](konarik-ludvik-n7d0h3.md), který kvůli sňatku opustil římskokatolickou církev. [^4]
 
 {{< photo src="Photo1500316.jpg" alt="Ludvík a Marie Konaříkovi (1920)" size="lg" >}}
 
@@ -37,7 +33,7 @@ Promoce proběhla 8. července 1922 a jejím [promotorem](https://prirucka.ujc.c
 >
 > Máňa.
 
-[^4]
+[^5]
 
 ## Zdroje
 
@@ -45,3 +41,4 @@ Promoce proběhla 8. července 1922 a jejím [promotorem](https://prirucka.ujc.c
 [^2]: Křestní list
 [^3]: Archiv Univerzity Karlovy, fond Matriky Univerzity Karlovy, inventární číslo 5, Matrika doktorů Univerzity Karlovy V., strana 2093
 [^4]: Matriční záznam o sňatku – [AMHP, MAG O8 • 1920-1920, fol. 107](https://katalog.ahmp.cz/pragapublica/permalink?xid=6D33FBA99FCD4877A3ECE78258B87041&scan=112#scan112)
+[^5]: Matriční záznam o úmrtí – [SOA Praha, Český Brod-čs 03, fol. 44, č. 20](https://ebadatelna.soapraha.cz/d/16099/47)
