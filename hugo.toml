@@ -42,6 +42,8 @@ disableKinds = ["rss"]
   home = ["html", "redirects"]
 
 [params]
+  # Direct ancestors of these people get a mark in search.
+  rootIds = ["jaezyk", "kt51n4", "pcsdsy", "d06xhd"]
   description = "Životní osudy našich předků"
   logo = "deciduous-tree_1f333.png"
   repo = "https://github.com/tomasmazac/rodopis"

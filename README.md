@@ -85,12 +85,13 @@ draft: true         # stránka se negeneruje; odkazy na ni jsou jen text
 - V seznamech příbuzných se ukazuje rodné jméno (`firstName` + `surname`) a roky ze stránky příbuzného, ne titulek.
 - Haploskupina se zapisuje do `mtDna` / `yDna` u každé osoby, která ji má (mtDNA dědí všechny děti matky, Y-DNA synové otce). Nic se nedopočítává: osoba bez pole na stránce haploskupiny není. Kdo ji nezdědil (např. adopce), pole nemá.
 - Stránka haploskupiny řadí zapsané osoby do stromu podle `mother` (mtDNA) nebo `father` (Y-DNA). Osoba, jejíž matka/otec v seznamu chybí, začíná vlastní větev – to bývá místo, kde pole někomu chybí.
+- Ve vyhledávání má zelený puntík před jménem každý přímý předek osob z `rootIds` v `hugo.toml` (i ty osoby samy), dohledaný přes `father` / `mother`. Bez `rootIds` se značka nezobrazuje; neexistující id build zastaví.
 - `isGenerated: true` přidá upozornění „Vygenerovaná stránka“, skryje stránku před vyhledávači (`noindex`) a vynechá ji ze sitemapy.
 - Fotografie ze `static/images/`:
   `{{< photo src="soubor.jpg" alt="Popisek" size="md" >}}`
   (`size`: `sm` / `md` / `lg`). Na web se fotka zmenší na šířku max. 1480 px a převede do WebP (kvalita 85); originál zůstává na webu i v repozitáři beze změny. Chybějící fotka build zastaví.
-- Upozornění:
   Zdroj se v popisku cituje stejně jako v textu (`alt="Matriční záznam [^3]"`) a dostane stejné číslo. Musí být citovaný i v textu, jinak build skončí chybou.
+- Upozornění:
 
   ```markdown
   > [!WARNING] NEKOMPLETNÍ INFORMACE

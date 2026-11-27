@@ -198,3 +198,5 @@ sup:has(> .footnote-ref) { vertical-align: baseline; font-size: inherit; }
 }
 
 .breadcrumbs { margin-bottom: 1rem; color: var(--muted); font-size: 0.9rem; }
+.suggestions .mark { display: inline-block; width: 1em; }
+.suggestions .ancestor::before { content: ""; display: inline-block; width: 0.45em; height: 0.45em; border-radius: 50%; background: var(--accent); vertical-align: 0.1em; }

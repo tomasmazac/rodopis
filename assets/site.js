@@ -28,13 +28,26 @@
   const lifespan = (i) => (i.b || i.d ? `${i.b || "?"}–${i.d || "?"}` : "");
 
   const render = () => {
+    const anyMarked = results.some((r) => r.a);
     list.replaceChildren(
       ...results.map((r, i) => {
         const li = document.createElement("li");
         li.classList.toggle("focused", i === focused);
         const a = document.createElement("a");
         a.href = r.u;
-        a.textContent = r.t;
+        // Every row gets the same slot, so names line up to the pixel in every browser.
+        if (anyMarked) {
+          const s = document.createElement("span");
+          s.className = "mark";
+          if (r.a) {
+            s.classList.add("ancestor");
+            s.title = "Přímý předek";
+            s.setAttribute("role", "img");
+            s.setAttribute("aria-label", "přímý předek");
+          }
+          a.append(s);
+        }
+        a.append(r.t);
         const span = lifespan(r);
         if (span) {
           const s = document.createElement("span");

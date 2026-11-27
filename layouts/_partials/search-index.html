@@ -1,7 +1,30 @@
 {{- /* A script rather than JSON: browsers refuse fetch() on pages opened from disk. */ -}}
+{{- $byId := (partialCached "people.html" true).byId -}}
+{{- /* Direct ancestors of params.rootIds (and those people themselves), found through father/mother. */ -}}
+{{- $ancestors := dict -}}
+{{- $frontier := slice -}}
+{{- range site.Params.rootIds -}}
+  {{- if not (index $byId (string .)) }}{{ errorf "hugo.toml: rootIds obsahuje %q, ale osoba s tímto id není" . }}{{ end -}}
+  {{- $frontier = $frontier | append (string .) -}}
+{{- end -}}
+{{- range seq 100 -}}
+  {{- $next := slice -}}
+  {{- range $frontier -}}
+    {{- with index $byId . -}}
+      {{- if not (index $ancestors (string .Params.id)) -}}
+        {{- $ancestors = merge $ancestors (dict (string .Params.id) true) -}}
+        {{- with .Params.father }}{{ $next = $next | append (string .) }}{{ end -}}
+        {{- with .Params.mother }}{{ $next = $next | append (string .) }}{{ end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $frontier = $next -}}
+{{- end -}}
 {{- $index := slice -}}
 {{- range site.RegularPages -}}
-  {{- $index = $index | append (dict "t" (cond (eq .Section "hroby") (printf "Hrob: %s, %s" (partial "grave-title.html" .) .Params.town) .Title) "b" .Params.birth "d" .Params.death "u" (strings.TrimPrefix "/" .RelPermalink)) -}}
+  {{- $item := dict "t" (cond (eq .Section "hroby") (printf "Hrob: %s, %s" (partial "grave-title.html" .) .Params.town) .Title) "b" .Params.birth "d" .Params.death "u" (strings.TrimPrefix "/" .RelPermalink) -}}
+  {{- if and (eq .Section "osoby") (index $ancestors (string .Params.id)) }}{{ $item = merge $item (dict "a" 1) }}{{ end -}}
+  {{- $index = $index | append $item -}}
 {{- end -}}
 {{- $js := printf "window.searchIndex=%s;" (jsonify $index) -}}
 {{- $res := resources.FromString "search-index.js" $js | fingerprint -}}
