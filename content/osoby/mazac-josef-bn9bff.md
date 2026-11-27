@@ -28,13 +28,13 @@ Dne 9. září 1869 dosáhl tzv. normálního věku, v tu chvíli končila péč
 
 28. září 1884 se oženil s [Marií Škobisovou](skobisova-marie-q0r7kx.md). Svatební obřad proběhl v [kostele sv. Mikuláše ve Vršovicích](https://cs.wikipedia.org/wiki/Kostel_svatého_Mikuláše_(Vršovice)). 29. prosince 1884 (tj. čtyři měsíce po svatbě) se jim narodil syn [Karel](mazac-karel-tprdy7.md). [^4]
 
-{{< photo src="00000384-00000195.jpg" alt="Pobytová přihláška pražského policejního ředitelství \[5]" >}}
+{{< photo src="00000384-00000195.jpg" alt="Pobytová přihláška pražského policejního ředitelství [^2]" >}}
 
 Josef pracoval jako zahradnický dělník. [^4] Rodina postupně pobývala v domech č. 1516, 1497 a 1459 na [Novém Městě](https://cs.wikipedia.org/wiki/Nov%C3%A9_M%C4%9Bsto_(Praha)). [^2] Později se však přestěhovala do [České Kamenice](https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%A1_Kamenice), konkrétně do Horní Kamenice čp. 128. V místě nového bydliště byl zaměstnán v papírenské firmě Ignac Fuchs jako zahradník a později jako tovární vrátný. [^5]
 
 V Horní Kamenici se mu dále narodili děti Josef (umírá ve dvou letech), [Jan](mazac-jan-dq97hc.md), Marie, Marta, [Emanuel](mazac-emanuel-p1rxx5.md), František a druhý Josef (po deseti dnech po narození taktéž umírá).
 
-{{< photo src="ceska-kamenice-papirny-veduta.jpg" alt="Česko-kamenické papírny na dobové vedutě \[10]" >}}
+{{< photo src="ceska-kamenice-papirny-veduta.jpg" alt="Česko-kamenické papírny na dobové vedutě [^6]" >}}
 
 V prosinci 1898 umřela na zápal plic jeho žena Marie. [^7] 38letý vdovec si ale už 17. dubna 1899 vzal za ženu vdovu Bohumilu Šimůnkovou. Spolu měli postupně ještě děti [Bohumilu](mazacova-bohumila-crnw08.md) a [Aloise](mazac-alois-zxwdsz.md).
 

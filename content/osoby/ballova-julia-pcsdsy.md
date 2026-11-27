@@ -24,7 +24,7 @@ mtDna: W6an
 
 V sobotu 15. listopadu 1958 se provdala za [Františka Réckého](recky-frantisek-d06xhd.md). Sňatek se konal v římskokatolickém kostele na Veľkém Lapáši (pravděpodobně farní kostel Nepoškvrneného počatia Panny Márie). [^1]
 
-{{< photo src="Sken_42.jpeg" alt="Oznámení o sňatku Františka Réckého a Júlie Ballové \[1]" size="lg" >}}
+{{< photo src="Sken_42.jpeg" alt="Oznámení o sňatku Františka Réckého a Júlie Ballové [^1]" size="lg" >}}
 
 {{< photo src="Photo1500001.jpg" alt="Júlia Récka (nedatováno)" size="md" >}}
 

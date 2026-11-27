@@ -1,11 +1,39 @@
 {{- $alt := .Get "alt" -}}
 {{- $src := .Get "src" -}}
+{{- /*
+  A caption is rendered on its own, without the page's footnote definitions, so [^x] would stay
+  literal text. Goldmark numbers footnotes by their first citation in the text (shortcodes are not
+  part of it), so the caption takes its numbers from that order.
+*/ -}}
+{{- $order := slice -}}
+{{- range findRESubmatch `\[\^([^\]]+)\](:?)` (replaceRE `(?s)\{\{[<%].*?[>%]\}\}` "" $.Page.RawContent) -}}
+  {{- if and (eq (index . 2) "") (not (in $order (index . 1))) }}{{ $order = $order | append (index . 1) }}{{ end -}}
+{{- end -}}
+{{- $caption := $alt | replaceRE `\[\^([^\]]+)\]` "@@cite:$1@@" | $.Page.RenderString | string -}}
+{{- range findRE `@@cite:[^@]+@@(?:\s*@@cite:[^@]+@@)*` $caption -}}
+  {{- $group := . -}}
+  {{- $nums := slice -}}
+  {{- range findRESubmatch `@@cite:([^@]+)@@` $group -}}
+    {{- $label := index . 1 -}}
+    {{- $n := 0 -}}
+    {{- range $i, $l := $order }}{{ if eq $l $label }}{{ $n = add $i 1 }}{{ end }}{{ end -}}
+    {{- if eq $n 0 -}}
+      {{- errorf "%s: zdroj [^%s] z popisku fotky není citovaný v textu stránky, Hugo by ho nezobrazil" $.Position $label -}}
+    {{- end -}}
+    {{- $nums = $nums | append $n -}}
+  {{- end -}}
+  {{- $links := slice -}}
+  {{- range sort (uniq $nums) -}}
+    {{- $links = $links | append (printf `<a href="#fn:%d" class="citation-ref" role="doc-noteref">%d</a>` . .) -}}
+  {{- end -}}
+  {{- $caption = replace $caption $group (printf `<span class="citation">[%s]</span>` (delimit $links ", ")) 1 -}}
+{{- end -}}
 {{- with resources.Get (printf "images/%s" $src) -}}
 {{- /* 1480 px is twice the content width, sharp on high-density screens. */}}
 {{- $img := .Resize (printf "%dx webp" (cond (gt .Width 1480) 1480 .Width)) -}}
 <figure>
-  <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $alt | $.Page.RenderString | plainify }}" class="{{ $.Get "size" | default "lg" }}" loading="lazy">
-  <figcaption>{{ $alt | $.Page.RenderString }}</figcaption>
+  <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $alt | replaceRE `\s*\[\^[^\]]+\]` "" | $.Page.RenderString | plainify }}" class="{{ $.Get "size" | default "lg" }}" loading="lazy">
+  <figcaption>{{ $caption | safeHTML }}</figcaption>
 </figure>
 {{- else -}}
 {{- errorf "%s: fotografie %q není ve static/images" $.Position $src -}}

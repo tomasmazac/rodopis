@@ -25,9 +25,9 @@ Později byl úředníkem [Místního národního výboru](https://cs.wikipedia.
 
 V pondělí 18. srpna 1952 ho v 6.45 *„na ulici před okresním soudem“* v Mladé Boleslavi postihlo mozkové krvácení, v jehož důsledku zemřel. [^3] Bylo mu 67 let (na smutečním oznámení [^2] je špatně uvedený věk).
 
-{{< photo src="IMG_20181120_092618_HDR-nahled.jpg" alt="Matriční záznam o úmrtí (levá strana) \[4]" >}}
+{{< photo src="IMG_20181120_092618_HDR-nahled.jpg" alt="Matriční záznam o úmrtí (levá strana) [^3]" >}}
 
-{{< photo src="IMG_20181120_092833_HDR-nahled.jpg" alt="Matriční záznam o úmrtí (pravá strana) \[4]" >}}
+{{< photo src="IMG_20181120_092833_HDR-nahled.jpg" alt="Matriční záznam o úmrtí (pravá strana) [^3]" >}}
 
 Ve středu 20. srpna v 16.00 byl po církevních obřadech pochován na Novém hřbitově v Mladé Boleslavi na hřbitovních místech s označením `XV.–107,108`, kde byla později pohřbena i jeho žena Marie. V roce 2004 ale příbuzní urnu s Marií přesunuli do Teplic a rakev s ostatky Karla Mazače zůstala v neoznačeném hrobě. [^4]
 

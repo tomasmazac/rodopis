@@ -90,6 +90,7 @@ draft: true         # stránka se negeneruje; odkazy na ni jsou jen text
   `{{< photo src="soubor.jpg" alt="Popisek" size="md" >}}`
   (`size`: `sm` / `md` / `lg`). Na web se fotka zmenší na šířku max. 1480 px a převede do WebP (kvalita 85); originál zůstává na webu i v repozitáři beze změny. Chybějící fotka build zastaví.
 - Upozornění:
+  Zdroj se v popisku cituje stejně jako v textu (`alt="Matriční záznam [^3]"`) a dostane stejné číslo. Musí být citovaný i v textu, jinak build skončí chybou.
 
   ```markdown
   > [!WARNING] NEKOMPLETNÍ INFORMACE
